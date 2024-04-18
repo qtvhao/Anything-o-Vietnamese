@@ -14,7 +14,7 @@
 ## PUBLIC ACCOUNTING
 
 Chào mừng các sếp đến với video của em về "kế toán công cộng" (public accounting), nơi chúng ta sẽ khám phá thế giới của "chuyên môn tài chính" (financial expertise) và "phân tích" (analysis). Trong video này, em sẽ khám phá các khái niệm cơ bản về kế toán công cộng, tầm quan trọng của nó trong "cảnh quan kinh doanh" (business landscape) ngày nay, và vai trò của một "kế toán công cộng" (public accountant). Vậy, chúng ta bắt đầu thôi!
-![PUBLIC ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition-53385005671-Montserrat-Thin-880E4F.jpg)
+![PUBLIC ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition-53385005671-Montserrat-Thin-303F9F.jpg)
 [Listen to the audio](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-2247520458.mp3)
 
 
@@ -22,7 +22,7 @@ Chào mừng các sếp đến với video của em về "kế toán công cộn
 ## PUBLIC ACCOUNTING
 
 "Kế toán công cộng" (public accounting) đề cập đến lĩnh vực kế toán liên quan đến việc cung cấp "dịch vụ tài chính" (financial services) cho "doanh nghiệp" (businesses), "cơ quan chính phủ" (government entities) và "cá nhân" (individuals). Nó bao gồm một loạt các hoạt động, bao gồm "kiểm toán" (auditing), "chuẩn bị thuế" (tax preparation), "lập kế hoạch tài chính" (financial planning) và "tư vấn" (consulting). Kế toán công cộng đóng vai trò quan trọng trong đảm bảo "độ chính xác" (accuracy) và "sự minh bạch" (transparency) của "thông tin tài chính" (financial information), điều này rất quan trọng để đưa ra quyết định kinh doanh thông minh.
-![PUBLIC ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition-20828302445-Montserrat-Regular-283593.jpg)
+![PUBLIC ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition-20828302445-Montserrat-ExtraBold-9C27B0.jpg)
 [Listen to the audio](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-26741161966.mp3)
 
 
@@ -30,7 +30,7 @@ Chào mừng các sếp đến với video của em về "kế toán công cộn
 ## AUDITING
 
 Một trong những trách nhiệm chính của "kế toán công cộng" (public accountants) là "kiểm toán" (auditing). Họ xem xét "hồ sơ tài chính" (financial records), "báo cáo" (statements) và "giao dịch" (transactions) để "xác minh" (verify) tính "chính xác" (accuracy) và "tuân thủ" (compliance) của chúng với "luật pháp liên quan" (relevant laws) và "quy định" (regulations). Kiểm toán giúp duy trì "tính toàn vẹn" (integrity) của "thông tin tài chính" (financial information) và cung cấp "đảm bảo" (assurance) cho "các bên liên quan" (stakeholders), như "nhà đầu tư" (investors) và "người cho vay" (creditors), rằng "báo cáo tài chính" (financial statements) là đáng tin cậy.
-![AUDITING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition-21641353111-Montserrat-Thin-9C27B0.jpg)
+![AUDITING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition-21641353111-Montserrat-Black-4A148C.jpg)
 [Listen to the audio](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-19270096468.mp3)
 
 
@@ -38,7 +38,7 @@ Một trong những trách nhiệm chính của "kế toán công cộng" (publi
 ## TAX PREPARATION
 
 Một khía cạnh quan trọng khác của "kế toán công cộng" là "chuẩn bị thuế". Các kế toán công cộng hỗ trợ cá nhân và doanh nghiệp trong việc thực hiện "nghĩa vụ thuế" của họ bằng cách chuẩn bị "báo cáo thuế", xác định cơ hội tiết kiệm thuế và đảm bảo tuân thủ luật thuế. Hiểu biết của họ về các "quy định thuế" và "khấu trừ" giúp khách hàng tối ưu hóa "chiến lược thuế" của họ và giảm thiểu nghĩa vụ thuế của họ.
-![TAX PREPARATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition--27926046870-Montserrat-ExtraBold-1A237E.jpg)
+![TAX PREPARATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition--27926046870-Montserrat-Thin-673AB7.jpg)
 [Listen to the audio](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-37706590488.mp3)
 
 
@@ -46,7 +46,7 @@ Một khía cạnh quan trọng khác của "kế toán công cộng" là "chu�
 ## FINANCIAL PLANNING
 
 Ngoài việc kiểm toán và chuẩn bị thuế, các kế toán công cộng cũng cung cấp các dịch vụ "lập kế hoạch tài chính" (financial planning) và "tư vấn" (consulting services) có giá trị. Họ giúp cá nhân và doanh nghiệp phát triển kế hoạch tài chính toàn diện, quản lý ngân sách của họ và đưa ra các quyết định tài chính chiến lược. Kế toán công cộng phân tích "dữ liệu tài chính" (financial data), nhận biết "xu hướng" (trends) và đưa ra "cái nhìn" (insights) và đề xuất nhằm cải thiện "hiệu suất tài chính" (financial performance) và đạt được mục tiêu dài hạn.
-![FINANCIAL PLANNING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition--14804916349-Montserrat-SemiBold-004895.jpg)
+![FINANCIAL PLANNING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition--14804916349-Montserrat-Regular-4A148C.jpg)
 [Listen to the audio](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-19898243361.mp3)
 
 
@@ -54,7 +54,7 @@ Ngoài việc kiểm toán và chuẩn bị thuế, các kế toán công cộng
 ## PUBLIC ACCOUNTING
 
 "Kế toán công cộng" (public accounting) đóng vai trò vô cùng quan trọng trong cảnh quan kinh doanh ngày nay. Với sự phức tạp ngày càng tăng của "quy định tài chính" (financial regulations), nhu cầu về các kế toán công cộng có kỹ năng cao cao hơn bao giờ hết. Chuyên môn của họ là rất quan trọng trong việc duy trì "báo cáo tài chính" (financial reporting) chính xác, đảm bảo tuân thủ "luật pháp và quy định" (laws and regulations), và thúc đẩy "sự minh bạch" (transparency) và "niềm tin" (trust) trong cộng đồng kinh doanh.
-![PUBLIC ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition-32354139619-Montserrat-Medium-880E4F.jpg)
+![PUBLIC ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition-32354139619-Montserrat-Bold-673AB7.jpg)
 [Listen to the audio](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-5076730458.mp3)
 
 
@@ -62,7 +62,7 @@ Ngoài việc kiểm toán và chuẩn bị thuế, các kế toán công cộng
 ## PUBLIC ACCOUNTANT
 
 Để trở thành một "kế toán công cộng" (public accountant), thông thường người ta cần có bằng "cử nhân" (bachelor's degree) chuyên ngành "kế toán" (accounting) hoặc các "ngành liên quan" (related field). Nhiều người muốn trở thành kế toán cũng theo đuổi các chứng chỉ nghề nghiệp như kế toán công chứng (cpa) hoặc kế toán viên chứng chỉ (ca) để nâng cao trình độ và cơ hội nghề nghiệp. Những chứng chỉ này yêu cầu vượt qua các "kỳ thi khắt khe" (rigorous exams) và đáp ứng các yêu cầu kinh nghiệm cụ thể..
-![PUBLIC ACCOUNTANT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition-3163043176-Montserrat-Medium-9C27B0.jpg)
+![PUBLIC ACCOUNTANT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition-3163043176-Montserrat-Regular-673AB7.jpg)
 [Listen to the audio](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-15005095353.mp3)
 
 
@@ -70,7 +70,7 @@ Ngoài việc kiểm toán và chuẩn bị thuế, các kế toán công cộng
 ## FINANCIAL SERVICES
 
 Kết luận, "kế toán công cộng" đóng vai trò vô cùng quan trọng trong thế giới kinh doanh bằng cách cung cấp các "dịch vụ tài chính" thiết yếu, bao gồm "kiểm toán", "chuẩn bị thuế" và "lập kế hoạch tài chính". Các kế toán công cộng là những "chuyên gia đáng tin cậy" đảm bảo tính chính xác và minh bạch của "thông tin tài chính", góp phần vào sự thành công và ổn định chung của các doanh nghiệp và cá nhân. Nếu bạn quan tâm đến một "sự nghiệp trong lĩnh vực tài chính" và đam mê với con số, kế toán công cộng có thể là con đường phù hợp cho bạn.
-![FINANCIAL SERVICES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition--40359294468-Montserrat-Black-4A148C.jpg)
+![FINANCIAL SERVICES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition--40359294468-Montserrat-SemiBold-4A148C.jpg)
 [Listen to the audio](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-5433924322.mp3)
 
 
@@ -78,6 +78,6 @@ Kết luận, "kế toán công cộng" đóng vai trò vô cùng quan trọng t
 ## ACCOUNTING
 
 Cảm ơn các sếp đã tham gia cùng em trong cuộc khám phá về "kế toán công cộng" (public accounting). Em hy vọng video này đã mang đến những hiểu biết quý giá về tầm quan trọng và "phạm vi của lĩnh vực này" (scope of this field). Nếu các sếp có bất kỳ câu hỏi nào hoặc muốn tìm hiểu thêm, xin vui lòng để lại bình luận ở phía dưới. Theo sếp thì khía cạnh nào trong kế toán công cộng là thú vị và quan trọng nhất? Hãy chia sẻ ý kiến của sếp xuống phía bên dưới để giúp em cũng như các bạn khác có thêm những thông tin thú vị. Còn bây giờ thì xin chào và hẹn gặp lại các sếp ở những video tiếp theo. Đừng quên like, chia sẻ và đăng ký kênh để ủng hộ bọn em.
-![ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition-959209698-Montserrat-ExtraBold-303F9F.jpg)
+![ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition-959209698-Montserrat-ExtraBold-512DA8.jpg)
 [Listen to the audio](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-24660303960.mp3)
 
