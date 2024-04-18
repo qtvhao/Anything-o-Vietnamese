@@ -1,7 +1,7 @@
 
 # docs
 
-- [Accounting](./Accounting)
+- Accounting
   - [Accounting-Outsourcing.md](./Accounting/Accounting-Outsourcing.md)
   - [Accounting-Policy.md](./Accounting/Accounting-Policy.md)
   - [Accounting-Processes.md](./Accounting/Accounting-Processes.md)

@@ -1,7 +1,7 @@
 
 # Homepage
 
-- [docs](./)
+- docs
   - [Accounting](./Accounting)
     - [Accounting-Outsourcing.md](./Accounting/Accounting-Outsourcing.md)
     - [Accounting-Policy.md](./Accounting/Accounting-Policy.md)
