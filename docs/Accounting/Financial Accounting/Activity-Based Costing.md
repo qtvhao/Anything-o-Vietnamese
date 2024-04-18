@@ -1,0 +1,91 @@
+
+---
+
+# Activity-Based Costing: Khai phá Sức mạnh của Phân bổ Chi phí Chính xác và Quyết định Kinh doanh thông minh!
+
+- Published: April 18, 2024
+- Author: Vietnamese Online Voice
+- Categories: Accounting / **Financial Accounting**
+- #ABC #CostAllocation #BusinessDecisions #CostAccounting #ResourceConsumption #CostDrivers #CostAnalysis #InformedDecisions #AccountingTechnique #CostManagement #PreciseCosting #OrganizationalCosts #ProcessImprovement #StrategicChoices #DataDriven #AccountingSystems #CostManagementAnalysis #BetterResourceAllocation #ImprovedAccuracy #CostManagementStrategies #FinancialManagement #BusinessProcesses #CostManagementTools #DecisionSupportSystems #ManagementAccounting #CostManagementFramework #CostingMethodologies #ActivityCosting #CostManagementApproaches
+
+"Trong video này, em sẽ giới thiệu về Phương pháp Tính giá dựa trên Hoạt động. Trong video này, em sẽ giới thiệu về Phương pháp Tính giá dựa trên Hoạt động, một phương pháp được sử dụng bởi nhiều tổ chức để phân bổ chi phí một cách chính xác hơn và đưa ra quyết định kinh doanh có căn cứ. Trước khi chúng ta đi vào chi tiết, hãy hiểu rõ về Tính giá dựa trên Hoạt động, hay còn gọi là ABC, nghĩa là gì. ABC là một kỹ thuật kế toán gán chi phí cho các hoạt động cụ thể dựa trên việc tiêu thụ tài nguyên. Nó nhận ra rằng không phải tất cả các hoạt động tiêu thụ tài nguyên theo cùng một cách và nhằm cung cấp một bức tranh chi phí chính xác hơn. Phương pháp tính giá truyền thống thường dựa vào các cơ sở phân bổ tùy ý, chẳng hạn như số giờ lao động trực tiếp hoặc số giờ máy. Tuy nhiên, các phương pháp này có thể không chính xác ghi nhận các yếu tố thúc đẩy chi phí thực sự của các hoạt động khác nhau. Đó chính là lúc ABC xuất hiện. Các sếp có thể xem video hướng dẫn chi tiết ở phía dưới nhé."
+
+
+## ALLOCATE COSTS
+
+Chào mừng các sếp đến với video của em về "activity-based costing" (activity-based costing). Trong video này, em sẽ khám phá khái niệm về activity-based costing, một phương pháp được sử dụng bởi nhiều tổ chức để "phân bổ chi phí" (allocate costs) một cách chính xác hơn và đưa ra quyết định kinh doanh có căn cứ.
+![ALLOCATE COSTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition--17654411589-Montserrat-Thin-7B1FA2.jpg)
+![ALLOCATE COSTS](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-23825035388.mp3)
+
+
+
+## COST ALLOCATION
+
+Trước khi chúng ta đi vào chi tiết, hãy hiểu rõ ý nghĩa thực sự của phương pháp phân bổ chi phí dựa trên hoạt động, hay còn gọi là ABC. ABC là một kỹ thuật kế toán gán chi phí cho "các hoạt động cụ thể" dựa trên việc tiêu thụ "tài nguyên". Nó nhận ra rằng không phải tất cả các hoạt động tiêu thụ tài nguyên theo cùng một cách và nhằm cung cấp một hình ảnh phân bổ chi phí "chính xác hơn".
+![COST ALLOCATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition--1254743365-Montserrat-Bold-512DA8.jpg)
+![COST ALLOCATION](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-24714198329.mp3)
+
+
+
+## ACTIVITY-BASED COSTING
+
+Phương pháp phân bổ chi phí truyền thống thường dựa vào cơ sở phân bổ tùy ý, chẳng hạn như "giờ lao động trực tiếp" (direct labor hours) hoặc "giờ máy" (machine hours). Tuy nhiên, những phương pháp này có thể không chính xác trong việc thu thập các "yếu tố chi phí thực sự" (true cost drivers) của các "hoạt động" (activities) khác nhau. Đây là lúc ABC trở nên quan trọng..
+![ACTIVITY-BASED COSTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition--20813630555-Montserrat-Bold-880E4F.jpg)
+![ACTIVITY-BASED COSTING](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-32653602277.mp3)
+
+
+
+## ALLOCATING COSTS
+
+phân bổ chi phí theo hoạt động tập trung vào việc xác định "các hoạt động" (activities) gây ra "chi phí" (costs) trong một "tổ chức" (organization). Điều này liên quan đến việc phân tích "quy trình" (processes) thành các hoạt động cụ thể và sau đó "phân bổ chi phí" (allocating costs) dựa trên "tài nguyên" (resources) "tiêu thụ" (consumed) bởi mỗi hoạt động. Nhờ làm như vậy, phương pháp phân bổ chi phí dựa trên hoạt động cung cấp một hiểu biết chính xác hơn về các chi phí liên quan đến việc sản xuất "hàng hóa" (goods) hoặc "cung cấp dịch vụ" (providing services).
+![ALLOCATING COSTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition--5083311270-Montserrat-SemiBold-673AB7.jpg)
+![ALLOCATING COSTS](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-16207854032.mp3)
+
+
+
+## ACTIVITIES
+
+Đoạn thứ năm là: Quá trình ABC (abc process) thông thường bao gồm một số bước. Đầu tiên, tổ chức xác định "các hoạt động chính" (major activities) của mình, chẳng hạn như thiết lập, "xử lý vật liệu" (material handling) hoặc "kiểm soát chất lượng" (quality control). Sau đó, mỗi hoạt động được phân tích để xác định "các nguồn lực" (resources) cần thiết, chẳng hạn như "lao động" (labor), "thiết bị" (equipment) hoặc tiện ích..
+![ACTIVITIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition-13693966012-Montserrat-Medium-283593.jpg)
+![ACTIVITIES](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-21196488455.mp3)
+
+
+
+## ACTIVITY BASED COSTING
+
+Đoạn thứ sáu là: Sau khi xác định các nguồn lực, bước tiếp theo là phân bổ chi phí cho những hoạt động đó. Điều này có thể được thực hiện bằng cách phân tích "hồ sơ chi phí" (cost records), tiến hành phỏng vấn nhân viên, hoặc sử dụng các "phương pháp thu thập dữ liệu" (data collection methods) khác. Mục tiêu là phân bổ chi phí một cách chính xác cho từng hoạt động dựa trên việc tiêu thụ nguồn lực của nó.
+![ACTIVITY BASED COSTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition--38872556457-Montserrat-Thin-7B1FA2.jpg)
+![ACTIVITY BASED COSTING](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-1726594785.mp3)
+
+
+
+## COST DRIVERS
+
+Đoạn thứ bảy là: saukhi "chi phí" (costs) được gán cho các "hoạt động" (cost drivers), tổ chức sẽ gán "các trình điều khiển chi phí" (cost drivers) để đo lường tiêu thụ của "tài nguyên" (resources) bởi mỗi hoạt động. Các trình điều khiển chi phí có thể là các yếu tố như "giờ máy" (machine hours), số lượng "thiết lập" (setups), hoặc thậm chí độ phức tạp của một sản phẩm. Những trình điều khiển chi phí này giúp liên kết các hoạt động với "chi phí phát sinh" (costs incurred) của tổ chức.
+![COST DRIVERS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition--34430348940-Montserrat-Thin-512DA8.jpg)
+![COST DRIVERS](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-31053604731.mp3)
+
+
+
+## COST PER UNIT
+
+Với việc đã phân bổ chi phí và xác định "các trình điều khiển chi phí" (cost drivers), bước cuối cùng là tính toán "chi phí cho mỗi đơn vị" (cost per unit) của "sản phẩm hoặc dịch vụ" (product or service). Điều này cung cấp thông tin quý giá cho việc ra quyết định, như định giá, sự kết hợp sản phẩm, hoặc "cải tiến quy trình" (process improvement). Bằng cách hiểu rõ các chi phí thực sự của các hoạt động, "tổ chức" (organizations) có thể đưa ra lựa chọn thông minh và chiến lược hơn.
+![COST PER UNIT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition-20717323252-Montserrat-SemiBold-303F9F.jpg)
+![COST PER UNIT](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-3889340285.mp3)
+
+
+
+## COST ACCOUNTING
+
+Đoạn thứ chín là: Đáng lưu ý rằng "triển khai" (implementing) "abc" (abc) đòi hỏi "kế hoạch cẩn thận" (careful planning) và "thu thập dữ liệu" (data collection) một cách cẩn trọng. Nó có thể đòi hỏi "thay đổi" (changes) đối với "hệ thống kế toán" (accounting systems) và "quy trình" (processes) hiện có. Tuy nhiên, lợi ích của abc có thể rất đáng kể, bao gồm "độ chính xác chi phí cải thiện" (improved cost accuracy), phân bổ tài nguyên tốt hơn và khả năng ra quyết định nâng cao.
+![COST ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition--29902255880-Montserrat-Black-1A237E.jpg)
+![COST ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-35576896413.mp3)
+
+
+
+## COST DRIVERS
+
+Đoạn thứ mười là: Tóm lại, phương pháp phân bổ chi phí dựa trên hoạt động là một công cụ mạnh mẽ giúp các tổ chức có được sự hiểu biết sâu hơn về "chi phí" (costs) của mình và đưa ra quyết định kinh doanh thông minh hơn. Bằng cách "phân bổ chi phí" (allocating costs) một cách chính xác cho "các hoạt động" (activities) và liên kết chúng với "các trình điều khiển chi phí" (cost drivers), ABC cung cấp "cái nhìn quý giá" (valuable insights) về trình điều khiển chi phí và cho phép tổ chức tối ưu hóa "quy trình" (processes) và tài nguyên của mình một cách hiệu quả. Theo sếp thì...? Hãy chia sẻ ý kiến của sếp xuống phía bên dưới để giúp em cũng như các bạn khác có thêm những thông tin thú vị. Còn bây giờ thì xin chào và hẹn gặp lại các sếp ở những video tiếp theo. Đừng quên like, chia sẻ và đăng ký kênh để ủng hộ bọn em.
+![COST DRIVERS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-18/transition--1074798823-Montserrat-SemiBold-283593.jpg)
+![COST DRIVERS](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-5568004478.mp3)
+
