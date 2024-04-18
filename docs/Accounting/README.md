@@ -8,6 +8,7 @@
   - [Accounting-Systems.md](./Accounting/Accounting-Systems.md)
   - [Accounting-Theory.md](./Accounting/Accounting-Theory.md)
   - [Budgeting.md](./Accounting/Budgeting.md)
+  - [Corporate-Governance.md](./Accounting/Corporate-Governance.md)
   - [Cost-Accounting.md](./Accounting/Cost-Accounting.md)
   - [External-Auditing.md](./Accounting/External-Auditing.md)
   - [Financial-Accounting](./Accounting/Financial-Accounting)
