@@ -3,6 +3,7 @@
 
 - [docs](./)
   - [Accounting](./Accounting)
+    - [Accounting-Policy.md](./Accounting/Accounting-Policy.md)
     - [Accounting-Systems.md](./Accounting/Accounting-Systems.md)
     - [Accounting-Theory.md](./Accounting/Accounting-Theory.md)
     - [Budgeting.md](./Accounting/Budgeting.md)
