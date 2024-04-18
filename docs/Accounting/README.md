@@ -12,7 +12,7 @@
   - [Corporate-Governance.md](./Corporate-Governance.md)
   - [Cost-Accounting.md](./Cost-Accounting.md)
   - [External-Auditing.md](./External-Auditing.md)
-  - [Financial-Accounting](./Financial-Accounting/README.md)
+  - [Financial-Accounting](./Financial-Accounting/)
     - [International-Accounting.md](./International-Accounting.md)
   - [Financial-Accounting.md](./Financial-Accounting.md)
   - [Governmental-Accounting.md](./Governmental-Accounting.md)
