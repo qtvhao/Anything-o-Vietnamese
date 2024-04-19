@@ -1,0 +1,91 @@
+
+---
+
+# Khám phá bí mật kế toán tài chính: Hướng dẫn toàn diện để hiểu ngôn ngữ kinh doanh
+
+- Published: April 19, 2024
+- Author: Vietnamese Online Voice
+- Categories: **Accounting**
+- #AccountingConcepts #DoubleEntryBookkeeping #AccountingPrinciples #AccrualBasisAccounting #FinancialStatements #BalanceSheet #IncomeStatement #CashFlowStatement #GAAP #IFRS #Investors #Creditors #RegulatoryAuthorities #FinancialManagement #FinancialReporting #AccountingStandards #AccountingRegulations #BusinessManagement #Finance #FinancialTransactions #Equity #Assets #Liabilities #FinancialPerformance #FinancialPosition #Stakeholders #FinancialAnalysis #FinancialReportingStandards #AccountingUpdates #AccountingChanges #ProfessionalDevelopment #FinanceEducation #BusinessFinance #AccountingAndFinance
+
+"In this video, I will introduce you to the topic of 'Financial Accounting.' Get ready to explore the fundamental concepts and principles that form the basis of financial accounting, equipping you with the necessary knowledge to navigate the world of finance. Financial accounting plays a crucial role in business management and reporting, involving the organized recording, summarizing, and communication of an organization's financial transactions. Its primary objective is to provide accurate and reliable information about the financial performance and position of an entity. We will also delve into the double-entry bookkeeping system, which ensures that each transaction is recorded in at least two accounts, maintaining the accounting equation: assets = liabilities + equity. To learn more, watch the detailed instructional video below. Các sếp có thể xem video hướng dẫn chi tiết ở phía dưới nhé."
+
+
+## FINANCIAL ACCOUNTING
+
+Chào mừng các sếp đến với video của em về "kế toán tài chính" ("financial accounting")! Trong video này, em sẽ khám phá những khái niệm cơ bản và nguyên tắc của kế toán tài chính, mang đến cho các sếp một nền tảng vững chắc để hiểu và điều hướng trong thế giới tài chính. Vậy thì, chúng ta hãy bắt đầu ngay thôi!
+![FINANCIAL ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-19/transition--159092357-Montserrat-Black-673AB7.jpg)
+[Listen to the audio](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-37636193829.mp3)
+
+
+
+## FINANCIAL ACCOUNTING
+
+"Kế toán tài chính" (financial accounting) là một khía cạnh quan trọng của "quản lý kinh doanh" (business management) và báo cáo. Nó liên quan đến việc "ghi chép hệ thống" (systematic recording), "tóm tắt" (summarizing) và "truyền thông" (communication) về "giao dịch tài chính" (financial transactions) của tổ chức một cách có hệ thống. Mục đích chính của kế toán tài chính là cung cấp thông tin chính xác và đáng tin cậy về "hiệu suất tài chính" (financial performance) và tình hình của một "thực thể" (entity).
+![FINANCIAL ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-19/transition-28851990114-Montserrat-Black-9C27B0.jpg)
+[Listen to the audio](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-65920459919.mp3)
+
+
+
+## FINANCIAL ACCOUNTING
+
+Một trong những khái niệm quan trọng trong kế toán tài chính là hệ thống ghi sổ kép. Hệ thống này đảm bảo rằng mỗi giao dịch được ghi chép trong ít nhất hai "tài khoản" (accounts), với một tài khoản được "ghi nợ" (debited) và tài khoản khác được "ghi có" (credited). Phương pháp này giúp duy trì phương trình kế toán cơ bản: "tài sản" (assets) = "nợ phải trả" (liabilities) + vốn chủ sở hữu.
+![FINANCIAL ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-19/transition-13478813932-Montserrat-Regular-880E4F.jpg)
+[Listen to the audio](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-39970574122.mp3)
+
+
+
+## FINANCIAL ACCOUNTING
+
+"Kế toán tài chính" (financial accounting) cũng dựa trên nhiều "nguyên tắc" (principles) và "tiêu chuẩn" (standards) khác nhau để đảm bảo tính nhất quán và tính so sánh của thông tin tài chính. Một trong những nguyên tắc đó là nguyên tắc ghi nhận theo phương pháp tích lũy, yêu cầu ghi chép "giao dịch" (transactions) khi chúng xảy ra, bất kể khi nào "tiền mặt" (cash) được thu vào hoặc trả đi. Nguyên tắc này cung cấp một hình ảnh chính xác hơn về tình hình tài chính của một công ty.
+![FINANCIAL ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-19/transition--10876182508-Montserrat-Bold-673AB7.jpg)
+[Listen to the audio](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-22722413052.mp3)
+
+
+
+## FINANCIAL ACCOUNTING
+
+Khía cạnh quan trọng khác của "kế toán tài chính" là việc chuẩn bị "báo cáo tài chính". Những báo cáo này, bao gồm "bảng cân đối kế toán" (balance sheet), "báo cáo kết quả kinh doanh" (income statement) và "báo cáo luồng tiền" (cash flow statement), cung cấp một cái nhìn tổng quan về hiệu suất tài chính và vị trí tài chính của một công ty. Chúng thường được chuẩn bị theo các nguyên tắc kế toán được chấp nhận phổ biến (GAAP) hoặc tiêu chuẩn báo cáo tài chính quốc tế (IFRS)...
+![FINANCIAL ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-19/transition-8742046389-Montserrat-Black-283593.jpg)
+[Listen to the audio](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-28183846079.mp3)
+
+
+
+## FINANCIAL ACCOUNTING
+
+"Kế toán tài chính" (financial accounting) phục vụ một loạt các "bên liên quan" (stakeholders), bao gồm "nhà đầu tư" (investors), các nhà cung cấp vốn và "cơ quan quản lý" (regulatory authorities). Nhà đầu tư dựa vào "báo cáo tài chính" (financial statements) để đưa ra các quyết định thông minh về việc đầu tư vào một "công ty" (company), trong khi các nhà cung cấp vốn sử dụng chúng để đánh giá "khả năng thanh toán" (creditworthiness). Các cơ quan quản lý yêu cầu báo cáo tài chính để đảm bảo tuân thủ "tiêu chuẩn kế toán" (accounting standards) và quy định.
+![FINANCIAL ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-19/transition--22025049058-Montserrat-Thin-9C27B0.jpg)
+[Listen to the audio](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-19599978551.mp3)
+
+
+
+## FINANCIAL ACCOUNTING
+
+Đồng thời với báo cáo bên ngoài, "kế toán tài chính" (financial accounting) cũng đóng vai trò quan trọng trong việc ra quyết định nội bộ. Ban quản lý dựa vào "thông tin tài chính" (financial information) để phân tích "lợi nhuận" (profitability), đánh giá "khả thi" (viability) của "dự án mới" (new projects) và đưa ra "quyết định chiến lược" (strategic decisions). Kế toán tài chính chính xác giúp quản lý tài chính hiệu quả và đóng góp vào sự phát triển kinh doanh.
+![FINANCIAL ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-19/transition-44106979794-Montserrat-Regular-880E4F.jpg)
+[Listen to the audio](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-9986476982.mp3)
+
+
+
+## FINANCIAL ACCOUNTING
+
+Rất quan trọng lưu ý rằng "kế toán tài chính" (financial accounting) đang chịu sự thay đổi và cập nhật liên tục. "Tiêu chuẩn kế toán" (accounting standards) và "quy định" (regulations) tiếp tục phát triển theo thời gian nhằm giải quyết các "vấn đề mới nổi" (emerging issues) và nâng cao chất lượng và minh bạch của "báo cáo tài chính" (financial reporting). Việc cập nhật với những thay đổi này là rất quan trọng đối với các chuyên gia trong lĩnh vực này.
+![FINANCIAL ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-19/transition-18167028807-Montserrat-Regular-7B1FA2.jpg)
+[Listen to the audio](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-36335618569.mp3)
+
+
+
+## FINANCIAL ACCOUNTING
+
+Kết luận, "kế toán tài chính" là một lĩnh vực quan trọng cung cấp thông tin cần thiết về "hiệu suất tài chính" và vị trí của một tổ chức. Nó liên quan đến việc ghi chép, tóm tắt và truyền thông về "giao dịch tài chính", tuân thủ các "nguyên tắc" và "tiêu chuẩn" đã được thiết lập. Cho dù bạn là một "nhà đầu tư", "quản lý" hoặc chỉ đơn giản là quan tâm đến việc hiểu về thế giới tài chính, việc hiểu biết vững chắc về kế toán tài chính là vô giá.
+![FINANCIAL ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-19/transition-4471515381-Montserrat-SemiBold-004895.jpg)
+[Listen to the audio](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-30119588306.mp3)
+
+
+
+## FINANCIAL ACCOUNTING
+
+Hy vọng video này đã mang đến cho các sếp một hiểu biết toàn diện về các khái niệm và nguyên tắc cơ bản của "kế toán tài chính" (financial accounting). Cám ơn các sếp đã xem, và xin vui lòng chia sẻ ý kiến và quan điểm của mình trong phần bình luận phía dưới. Phản hồi của các sếp không chỉ giúp đỡ em mà còn hỗ trợ cộng đồng bằng cách cung cấp thêm thông tin hấp dẫn. Bây giờ, hãy để chia tay và em mong sớm gặp lại các sếp trong những video sắp tới. Đừng quên like, chia sẻ và đăng ký kênh để ủng hộ chúng em. Theo sếp thì...? Hãy chia sẻ ý kiến của sếp xuống phía bên dưới để giúp em cũng như các bạn khác có thêm những thông tin thú vị. Còn bây giờ thì xin chào và hẹn gặp lại các sếp ở những video tiếp theo. Đừng quên like, chia sẻ và đăng ký kênh để ủng hộ bọn em.
+![FINANCIAL ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-19/transition-18439916427-Montserrat-Regular-1A237E.jpg)
+[Listen to the audio](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-430819150.mp3)
+
