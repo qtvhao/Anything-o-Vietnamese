@@ -2,6 +2,7 @@
 # Accounting
 
 - Financial-Accounting
+  - [Budgeting-and-Forecasting.md](./Budgeting-and-Forecasting.md)
   - [Financial-Analysis](./Financial-Analysis/)
     - [Budgeting-and-Forecasting.md](./Budgeting-and-Forecasting.md)
     - [Financial-Modeling.md](./Financial-Modeling.md)
