@@ -2,6 +2,7 @@
 # docs
 
 - Accounting
+  - [Cost-Accounting.md](./Cost-Accounting.md)
   - [Financial-Accounting](./Financial-Accounting/)
     - [Financial-Analysis](./Financial-Analysis/)
       - [Budgeting-and-Forecasting.md](./Budgeting-and-Forecasting.md)
