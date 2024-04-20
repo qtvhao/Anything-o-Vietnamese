@@ -2,6 +2,7 @@
 # docs
 
 - Accounting
+  - ["Budgeting".md](./"Budgeting".md)
   - ["Cost-Accounting".md](./"Cost-Accounting".md)
   - ["Financial-Accounting".md](./"Financial-Accounting".md)
   - ["Governmental-Accounting".md](./"Governmental-Accounting".md)
