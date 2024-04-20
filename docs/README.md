@@ -11,6 +11,7 @@
         - [Financial-Modeling.md](./Accounting/Financial-Accounting/Financial-Analysis/Financial-Modeling.md)
         - [Horizontal-Analysis.md](./Accounting/Financial-Accounting/Financial-Analysis/Horizontal-Analysis.md)
         - [Ratio-Analysis.md](./Accounting/Financial-Accounting/Financial-Analysis/Ratio-Analysis.md)
+      - [Financial-Ratio-Analysis.md](./Accounting/Financial-Accounting/Financial-Ratio-Analysis.md)
       - [Financial-Reporting.md](./Accounting/Financial-Accounting/Financial-Reporting.md)
       - [Regulatory-Compliance.md](./Accounting/Financial-Accounting/Regulatory-Compliance.md)
     - [Financial-Accounting.md](./Accounting/Financial-Accounting.md)
