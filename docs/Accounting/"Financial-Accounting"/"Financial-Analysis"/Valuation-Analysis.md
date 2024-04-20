@@ -1,0 +1,76 @@
+
+---
+
+# Khám phá Nghệ thuật và Khoa học của Phân tích Định giá: Khám phá cách xác định Giá trị Thực sự của Công ty và Tài sản như một Chuyên gia!
+
+- Published: April 20, 2024
+- Author: Vietnamese Online Voice
+- Categories: Accounting / "Financial Accounting" / **"Financial Analysis"**
+- #FinancialAnalysis #Investing #BusinessValuation #DiscountedCashFlow #DCF #ComparableCompanyAnalysis #CCA #FinancialMetrics #PricetoEarnings
+
+"In this video, I will provide an introduction to valuation analysis. Valuation analysis is a crucial tool for investors, financial analysts, and business owners. It involves determining the value of a company or asset, aiding in informed decision-making for investments, mergers and acquisitions, and strategic moves. We will explore the fundamental concepts and techniques used in valuation analysis, including the definition of valuation analysis itself. Various factors such as financial performance, market conditions, and future prospects are considered to estimate the intrinsic value of an asset or company. The discounted cash flow (DCF) method, which utilizes projected future cash flows and discount rates, will be discussed as one commonly used approach. Watch the detailed instructional video below, sếp!"
+
+
+## VALUATION ANALYSIS
+
+Chào mừng các sếp đến với video của em về "phân tích định giá" (valuation analysis). Trong video này, em sẽ khám phá các "khái niệm cơ bản" (fundamental concepts) và "kỹ thuật" (techniques) được sử dụng để "xác định giá trị" (determine the value) của một "công ty hoặc tài sản" (company or an asset). Phân tích định giá là một công cụ quan trọng cho các nhà đầu tư, "nhà phân tích tài chính" (financial analysts) và chủ doanh nghiệp, vì nó giúp đưa ra "quyết định có căn cứ" (informed decisions) liên quan đến "đầu tư" (investments), sáp nhập và mua lại, và các động thái chiến lược kinh doanh khác. Vậy, hãy cùng khám phá thế giới của phân tích định giá và hiểu về tầm quan trọng của nó...
+![VALUATION ANALYSIS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-20/transition-44345300716-Montserrat-Bold-512DA8.jpg)
+[Listen to the audio](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-3265103589.mp3)
+
+
+
+## COMPANY OR AN ASSET
+
+Trước khi chúng ta khám phá sâu hơn, hãy định nghĩa "phân tích định giá" (valuation analysis). Đơn giản nói, đó là quá trình ước tính "giá trị thực" (intrinsic value) của một "tài sản hoặc một công ty" (asset or a company). Mục tiêu là xác định giá hợp lý cho tài sản hoặc công ty đó dựa trên các yếu tố khác nhau như "hiệu suất tài chính" (financial performance), "điều kiện thị trường" (market conditions) và "triển vọng tương lai" (future prospects)..
+![COMPANY OR AN ASSET](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-20/transition-805459758-Montserrat-Black-673AB7.jpg)
+[Listen to the audio](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-25374595872.mp3)
+
+
+
+## VALUATION
+
+"Phân tích định giá" (valuation analysis) bao gồm nhiều "phương pháp" (methods) khác nhau, mỗi phương pháp có "ưu điểm" (strengths) và "hạn chế" (limitations) riêng. Một phương pháp thường được sử dụng là phương pháp dòng tiền chiết khấu (discounted cash flow - DCF). Phương pháp này sử dụng "dòng tiền tương lai" (future cash flows) được dự đoán và "chiết khấu" (discounts) nó trở lại "giá trị hiện tại" (present value), lấy vào lưu ý "giá trị thời gian của tiền" (time value of money). Bằng cách "ước tính" (estimating) dòng tiền tương lai và chọn một "tỷ lệ chiết khấu" (discount rate) phù hợp, "nhà phân tích" (analysts) có thể đưa ra một định giá cho tài sản hoặc công ty.
+![VALUATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-20/transition-25965522885-Montserrat-SemiBold-9C27B0.jpg)
+[Listen to the audio](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-35889616039.mp3)
+
+
+
+## FINANCIAL METRICS
+
+Phương pháp định giá phổ biến khác là phân tích các công ty tương đồng (comparable company analysis - CCA). Phương pháp này liên quan đến việc so sánh "tài sản hoặc công ty mục tiêu" (target asset or company) với các tài sản hoặc công ty tương tự đã được bán gần đây hoặc niêm yết công khai. Bằng cách xem xét các "chỉ số tài chính" (financial metrics) và "hệ số" (multiples) như tỷ lệ giá trên lợi nhuận (P/E) hoặc tỷ lệ giá trên doanh thu (P/S), các nhà phân tích có thể suy ra một khoảng giá trị định giá cho tài sản hoặc công ty mục tiêu.
+![FINANCIAL METRICS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-20/transition--40228226982-Montserrat-ExtraBold-673AB7.jpg)
+[Listen to the audio](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-2214200351.mp3)
+
+
+
+## MARKET CONDITIONS
+
+"Phân tích định giá" cũng xem xét các yếu tố khác ngoài "chỉ số tài chính". Ví dụ, "điều kiện thị trường" và "cảnh quan cạnh tranh" đóng vai trò quan trọng trong việc xác định giá trị của một tài sản hoặc công ty. Các nhà phân tích cần đánh giá "xu hướng ngành" , "tiềm năng tăng trưởng thị trường" và lợi thế hoặc bất lợi cạnh tranh để đạt được một phân tích định giá toàn diện.
+![MARKET CONDITIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-20/transition--13703136451-Montserrat-Medium-9C27B0.jpg)
+[Listen to the audio](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-40679192187.mp3)
+
+
+
+## SUBJECTIVE JUDGMENTS
+
+Đoạn thứ sáu là: Đáng lưu ý rằng "phân tích định giá" (valuation analysis) là cả một nghệ thuật và một khoa học. Trong khi "phương pháp định lượng" (quantitative methods) cung cấp một khung việc, "nhận định chủ quan" (subjective judgments) và "yếu tố chất lượng" (qualitative factors) cũng được áp dụng. Các yếu tố như "chất lượng quản lý" (management quality), "uy tín thương hiệu" (brand reputation), và sở hữu trí tuệ có thể ảnh hưởng đáng kể đến định giá của một công ty.
+![SUBJECTIVE JUDGMENTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-20/transition-19455762014-Montserrat-Medium-7B1FA2.jpg)
+[Listen to the audio](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-39553296975.mp3)
+
+
+
+## ONGOING PROCESS
+
+Đoạn thứ bảy là: Hơn nữa, "phân tích định giá" (valuation analysis) không phải là một quá trình một lần duy nhất mà là một "quá trình liên tục" (ongoing process). Khi "điều kiện thị trường" (market conditions) thay đổi và thông tin mới được cung cấp, giá trị của một tài sản hoặc công ty có thể "biến đổi" (fluctuate). Do đó, việc "cập nhật" (update) và "đánh giá lại" (reassess) định giá đều rất quan trọng để đưa ra quyết định có căn cứ.
+![ONGOING PROCESS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-20/transition--5321749359-Montserrat-Bold-303F9F.jpg)
+[Listen to the audio](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-27213355322.mp3)
+
+
+
+## DETERMINE THE WORTH
+
+Kết luận là "Phân tích định giá" là một công cụ quan trọng cho các "nhà đầu tư" (investors), "nhà phân tích" (analysts) và "chủ doanh nghiệp" (business owners) để xác định giá trị của một tài sản hoặc một công ty. Bằng cách sử dụng các phương pháp định giá khác nhau, xem xét cả yếu tố định lượng và định tính, và cập nhật với "các xu hướng thị trường mới nhất" (latest market trends), người ta có thể đưa ra những quyết định có thông tin hơn về các đầu tư, mua lại và "chiến lược kinh doanh" (strategic moves). Hãy nhớ rằng phân tích định giá là sự kết hợp giữa nghệ thuật và khoa học, đòi hỏi cả "chuyên môn kỹ thuật" (technical expertise) và nhận định chủ quan.
+Theo sếp thì, những yếu tố quan trọng khác cần xem xét trong phân tích định giá là gì? Hãy chia sẻ ý kiến của sếp xuống phía bên dưới để giúp em cũng như các bạn khác có thêm những thông tin thú vị. Còn bây giờ thì xin chào và hẹn gặp lại các sếp ở những video tiếp theo. Đừng quên like, chia sẻ và đăng ký kênh để ủng hộ bọn em.
+![DETERMINE THE WORTH](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-20/transition-82075624141-Montserrat-Regular-673AB7.jpg)
+[Listen to the audio](https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-41270891313.mp3)
+
