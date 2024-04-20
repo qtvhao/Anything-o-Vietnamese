@@ -9,6 +9,7 @@
       - [Financial-Modeling.md](./Financial-Modeling.md)
       - [Horizontal-Analysis.md](./Horizontal-Analysis.md)
       - [Ratio-Analysis.md](./Ratio-Analysis.md)
+    - [Financial-Reporting.md](./Financial-Reporting.md)
   - [Financial-Accounting.md](./Financial-Accounting.md)
   - [Forensic-Accounting.md](./Forensic-Accounting.md)
   - [Management-Accounting.md](./Management-Accounting.md)
