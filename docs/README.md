@@ -4,6 +4,7 @@
 - docs
   - [Accounting](./Accounting)
     - ["Budgeting".md](./Accounting/"Budgeting".md)
+    - ["Corporate-Governance".md](./Accounting/"Corporate-Governance".md)
     - ["Cost-Accounting".md](./Accounting/"Cost-Accounting".md)
     - ["Financial-Accounting".md](./Accounting/"Financial-Accounting".md)
     - ["Governmental-Accounting".md](./Accounting/"Governmental-Accounting".md)

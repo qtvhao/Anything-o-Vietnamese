@@ -3,6 +3,7 @@
 
 - Accounting
   - ["Budgeting".md](./"Budgeting".md)
+  - ["Corporate-Governance".md](./"Corporate-Governance".md)
   - ["Cost-Accounting".md](./"Cost-Accounting".md)
   - ["Financial-Accounting".md](./"Financial-Accounting".md)
   - ["Governmental-Accounting".md](./"Governmental-Accounting".md)
