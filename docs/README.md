@@ -11,6 +11,7 @@
         - [Horizontal-Analysis.md](./Accounting/Financial-Accounting/Financial-Analysis/Horizontal-Analysis.md)
         - [Ratio-Analysis.md](./Accounting/Financial-Accounting/Financial-Analysis/Ratio-Analysis.md)
     - [Forensic-Accounting.md](./Accounting/Forensic-Accounting.md)
+    - [Management-Accounting.md](./Accounting/Management-Accounting.md)
     - [Public-Accounting.md](./Accounting/Public-Accounting.md)
   - [_config.yml](./_config.yml)
 

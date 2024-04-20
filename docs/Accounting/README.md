@@ -10,4 +10,5 @@
       - [Horizontal-Analysis.md](./Horizontal-Analysis.md)
       - [Ratio-Analysis.md](./Ratio-Analysis.md)
   - [Forensic-Accounting.md](./Forensic-Accounting.md)
+  - [Management-Accounting.md](./Management-Accounting.md)
   - [Public-Accounting.md](./Public-Accounting.md)
