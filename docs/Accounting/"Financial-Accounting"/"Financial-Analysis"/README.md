@@ -2,6 +2,7 @@
 # "Financial-Accounting"
 
 - "Financial-Analysis"
+  - [Balance-Sheet-Analysis.md](./Balance-Sheet-Analysis.md)
   - [Capital-Structure-Analysis.md](./Capital-Structure-Analysis.md)
   - [Debt-and-Equity-Analysis.md](./Debt-and-Equity-Analysis.md)
   - [Financial-Due-Diligence.md](./Financial-Due-Diligence.md)
