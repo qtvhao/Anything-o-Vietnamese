@@ -21,5 +21,6 @@
     - [Governmental-Accounting.md](./Accounting/Governmental-Accounting.md)
     - [Management-Accounting.md](./Accounting/Management-Accounting.md)
     - [Public-Accounting.md](./Accounting/Public-Accounting.md)
+    - [Tax-Accounting.md](./Accounting/Tax-Accounting.md)
   - [_config.yml](./_config.yml)
 
