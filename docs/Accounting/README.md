@@ -2,6 +2,7 @@
 # docs
 
 - Accounting
+  - [Auditing.md](./Auditing.md)
   - [Cost-Accounting.md](./Cost-Accounting.md)
   - [Financial-Accounting](./Financial-Accounting/)
     - [Financial-Analysis](./Financial-Analysis/)
