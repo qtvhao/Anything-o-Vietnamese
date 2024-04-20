@@ -13,6 +13,7 @@
         - [Ratio-Analysis.md](./Accounting/Financial-Accounting/Financial-Analysis/Ratio-Analysis.md)
       - [Financial-Ratio-Analysis.md](./Accounting/Financial-Accounting/Financial-Ratio-Analysis.md)
       - [Financial-Reporting.md](./Accounting/Financial-Accounting/Financial-Reporting.md)
+      - [Fraud-Detection.md](./Accounting/Financial-Accounting/Fraud-Detection.md)
       - [Regulatory-Compliance.md](./Accounting/Financial-Accounting/Regulatory-Compliance.md)
     - [Financial-Accounting.md](./Accounting/Financial-Accounting.md)
     - [Forensic-Accounting.md](./Accounting/Forensic-Accounting.md)
