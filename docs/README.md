@@ -7,6 +7,7 @@
     - ["Cost-Accounting".md](./Accounting/"Cost-Accounting".md)
     - ["Financial-Accounting".md](./Accounting/"Financial-Accounting".md)
     - ["Governmental-Accounting".md](./Accounting/"Governmental-Accounting".md)
+    - ["Internal-Auditing".md](./Accounting/"Internal-Auditing".md)
     - [Accounting-Outsourcing.md](./Accounting/Accounting-Outsourcing.md)
     - [Accounting-Policy.md](./Accounting/Accounting-Policy.md)
     - [Accounting-Processes.md](./Accounting/Accounting-Processes.md)
