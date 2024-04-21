@@ -3,6 +3,7 @@
 
 - External-Auditing
   - [Compliance-Audits.md](./Compliance-Audits.md)
+  - [Environmental-Audits.md](./Environmental-Audits.md)
   - [Financial-Statement-Audits.md](./Financial-Statement-Audits.md)
   - [Information-System-Auditing.md](./Information-System-Auditing.md)
   - [Information-Systems-Audits.md](./Information-Systems-Audits.md)
