@@ -20,6 +20,7 @@
     - [Compliance-Auditing.md](./Compliance-Auditing.md)
   - [Auditing.md](./Auditing.md)
   - [Budgeting](./Budgeting/)
+    - [Budgeting-Control.md](./Budgeting-Control.md)
     - [Budgeting-Forecasting.md](./Budgeting-Forecasting.md)
     - [Business-Budgeting.md](./Business-Budgeting.md)
     - [Personal-Budgeting.md](./Personal-Budgeting.md)
