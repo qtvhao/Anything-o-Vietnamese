@@ -22,6 +22,7 @@
     - [Cost-Accounting](./Accounting/Cost-Accounting)
       - [Cost-of-Goods-Sold.md](./Accounting/Cost-Accounting/Cost-of-Goods-Sold.md)
       - [Process-Costing.md](./Accounting/Cost-Accounting/Process-Costing.md)
+      - [Standard-Costing.md](./Accounting/Cost-Accounting/Standard-Costing.md)
     - [Cost-Accounting.md](./Accounting/Cost-Accounting.md)
     - [Ethics-in-Accounting.md](./Accounting/Ethics-in-Accounting.md)
     - [External-Auditing](./Accounting/External-Auditing)
