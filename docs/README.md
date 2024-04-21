@@ -71,6 +71,7 @@
     - [Public-Accounting.md](./Accounting/Public-Accounting.md)
     - [Tax-Accounting](./Accounting/Tax-Accounting)
       - [Tax-Audits.md](./Accounting/Tax-Accounting/Tax-Audits.md)
+      - [Tax-Disputes-and-Resolution.md](./Accounting/Tax-Accounting/Tax-Disputes-and-Resolution.md)
     - [Tax-Accounting.md](./Accounting/Tax-Accounting.md)
   - [_config.yml](./_config.yml)
 
