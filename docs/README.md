@@ -63,6 +63,7 @@
     - [Financial-Statement-Analysis.md](./Accounting/Financial-Statement-Analysis.md)
     - [Forensic-Accounting](./Accounting/Forensic-Accounting)
       - [Bribery-and-corruption.md](./Accounting/Forensic-Accounting/Bribery-and-corruption.md)
+      - [Computer-forensic-accounting.md](./Accounting/Forensic-Accounting/Computer-forensic-accounting.md)
     - [Forensic-Accounting.md](./Accounting/Forensic-Accounting.md)
     - [Governmental-Accounting](./Accounting/Governmental-Accounting)
       - [Government-Internal-Controls.md](./Accounting/Governmental-Accounting/Government-Internal-Controls.md)
