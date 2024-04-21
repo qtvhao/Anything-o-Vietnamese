@@ -36,6 +36,7 @@
       - [Fraud-Detection.md](./Accounting/Financial-Accounting/Fraud-Detection.md)
       - [Management-Accounting](./Accounting/Financial-Accounting/Management-Accounting)
         - [Activity-Based-Costing.md](./Accounting/Financial-Accounting/Management-Accounting/Activity-Based-Costing.md)
+        - [Activity-Based-Management.md](./Accounting/Financial-Accounting/Management-Accounting/Activity-Based-Management.md)
       - [Regulatory-Compliance.md](./Accounting/Financial-Accounting/Regulatory-Compliance.md)
     - [Financial-Accounting.md](./Accounting/Financial-Accounting.md)
     - [Financial-Statement-Analysis.md](./Accounting/Financial-Statement-Analysis.md)
