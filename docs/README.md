@@ -68,6 +68,7 @@
     - [Forensic-Accounting](./Accounting/Forensic-Accounting)
       - [Bribery-and-corruption.md](./Accounting/Forensic-Accounting/Bribery-and-corruption.md)
       - [Computer-forensic-accounting.md](./Accounting/Forensic-Accounting/Computer-forensic-accounting.md)
+      - [Tax-evasion.md](./Accounting/Forensic-Accounting/Tax-evasion.md)
     - [Forensic-Accounting.md](./Accounting/Forensic-Accounting.md)
     - [Governmental-Accounting](./Accounting/Governmental-Accounting)
       - [Government-Budgeting.md](./Accounting/Governmental-Accounting/Government-Budgeting.md)
