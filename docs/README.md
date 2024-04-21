@@ -60,6 +60,8 @@
     - [Management-Accounting.md](./Accounting/Management-Accounting.md)
     - [Performance-Management.md](./Accounting/Performance-Management.md)
     - [Public-Accounting.md](./Accounting/Public-Accounting.md)
+    - [Tax-Accounting](./Accounting/Tax-Accounting)
+      - [Tax-Audits.md](./Accounting/Tax-Accounting/Tax-Audits.md)
     - [Tax-Accounting.md](./Accounting/Tax-Accounting.md)
   - [_config.yml](./_config.yml)
 

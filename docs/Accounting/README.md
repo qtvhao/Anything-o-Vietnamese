@@ -59,4 +59,6 @@
   - [Management-Accounting.md](./Management-Accounting.md)
   - [Performance-Management.md](./Performance-Management.md)
   - [Public-Accounting.md](./Public-Accounting.md)
+  - [Tax-Accounting](./Tax-Accounting/)
+    - [Tax-Audits.md](./Tax-Audits.md)
   - [Tax-Accounting.md](./Tax-Accounting.md)
