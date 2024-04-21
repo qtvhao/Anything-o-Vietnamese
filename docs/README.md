@@ -124,6 +124,7 @@
       - [Tax-Services.md](./Accounting/Public-Accounting/Tax-Services.md)
     - [Public-Accounting.md](./Accounting/Public-Accounting.md)
     - [Tax-Accounting](./Accounting/Tax-Accounting)
+      - [Individual-Tax-Accounting.md](./Accounting/Tax-Accounting/Individual-Tax-Accounting.md)
       - [Tax-Audits.md](./Accounting/Tax-Accounting/Tax-Audits.md)
       - [Tax-Disputes-and-Resolution.md](./Accounting/Tax-Accounting/Tax-Disputes-and-Resolution.md)
       - [Tax-Law.md](./Accounting/Tax-Accounting/Tax-Law.md)
