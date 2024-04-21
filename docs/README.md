@@ -24,6 +24,7 @@
         - [Information-Systems-Auditing.md](./Accounting/Financial-Accounting/Auditing/Information-Systems-Auditing.md)
       - [Budgeting-and-Forecasting.md](./Accounting/Financial-Accounting/Budgeting-and-Forecasting.md)
       - [Cost-Accounting](./Accounting/Financial-Accounting/Cost-Accounting)
+        - [Cost-Behavior-and-Analysis.md](./Accounting/Financial-Accounting/Cost-Accounting/Cost-Behavior-and-Analysis.md)
         - [Cost-of-Goods-Sold.md](./Accounting/Financial-Accounting/Cost-Accounting/Cost-of-Goods-Sold.md)
         - [Job-Costing.md](./Accounting/Financial-Accounting/Cost-Accounting/Job-Costing.md)
         - [Process-Costing.md](./Accounting/Financial-Accounting/Cost-Accounting/Process-Costing.md)
