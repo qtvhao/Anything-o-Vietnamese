@@ -41,6 +41,8 @@
         - [Activity-Based-Management.md](./Accounting/Financial-Accounting/Management-Accounting/Activity-Based-Management.md)
         - [Transfer-Pricing.md](./Accounting/Financial-Accounting/Management-Accounting/Transfer-Pricing.md)
       - [Regulatory-Compliance.md](./Accounting/Financial-Accounting/Regulatory-Compliance.md)
+      - [Tax-Accounting](./Accounting/Financial-Accounting/Tax-Accounting)
+        - [Tax-Risk-Management.md](./Accounting/Financial-Accounting/Tax-Accounting/Tax-Risk-Management.md)
     - [Financial-Accounting.md](./Accounting/Financial-Accounting.md)
     - [Financial-Statement-Analysis.md](./Accounting/Financial-Statement-Analysis.md)
     - [Forensic-Accounting.md](./Accounting/Forensic-Accounting.md)

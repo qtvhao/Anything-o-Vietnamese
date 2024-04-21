@@ -26,3 +26,5 @@
     - [Activity-Based-Management.md](./Activity-Based-Management.md)
     - [Transfer-Pricing.md](./Transfer-Pricing.md)
   - [Regulatory-Compliance.md](./Regulatory-Compliance.md)
+  - [Tax-Accounting](./Tax-Accounting/)
+    - [Tax-Risk-Management.md](./Tax-Risk-Management.md)
