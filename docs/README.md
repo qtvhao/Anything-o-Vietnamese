@@ -16,6 +16,7 @@
       - [Budgeting-and-Forecasting.md](./Accounting/Financial-Accounting/Budgeting-and-Forecasting.md)
       - [Cost-Accounting](./Accounting/Financial-Accounting/Cost-Accounting)
         - [Cost-of-Goods-Sold.md](./Accounting/Financial-Accounting/Cost-Accounting/Cost-of-Goods-Sold.md)
+        - [Job-Costing.md](./Accounting/Financial-Accounting/Cost-Accounting/Job-Costing.md)
         - [Process-Costing.md](./Accounting/Financial-Accounting/Cost-Accounting/Process-Costing.md)
         - [Variance-Analysis.md](./Accounting/Financial-Accounting/Cost-Accounting/Variance-Analysis.md)
       - [Financial-Analysis](./Accounting/Financial-Accounting/Financial-Analysis)
