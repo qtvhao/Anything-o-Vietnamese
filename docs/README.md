@@ -18,6 +18,7 @@
       - [Tax-Assurance.md](./Accounting/Assurance-Services/Tax-Assurance.md)
     - [Assurance-Services.md](./Accounting/Assurance-Services.md)
     - [Auditing](./Accounting/Auditing)
+      - [Audit-Planning-and-Execution.md](./Accounting/Auditing/Audit-Planning-and-Execution.md)
       - [Compliance-Auditing.md](./Accounting/Auditing/Compliance-Auditing.md)
     - [Auditing.md](./Accounting/Auditing.md)
     - [Budgeting](./Accounting/Budgeting)
