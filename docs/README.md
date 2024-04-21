@@ -59,6 +59,7 @@
         - [Tax-Risk-Management.md](./Accounting/Financial-Accounting/Tax-Accounting/Tax-Risk-Management.md)
     - [Financial-Accounting.md](./Accounting/Financial-Accounting.md)
     - [Financial-Statement-Analysis](./Accounting/Financial-Statement-Analysis)
+      - [Financial-Ratios.md](./Accounting/Financial-Statement-Analysis/Financial-Ratios.md)
       - [Horizontal-Analysis.md](./Accounting/Financial-Statement-Analysis/Horizontal-Analysis.md)
     - [Financial-Statement-Analysis.md](./Accounting/Financial-Statement-Analysis.md)
     - [Forensic-Accounting](./Accounting/Forensic-Accounting)
