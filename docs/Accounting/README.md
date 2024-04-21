@@ -2,6 +2,7 @@
 # docs
 
 - Accounting
+  - [Accounting-Education.md](./Accounting-Education.md)
   - [Accounting-Fraud.md](./Accounting-Fraud.md)
   - [Accounting-Processes.md](./Accounting-Processes.md)
   - [Accounting-Research.md](./Accounting-Research.md)
