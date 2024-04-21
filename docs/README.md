@@ -61,6 +61,7 @@
     - [Financial-Statement-Analysis](./Accounting/Financial-Statement-Analysis)
       - [Financial-Ratios.md](./Accounting/Financial-Statement-Analysis/Financial-Ratios.md)
       - [Horizontal-Analysis.md](./Accounting/Financial-Statement-Analysis/Horizontal-Analysis.md)
+      - [Profitability-Ratios.md](./Accounting/Financial-Statement-Analysis/Profitability-Ratios.md)
     - [Financial-Statement-Analysis.md](./Accounting/Financial-Statement-Analysis.md)
     - [Forensic-Accounting](./Accounting/Forensic-Accounting)
       - [Bribery-and-corruption.md](./Accounting/Forensic-Accounting/Bribery-and-corruption.md)

@@ -60,6 +60,7 @@
   - [Financial-Statement-Analysis](./Financial-Statement-Analysis/)
     - [Financial-Ratios.md](./Financial-Ratios.md)
     - [Horizontal-Analysis.md](./Horizontal-Analysis.md)
+    - [Profitability-Ratios.md](./Profitability-Ratios.md)
   - [Financial-Statement-Analysis.md](./Financial-Statement-Analysis.md)
   - [Forensic-Accounting](./Forensic-Accounting/)
     - [Bribery-and-corruption.md](./Bribery-and-corruption.md)
