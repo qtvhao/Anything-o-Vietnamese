@@ -84,6 +84,7 @@
     - [International-Accounting.md](./Accounting/International-Accounting.md)
     - [Management-Accounting](./Accounting/Management-Accounting)
       - [Activity-Based-Costing.md](./Accounting/Management-Accounting/Activity-Based-Costing.md)
+      - [Cost-of-Capital.md](./Accounting/Management-Accounting/Cost-of-Capital.md)
     - [Management-Accounting.md](./Accounting/Management-Accounting.md)
     - [Performance-Management.md](./Accounting/Performance-Management.md)
     - [Public-Accounting](./Accounting/Public-Accounting)
