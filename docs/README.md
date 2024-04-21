@@ -4,6 +4,7 @@
 - docs
   - [Accounting](./Accounting)
     - [Accounting-Fraud.md](./Accounting/Accounting-Fraud.md)
+    - [Accounting-Research.md](./Accounting/Accounting-Research.md)
     - [Accounting-Systems.md](./Accounting/Accounting-Systems.md)
     - [Accounting-Theory.md](./Accounting/Accounting-Theory.md)
     - [Auditing.md](./Accounting/Auditing.md)

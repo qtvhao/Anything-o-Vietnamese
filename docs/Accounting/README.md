@@ -3,6 +3,7 @@
 
 - Accounting
   - [Accounting-Fraud.md](./Accounting-Fraud.md)
+  - [Accounting-Research.md](./Accounting-Research.md)
   - [Accounting-Systems.md](./Accounting-Systems.md)
   - [Accounting-Theory.md](./Accounting-Theory.md)
   - [Auditing.md](./Auditing.md)
