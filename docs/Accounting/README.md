@@ -38,5 +38,6 @@
   - [Internal-Auditing.md](./Internal-Auditing.md)
   - [International-Accounting.md](./International-Accounting.md)
   - [Management-Accounting.md](./Management-Accounting.md)
+  - [Performance-Management.md](./Performance-Management.md)
   - [Public-Accounting.md](./Public-Accounting.md)
   - [Tax-Accounting.md](./Tax-Accounting.md)
