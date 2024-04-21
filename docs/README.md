@@ -15,6 +15,8 @@
     - [Assurance-Services.md](./Accounting/Assurance-Services.md)
     - [Auditing.md](./Accounting/Auditing.md)
     - [Budgeting.md](./Accounting/Budgeting.md)
+    - [Cost-Accounting](./Accounting/Cost-Accounting)
+      - [Cost-of-Goods-Sold.md](./Accounting/Cost-Accounting/Cost-of-Goods-Sold.md)
     - [Cost-Accounting.md](./Accounting/Cost-Accounting.md)
     - [Ethics-in-Accounting.md](./Accounting/Ethics-in-Accounting.md)
     - [External-Auditing.md](./Accounting/External-Auditing.md)
