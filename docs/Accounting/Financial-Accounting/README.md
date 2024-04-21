@@ -16,4 +16,6 @@
   - [Financial-Ratio-Analysis.md](./Financial-Ratio-Analysis.md)
   - [Financial-Reporting.md](./Financial-Reporting.md)
   - [Fraud-Detection.md](./Fraud-Detection.md)
+  - [Management-Accounting](./Management-Accounting/)
+    - [Activity-Based-Costing.md](./Activity-Based-Costing.md)
   - [Regulatory-Compliance.md](./Regulatory-Compliance.md)
