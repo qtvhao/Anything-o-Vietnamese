@@ -32,6 +32,7 @@
     - [Auditor-Independence.md](./Auditor-Independence.md)
     - [Corporate-Responsibility.md](./Corporate-Responsibility.md)
     - [Fraud-Prevention.md](./Fraud-Prevention.md)
+    - [Shareholder-Rights.md](./Shareholder-Rights.md)
   - [Cost-Accounting](./Cost-Accounting/)
     - [Activity-Based-Costing.md](./Activity-Based-Costing.md)
     - [Cost-of-Goods-Sold.md](./Cost-of-Goods-Sold.md)

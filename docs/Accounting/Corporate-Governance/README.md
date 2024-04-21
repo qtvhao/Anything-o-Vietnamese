@@ -6,3 +6,4 @@
   - [Auditor-Independence.md](./Auditor-Independence.md)
   - [Corporate-Responsibility.md](./Corporate-Responsibility.md)
   - [Fraud-Prevention.md](./Fraud-Prevention.md)
+  - [Shareholder-Rights.md](./Shareholder-Rights.md)
