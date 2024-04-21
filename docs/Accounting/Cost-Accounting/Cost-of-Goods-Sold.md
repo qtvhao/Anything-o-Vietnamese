@@ -14,19 +14,19 @@
 ## COST OF GOODS SOLD
 
 Chào mừng bạn đến với video của tôi về chủ đề "Giá vốn hàng bán". Trong video này, tôi sẽ khám phá "giá vốn hàng bán" (cost of goods sold) là gì, nó được "tính toán" như thế nào (calculated) và tại sao đây là một khái niệm quan trọng mà các doanh nghiệp phải hiểu. Vì vậy, hãy đi sâu vào!
-![COST OF GOODS SOLD](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--34916631524-Montserrat-SemiBold-512DA8.jpg)
+![COST OF GOODS SOLD](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--34916631524-Montserrat-Regular-512DA8.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-3988711344.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-6754152059.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## COST OF GOODS SOLD
+## DIRECT COSTS
 
 Giá vốn hàng bán, thường được viết tắt là giá vốn hàng bán, là một "số liệu tài chính" quan trọng (financial metric) được các doanh nghiệp sử dụng để xác định "chi phí trực tiếp" (direct costs) liên quan đến việc sản xuất hàng hóa hoặc dịch vụ họ bán. Nó bao gồm tất cả các chi phí liên quan trực tiếp đến quá trình sản xuất, chẳng hạn như "nguyên liệu thô" (raw materials), "lao động" (labor) và "chi phí sản xuất chung" (manufacturing overhead).
-![COST OF GOODS SOLD](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--49789576414-Montserrat-ExtraBold-7B1FA2.jpg)
+![DIRECT COSTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--49789576414-Montserrat-Thin-1A237E.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-21931355101.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-25666843112.mp3" type="audio/mpeg">
 </audio>
 
 
@@ -34,9 +34,9 @@ Giá vốn hàng bán, thường được viết tắt là giá vốn hàng bán
 ## COST OF RAW MATERIALS
 
 Tính toán "giá vốn hàng bán" (cost of goods sold) liên quan đến việc hiểu các thành phần góp phần tạo nên con số này. Một yếu tố thiết yếu là "chi phí nguyên liệu thô" (cost of raw materials) hoặc "bộ phận" (parts) cần thiết để tạo ra "sản phẩm" (product). Điều này bao gồm chi phí mua những vật liệu này, "phí vận chuyển" (shipping fees) và bất kỳ "chi phí" nào khác (expenses) liên quan trực tiếp đến việc "mua lại" chúng (acquisition).
-![COST OF RAW MATERIALS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--2236590717-Montserrat-SemiBold-1A237E.jpg)
+![COST OF RAW MATERIALS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--2236590717-Montserrat-SemiBold-283593.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-3056147918.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-509895705.mp3" type="audio/mpeg">
 </audio>
 
 
@@ -44,9 +44,9 @@ Tính toán "giá vốn hàng bán" (cost of goods sold) liên quan đến việ
 ## COST OF LABOR
 
 Một thành phần quan trọng khác là "chi phí lao động" (cost of labor). Điều này bao gồm "tiền lương" (wages) của nhân viên trực tiếp tham gia vào "quy trình sản xuất" (production process), chẳng hạn như "công nhân dây chuyền lắp ráp" (assembly line workers) hoặc "người vận hành máy" (machine operators). Điều quan trọng cần lưu ý là chỉ nên đưa chi phí lao động "được quy trực tiếp" (directly attributed) vào việc sản xuất hàng hóa hoặc dịch vụ vào tính toán giá vốn hàng bán.
-![COST OF LABOR](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-8957495467-Montserrat-Regular-283593.jpg)
+![COST OF LABOR](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-8957495467-Montserrat-Bold-283593.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-11386593458.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-12350126695.mp3" type="audio/mpeg">
 </audio>
 
 
@@ -54,29 +54,29 @@ Một thành phần quan trọng khác là "chi phí lao động" (cost of labor
 ## MANUFACTURING OVERHEAD
 
 Ngoài ra, chi phí sản xuất chung là một phần thiết yếu của "giá vốn hàng bán" (cost of goods sold). Các chi phí này bao gồm các chi phí khác nhau gián tiếp gắn liền với sản xuất, chẳng hạn như tiền thuê cơ sở sản xuất, "tiện ích" (utilities), "khấu hao thiết bị" (equipment depreciation) và "chi phí bảo trì" (maintenance costs). Việc phân bổ các chi phí này một cách chính xác là rất quan trọng để tính toán giá vốn hàng bán chính xác.
-![MANUFACTURING OVERHEAD](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-43252135475-Montserrat-Bold-9C27B0.jpg)
+![MANUFACTURING OVERHEAD](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-43252135475-Montserrat-Medium-1A237E.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-16399402095.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-14324233978.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## DIRECT COSTS
+## SPECIFIC PERIOD
 
 Khi tất cả "chi phí trực tiếp có liên quan" (relevant direct costs) được xác định, tổng giá vốn hàng bán được tính bằng cách "tổng hợp" (summing up) những "chi phí" này (expenses) trong một "khoảng thời gian cụ thể" (specific period) thường là một tháng, một quý hoặc một năm. Con số này thể hiện chi phí "liên quan trực tiếp" (directly associated) với "hàng hóa hoặc dịch vụ" (goods or services) đã được bán trong khoảng thời gian đó.
-![DIRECT COSTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-21248966629-Montserrat-Medium-303F9F.jpg)
+![SPECIFIC PERIOD](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-21248966629-Montserrat-SemiBold-7B1FA2.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-21040804563.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-24590981320.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## PROFITABILITY
+## GROSS PROFIT
 
 Hiểu được giá vốn hàng bán là rất quan trọng đối với các doanh nghiệp vì nhiều lý do. Thứ nhất, nó giúp xác định lợi nhuận của sản phẩm hoặc dịch vụ. Bằng cách trừ COGS khỏi "doanh thu" (revenue) được tạo thông qua "doanh số" (sales), doanh nghiệp có thể tính toán "lợi nhuận gộp" (gross profit), cung cấp thông tin chi tiết về "hiệu quả hoạt động" của họ (operational efficiency).
-![PROFITABILITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--24939303208-Montserrat-Medium-512DA8.jpg)
+![GROSS PROFIT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--24939303208-Montserrat-SemiBold-283593.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-1526278856.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-929798035.mp3" type="audio/mpeg">
 </audio>
 
 
@@ -84,9 +84,9 @@ Hiểu được giá vốn hàng bán là rất quan trọng đối với các d
 ## INVENTORY MANAGEMENT
 
 Thứ hai, giá vốn hàng bán là một yếu tố quan trọng trong quản lý hàng tồn kho. Bằng cách theo dõi chính xác giá vốn hàng bán, doanh nghiệp có thể đánh giá tốc độ quay vòng hàng tồn kho của mình và đưa ra quyết định sáng suốt về mức độ sản xuất, chiến lược giá cả và bổ sung hàng tồn kho.
-![INVENTORY MANAGEMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--3427672013-Montserrat-Bold-303F9F.jpg)
+![INVENTORY MANAGEMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--3427672013-Montserrat-Black-7B1FA2.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-6609773373.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-3008514994.mp3" type="audio/mpeg">
 </audio>
 
 
@@ -94,9 +94,9 @@ Thứ hai, giá vốn hàng bán là một yếu tố quan trọng trong quản 
 ## FINANCIAL REPORTING
 
 Hơn nữa, "giá vốn hàng bán" (cost of goods sold) rất cần thiết cho mục đích báo cáo tài chính. Nó được báo cáo trên "báo cáo thu nhập" (income statement) và được sử dụng để tính toán "tỷ suất lợi nhuận gộp" (gross margin), cho biết tỷ lệ phần trăm doanh thu còn lại sau khi tính "chi phí sản xuất trực tiếp" (direct production costs). Thông tin này có giá trị đối với "nhà đầu tư" (investors), "người cho vay" (lenders) và "các bên liên quan" khác (stakeholders) quan tâm đến việc đánh giá tình hình tài chính của công ty.
-![FINANCIAL REPORTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--1278928997-Montserrat-Medium-303F9F.jpg)
+![FINANCIAL REPORTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--1278928997-Montserrat-Black-9C27B0.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-41568801696.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-45749919957.mp3" type="audio/mpeg">
 </audio>
 
 
@@ -104,8 +104,8 @@ Hơn nữa, "giá vốn hàng bán" (cost of goods sold) rất cần thiết cho
 ## BUSINESS FINANCE
 
 Vì vậy, tóm lại, "giá vốn hàng bán" (cost of goods sold) là một khái niệm cơ bản trong "tài chính doanh nghiệp" (business finance) giúp xác định "chi phí trực tiếp" (direct costs) liên quan đến việc sản xuất hàng hóa hoặc dịch vụ. Bằng cách hiểu giá vốn hàng bán và tác động của nó đối với "khả năng sinh lời" (profitability), "quản lý hàng tồn kho" (inventory management) và "báo cáo tài chính" (financial reporting), doanh nghiệp có thể đưa ra quyết định sáng suốt và tối ưu hóa hoạt động của mình. Cảm ơn các bạn đã xem video này về giá vốn hàng bán.
-![BUSINESS FINANCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-6965255366-Montserrat-SemiBold-9C27B0.jpg)
+![BUSINESS FINANCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-6965255366-Montserrat-SemiBold-512DA8.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-2694324171.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-3986858944.mp3" type="audio/mpeg">
 </audio>
 
