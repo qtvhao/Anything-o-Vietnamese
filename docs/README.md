@@ -33,6 +33,7 @@
       - [Fraud-Detection.md](./Accounting/Financial-Accounting/Fraud-Detection.md)
       - [Regulatory-Compliance.md](./Accounting/Financial-Accounting/Regulatory-Compliance.md)
     - [Financial-Accounting.md](./Accounting/Financial-Accounting.md)
+    - [Financial-Statement-Analysis.md](./Accounting/Financial-Statement-Analysis.md)
     - [Forensic-Accounting.md](./Accounting/Forensic-Accounting.md)
     - [Governmental-Accounting.md](./Accounting/Governmental-Accounting.md)
     - [Internal-Auditing.md](./Accounting/Internal-Auditing.md)
