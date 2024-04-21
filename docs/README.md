@@ -21,6 +21,7 @@
     - [Budgeting.md](./Accounting/Budgeting.md)
     - [Cost-Accounting](./Accounting/Cost-Accounting)
       - [Cost-of-Goods-Sold.md](./Accounting/Cost-Accounting/Cost-of-Goods-Sold.md)
+      - [Marginal-Costing.md](./Accounting/Cost-Accounting/Marginal-Costing.md)
       - [Process-Costing.md](./Accounting/Cost-Accounting/Process-Costing.md)
       - [Standard-Costing.md](./Accounting/Cost-Accounting/Standard-Costing.md)
     - [Cost-Accounting.md](./Accounting/Cost-Accounting.md)
