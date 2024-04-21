@@ -16,6 +16,7 @@
       - [Advisory-Services.md](./Accounting/Assurance-Services/Advisory-Services.md)
       - [Audit-and-Assurance.md](./Accounting/Assurance-Services/Audit-and-Assurance.md)
       - [Regulatory-Assurance.md](./Accounting/Assurance-Services/Regulatory-Assurance.md)
+      - [Risk-Assurance.md](./Accounting/Assurance-Services/Risk-Assurance.md)
       - [Tax-Assurance.md](./Accounting/Assurance-Services/Tax-Assurance.md)
     - [Assurance-Services.md](./Accounting/Assurance-Services.md)
     - [Auditing](./Accounting/Auditing)
