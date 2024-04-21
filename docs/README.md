@@ -111,6 +111,7 @@
     - [Management-Accounting.md](./Accounting/Management-Accounting.md)
     - [Performance-Management](./Accounting/Performance-Management)
       - [Key-Performance-Indicators.md](./Accounting/Performance-Management/Key-Performance-Indicators.md)
+      - [Strategy-Mapping.md](./Accounting/Performance-Management/Strategy-Mapping.md)
     - [Performance-Management.md](./Accounting/Performance-Management.md)
     - [Public-Accounting](./Accounting/Public-Accounting)
       - [Advisory-Services.md](./Accounting/Public-Accounting/Advisory-Services.md)

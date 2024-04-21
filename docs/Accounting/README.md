@@ -110,6 +110,7 @@
   - [Management-Accounting.md](./Management-Accounting.md)
   - [Performance-Management](./Performance-Management/)
     - [Key-Performance-Indicators.md](./Key-Performance-Indicators.md)
+    - [Strategy-Mapping.md](./Strategy-Mapping.md)
   - [Performance-Management.md](./Performance-Management.md)
   - [Public-Accounting](./Public-Accounting/)
     - [Advisory-Services.md](./Advisory-Services.md)
