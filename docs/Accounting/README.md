@@ -36,6 +36,7 @@
     - [Management-Accounting](./Management-Accounting/)
       - [Activity-Based-Costing.md](./Activity-Based-Costing.md)
       - [Activity-Based-Management.md](./Activity-Based-Management.md)
+      - [Transfer-Pricing.md](./Transfer-Pricing.md)
     - [Regulatory-Compliance.md](./Regulatory-Compliance.md)
   - [Financial-Accounting.md](./Financial-Accounting.md)
   - [Financial-Statement-Analysis.md](./Financial-Statement-Analysis.md)
