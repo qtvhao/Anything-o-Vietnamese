@@ -16,6 +16,8 @@
   - [Ethics-in-Accounting.md](./Ethics-in-Accounting.md)
   - [External-Auditing.md](./External-Auditing.md)
   - [Financial-Accounting](./Financial-Accounting/)
+    - [Auditing](./Auditing/)
+      - [Information-Systems-Auditing.md](./Information-Systems-Auditing.md)
     - [Budgeting-and-Forecasting.md](./Budgeting-and-Forecasting.md)
     - [Cost-Accounting](./Cost-Accounting/)
       - [Cost-of-Goods-Sold.md](./Cost-of-Goods-Sold.md)
