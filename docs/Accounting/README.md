@@ -12,6 +12,8 @@
   - [Accounting-Systems.md](./Accounting-Systems.md)
   - [Accounting-Theory.md](./Accounting-Theory.md)
   - [Assurance-Services.md](./Assurance-Services.md)
+  - [Auditing](./Auditing/)
+    - [Compliance-Auditing.md](./Compliance-Auditing.md)
   - [Auditing.md](./Auditing.md)
   - [Budgeting.md](./Budgeting.md)
   - [Cost-Accounting](./Cost-Accounting/)
