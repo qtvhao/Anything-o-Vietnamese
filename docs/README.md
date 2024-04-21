@@ -25,6 +25,7 @@
       - [Budgeting-Control.md](./Accounting/Budgeting/Budgeting-Control.md)
       - [Budgeting-Forecasting.md](./Accounting/Budgeting/Budgeting-Forecasting.md)
       - [Budgeting-Process.md](./Accounting/Budgeting/Budgeting-Process.md)
+      - [Budgeting-Strategies.md](./Accounting/Budgeting/Budgeting-Strategies.md)
       - [Business-Budgeting.md](./Accounting/Budgeting/Business-Budgeting.md)
       - [Non-profit-Budgeting.md](./Accounting/Budgeting/Non-profit-Budgeting.md)
       - [Personal-Budgeting.md](./Accounting/Budgeting/Personal-Budgeting.md)
