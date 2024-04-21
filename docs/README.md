@@ -43,6 +43,7 @@
       - [Fraud-Prevention.md](./Accounting/Corporate-Governance/Fraud-Prevention.md)
       - [Shareholder-Rights.md](./Accounting/Corporate-Governance/Shareholder-Rights.md)
     - [Cost-Accounting](./Accounting/Cost-Accounting)
+      - [Absorption-Costing.md](./Accounting/Cost-Accounting/Absorption-Costing.md)
       - [Activity-Based-Costing.md](./Accounting/Cost-Accounting/Activity-Based-Costing.md)
       - [Cost-of-Goods-Sold.md](./Accounting/Cost-Accounting/Cost-of-Goods-Sold.md)
       - [Marginal-Costing.md](./Accounting/Cost-Accounting/Marginal-Costing.md)
