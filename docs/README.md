@@ -68,6 +68,8 @@
     - [Governmental-Accounting](./Accounting/Governmental-Accounting)
       - [Government-Internal-Controls.md](./Accounting/Governmental-Accounting/Government-Internal-Controls.md)
     - [Governmental-Accounting.md](./Accounting/Governmental-Accounting.md)
+    - [Internal-Auditing](./Accounting/Internal-Auditing)
+      - [Forensic-Audit.md](./Accounting/Internal-Auditing/Forensic-Audit.md)
     - [Internal-Auditing.md](./Accounting/Internal-Auditing.md)
     - [International-Accounting](./Accounting/International-Accounting)
       - [Offshore-Accounting.md](./Accounting/International-Accounting/Offshore-Accounting.md)
