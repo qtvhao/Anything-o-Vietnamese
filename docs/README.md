@@ -38,6 +38,7 @@
     - [Ethics-in-Accounting.md](./Accounting/Ethics-in-Accounting.md)
     - [External-Auditing](./Accounting/External-Auditing)
       - [Information-System-Auditing.md](./Accounting/External-Auditing/Information-System-Auditing.md)
+      - [Integrated-Audits.md](./Accounting/External-Auditing/Integrated-Audits.md)
       - [Performance-Audits.md](./Accounting/External-Auditing/Performance-Audits.md)
     - [External-Auditing.md](./Accounting/External-Auditing.md)
     - [Financial-Accounting](./Accounting/Financial-Accounting)
