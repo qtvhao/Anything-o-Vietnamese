@@ -4,6 +4,7 @@
 - Corporate-Governance
   - [Audit-Committees.md](./Audit-Committees.md)
   - [Auditor-Independence.md](./Auditor-Independence.md)
+  - [Corporate-Disclosure.md](./Corporate-Disclosure.md)
   - [Corporate-Responsibility.md](./Corporate-Responsibility.md)
   - [Earnings-Management.md](./Earnings-Management.md)
   - [Fraud-Prevention.md](./Fraud-Prevention.md)
