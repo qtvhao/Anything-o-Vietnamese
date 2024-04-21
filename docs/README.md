@@ -49,6 +49,8 @@
         - [Tax-Risk-Management.md](./Accounting/Financial-Accounting/Tax-Accounting/Tax-Risk-Management.md)
     - [Financial-Accounting.md](./Accounting/Financial-Accounting.md)
     - [Financial-Statement-Analysis.md](./Accounting/Financial-Statement-Analysis.md)
+    - [Forensic-Accounting](./Accounting/Forensic-Accounting)
+      - [Bribery-and-corruption.md](./Accounting/Forensic-Accounting/Bribery-and-corruption.md)
     - [Forensic-Accounting.md](./Accounting/Forensic-Accounting.md)
     - [Governmental-Accounting.md](./Accounting/Governmental-Accounting.md)
     - [Internal-Auditing.md](./Accounting/Internal-Auditing.md)
