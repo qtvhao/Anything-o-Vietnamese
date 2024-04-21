@@ -4,6 +4,7 @@
 - Accounting
   - [Accounting-Systems.md](./Accounting-Systems.md)
   - [Auditing.md](./Auditing.md)
+  - [Budgeting.md](./Budgeting.md)
   - [Cost-Accounting.md](./Cost-Accounting.md)
   - [Financial-Accounting](./Financial-Accounting/)
     - [Budgeting-and-Forecasting.md](./Budgeting-and-Forecasting.md)
