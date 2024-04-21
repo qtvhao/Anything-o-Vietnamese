@@ -85,6 +85,7 @@
   - [Performance-Management.md](./Performance-Management.md)
   - [Public-Accounting](./Public-Accounting/)
     - [Internal-Audit.md](./Internal-Audit.md)
+    - [Tax-Services.md](./Tax-Services.md)
   - [Public-Accounting.md](./Public-Accounting.md)
   - [Tax-Accounting](./Tax-Accounting/)
     - [Tax-Audits.md](./Tax-Audits.md)
