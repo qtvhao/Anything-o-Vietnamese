@@ -83,6 +83,8 @@
     - [Activity-Based-Costing.md](./Activity-Based-Costing.md)
   - [Management-Accounting.md](./Management-Accounting.md)
   - [Performance-Management.md](./Performance-Management.md)
+  - [Public-Accounting](./Public-Accounting/)
+    - [Internal-Audit.md](./Internal-Audit.md)
   - [Public-Accounting.md](./Public-Accounting.md)
   - [Tax-Accounting](./Tax-Accounting/)
     - [Tax-Audits.md](./Tax-Audits.md)
