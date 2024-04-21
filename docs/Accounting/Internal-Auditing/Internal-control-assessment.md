@@ -1,0 +1,111 @@
+
+---
+
+# Giải phóng sức mạnh của đánh giá kiểm soát nội bộ: Bảo vệ tài sản, cải thiện báo cáo tài chính và nâng cao hiệu quả hoạt động!
+
+- Published: April 21, 2024
+- Author: Vietnamese Online Voice
+- Categories: Accounting / **Internal Auditing**
+- #OrganizationalControl #RiskManagement #FinancialReporting #AssetSafeguarding #FraudPrevention #Compliance #ControlObjectives #ControlActivities #MonitoringProcesses #InternalAudits #ProcessImprovement #CostSavings #CorporateGovernance #StakeholderConfidence #ITControls #PhysicalSecurity #RegulatoryRequirements #OperationalEfficiency #KnowledgeTransfer #ClearDocumentation #EffectiveCommunication
+
+"Trong video này, em sẽ giới thiệu về đánh giá kiểm soát nội bộ. Trong video này, em sẽ khám phá tầm quan trọng của việc đánh giá kiểm soát nội bộ trong tổ chức và cung cấp cho các sếp hiểu rõ về các yếu tố chính và lợi ích của nó. Đánh giá kiểm soát nội bộ là một quy trình quan trọng giúp tổ chức đánh giá và giám sát kiểm soát nội bộ của mình. Nó bao gồm việc xem xét một cách có hệ thống các chính sách, quy trình và quá trình được triển khai trong tổ chức để bảo vệ tài sản, đảm bảo báo cáo tài chính chính xác và thúc đẩy hiệu quả hoạt động. Một trong những mục tiêu chính của việc đánh giá kiểm soát nội bộ là xác định và giảm thiểu các rủi ro có thể ảnh hưởng đến khả năng của tổ chức đạt được mục tiêu của mình. Bằng cách đánh giá kiểm soát nội bộ, tổ chức có thể xác định các điểm yếu, hạn chế hoặc khoảng trống trong quy trình của mình và thực hiện các biện pháp khắc phục để giải quyết chúng. Các sếp có thể xem video hướng dẫn chi tiết ở phía dưới nhé."
+
+
+## INTERNAL CONTROL ASSESSMENT
+
+Chào mừng bạn đến với video của tôi về "đánh giá kiểm soát nội bộ" (internal control assessment). Trong video này, tôi sẽ khám phá tầm quan trọng của việc đánh giá kiểm soát nội bộ trong "tổ chức" (organizations) và cung cấp cho bạn sự hiểu biết toàn diện về "các yếu tố chính" (key elements) và "lợi ích" (benefits).
+![INTERNAL CONTROL ASSESSMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-13365284297-Montserrat-Black-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-20334746836.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## INTERNAL CONTROLS
+
+Đánh giá kiểm soát nội bộ là một quá trình quan trọng giúp các tổ chức đánh giá và giám sát "kiểm soát nội bộ" của họ (internal controls). Nó liên quan đến việc xem xét có hệ thống các chính sách, thủ tục và quy trình được triển khai trong tổ chức để bảo vệ tài sản của tổ chức, đảm bảo "báo cáo tài chính" chính xác (financial reporting) và thúc đẩy "hiệu quả hoạt động" (operational efficiency).
+![INTERNAL CONTROLS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-43908865741-Montserrat-Bold-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-15409029651.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## ORGANIZATIONS
+
+Một trong những mục tiêu chính của đánh giá kiểm soát nội bộ là xác định và "giảm thiểu rủi ro" (mitigate risks) có khả năng "tác động" (impact) đến khả năng đạt được mục tiêu của tổ chức. Bằng cách đánh giá các biện pháp kiểm soát nội bộ, tổ chức có thể xác định "các lỗ hổng" (vulnerabilities), "điểm yếu" (weaknesses) hoặc "khoảng trống" (gaps) trong "quy trình" (processes) của họ và thực hiện các hành động khắc phục để giải quyết chúng.
+![ORGANIZATIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--26815587882-Montserrat-Medium-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-5815302406.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CONTROL OBJECTIVES
+
+Một khung đánh giá kiểm soát nội bộ vững chắc bao gồm một số yếu tố chính. Trước tiên, các tổ chức cần thiết lập "mục tiêu kiểm soát" (control objectives) rõ ràng và xác định "quy trình" (processes) và "hoạt động" (activities) hỗ trợ các mục tiêu này. Các mục tiêu này có thể bao gồm "bảo vệ tài sản" (safeguarding assets), "ngăn chặn gian lận" (preventing fraud), đảm bảo tuân thủ luật pháp và quy định cũng như thúc đẩy hoạt động hiệu quả.
+![CONTROL OBJECTIVES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-3866609696-Montserrat-Regular-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-4013139676.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CONTROL ACTIVITIES
+
+Thứ hai, các tổ chức phải triển khai "các hoạt động kiểm soát" (control activities) được thiết kế để "giảm thiểu rủi ro" (mitigate risks) và đạt được "mục tiêu kiểm soát" đã xác định (control objectives). Các hoạt động này có thể bao gồm "phân chia nhiệm vụ" (segregation of duties), "hòa giải" thường xuyên (reconciliations), các biện pháp an ninh vật lý và kiểm soát CNTT, cùng nhiều hoạt động khác.
+![CONTROL ACTIVITIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--9646132510-Montserrat-Bold-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-10574832365.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## MONITORING PROCESSES
+
+Thứ ba, đánh giá kiểm soát nội bộ yêu cầu thiết lập "quy trình giám sát" (monitoring processes) để đánh giá hiệu quả của các biện pháp kiểm soát "trên cơ sở liên tục" (on an ongoing basis). Điều này có thể liên quan đến "đánh giá định kỳ" (periodic reviews), "kiểm toán nội bộ" (internal audits) và "đánh giá quản lý" (management assessments) để đảm bảo rằng các biện pháp kiểm soát đang hoạt động như dự định và mọi vấn đề đều được giải quyết kịp thời.
+![MONITORING PROCESSES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--34347735604-Montserrat-Thin-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-15515906841.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CONTROL PROCEDURES
+
+Một yếu tố thiết yếu khác của đánh giá kiểm soát nội bộ là "tài liệu" (documentation) về "thủ tục kiểm soát" (control procedures) và "quy trình" (processes). Tài liệu rõ ràng và toàn diện giúp hiểu được "môi trường kiểm soát" (control environment), tạo điều kiện thuận lợi cho "chuyển giao kiến ​​thức" (knowledge transfer) và cho phép "giao tiếp" hiệu quả (communication) trong tổ chức.
+![CONTROL PROCEDURES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--22263563681-Montserrat-ExtraBold-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-24111405379.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## FINANCIAL REPORTING
+
+Việc thực hiện đánh giá kiểm soát nội bộ mang lại nhiều lợi ích cho tổ chức. Nó giúp nâng cao độ tin cậy của "báo cáo tài chính" (financial reporting), giảm "nguy cơ gian lận" (risk of fraud) và đảm bảo tuân thủ "các yêu cầu quy định" (regulatory requirements). Ngoài ra, nó còn thúc đẩy "hiệu quả hoạt động" (operational efficiency) bằng cách xác định các cơ hội "cải tiến quy trình" (process improvements) và tiết kiệm chi phí.
+![FINANCIAL REPORTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--11325012976-Montserrat-Thin-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-23736214531.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CORPORATE GOVERNANCE
+
+Bằng cách thường xuyên đánh giá "kiểm soát nội bộ" (internal controls), các tổ chức cũng có thể thể hiện cam kết của mình đối với "quản trị doanh nghiệp" tốt (corporate governance) và nâng cao "niềm tin của các bên liên quan" (stakeholder confidence). Các nhà đầu tư, "người cho vay" (lenders) và các bên liên quan khác thường dựa vào tính hiệu quả của kiểm soát nội bộ khi đưa ra quyết định liên quan đến "đầu tư tài chính" (financial investments) hoặc quan hệ đối tác.
+![CORPORATE GOVERNANCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-17074035792-Montserrat-ExtraBold-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-33118275175.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## OPERATIONAL EFFICIENCY
+
+Tóm lại, đánh giá kiểm soát nội bộ đóng một vai trò quan trọng trong các tổ chức bằng cách đánh giá và giám sát kiểm soát nội bộ của họ. Nó giúp xác định và giảm thiểu rủi ro, nâng cao độ tin cậy của báo cáo tài chính và thúc đẩy "hiệu quả hoạt động" (operational efficiency). Bằng cách triển khai khung đánh giá kiểm soát nội bộ mạnh mẽ, các tổ chức có thể củng cố môi trường kiểm soát của mình và đảm bảo đạt được các mục tiêu của mình. Cảm ơn bạn đã xem video này và chúng tôi hy vọng bạn thấy nó có nhiều thông tin hữu ích và sâu sắc.
+![OPERATIONAL EFFICIENCY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--18120972524-Montserrat-Black-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-37430995756.mp3" type="audio/mpeg">
+</audio>
+
