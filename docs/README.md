@@ -61,6 +61,8 @@
       - [Government-Internal-Controls.md](./Accounting/Governmental-Accounting/Government-Internal-Controls.md)
     - [Governmental-Accounting.md](./Accounting/Governmental-Accounting.md)
     - [Internal-Auditing.md](./Accounting/Internal-Auditing.md)
+    - [International-Accounting](./Accounting/International-Accounting)
+      - [Offshore-Accounting.md](./Accounting/International-Accounting/Offshore-Accounting.md)
     - [International-Accounting.md](./Accounting/International-Accounting.md)
     - [Management-Accounting](./Accounting/Management-Accounting)
       - [Activity-Based-Costing.md](./Accounting/Management-Accounting/Activity-Based-Costing.md)
