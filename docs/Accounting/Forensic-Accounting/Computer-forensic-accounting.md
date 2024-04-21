@@ -1,91 +1,101 @@
 
 ---
 
-# \`Khám phá gian lận tài chính bằng kế toán pháp y máy tính': Cái nhìn toàn diện về cuộc điều tra kỹ thuật số về tội phạm tài chính
+# Vạch trần gian lận tài chính trong thời đại kỹ thuật số: Đi sâu vào kế toán pháp y máy tính
 
 - Published: April 21, 2024
 - Author: Vietnamese Online Voice
 - Categories: Accounting / **Forensic Accounting**
-- #ForensicInvestigation #FinancialCrimes #DigitalAge #FinancialFraud #Embezzlement #FinancialTransactions #DigitalEnvironment #Accounting #ComputerScience #LawEnforcement #FinancialIrregularities #DigitalSystems #ElectronicData #FinancialRecords #FinancialTransactions #SpecialisedSoftwareTools #DataExtraction #DataAnalysis #FinancialData #AccountingPrinciples #FinancialCrimeInvestigation #ExpertTestimony #FinancialAnalysis #Technology #Justice #FinancialStatementFraud #MoneyLaundering #AssetMisappropriation #CorporateInvestigators #LawEnforcementAgencies #Attorneys #CyberSecurity #FinancialCrimesUnit #FinancialInvestigations #ForensicAccounting #DigitalForensics #FinancialCrimePrevention #DigitalTrails #FinancialAnalysisTools #FinancialCrimeDetection #DataRecovery #FinancialFraudExamination #FinancialCrimeProsecution #DigitalEvidenceAnalysis #FinancialCrimeCompliance #FinancialCrimeConsulting #FinancialCrimeRiskManagement #ComputerForensics #AccountingFraud #ElectronicDiscovery #FinancialSystems #ForensicAuditing #InvestigativeAccounting #FinancialTransparency #RegulatoryCompliance #DataPrivacy #CyberFraud #FinancialCyberSecurity #FinancialCrimeTrends #FinancialDataAnalysis #FinancialCriminology #FinancialInstitutionSecurity #FinancialCrimeMitigation #FinancialCrimeReporting #FinancialCrimeLegislation #FinancialCrimeInvestigationsUnit #FinancialCrimeIntelligence #FinancialCrimePreventionTraining #FinancialCrimeDigitalEvidence #FinancialCrimeReduction #FinancialCrimeNotification
+- #ForensicAccounting #DigitalForensics #FinancialFraud #FinancialCrime #FinancialInvestigation #DigitalEvidence #FinancialTransactions #FraudDetection #DataRecovery #DataAnalysis #DataMining #StatisticalAnalysis #DigitalFootprints #FraudulentActivities #LitigationSupport #DisputeResolution #RiskAssessment #ExpertTestimony #DigitalAge #FinancialData #DataBreadcrumbs #TechnologyEvolution #DigitalForensicTools #ContinuousProfessionalDevelopment #AccountingDigitalForensicsCollaboration #JusticeInTheDigitalAge #FinancialIrregularities #AdmissibleInCourt #ElectronicRecords #DigitalForensicsProfessionals #ForensicAccountants #ComputerScienceAccounting #DigitalFootprint #HiddenConnections #TimelineOfEvents #KeyPlayers #DeletedFiles #EncryptedData #FinancialTransactionsReconstruction #FinancialDataAnalysis #BusinessActivities #CloudStorage #MobileDevices #Servers #SocialMediaPlatforms #FinancialManipulation #DataPreservation #DataCollection #SpecialisedSoftware #Methodologies #LegalPurposes #CriticalInsights #ComplexFinancialMatters #LawEnforcementAgencies #LegalProfessionals
 
-"Trong video này, em sẽ giới thiệu về kế toán pháp lý máy tính. Trong video này, em sẽ khám phá lĩnh vực hấp dẫn của kế toán pháp lý máy tính và tầm quan trọng của nó trong thời đại số ngày nay. Kế toán pháp lý máy tính là việc áp dụng các kỹ thuật điều tra pháp lý vào các giao dịch tài chính và hồ sơ trong môi trường số hóa. Nó kết hợp lĩnh vực kế toán, khoa học máy tính và cảnh sát để phát hiện gian lận tài chính, biển thủ và các tội phạm tài chính khác. Với sự phụ thuộc ngày càng tăng vào hệ thống số hóa cho các giao dịch tài chính, việc có các công cụ và chuyên môn để điều tra các bất thường tài chính trong không gian số đã trở nên cực kỳ quan trọng. Kế toán pháp lý máy tính đóng vai trò quan trọng trong việc phân tích dữ liệu điện tử, xác định bằng chứng và trình bày kết quả trong các vụ kiện pháp lý. Một trong những nhiệm vụ chính của một kế toán pháp lý máy tính là thu thập và phân tích bằng chứng số. Bằng chứng này có thể bao gồm hồ sơ tài chính, email, nhật ký trò chuyện, nhật ký giao dịch và các tài liệu điện tử khác. Bằng cách xem xét cẩn thận những dấu vết số này, kế toán pháp lý máy tính có thể tái tạo lại các giao dịch tài chính và phát hiện bất kỳ hoạt động gian lận nào."Các sếp có thể xem video hướng dẫn chi tiết ở phía dưới nhé".
-
-
-## COMPUTER FORENSIC ACCOUNTING
-
-Chào mừng bạn đến với video của tôi về "kế toán điều tra máy tính" (computer forensic accounting). Trong video này, tôi sẽ khám phá lĩnh vực hấp dẫn của kế toán pháp y máy tính và tầm quan trọng của nó trong thời đại kỹ thuật số ngày nay.. Kế toán pháp y máy tính là ứng dụng các kỹ thuật điều tra pháp y vào "giao dịch tài chính" (financial transactions) ​​và ghi lại trong "môi trường kỹ thuật số" (digital environment). Nó kết hợp các lĩnh vực kế toán, "khoa học máy tính" (computer science) và "thực thi pháp luật" (law enforcement) để phát hiện "gian lận tài chính" (financial fraud), "tham ô" (embezzlement) và các tội phạm tài chính khác.
-![COMPUTER FORENSIC ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--19766639021-Montserrat-Black-9C27B0.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-50473820329.mp3" type="audio/mpeg">
-</audio>
-
+"Trong video này, tôi sẽ khám phá thế giới hấp dẫn nơi khoa học máy tính và kế toán giao nhau, cung cấp một công cụ mạnh mẽ để điều tra gian lận tài chính và các tội phạm tài chính khác. Kế toán pháp y máy tính kết hợp chuyên môn của kế toán pháp y và chuyên gia pháp y kỹ thuật số để khám phá bằng chứng kỹ thuật số và phân tích các giao dịch tài chính. Vì vậy, hãy cùng tìm hiểu sâu hơn và khám phá những điểm phức tạp của lĩnh vực này. Kế toán điều tra liên quan đến việc áp dụng các nguyên tắc và kỹ thuật kế toán để điều tra những bất thường về tài chính, thường là vì mục đích pháp lý. kỹ thuật kiểm tra hồ sơ điện tử, theo dõi các giao dịch tài chính và phát hiện gian lận Thời đại kỹ thuật số đã cách mạng hóa cách thức các giao dịch tài chính diễn ra, với một phần đáng kể các hoạt động kinh doanh diễn ra bằng điện tử. phần mềm và phương pháp để thu thập, bảo quản và phân tích bằng chứng kỹ thuật số. Các Boss có thể xem video hướng dẫn chi tiết ở bên dưới nhé."
 
 
 ## COMPUTER FORENSIC ACCOUNTING
 
-Với sự phụ thuộc ngày càng tăng vào "hệ thống kỹ thuật số" (digital systems) cho "giao dịch tài chính" (financial transactions), việc có các công cụ và kiến ​​thức chuyên môn để điều tra những bất thường về tài chính trong lĩnh vực kỹ thuật số đã trở nên quan trọng. Kế toán pháp y máy tính đóng một vai trò quan trọng trong việc phân tích "dữ liệu điện tử" (electronic data), xác định "bằng chứng" (evidence) và trình bày các phát hiện trong thủ tục tố tụng pháp lý.
-![COMPUTER FORENSIC ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--36509831917-Montserrat-Thin-7B1FA2.jpg)
+Chào mừng bạn đến với video của tôi về "kế toán điều tra máy tính" (computer forensic accounting). Trong video này, tôi sẽ khám phá thế giới hấp dẫn nơi khoa học máy tính và kế toán giao nhau, cung cấp một công cụ mạnh mẽ để điều tra "gian lận tài chính" (financial fraud) và các "tội phạm tài chính" khác (financial crimes). Kế toán pháp y trên máy tính kết hợp kiến ​​thức chuyên môn của "kế toán pháp y" (forensic accountants) và các chuyên gia pháp y kỹ thuật số để khám phá "bằng chứng kỹ thuật số" (digital evidence) và phân tích "các giao dịch tài chính" (financial transactions). Vì vậy, hãy cùng đi sâu và khám phá những điều phức tạp của lĩnh vực này.
+![COMPUTER FORENSIC ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-17936184786-Montserrat-Thin-1A237E.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-20891275563.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## DIGITAL EVIDENCE
-
-Một trong những nhiệm vụ chính của kế toán điều tra máy tính là thu thập và phân tích "bằng chứng kỹ thuật số" (digital evidence). Bằng chứng này có thể bao gồm "hồ sơ tài chính" (financial records), "email" (emails), "nhật ký trò chuyện" (chat logs), "nhật ký giao dịch" (transaction logs) và "tài liệu điện tử" khác (electronic documents). Bằng cách kiểm tra cẩn thận những dấu vết kỹ thuật số này, kế toán viên điều tra có thể tái tạo lại "các giao dịch tài chính" (financial transactions) ​​và phát hiện bất kỳ "hoạt động lừa đảo" nào (fraudulent activities).
-![DIGITAL EVIDENCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--1701567651-Montserrat-Medium-303F9F.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-6930658426.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## HIDDEN OR DELETED FILES
-
-Kế toán điều tra máy tính cũng sử dụng các công cụ phần mềm chuyên dụng để trích xuất và phân tích dữ liệu từ máy tính, máy chủ và các thiết bị kỹ thuật số khác. Những công cụ này giúp xác định "tệp bị ẩn hoặc bị xóa" (hidden or deleted files), theo dõi các giao dịch tài chính và "phát hiện bằng chứng" (uncovering evidence) có thể đã bị cố tình che giấu.
-![HIDDEN OR DELETED FILES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--28151060053-Montserrat-SemiBold-7B1FA2.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-12424736016.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-60427321539.mp3" type="audio/mpeg">
 </audio>
 
 
 
 ## FORENSIC ACCOUNTING
 
-Ngoài việc phân tích "bằng chứng kỹ thuật số" (digital evidence), kế toán viên pháp y máy tính còn có kỹ năng diễn giải "dữ liệu tài chính" (financial data). Họ có hiểu biết sâu sắc về "nguyên tắc kế toán" (accounting principles) và có thể xác định "những điểm bất thường" (irregularities) hoặc "sự khác biệt" (discrepancies) trong "hồ sơ tài chính" (financial records). Chuyên môn này cho phép họ phát hiện "các hoạt động lừa đảo" (fraudulent activities), chẳng hạn như "rửa tiền" (money laundering), "chiếm đoạt tài sản" (asset misappropriation) hoặc gian lận báo cáo tài chính.
-![FORENSIC ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-1905700547-Montserrat-ExtraBold-283593.jpg)
+Để hiểu "kế toán pháp y" trên máy tính (forensic accounting), trước tiên điều cần thiết là phải nắm được khái niệm về kế toán pháp y. Kế toán pháp y liên quan đến việc áp dụng các nguyên tắc và kỹ thuật kế toán để điều tra những bất thường về tài chính, thường là vì "mục đích pháp lý" (legal purposes). Nó nhằm mục đích khám phá bằng chứng, phân tích "dữ liệu tài chính" (financial data) và trình bày các phát hiện theo cách được chấp nhận trước tòa. Kế toán điều tra máy tính tiến thêm một bước nữa bằng cách tận dụng các công cụ và kỹ thuật "điều tra kỹ thuật số" (digital forensics) để kiểm tra "hồ sơ điện tử" (electronic records), theo dõi các giao dịch tài chính và phát hiện "gian lận" (fraud).
+![FORENSIC ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-18073831457-Montserrat-Regular-004895.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-2345288220.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-10543974157.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## LAW ENFORCEMENT
+## DIGITAL AGE
 
-Kế toán pháp y máy tính thường cộng tác với các cơ quan thực thi pháp luật, "luật sư" (attorneys) và "điều tra viên của công ty" (corporate investigators). Họ hỗ trợ "điều tra tội phạm" (criminal investigations), cung cấp "lời khai của chuyên gia" (expert testimony) tại "tòa án" (court) và đưa ra hướng dẫn về việc thực hiện "các biện pháp" (measures) để "ngăn chặn" (prevent) "tội phạm tài chính trong tương lai" (future financial crimes).
-![LAW ENFORCEMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-17531030459-Montserrat-Regular-283593.jpg)
+"Thời đại kỹ thuật số" (digital age) đã cách mạng hóa cách thức giao dịch tài chính diễn ra, với một phần đáng kể "hoạt động kinh doanh" (business activities) diễn ra "điện tử" (electronically). Sự thay đổi này đã tạo ra cơ hội mới cho "tội phạm" (criminals) thao túng dữ liệu tài chính, để lại "dấu chân kỹ thuật số" (digital footprints). Kế toán điều tra máy tính đóng một vai trò quan trọng trong việc chống lại các mối đe dọa này bằng cách sử dụng "phần mềm chuyên dụng" (specialized software) và "các phương pháp" (methodologies) để thu thập, bảo quản và phân tích bằng chứng kỹ thuật số.
+![DIGITAL AGE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--7555327584-Montserrat-Bold-283593.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-19244295039.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-23948647422.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## FORENSIC ACCOUNTANTS
+
+Một trong những mục tiêu chính của kế toán điều tra máy tính là xác định và khôi phục dữ liệu tài chính có liên quan từ nhiều "nguồn kỹ thuật số" khác nhau (digital sources). Các nguồn này có thể bao gồm "máy tính" (computers), "máy chủ" (servers), "thiết bị di động" (mobile devices), "lưu trữ đám mây" (cloud storage) và thậm chí cả "nền tảng truyền thông xã hội" (social media platforms). Bằng cách sử dụng các kỹ thuật khôi phục dữ liệu nâng cao và "phần mềm chuyên dụng" (specialized software), kế toán viên pháp y có thể truy xuất "các tệp đã bị xóa hoặc bị ẩn" (deleted or hidden files), khám phá "dữ liệu được mã hóa" (encrypted data) và xây dựng lại các giao dịch tài chính.
+![FORENSIC ACCOUNTANTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--15607056346-Montserrat-ExtraBold-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-37849630454.mp3" type="audio/mpeg">
 </audio>
 
 
 
 ## FINANCIAL FRAUD
 
-Tầm quan trọng của kế toán điều tra máy tính không thể bị phóng đại. Tội phạm tài chính trong "thế giới kỹ thuật số" (digital world) ngày càng trở nên "tinh vi" (sophisticated) và chỉ riêng phương pháp kế toán truyền thống là không đủ để phát hiện và điều tra chúng. Kế toán điều tra máy tính thu hẹp khoảng cách giữa "phân tích tài chính" (financial analysis) và "công nghệ" (technology), đảm bảo rằng "công lý" (justice) được phục vụ trong các trường hợp liên quan đến "gian lận tài chính" (financial fraud).
-![FINANCIAL FRAUD](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--26352595708-Montserrat-Black-880E4F.jpg)
+Sau khi dữ liệu tài chính được thu thập, bước tiếp theo là phân tích dữ liệu đó để phát hiện bất kỳ dấu hiệu nào của "hoạt động lừa đảo" (fraudulent activities). Kế toán điều tra máy tính sử dụng "công cụ phân tích dữ liệu" (data analysis tools) để kiểm tra khối lượng lớn "hồ sơ tài chính" (financial records), tìm kiếm các mô hình, điểm bất thường hoặc sự không nhất quán có thể cho thấy gian lận. Các công cụ này có thể thực hiện các tác vụ như "khai thác dữ liệu" (data mining), "phân tích thống kê" (statistical analysis) và "trực quan hóa" (visualization), cho phép các nhà điều tra xác định những bất thường mà có thể không được chú ý.
+![FINANCIAL FRAUD](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-15026217484-Montserrat-Black-303F9F.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-8918945102.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-38970102228.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## DIGITAL FOOTPRINTS
+
+Ngoài việc phân tích dữ liệu tài chính, kế toán điều tra máy tính còn đi sâu vào "dấu chân kỹ thuật số" (digital footprints) do các cá nhân liên quan đến "tội phạm tài chính" (financial crimes) để lại. Họ kiểm tra "thông tin liên lạc qua email" (email communications), "nhật ký trò chuyện" (chat logs), "lịch sử duyệt web" (browsing history) và các "tạo tác kỹ thuật số" khác (digital artifacts) để thiết lập "dòng thời gian của sự kiện" (timeline of events ), xác định "những người chơi chính" (key players) và khám phá "các kết nối ẩn" (hidden connections). Những "mục đích kỹ thuật số" (digital breadcrumbs) này có thể cung cấp thông tin chi tiết quan trọng về "động cơ" (motives), "ý định" (intentions) và hành động của những người liên quan đến hoạt động lừa đảo.
+![DIGITAL FOOTPRINTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-9820282559-Montserrat-Black-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-14862532528.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## LITIGATION SUPPORT
+
+Điều đáng chú ý là kế toán điều tra máy tính không chỉ giới hạn trong việc điều tra "gian lận tài chính" (financial fraud). Nó cũng đóng một vai trò quan trọng trong "hỗ trợ kiện tụng" (litigation support), "giải quyết tranh chấp" (dispute resolution) và "đánh giá rủi ro" (risk assessment). Kế toán pháp y có thể cung cấp "lời khai của chuyên gia" (expert testimony) dựa trên "phát hiện" của họ (findings), hỗ trợ "thủ tục pháp lý" (legal proceedings) và hỗ trợ "thu hồi tài sản" (recovering assets) trong trường hợp "phá sản" (bankruptcy) hoặc "vỡ nợ" (insolvency). Chuyên môn của họ là vô giá đối với "doanh nghiệp" (businesses), cơ quan thực thi pháp luật và "chuyên gia pháp lý" (legal professionals) xử lý các vấn đề tài chính phức tạp.
+![LITIGATION SUPPORT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-24567600546-Montserrat-Regular-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-31869863017.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## DIGITAL FORENSICS
+
+Khi công nghệ tiếp tục phát triển, những thách thức mà các kế toán viên pháp y máy tính phải đối mặt cũng tăng theo. Họ phải luôn cập nhật "công cụ pháp y kỹ thuật số" (digital forensic tools), "kỹ thuật" (techniques) và "yêu cầu pháp lý" (legal requirements) mới nhất để điều tra hiệu quả "tội phạm tài chính" (financial crimes) trong bối cảnh đang thay đổi nhanh chóng này . Sự phát triển chuyên môn liên tục và "sự cộng tác" (collaboration) giữa "kế toán" (accounting) và các chuyên gia pháp y kỹ thuật số là rất quan trọng cho sự tiến bộ của lĩnh vực này và đảm bảo công lý trong thời đại kỹ thuật số.
+![DIGITAL FORENSICS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--6628234609-Montserrat-Medium-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-39698271101.mp3" type="audio/mpeg">
 </audio>
 
 
 
 ## FINANCIAL CRIMES
 
-Tóm lại, "kế toán" pháp y máy tính (accounting) là một lĩnh vực chuyên môn kết hợp kế toán, "khoa học máy tính" (computer science) và "kỹ năng điều tra" (investigative skills) để phát hiện "gian lận tài chính" (financial fraud) và các lĩnh vực khác "tội phạm tài chính" (financial crimes) trong "lĩnh vực kỹ thuật số" (digital realm). Với sự tiến bộ nhanh chóng của "công nghệ" (technology), vai trò của kế toán pháp y máy tính đã trở nên không thể thiếu trong xã hội ngày nay. Chuyên môn của họ trong việc phân tích "bằng chứng kỹ thuật số" (digital evidence) và diễn giải "dữ liệu tài chính" (financial data) đóng vai trò quan trọng trong việc "phát hiện" (detecting) và "ngăn chặn" (preventing) tội phạm tài chính.
-![FINANCIAL CRIMES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-3475863378-Montserrat-SemiBold-512DA8.jpg)
+Tóm lại, "kế toán" điều tra máy tính (accounting) là một lĩnh vực chuyên biệt kết hợp "các nguyên tắc" (disciplines) kế toán và "điều tra kỹ thuật số" (digital forensics) để điều tra "tội phạm tài chính" (financial crimes) và cung cấp " phân tích của chuyên gia" (expert analysis) trong "thủ tục pháp lý" (legal proceedings). Bằng cách tận dụng "công nghệ" (technology) và các kỹ thuật phân tích dữ liệu nâng cao, kế toán viên điều tra có thể phát hiện ra "các giao dịch tài chính" ẩn (financial transactions), theo dõi "dấu chân kỹ thuật số" (digital footprints) và đưa "những kẻ lừa đảo tài chính" (financial fraudsters) đến "công lý" (justice). Khi công nghệ tiếp tục phát triển, kế toán điều tra máy tính sẽ vẫn là "công cụ thiết yếu" (essential tool) trong cuộc chiến chống tội phạm tài chính.
+![FINANCIAL CRIMES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--1762396869-Montserrat-Medium-673AB7.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-2717892267.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-37801164623.mp3" type="audio/mpeg">
 </audio>
 
