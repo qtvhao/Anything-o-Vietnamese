@@ -88,6 +88,7 @@
       - [Profitability-Ratios.md](./Accounting/Financial-Statement-Analysis/Profitability-Ratios.md)
     - [Financial-Statement-Analysis.md](./Accounting/Financial-Statement-Analysis.md)
     - [Forensic-Accounting](./Accounting/Forensic-Accounting)
+      - [Anti-money-laundering.md](./Accounting/Forensic-Accounting/Anti-money-laundering.md)
       - [Bribery-and-corruption.md](./Accounting/Forensic-Accounting/Bribery-and-corruption.md)
       - [Computer-forensic-accounting.md](./Accounting/Forensic-Accounting/Computer-forensic-accounting.md)
       - [Procurement-fraud.md](./Accounting/Forensic-Accounting/Procurement-fraud.md)
