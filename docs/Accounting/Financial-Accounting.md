@@ -14,7 +14,7 @@
 ## FINANCIAL ACCOUNTING
 
 Chào mừng bạn đến với video của tôi về "kế toán tài chính" (financial accounting)! Trong video này, tôi sẽ khám phá các nguyên tắc cơ bản của kế toán tài chính và vai trò quan trọng của nó trong thế giới kinh doanh. Kế toán tài chính là quá trình ghi lại, "tóm tắt" (summarizing) và "báo cáo" (reporting) "giao dịch tài chính" (financial transactions) ​​và thông tin của một "tổ chức" (organization). Nó cung cấp một bức tranh rõ ràng về "sức khỏe tài chính" của công ty (financial health) và giúp "các bên liên quan" (stakeholders) đưa ra "quyết định sáng suốt" (informed decisions). Vì vậy, hãy cùng đi sâu vào thế giới kế toán tài chính và khám phá "các khái niệm chính" (key concepts) và các nguyên tắc của nó.
-![FINANCIAL ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--16556564408-Montserrat-Bold-9C27B0.jpg)
+![FINANCIAL ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--16556564408-Montserrat-SemiBold-512DA8.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-10514678172.mp3" type="audio/mpeg">
 </audio>
@@ -24,7 +24,7 @@ Chào mừng bạn đến với video của tôi về "kế toán tài chính" (
 ## FINANCIAL TRANSACTIONS
 
 Để bắt đầu, "kế toán tài chính" (financial accounting) liên quan đến việc ghi lại một cách có hệ thống các "giao dịch tài chính" (financial transactions). Điều này bao gồm thu thập dữ liệu liên quan đến "bán hàng" (sales), "mua hàng" (purchases), "chi phí" (expenses) và "đầu tư" (investments). Các giao dịch này được ghi lại trong "báo cáo tài chính" (financial statements), rất cần thiết để đánh giá "kết quả tài chính" (financial performance) và vị thế của một công ty. Bằng cách tuân theo "các nguyên tắc kế toán" được tiêu chuẩn hóa (accounting principles), kế toán viên tài chính đảm bảo rằng thông tin được ghi lại là "chính xác" (accurate), "đáng tin cậy" (reliable) và nhất quán.
-![FINANCIAL TRANSACTIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-12845625553-Montserrat-ExtraBold-303F9F.jpg)
+![FINANCIAL TRANSACTIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-12845625553-Montserrat-Bold-303F9F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-35902090306.mp3" type="audio/mpeg">
 </audio>
@@ -44,7 +44,7 @@ Một trong những mục tiêu chính của "kế toán tài chính" (financial
 ## ACCOUNTING EQUATION
 
 Một khía cạnh quan trọng khác của kế toán tài chính là khái niệm ghi sổ kế toán kép. Hệ thống này đảm bảo rằng mọi giao dịch tài chính đều có tác động như nhau và ngược chiều đối với ít nhất hai tài khoản khác nhau. Mỗi giao dịch được ghi lại bằng "mục ghi nợ" (debit entry) và "mục ghi có" tương ứng (credit entry). Nguyên tắc này dựa trên "phương trình kế toán" (accounting equation), trong đó nêu rõ rằng "tài sản" (assets) bằng "nợ phải trả" (liabilities) cộng với vốn chủ sở hữu của cổ đông. Việc ghi sổ kế toán kép nâng cao tính chính xác và toàn vẹn của hồ sơ tài chính, giảm nguy cơ sai sót hoặc gian lận.
-![ACCOUNTING EQUATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-10984010874-Montserrat-Bold-512DA8.jpg)
+![ACCOUNTING EQUATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-10984010874-Montserrat-SemiBold-9C27B0.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-27780561902.mp3" type="audio/mpeg">
 </audio>
@@ -54,7 +54,7 @@ Một khía cạnh quan trọng khác của kế toán tài chính là khái ni�
 ## FINANCIAL REPORTING
 
 Kế toán tài chính cũng dựa vào các tiêu chuẩn và khuôn khổ kế toán khác nhau để đảm bảo tính nhất quán và khả năng so sánh trong "báo cáo tài chính" (financial reporting). Một trong những tiêu chuẩn được áp dụng rộng rãi nhất là Nguyên tắc kế toán được chấp nhận chung (GAAP). GAAP cung cấp các hướng dẫn và nguyên tắc để lập "báo cáo tài chính" (financial statements) tại Hoa Kỳ, trong khi Chuẩn mực Báo cáo Tài chính Quốc tế (IFRS) được sử dụng ở nhiều nơi khác trên thế giới. Các tiêu chuẩn này giúp đảm bảo rằng thông tin tài chính là "minh bạch" (transparent), "đáng tin cậy" (reliable) và "hữu ích" (useful) cho cả các bên liên quan bên trong và bên ngoài.
-![FINANCIAL REPORTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--21234491938-Montserrat-SemiBold-1A237E.jpg)
+![FINANCIAL REPORTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--21234491938-Montserrat-Medium-9C27B0.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-46189911144.mp3" type="audio/mpeg">
 </audio>
@@ -64,7 +64,7 @@ Kế toán tài chính cũng dựa vào các tiêu chuẩn và khuôn khổ kế
 ## FINANCIAL PERFORMANCE
 
 Ngoài "báo cáo tài chính" (financial statements), "kế toán tài chính" (financial accounting) còn liên quan đến việc phân tích và giải thích "dữ liệu tài chính" (financial data). Phân tích này giúp "các bên liên quan" (stakeholders) đánh giá "hiệu quả tài chính" (financial performance) của công ty, "xác định xu hướng" (identify trends) và đưa ra "quyết định sáng suốt" (informed decisions). Các tỷ số tài chính, chẳng hạn như "tỷ lệ lợi nhuận" (profitability ratios), "tỷ lệ thanh khoản" (liquidity ratios) và "tỷ lệ khả năng thanh toán" (solvency ratios), thường được sử dụng để đánh giá "sức khỏe tài chính" của công ty (financial health). Các tỷ lệ này cung cấp "cái nhìn sâu sắc" (insights) về lợi nhuận, tính thanh khoản và khả năng đáp ứng các nghĩa vụ dài hạn của công ty.
-![FINANCIAL PERFORMANCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-17477096643-Montserrat-Thin-7B1FA2.jpg)
+![FINANCIAL PERFORMANCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-17477096643-Montserrat-Bold-4A148C.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-52597209510.mp3" type="audio/mpeg">
 </audio>
@@ -74,7 +74,7 @@ Ngoài "báo cáo tài chính" (financial statements), "kế toán tài chính" 
 ## PERSONAL FINANCES
 
 Cuối cùng, điều quan trọng cần lưu ý là "kế toán tài chính" (financial accounting) không chỉ liên quan đến các tập đoàn lớn mà còn liên quan đến "doanh nghiệp nhỏ" (small businesses) và "cá nhân" (individuals). Hiểu các nguyên tắc và khái niệm kế toán cơ bản có thể giúp các cá nhân quản lý "tài chính cá nhân" (personal finances) một cách hiệu quả. Các doanh nghiệp nhỏ có thể sử dụng kế toán tài chính để theo dõi "thu nhập" (income) và "chi phí" (expenses), đánh giá "khả năng sinh lời" (profitability) và đưa ra quyết định kinh doanh sáng suốt.
-![PERSONAL FINANCES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--38732606298-Montserrat-ExtraBold-4A148C.jpg)
+![PERSONAL FINANCES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--38732606298-Montserrat-Regular-283593.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-26342361330.mp3" type="audio/mpeg">
 </audio>
@@ -84,7 +84,7 @@ Cuối cùng, điều quan trọng cần lưu ý là "kế toán tài chính" (f
 ## FINANCIAL INFORMATION
 
 Tóm lại, "kế toán tài chính" (financial accounting) là một môn học quan trọng cho phép doanh nghiệp và các bên liên quan hiểu và phân tích "thông tin tài chính" (financial information) một cách chính xác. Bằng cách ghi lại và tóm tắt "các giao dịch tài chính" (financial transactions), chuẩn bị "báo cáo tài chính" (financial statements) và tuân thủ "chuẩn mực kế toán" (accounting standards), "kế toán tài chính" (financial accountants) cung cấp những hiểu biết có giá trị về " sức khỏe tài chính" (financial health). Cho dù bạn là "chủ doanh nghiệp" (business owner), "nhà đầu tư" (investor) hay cá nhân, sự hiểu biết cơ bản về các nguyên tắc kế toán tài chính có thể giúp ích rất nhiều trong việc đưa ra "quyết định tài chính" sáng suốt (financial decisions). Cảm ơn bạn đã xem video này về kế toán tài chính và tôi hy vọng bạn thấy nó có nhiều thông tin và hữu ích.
-![FINANCIAL INFORMATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-33075662744-Montserrat-Bold-004895.jpg)
+![FINANCIAL INFORMATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-33075662744-Montserrat-Thin-673AB7.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-482911780.mp3" type="audio/mpeg">
 </audio>
