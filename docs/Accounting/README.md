@@ -42,6 +42,7 @@
     - [Fraud-Prevention.md](./Fraud-Prevention.md)
     - [Sarbanes-Oxley-Act.md](./Sarbanes-Oxley-Act.md)
     - [Shareholder-Rights.md](./Shareholder-Rights.md)
+  - [Corporate-Governance.md](./Corporate-Governance.md)
   - [Cost-Accounting](./Cost-Accounting/)
     - [Absorption-Costing.md](./Absorption-Costing.md)
     - [Activity-Based-Costing.md](./Activity-Based-Costing.md)
