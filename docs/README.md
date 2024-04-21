@@ -23,6 +23,7 @@
     - [Budgeting](./Accounting/Budgeting)
       - [Budgeting-Control.md](./Accounting/Budgeting/Budgeting-Control.md)
       - [Budgeting-Forecasting.md](./Accounting/Budgeting/Budgeting-Forecasting.md)
+      - [Budgeting-Process.md](./Accounting/Budgeting/Budgeting-Process.md)
       - [Business-Budgeting.md](./Accounting/Budgeting/Business-Budgeting.md)
       - [Personal-Budgeting.md](./Accounting/Budgeting/Personal-Budgeting.md)
     - [Budgeting.md](./Accounting/Budgeting.md)
