@@ -14,7 +14,7 @@
 ## GOVERNMENT INTERNAL CONTROLS
 
 Chào mừng bạn đến với video của tôi về Kiểm soát nội bộ của Chính phủ. Trong video này, tôi sẽ khám phá tầm quan trọng của kiểm soát nội bộ trong các tổ chức chính phủ và cách chúng giúp đảm bảo "tính minh bạch" (transparency), "trách nhiệm giải trình" (accountability) và "hiệu quả" (efficiency) trong việc sử dụng "công khai". tài nguyên" (public resources).
-![GOVERNMENT INTERNAL CONTROLS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-16931117486-Montserrat-ExtraBold-7B1FA2.jpg)
+![GOVERNMENT INTERNAL CONTROLS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-16931117486-Montserrat-Regular-004895.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-12659572316.mp3" type="audio/mpeg">
 </audio>
@@ -24,7 +24,7 @@ Chào mừng bạn đến với video của tôi về Kiểm soát nội bộ c�
 ## GOVERNMENT INTERNAL CONTROLS
 
 Chính quyền các cấp, từ chính quyền địa phương đến chính quyền quốc gia, chịu trách nhiệm quản lý số lượng lớn "quỹ công" (public funds) và "tài nguyên" (resources). Kiểm soát nội bộ đóng một vai trò quan trọng trong việc đảm bảo rằng các nguồn lực này được sử dụng phù hợp với luật pháp, quy định và chính sách.
-![GOVERNMENT INTERNAL CONTROLS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--1140947373-Montserrat-Thin-7B1FA2.jpg)
+![GOVERNMENT INTERNAL CONTROLS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--1140947373-Montserrat-Bold-673AB7.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-8884642176.mp3" type="audio/mpeg">
 </audio>
@@ -34,7 +34,7 @@ Chính quyền các cấp, từ chính quyền địa phương đến chính quy
 ## INTERNAL CONTROLS
 
 Vậy chính xác thì "kiểm soát nội bộ" (internal controls) là gì? Nói một cách đơn giản, kiểm soát nội bộ là các quy trình, thủ tục và cơ chế được đưa ra để "bảo vệ tài sản" (safeguard assets), "ngăn chặn gian lận" (prevent fraud), "phát hiện lỗi" (detect errors) và nâng cao độ tin cậy và tính toàn vẹn của thông tin tài chính và hoạt động.
-![INTERNAL CONTROLS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--2278753246-Montserrat-ExtraBold-512DA8.jpg)
+![INTERNAL CONTROLS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--2278753246-Montserrat-Black-880E4F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-12804354973.mp3" type="audio/mpeg">
 </audio>
@@ -44,7 +44,7 @@ Vậy chính xác thì "kiểm soát nội bộ" (internal controls) là gì? N�
 ## PREVENT FRAUD
 
 Một trong những mục tiêu chính của "kiểm soát nội bộ" (internal controls) trong chính phủ là ngăn chặn và phát hiện "gian lận" (fraud). Với số tiền lớn liên quan đến "tài chính công" (public finances), nguy cơ gian lận là mối lo ngại thường xuyên. Kiểm soát nội bộ giúp xác định các hoạt động gian lận tiềm ẩn, "ngăn chặn" (deter) các cá nhân tham gia vào "hành vi sai trái" (wrongful acts) và cung cấp cơ chế "báo cáo" (reporting) và điều tra các hoạt động đáng ngờ.
-![PREVENT FRAUD](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--28050161490-Montserrat-Black-673AB7.jpg)
+![PREVENT FRAUD](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--28050161490-Montserrat-Bold-512DA8.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-23007537738.mp3" type="audio/mpeg">
 </audio>
@@ -54,7 +54,7 @@ Một trong những mục tiêu chính của "kiểm soát nội bộ" (internal
 ## ACCOUNTABILITY
 
 Một khía cạnh quan trọng khác của "kiểm soát nội bộ" (internal controls) là vai trò của chúng trong việc đảm bảo "trách nhiệm giải trình" (accountability). Các chính phủ chịu trách nhiệm trước công chúng về việc sử dụng "tiền của người nộp thuế" (taxpayer money) và các biện pháp kiểm soát nội bộ giúp đảm bảo rằng tiền được sử dụng cho "mục đích đã định" của họ (intended purposes). Bằng cách thiết lập các ranh giới quyền hạn và trách nhiệm rõ ràng, "phân chia nhiệm vụ" (segregation of duties) và "giám sát" thường xuyên (monitoring) và "báo cáo" (reporting), kiểm soát nội bộ cung cấp khuôn khổ cho trách nhiệm giải trình và ngăn chặn việc lạm dụng nguồn lực công .
-![ACCOUNTABILITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--19655018927-Montserrat-Bold-7B1FA2.jpg)
+![ACCOUNTABILITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--19655018927-Montserrat-Bold-880E4F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-4509172512.mp3" type="audio/mpeg">
 </audio>
@@ -64,7 +64,7 @@ Một khía cạnh quan trọng khác của "kiểm soát nội bộ" (internal 
 ## EFFICIENCY
 
 Hiệu quả là một lợi ích khác của "kiểm soát nội bộ" hiệu quả (internal controls). Bằng cách thiết lập "các quy trình được tiêu chuẩn hóa" (standardized processes), hợp lý hóa "quy trình làm việc" (workflows) và giảm thiểu "các nỗ lực trùng lặp" (duplication of efforts), kiểm soát nội bộ giúp các tổ chức chính phủ hoạt động hiệu quả hơn. Điều này có thể dẫn đến "tiết kiệm chi phí" (cost savings), "cung cấp dịch vụ" được cải thiện (service delivery) và sử dụng tài nguyên tốt hơn.
-![EFFICIENCY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--2647339614-Montserrat-SemiBold-004895.jpg)
+![EFFICIENCY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--2647339614-Montserrat-ExtraBold-283593.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-11401035617.mp3" type="audio/mpeg">
 </audio>
@@ -74,7 +74,7 @@ Hiệu quả là một lợi ích khác của "kiểm soát nội bộ" hiệu q
 ## OPERATIONAL CONTROLS
 
 Ngoài kiểm soát tài chính, kiểm soát nội bộ trong chính phủ còn bao gồm "kiểm soát hoạt động" (operational controls). Các biện pháp kiểm soát này đảm bảo rằng "các chương trình của chính phủ" (government programs) và "dịch vụ" (services) được cung cấp một cách hiệu quả và năng suất. Chúng bao gồm các biện pháp như "giám sát hiệu suất" (performance monitoring), "đảm bảo chất lượng" (quality assurance) và "tuân thủ" (compliance) với luật và quy định hiện hành.
-![OPERATIONAL CONTROLS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--9876178971-Montserrat-Regular-283593.jpg)
+![OPERATIONAL CONTROLS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--9876178971-Montserrat-Bold-9C27B0.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-39966736140.mp3" type="audio/mpeg">
 </audio>
@@ -84,7 +84,7 @@ Ngoài kiểm soát tài chính, kiểm soát nội bộ trong chính phủ còn
 ## CHANGING CIRCUMSTANCES
 
 Điều quan trọng cần lưu ý là "kiểm soát nội bộ" (internal controls) không phải là tĩnh. Chúng phải được "đánh giá thường xuyên" (regularly assessed), "cập nhật" (updated) và "điều chỉnh" (adapted) để "hoàn cảnh thay đổi" (changing circumstances). Điều này đảm bảo rằng các biện pháp kiểm soát "vẫn hiệu quả" (remain effective) trong việc giải quyết "rủi ro mới nổi" (emerging risks) và "thách thức" (challenges) mà các tổ chức chính phủ phải đối mặt.
-![CHANGING CIRCUMSTANCES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--28507561707-Montserrat-ExtraBold-1A237E.jpg)
+![CHANGING CIRCUMSTANCES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--28507561707-Montserrat-Thin-1A237E.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-8177373039.mp3" type="audio/mpeg">
 </audio>
@@ -94,7 +94,7 @@ Ngoài kiểm soát tài chính, kiểm soát nội bộ trong chính phủ còn
 ## PUBLIC RESOURCES
 
 Tóm lại, "kiểm soát nội bộ" (internal controls) rất quan trọng để chính phủ thúc đẩy "tính minh bạch" (transparency), "trách nhiệm giải trình" (accountability) và "hiệu quả" (efficiency). Chúng giúp bảo vệ tài nguyên công cộng, "ngăn chặn gian lận" (prevent fraud) và đảm bảo rằng "tiền của người nộp thuế" (taxpayer money) được sử dụng hiệu quả và đúng "mục đích đã định" (intended purposes). Bằng cách thiết lập các biện pháp kiểm soát nội bộ mạnh mẽ, các chính phủ có thể nâng cao lòng tin, bảo vệ lợi ích công cộng và duy trì các nguyên tắc quản trị tốt.
-![PUBLIC RESOURCES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--23326304959-Montserrat-Regular-303F9F.jpg)
+![PUBLIC RESOURCES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--23326304959-Montserrat-Regular-7B1FA2.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-4193899813.mp3" type="audio/mpeg">
 </audio>
@@ -104,7 +104,7 @@ Tóm lại, "kiểm soát nội bộ" (internal controls) rất quan trọng đ�
 ## GOVERNMENT INTERNAL CONTROLS
 
 Cảm ơn bạn đã xem video này về Cơ quan Kiểm soát Nội bộ của Chính phủ. Chúng tôi hy vọng bây giờ bạn đã hiểu rõ hơn về tầm quan trọng của kiểm soát nội bộ trong lĩnh vực tổ chức chính phủ. Nếu bạn thấy video này có nhiều thông tin, vui lòng thích và đăng ký để có thêm nội dung về "quản trị" (governance) và "hành chính công" (public administration).
-![GOVERNMENT INTERNAL CONTROLS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-28711771153-Montserrat-Regular-9C27B0.jpg)
+![GOVERNMENT INTERNAL CONTROLS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-28711771153-Montserrat-Regular-880E4F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-41860056665.mp3" type="audio/mpeg">
 </audio>
