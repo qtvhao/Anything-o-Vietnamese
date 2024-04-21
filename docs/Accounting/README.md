@@ -27,6 +27,8 @@
     - [Non-profit-Budgeting.md](./Non-profit-Budgeting.md)
     - [Personal-Budgeting.md](./Personal-Budgeting.md)
   - [Budgeting.md](./Budgeting.md)
+  - [Corporate-Governance](./Corporate-Governance/)
+    - [Auditor-Independence.md](./Auditor-Independence.md)
   - [Cost-Accounting](./Cost-Accounting/)
     - [Activity-Based-Costing.md](./Activity-Based-Costing.md)
     - [Cost-of-Goods-Sold.md](./Cost-of-Goods-Sold.md)
