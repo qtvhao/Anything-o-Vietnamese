@@ -31,6 +31,8 @@
         - [Financial-Modeling.md](./Accounting/Financial-Accounting/Financial-Analysis/Financial-Modeling.md)
         - [Horizontal-Analysis.md](./Accounting/Financial-Accounting/Financial-Analysis/Horizontal-Analysis.md)
         - [Ratio-Analysis.md](./Accounting/Financial-Accounting/Financial-Analysis/Ratio-Analysis.md)
+      - [Financial-Ratio-Analysis](./Accounting/Financial-Accounting/Financial-Ratio-Analysis)
+        - [Solvency-Ratios.md](./Accounting/Financial-Accounting/Financial-Ratio-Analysis/Solvency-Ratios.md)
       - [Financial-Ratio-Analysis.md](./Accounting/Financial-Accounting/Financial-Ratio-Analysis.md)
       - [Financial-Reporting.md](./Accounting/Financial-Accounting/Financial-Reporting.md)
       - [Fraud-Detection.md](./Accounting/Financial-Accounting/Fraud-Detection.md)
