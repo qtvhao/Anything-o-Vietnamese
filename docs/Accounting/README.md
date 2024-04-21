@@ -30,6 +30,7 @@
   - [Corporate-Governance](./Corporate-Governance/)
     - [Audit-Committees.md](./Audit-Committees.md)
     - [Auditor-Independence.md](./Auditor-Independence.md)
+    - [Corporate-Responsibility.md](./Corporate-Responsibility.md)
   - [Cost-Accounting](./Cost-Accounting/)
     - [Activity-Based-Costing.md](./Activity-Based-Costing.md)
     - [Cost-of-Goods-Sold.md](./Cost-of-Goods-Sold.md)
