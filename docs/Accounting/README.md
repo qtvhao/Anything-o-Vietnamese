@@ -12,6 +12,7 @@
   - [Auditing.md](./Auditing.md)
   - [Budgeting.md](./Budgeting.md)
   - [Cost-Accounting.md](./Cost-Accounting.md)
+  - [Ethics-in-Accounting.md](./Ethics-in-Accounting.md)
   - [External-Auditing.md](./External-Auditing.md)
   - [Financial-Accounting](./Financial-Accounting/)
     - [Budgeting-and-Forecasting.md](./Budgeting-and-Forecasting.md)
