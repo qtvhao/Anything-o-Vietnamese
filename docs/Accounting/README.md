@@ -20,6 +20,7 @@
     - [Tax-Assurance.md](./Tax-Assurance.md)
   - [Assurance-Services.md](./Assurance-Services.md)
   - [Auditing](./Auditing/)
+    - [Audit-Methodology.md](./Audit-Methodology.md)
     - [Audit-Planning-and-Execution.md](./Audit-Planning-and-Execution.md)
     - [Compliance-Auditing.md](./Compliance-Auditing.md)
   - [Auditing.md](./Auditing.md)
