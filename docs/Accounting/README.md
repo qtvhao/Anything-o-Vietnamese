@@ -5,6 +5,7 @@
   - [Accounting-Education.md](./Accounting-Education.md)
   - [Accounting-Fraud.md](./Accounting-Fraud.md)
   - [Accounting-History.md](./Accounting-History.md)
+  - [Accounting-Outsourcing.md](./Accounting-Outsourcing.md)
   - [Accounting-Processes.md](./Accounting-Processes.md)
   - [Accounting-Research.md](./Accounting-Research.md)
   - [Accounting-Systems.md](./Accounting-Systems.md)
