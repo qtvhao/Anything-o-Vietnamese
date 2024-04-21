@@ -22,6 +22,8 @@
       - [Process-Costing.md](./Accounting/Cost-Accounting/Process-Costing.md)
     - [Cost-Accounting.md](./Accounting/Cost-Accounting.md)
     - [Ethics-in-Accounting.md](./Accounting/Ethics-in-Accounting.md)
+    - [External-Auditing](./Accounting/External-Auditing)
+      - [Information-System-Auditing.md](./Accounting/External-Auditing/Information-System-Auditing.md)
     - [External-Auditing.md](./Accounting/External-Auditing.md)
     - [Financial-Accounting](./Accounting/Financial-Accounting)
       - [Auditing](./Accounting/Financial-Accounting/Auditing)

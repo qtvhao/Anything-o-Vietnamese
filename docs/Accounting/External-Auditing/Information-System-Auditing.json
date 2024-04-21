@@ -1,0 +1,169 @@
+{
+  "id": "-79642201274",
+  "titles": [
+    "Giải phóng sức mạnh của kiểm tra hệ thống thông tin: Hướng dẫn toàn diện để đảm bảo tính toàn vẹn, bảo mật và độ tin cậy của dữ liệu"
+  ],
+  "topic": "Information System Auditing",
+  "title": "Giải phóng sức mạnh của kiểm tra hệ thống thông tin: Hướng dẫn toàn diện để đảm bảo tính toàn vẹn, bảo mật và độ tin cậy của dữ liệu",
+  "description": "\"Trong video này, tôi sẽ khám phá tầm quan trọng của việc kiểm tra hệ thống thông tin, mục tiêu của nó và các bước chính liên quan đến việc tiến hành kiểm toán hiệu quả. Kiểm tra hệ thống thông tin đóng một vai trò quan trọng trong việc đảm bảo tính toàn vẹn, bảo mật và độ tin cậy của dữ liệu tổ chức. Nó liên quan đến việc kiểm tra và đánh giá một cách có hệ thống các hệ thống, quy trình và biện pháp kiểm soát thông tin của tổ chức để xác định tính hiệu quả và sự tuân thủ của chúng với các tiêu chuẩn đã được thiết lập. Mục tiêu chính của kiểm toán hệ thống thông tin là xác định bất kỳ lỗ hổng hoặc điểm yếu nào trong hệ thống có thể khiến tổ chức gặp rủi ro. chẳng hạn như truy cập trái phép, vi phạm dữ liệu hoặc gian lận. Bằng cách tiến hành kiểm tra thường xuyên, các tổ chức có thể chủ động giải quyết những vấn đề này và thực hiện các biện pháp bảo vệ cần thiết để bảo vệ tài sản thông tin có giá trị của mình.",
+  "author": "Vietnamese Online Voice",
+  "date": "April 21, 2024",
+  "content": [
+    {
+      "id": "-27585409655",
+      "heading": "OBJECTIVES",
+      "text": "Chào mừng bạn đến với video của tôi về Kiểm toán hệ thống thông tin. Trong video này, tôi sẽ khám phá tầm quan trọng của \"kiểm tra hệ thống thông tin\" (information system auditing), \"mục tiêu\" của nó (objectives) và các bước chính liên quan đến việc tiến hành kiểm tra hiệu quả.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-04-21/transition--27585409655-Montserrat-ExtraBold-880E4F.jpg",
+      "audioFilePath": "/app/audio/file-20592687212.mp3"
+    },
+    {
+      "id": "27101841309",
+      "heading": "INFORMATION SYSTEM AUDITING",
+      "text": "Kiểm tra hệ thống thông tin đóng một vai trò quan trọng trong việc đảm bảo \"tính toàn vẹn\" (integrity), \"bảo mật\" (security) và \"độ tin cậy\" (reliability) của \"dữ liệu tổ chức\" (organizational data). Nó liên quan đến việc \"kiểm tra hệ thống\" (systematic examination) và \"đánh giá\" (evaluation) về \"hệ thống thông tin\" (information systems), \"quy trình\" (processes) và \"kiểm soát\" (controls) của tổ chức để xác định chúng \"hiệu quả\" (effectiveness) và \"tuân thủ\" (compliance) với các tiêu chuẩn đã được thiết lập.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-04-21/transition-27101841309-Montserrat-ExtraBold-004895.jpg",
+      "audioFilePath": "/app/audio/file-4135589600.mp3"
+    },
+    {
+      "id": "-14774116579",
+      "heading": "INFORMATION SYSTEM AUDITING",
+      "text": "Mục tiêu chính của việc kiểm tra \"hệ thống\" (system) thông tin là xác định mọi \"lỗ hổng\" (vulnerabilities) hoặc \"điểm yếu\" (weaknesses) trong hệ thống có thể khiến tổ chức gặp phải \"rủi ro\" (risks) chẳng hạn như \"truy cập trái phép\" (unauthorized access), \"vi phạm dữ liệu\" (data breaches) hoặc \"lừa đảo\" (fraud). Bằng cách tiến hành \"kiểm toán thường xuyên\" (regular audits), các tổ chức có thể chủ động giải quyết những vấn đề này và thực hiện \"các biện pháp bảo vệ\" cần thiết (safeguards) để bảo vệ tài sản thông tin có giá trị của họ.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-04-21/transition--14774116579-Montserrat-Black-283593.jpg",
+      "audioFilePath": "/app/audio/file-10014794110.mp3"
+    },
+    {
+      "id": "4631745484",
+      "heading": "RESOURCES",
+      "text": "Vì vậy, các bước chính liên quan đến việc tiến hành kiểm toán hệ thống thông tin là gì? Hãy đi sâu vào.. Bước 1: Lập kế hoạch. Trước khi bắt đầu một cuộc kiểm toán, điều quan trọng là phải xây dựng một kế hoạch kiểm toán toàn diện. Điều này liên quan đến việc xác định \"phạm vi\" (scope), \"mục tiêu\" (objectives) và \"mốc thời gian\" (timelines) của cuộc kiểm tra, cũng như xác định \"các bên liên quan\" chính (stakeholders) và \"nguồn lực\" ( resources) cần thiết cho quá trình này.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-04-21/transition-4631745484-Montserrat-Thin-7B1FA2.jpg",
+      "audioFilePath": "/app/audio/file-157455037.mp3"
+    },
+    {
+      "id": "-23092012551",
+      "heading": "RISK ASSESSMENT",
+      "text": "Bước 2: Đánh giá rủi ro. Bước tiếp theo là đánh giá các rủi ro liên quan đến \"hệ thống thông tin\" (information systems) đang được xem xét. Điều này bao gồm việc xác định các \"mối đe dọa\" tiềm ẩn (threats), \"lỗ hổng\" (vulnerabilities) và khả năng xảy ra. Bằng cách hiểu rõ rủi ro, kiểm toán viên có thể \"ưu tiên\" (prioritize) những nỗ lực của họ và tập trung vào các lĩnh vực cần được chú ý ngay lập tức.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-04-21/transition--23092012551-Montserrat-Black-004895.jpg",
+      "audioFilePath": "/app/audio/file-2521449624.mp3"
+    },
+    {
+      "id": "-23129990526",
+      "heading": "DATA COLLECTION",
+      "text": "Bước 3: Thu thập dữ liệu. Trong bước này, \"kiểm toán viên\" (auditors) thu thập dữ liệu và bằng chứng liên quan để \"đánh giá\" (evaluate) \"tính hiệu quả\" (effectiveness) của \"các biện pháp kiểm soát\" (controls) và \"quy trình\" (processes) trong địa điểm. Điều này có thể liên quan đến \"xem xét tài liệu\" (reviewing documentation), \"tiến hành phỏng vấn\" (conducting interviews) với \"nhân sự chủ chốt\" (key personnel) và thực hiện \"kiểm tra trên hệ thống\" (tests on the system) để \"xác thực\" (validate) \"bảo mật\" (security) và độ tin cậy của nó.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-04-21/transition--23129990526-Montserrat-ExtraBold-7B1FA2.jpg",
+      "audioFilePath": "/app/audio/file-34846715045.mp3"
+    },
+    {
+      "id": "14741273104",
+      "heading": "ESTABLISHED STANDARDS",
+      "text": "Bước 4: Phân tích. Sau khi thu thập dữ liệu, dữ liệu sẽ được phân tích để xác định bất kỳ sai lệch nào so với \"các tiêu chuẩn đã thiết lập\" (established standards) và \"các phương pháp hay nhất\" (best practices). Kiểm toán viên so sánh \"các thực tiễn được quan sát\" (observed practices) với \"các biện pháp kiểm soát đã xác định\" (defined controls) và xác định mọi \"khoảng trống\" (gaps) hoặc thiếu sót cần được giải quyết.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-04-21/transition-14741273104-Montserrat-ExtraBold-4A148C.jpg",
+      "audioFilePath": "/app/audio/file-11459128080.mp3"
+    },
+    {
+      "id": "-15491880069",
+      "heading": "COMPREHENSIVE REPORT",
+      "text": "Bước 5: Báo cáo. Các phát hiện của cuộc kiểm tra được ghi lại trong một \"báo cáo toàn diện\" (comprehensive report). Điều này bao gồm bản tóm tắt về \"mục tiêu kiểm toán\" (audit objectives), \"phạm vi kiểm toán\" (scope of the audit), \"rủi ro được xác định\" (identified risks) và \"thiếu sót\" (deficiencies) và các đề xuất cải tiến. Báo cáo thường được chia sẻ với ban quản lý và các bên liên quan để tạo điều kiện cho các hành động khắc phục.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-04-21/transition--15491880069-Montserrat-ExtraBold-512DA8.jpg",
+      "audioFilePath": "/app/audio/file-12692480109.mp3"
+    },
+    {
+      "id": "7668120983",
+      "heading": "FOLLOW-UP AUDITS",
+      "text": "Bước 6: Theo dõi. Sau khi \"báo cáo kiểm toán\" (audit report) được ban hành, điều cần thiết là phải giám sát việc \"thực hiện\" (implementation) của \"các hành động được đề xuất\" (recommended actions). Kiểm toán viên có thể tiến hành các cuộc kiểm toán tiếp theo để đảm bảo rằng \"các vấn đề đã xác định\" (identified issues) đã được giải quyết thỏa đáng và \"các biện pháp kiểm soát cần thiết\" (necessary controls) đã được áp dụng.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-04-21/transition-7668120983-Montserrat-SemiBold-303F9F.jpg",
+      "audioFilePath": "/app/audio/file-40410790594.mp3"
+    },
+    {
+      "id": "-15928762495",
+      "heading": "INFORMATION SYSTEMS",
+      "text": "Kiểm tra hệ thống thông tin là một quá trình liên tục giúp \"tổ chức\" (organizations) duy trì \"bảo mật\" (security) và \"độ tin cậy\" (reliability) của \"hệ thống thông tin\" (information systems) của họ. Bằng cách thường xuyên đánh giá \"các biện pháp kiểm soát\" (controls) và \"quy trình\" (processes) của mình, các tổ chức có thể giảm thiểu \"rủi ro\" (risks), tăng cường phòng thủ trước \"các mối đe dọa mạng\" (cyber threats) và đảm bảo \"tuân thủ\" ( compliance) với các yêu cầu quy định.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-04-21/transition--15928762495-Montserrat-ExtraBold-9C27B0.jpg",
+      "audioFilePath": "/app/audio/file-4759759694.mp3"
+    },
+    {
+      "id": "-12701212025",
+      "heading": "INFORMATION SYSTEM AUDITING",
+      "text": "Cảm ơn các bạn đã xem video này về Kiểm toán hệ thống thông tin. Tôi hy vọng bạn hiểu rõ hơn về tầm quan trọng của nó và các bước chính liên quan đến việc tiến hành kiểm toán hiệu quả. Hãy nhớ rằng, việc kiểm tra hệ thống thông tin mạnh mẽ có thể là công cụ bảo vệ \"dữ liệu quan trọng\" (critical data) của tổ chức và duy trì \"niềm tin của các bên liên quan\" (stakeholder trust).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-04-21/transition--12701212025-Montserrat-Medium-673AB7.jpg",
+      "audioFilePath": "/app/audio/file-26675289844.mp3"
+    }
+  ],
+  "categories": [
+    "Accounting",
+    "External Auditing"
+  ],
+  "tags": [
+    "#Audit",
+    "#InformationSecurity",
+    "#DataIntegrity",
+    "#CyberSecurity",
+    "#RiskManagement",
+    "#OrganizationalData",
+    "#InformationSystems",
+    "#ProcessEvaluation",
+    "#ControlEffectiveness",
+    "#ComplianceStandards",
+    "#AuditPlanning",
+    "#RiskAssessment",
+    "#DataCollection",
+    "#DataEvidence",
+    "#AuditAnalysis",
+    "#AuditReporting",
+    "#FollowUp",
+    "#CyberThreats",
+    "#RegulatoryCompliance",
+    "#SystematicExamination",
+    "#InformationAssets",
+    "#AuditRecommendations",
+    "#AuditFindings",
+    "#ControlDeficiencies",
+    "#AuditProcess",
+    "#InformationSystemsAudit",
+    "#SecurityMeasures",
+    "#ReliabilityAssurance",
+    "#AuditObjectives",
+    "#AuditTimelines",
+    "#KeyStakeholders",
+    "#AuditResources",
+    "#ThreatIdentification",
+    "#VulnerabilityAssessment",
+    "#LikelihoodOfOccurrence",
+    "#DeviationsFromStandards",
+    "#BestPractices",
+    "#GapsInDeficiencies",
+    "#CorrectiveActions",
+    "#MitigateRisks",
+    "#CyberDefenses",
+    "#AuditSteps",
+    "#AuditPhases",
+    "#AuditProfessionals",
+    "#AuditStrategy",
+    "#AuditImplementation",
+    "#AuditReview",
+    "#AuditMonitoring",
+    "#AuditImprovement",
+    "#AuditCulture",
+    "#DataBreaches",
+    "#FraudPrevention",
+    "#UnauthorizedAccess",
+    "#AuditChecklist",
+    "#AuditTools",
+    "#AuditTips",
+    "#AuditTraining",
+    "#AuditCertification",
+    "#AuditSoftware",
+    "#AuditBlog",
+    "#AuditVlog",
+    "#AuditPodcast",
+    "#AuditCommunity",
+    "#AuditGlossary",
+    "#AuditTrends",
+    "#AuditInnovation",
+    "#AuditThoughtLeadership",
+    "#AuditTransformation",
+    "#AuditProficiency",
+    "#AuditExcellence",
+    "#AuditPassion",
+    "#AuditPurpose"
+  ],
+  "comments": []
+}
