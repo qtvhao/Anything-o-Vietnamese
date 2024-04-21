@@ -1,91 +1,101 @@
 
 ---
 
-# Làm sáng tỏ thế giới phức tạp của việc lập ngân sách chính phủ: Hành trình thú vị vào việc quản lý tài chính công Doanh thu, phân bổ và trách nhiệm giải trình: Vai trò quan trọng của ngân sách chính phủ trong Đạo luật cân bằng phúc lợi của xã hội: Tìm hiểu về ngân sách chính phủ, trách nhiệm tài chính và tác động đối với công chúng Hàng hóa và Dịch vụ Từ Đề xuất đến Phê duyệt: Quá trình Hợp tác Lập ngân sách Chính phủ và tầm quan trọng của nó trong việc Ra quyết định Dân chủ Tạo ra Doanh thu, Đưa ra những Lựa chọn Khó khăn: Nghệ thuật và Khoa học về Lập ngân sách Chính phủ Minh bạch và Trách nhiệm giải trình trong Ngân sách Chính phủ: Xây dựng Niềm tin và Đảm bảo Sử dụng Ngân sách một cách có trách nhiệm Quỹ công Lập ngân sách chính phủ: Chìa khóa cho một xã hội hoạt động tốt và công bằng Sự phức tạp của ngân sách chính phủ: Ước tính doanh thu, phân bổ kinh phí và đảm bảo trách nhiệm tài chính
+# Khám phá thế giới hấp dẫn về lập ngân sách của chính phủ: Phân bổ, quản lý, thành công! Đi sâu vào Ước tính doanh thu, Phân bổ chi tiêu và Kiểm soát!
 
 - Published: April 21, 2024
 - Author: Vietnamese Online Voice
 - Categories: Accounting / **Governmental Accounting**
-- #PublicFinances #TaxpayerMoney #BudgetAllocation #RevenueGeneration #FiscalResponsibility #Transparency #Accountability #BudgetProcess #ExecutiveBranch #LegislativeBody #PublicGoods #SocialWelfarePrograms #PublicInfrastructure #Healthcare #Education #Defense #Infrastructure #PoliticalFactors #EconomicFactors #FiscalHealth #CitizenEngagement #BudgetSustainability #FinancialManagement #DeficitControl #EconomicGrowth #FinancialInstability #WellbeingOfCitizens
+- #FinancialResources #FiscalPolicy #PublicFinances #BudgetAllocation #RevenueEstimation #ExpenditurePriorities #PolicyObjectives #ExecutiveBranch #Legislature #GovernmentAgencies #EconomicIndicators #TaxCollections #RevenueStreams #ExpenditureAllocation #SectoralBudgeting #PublicSpheres #Education #Healthcare #Infrastructure #Defense #ExpenditureControl #Monitoring #Accountability #PublicSpending #BudgetCycle #IterativeApproach #AdaptiveDecisionMaking #EvidenceBasedPolicy #FiscalResponsibility #FiscalDiscipline #BudgetReview #BudgetEvaluation #FiscalTransparency #FightingCorruption #BudgetingBestPractices
 
-"Trong video này, tôi sẽ khám phá thế giới hấp dẫn của ngân sách chính phủ và tầm quan trọng của nó trong việc quản lý tài chính công. Ngân sách chính phủ đóng một vai trò quan trọng trong việc xác định cách phân bổ và chi tiêu của người nộp thuế, đồng thời nó ảnh hưởng trực tiếp đến phúc lợi của người dân. Hãy cùng xem đi sâu vào và làm sáng tỏ sự phức tạp của việc lập ngân sách chính phủ. Lập ngân sách chính phủ là quá trình mà qua đó chính phủ lập kế hoạch và quản lý tài chính của mình. Nó bao gồm việc ước tính các nguồn thu và phân bổ nguồn lực cho các lĩnh vực như giáo dục, y tế, quốc phòng và cơ sở hạ tầng. Quá trình lập ngân sách bắt đầu bằng việc cơ quan hành pháp xây dựng đề xuất ngân sách, sau đó là cơ quan lập pháp xem xét và phê duyệt, đảm bảo quá trình ra quyết định dân chủ." "Các thủ lĩnh có thể xem video hướng dẫn chi tiết ở bên dưới nhé."
+"Trong video này, tôi sẽ khám phá thế giới hấp dẫn về cách các chính phủ phân bổ và quản lý nguồn tài chính để đáp ứng nhu cầu của người dân. Ngân sách chính phủ đóng một vai trò quan trọng trong việc xác định các ưu tiên tài trợ, thực hiện chính sách và thúc đẩy tăng trưởng kinh tế. Vì vậy, chúng ta hãy cùng nhau tìm hiểu đi sâu vào và khám phá các khía cạnh chính của quy trình thiết yếu này. Trước khi đi sâu vào chi tiết, trước tiên chúng ta hãy hiểu ngân sách chính phủ là gì. Nói một cách đơn giản, đó là quá trình các chính phủ lập kế hoạch, phân bổ và kiểm soát các nguồn tài chính của họ. doanh thu, chẳng hạn như thuế và phí, cũng như xác định cách chi tiêu các khoản tiền đó cho các chương trình và dịch vụ khác nhau. Lập ngân sách của chính phủ là một quá trình phức tạp và năng động, đòi hỏi phải phân tích và ra quyết định cẩn thận để đảm bảo sử dụng hiệu quả nguồn vốn công. thường bắt đầu bằng việc cơ quan hành pháp của chính phủ xây dựng đề xuất ngân sách. Đề xuất này phác thảo các kế hoạch tài chính của chính phủ cho năm hoặc chu kỳ ngân sách sắp tới. Nó bao gồm các dự báo về doanh thu, các ưu tiên chi tiêu và các mục tiêu chính sách. Sau khi đề xuất được chuẩn bị, nó sẽ trải qua một loạt đánh giá, tham vấn và phê duyệt của các bên liên quan khác nhau, chẳng hạn như cơ quan lập pháp và các cơ quan chính phủ có liên quan. Các Boss có thể xem video hướng dẫn chi tiết ở bên dưới nhé."
 
 
 ## GOVERNMENT BUDGETING
 
-Chào mừng bạn đến với video của tôi về "ngân sách chính phủ" (government budgeting)! Trong video này, tôi sẽ khám phá thế giới hấp dẫn của việc lập ngân sách chính phủ và tầm quan trọng của nó trong việc quản lý "tài chính công" (public finances). Ngân sách của chính phủ đóng một vai trò quan trọng trong việc xác định cách "tiền của người nộp thuế" (taxpayer money) được "phân bổ" (allocated) và "chi tiêu" (spent) và nó trực tiếp "tác động" (impacts) đến phúc lợi của người dân . Vì vậy, chúng ta hãy đi sâu vào và làm sáng tỏ sự phức tạp của việc lập ngân sách chính phủ.
-![GOVERNMENT BUDGETING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--417260888-Montserrat-Thin-512DA8.jpg)
+Chào mừng bạn đến với video của tôi về "ngân sách chính phủ" (government budgeting). Trong video này, tôi sẽ khám phá thế giới hấp dẫn về cách các chính phủ phân bổ và quản lý "nguồn tài chính" (financial resources) để đáp ứng nhu cầu của "công dân" (citizens). Ngân sách chính phủ đóng một vai trò quan trọng trong việc xác định "ưu tiên tài trợ" (funding priorities), thực hiện "chính sách" (policies) và thúc đẩy "tăng trưởng kinh tế" (economic growth). Vì vậy, chúng ta hãy đi sâu vào và khám phá những khía cạnh chính của quá trình thiết yếu này.
+![GOVERNMENT BUDGETING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--33307876917-Montserrat-Black-512DA8.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-16832212457.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-60184734100.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## PUBLIC FUNDS
+## FINANCIAL RESOURCES
 
-Trước tiên, hãy hiểu "ngân sách chính phủ" (government budgeting) là gì. Lập ngân sách chính phủ là quá trình thông qua đó chính phủ lập kế hoạch và quản lý tài chính của mình. Nó liên quan đến việc "ước tính" (estimating) "các nguồn doanh thu" (revenue sources), chẳng hạn như "thuế" (taxes) và "phí" (fees) và "phân bổ" (allocating) các tài nguyên đó cho các "ngành" khác nhau và các chương trình" (sectors and programs), chẳng hạn như "giáo dục" (education), "chăm sóc sức khỏe" (healthcare), "quốc phòng" (defense) và "cơ sở hạ tầng" (infrastructure). Mục tiêu của việc lập ngân sách chính phủ là đảm bảo việc sử dụng "hiệu quả" (efficient) và "hiệu quả" (effective) "quỹ công" (public funds) để đáp ứng nhu cầu của xã hội.
-![PUBLIC FUNDS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-25780563679-Montserrat-Regular-7B1FA2.jpg)
+Trước khi đi sâu vào chi tiết, trước tiên chúng ta hãy hiểu "ngân sách chính phủ" (government budgeting) là gì. Nói một cách đơn giản, đó là quá trình các chính phủ lập kế hoạch, phân bổ và kiểm soát "nguồn tài chính" của họ (financial resources). Nó liên quan đến việc "ước tính doanh thu" (estimating revenue), chẳng hạn như "thuế" (taxes) và "phí" (fees) và xác định cách các khoản tiền đó sẽ được "chi tiêu" (spent on) các "chương trình" khác nhau (# 711205488) và "dịch vụ" (services). Lập ngân sách của chính phủ là một "quy trình phức tạp" (complex) và "quy trình năng động" (dynamic process) yêu cầu "phân tích cẩn thận" (careful analysis) và ra quyết định để đảm bảo "sử dụng hiệu quả" (efficient use) công quỹ.
+![FINANCIAL RESOURCES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--4177984201-Montserrat-Black-673AB7.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-8811296231.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-1799731256.mp3" type="audio/mpeg">
 </audio>
 
 
 
 ## BUDGET PROPOSAL
 
-Quá trình lập ngân sách thường bắt đầu bằng việc xây dựng "đề xuất ngân sách" (budget proposal) bởi "cơ quan điều hành" (executive branch) của chính phủ. Đề xuất này phác thảo các ưu tiên, mục tiêu của chính phủ và "doanh thu và chi tiêu" ước tính (revenue and expenditure) cho "năm tài chính" sắp tới (fiscal year). Sau đó, đề xuất này được trình lên "cơ quan lập pháp" (legislative body) để "xem xét" (review), "tranh luận" (debate) và "phê duyệt" (approval). Quá trình hợp tác này cho phép đưa ra quyết định một cách dân chủ và đảm bảo rằng ngân sách phản ánh được nhu cầu và nguyện vọng của người dân.
-![BUDGET PROPOSAL](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--37415048321-Montserrat-Bold-1A237E.jpg)
+Quá trình lập ngân sách thường bắt đầu bằng việc xây dựng "đề xuất ngân sách" (budget proposal) bởi "cơ quan điều hành" (executive branch) của chính phủ. Đề xuất này phác thảo "kế hoạch tài chính" (financial plans) của chính phủ cho năm hoặc chu kỳ ngân sách sắp tới. Nó bao gồm "dự báo doanh thu" (revenue projections), "ưu tiên chi tiêu" (expenditure priorities) và "mục tiêu chính sách" (policy objectives). Sau khi đề xuất được chuẩn bị, nó sẽ trải qua một loạt đánh giá, tham vấn và phê duyệt của các bên liên quan khác nhau, chẳng hạn như "cơ quan lập pháp" (legislature) và các cơ quan chính phủ có liên quan.
+![BUDGET PROPOSAL](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--3879525355-Montserrat-ExtraBold-9C27B0.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-348068213.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-12636826156.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## REVENUE GENERATION
+## REVENUE ESTIMATION
 
-Một trong những khía cạnh quan trọng của "lập ngân sách chính phủ" (government budgeting) là "tạo doanh thu" (revenue generation). Chính phủ thu doanh thu thông qua nhiều phương tiện khác nhau, chẳng hạn như "thuế" (taxes), "thuế quan" (tariffs), "tiền phạt" (fines) và "phí" (fees). Các khoản thu nhập này sau đó được sử dụng để tài trợ cho hàng hóa và dịch vụ công cộng, bao gồm "cơ sở hạ tầng công cộng" (public infrastructure), "chăm sóc sức khỏe" (healthcare), "giáo dục" (education), "các chương trình phúc lợi xã hội" (social welfare programs) và " phòng thủ" (defense). Điều cần thiết là các chính phủ phải "đạt được sự cân bằng" (strike a balance) giữa việc tạo ra "đủ doanh thu" (sufficient revenue) để đáp ứng "nhu cầu của xã hội" (needs of the society) và đảm bảo rằng "gánh nặng thuế" (tax burden) là "công bằng và bình đẳng" (fair and equitable).
-![REVENUE GENERATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-19210289539-Montserrat-Bold-880E4F.jpg)
+Một trong những thành phần chính của ngân sách chính phủ là "dự toán doanh thu" (revenue estimation). Các chính phủ dựa vào nhiều "nguồn thu nhập" (sources of income), bao gồm "thuế" (taxes), "phí" (fees) và "vay" (borrowing), để "tài trợ" (finance) cho các hoạt động của họ . Việc ước tính chính xác doanh thu là rất quan trọng vì nó xác định số tiền sẵn có cho "chi tiêu" (expenditure). Các nhà kinh tế và chuyên gia tài chính phân tích "các chỉ số kinh tế" (economic indicators), "thu thuế" (tax collections) và "dữ liệu liên quan" khác (relevant data) để dự báo dòng doanh thu. Những dự báo này làm cơ sở cho các quyết định về ngân sách.
+![REVENUE ESTIMATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--41653139188-Montserrat-Regular-880E4F.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-24612027283.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-15075883373.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## ALLOCATING FUNDS
+## EXPENDITURE ALLOCATION
 
-Sau khi thu được "doanh thu" (revenue), chính phủ phải đối mặt với thách thức "phân bổ vốn" (allocating funds) cho các "lĩnh vực và chương trình" khác nhau (sectors and programs). Điều này liên quan đến việc đưa ra "những quyết định khó khăn" (difficult decisions) và ưu tiên "các nhu cầu cạnh tranh" (competing needs). Ví dụ: chính phủ có nên "đầu tư" (invest) nhiều hơn vào "giáo dục hoặc chăm sóc sức khỏe" (education or healthcare) không? Có nên "phân bổ" (allocate) một phần ngân sách lớn hơn cho quốc phòng hoặc cơ sở hạ tầng không? Những quyết định này thường bị ảnh hưởng bởi các yếu tố chính trị, xã hội và kinh tế và đòi hỏi phải phân tích và cân nhắc cẩn thận.
-![ALLOCATING FUNDS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-28688970630-Montserrat-Black-7B1FA2.jpg)
+Một khía cạnh quan trọng khác của "dự toán ngân sách chính phủ" (government budgeting) là "phân bổ chi tiêu" (expenditure allocation). Sau khi xác định được "quỹ khả dụng" (available funds), chính phủ phải quyết định cách phân bổ chúng giữa các "ngành và chương trình" khác nhau (sectors and programs). Quá trình này liên quan đến việc cân nhắc "các ưu tiên cạnh tranh" (competing priorities), chẳng hạn như giáo dục, chăm sóc sức khỏe, cơ sở hạ tầng và quốc phòng. Các chính phủ phải xem xét nhu cầu của người dân, mục tiêu phát triển dài hạn và phúc lợi xã hội khi đưa ra các quyết định phân bổ này.
+![EXPENDITURE ALLOCATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--6239178695-Montserrat-Medium-303F9F.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-3780930180.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-4520185600.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## GOVERNMENTAL ACCOUNTING
+## EXPENDITURE CONTROL
 
-Tính minh bạch và "trách nhiệm giải trình" (accountability) rất quan trọng trong "ngân sách chính phủ" (government budgeting). Công dân có quyền biết "tiền thuế" (tax dollars) của họ đang được chi tiêu như thế nào và liệu chính phủ có sử dụng công quỹ một cách hiệu quả hay không. Chính phủ nên cung cấp thông tin dễ tiếp cận và dễ hiểu về ngân sách, thu hút người dân tham gia vào "quy trình ngân sách" (budget process) và thiết lập các cơ chế giám sát và đánh giá. Điều này giúp xây dựng niềm tin giữa chính phủ và người dân và đảm bảo rằng quỹ công được sử dụng một cách có trách nhiệm.
-![GOVERNMENTAL ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-28154026622-Montserrat-Regular-4A148C.jpg)
+Lập ngân sách của chính phủ cũng bao gồm cơ chế "kiểm soát chi tiêu" (expenditure control) và "giám sát" (monitoring). Điều này đảm bảo rằng quỹ được sử dụng như dự định và có trách nhiệm giải trình đối với chi tiêu công. Chính phủ thiết lập "kiểm soát tài chính" (financial controls), "quy trình kiểm toán" (audit processes) và "cơ chế báo cáo" (reporting mechanisms) để theo dõi và đánh giá việc sử dụng công quỹ. Giám sát hiệu quả giúp xác định "sự thiếu hiệu quả" (inefficiencies), phát hiện "gian lận" (fraud) hoặc tham nhũng và thực hiện các điều chỉnh cần thiết để cải thiện "việc thực thi ngân sách" (budget execution).
+![EXPENDITURE CONTROL](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--19158370092-Montserrat-ExtraBold-283593.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-14551744531.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-1919026912.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## FISCAL RESPONSIBILITY
+## ITERATIVE APPROACH
 
-Một khái niệm quan trọng khác trong lập ngân sách chính phủ là "trách nhiệm tài chính" (fiscal responsibility). Các chính phủ cần đảm bảo rằng chi tiêu của họ bền vững và không dẫn đến "nợ quá mức" (excessive debt) hoặc "bất ổn tài chính" (financial instability). Điều này đòi hỏi quản lý tài chính thận trọng, bao gồm "giám sát chi tiêu" (monitoring expenditures), "kiểm soát thâm hụt" (controlling deficits) và thực hiện các biện pháp thúc đẩy tăng trưởng và ổn định kinh tế. Trách nhiệm tài chính là rất quan trọng để duy trì sức khỏe tài chính lâu dài của chính phủ và đảm bảo phúc lợi cho người dân.
-![FISCAL RESPONSIBILITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--34519399183-Montserrat-Regular-512DA8.jpg)
+Điều đáng nói là "lập ngân sách chính phủ" (government budgeting) không phải là quá trình một lần mà là "chu kỳ liên tục" (continuous cycle). Sau khi ngân sách được phê duyệt và thực hiện, nó sẽ được xem xét và đánh giá thường xuyên để đánh giá tác động và hiệu quả của nó. Các chính phủ phân tích kết quả, thực hiện "những điều chỉnh cần thiết" (necessary adjustments) và kết hợp các bài học kinh nghiệm vào "chu kỳ ngân sách trong tương lai" (future budget cycles). "Phương pháp lặp lại" này (iterative approach) cho phép đưa ra quyết định thích ứng và dựa trên bằng chứng.
+![ITERATIVE APPROACH](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-47508944060-Montserrat-Medium-880E4F.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-24149925034.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-6290722574.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## ALLOCATION DECISIONS
+## ALLOCATING RESOURCES
 
-Tóm lại, "lập ngân sách chính phủ" (government budgeting) là một quá trình quan trọng định hình việc phân bổ "nguồn lực công" (public resources) và xác định chất lượng của hàng hóa và dịch vụ công. Nó liên quan đến việc "ước tính doanh thu" (estimating revenue), đưa ra "quyết định phân bổ" (allocation decisions), thúc đẩy tính minh bạch và trách nhiệm giải trình cũng như đảm bảo "trách nhiệm tài chính" (fiscal responsibility). Bằng cách hiểu được sự phức tạp của việc lập ngân sách chính phủ, chúng ta có thể tích cực tham gia vào "quá trình dân chủ" (democratic process) và đóng góp vào sự phát triển của một xã hội công bằng và vận hành tốt. Cảm ơn bạn đã xem video này về ngân sách của chính phủ.
-![ALLOCATION DECISIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-15573227918-Montserrat-Bold-7B1FA2.jpg)
+Tóm lại, "lập ngân sách chính phủ" (government budgeting) là một quá trình quan trọng hình thành nên "khuôn khổ tài chính" (financial framework) của một "quốc gia" (nation). Nó liên quan đến việc ước tính "doanh thu" (revenue), "phân bổ nguồn lực" (allocating resources) và kiểm soát chi tiêu để đáp ứng nhu cầu của "công dân" (citizens) và đạt được "mục tiêu chính sách" (policy objectives). Bằng cách hiểu rõ sự phức tạp của việc lập ngân sách chính phủ, chúng tôi hiểu rõ hơn về cách "quỹ công" (public funds) được "quản lý" (managed) và cách "chính phủ" (governments) nỗ lực tạo ra một tương lai tốt đẹp hơn cho người dân của họ.
+![ALLOCATING RESOURCES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-17175924373-Montserrat-SemiBold-283593.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-58820115341.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-30658350295.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## REVENUE
+
+Cảm ơn bạn đã xem video này về ngân sách của chính phủ. Tôi hy vọng bạn thấy nó có nhiều thông tin và hiểu sâu hơn về chủ đề quan trọng này. Nếu bạn có thắc mắc hoặc muốn tìm hiểu thêm, vui lòng để lại bình luận bên dưới. Hãy nhớ đăng ký kênh của chúng tôi để biết thêm nội dung giáo dục. Cho đến lần sau!
+![REVENUE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--18392287758-Montserrat-Black-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-967120665.mp3" type="audio/mpeg">
 </audio>
 
