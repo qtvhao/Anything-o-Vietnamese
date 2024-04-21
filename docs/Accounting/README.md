@@ -84,6 +84,7 @@
   - [Management-Accounting](./Management-Accounting/)
     - [Activity-Based-Costing.md](./Activity-Based-Costing.md)
     - [Cost-of-Capital.md](./Cost-of-Capital.md)
+    - [Decision-Making.md](./Decision-Making.md)
   - [Management-Accounting.md](./Management-Accounting.md)
   - [Performance-Management.md](./Performance-Management.md)
   - [Public-Accounting](./Public-Accounting/)
