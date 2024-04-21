@@ -49,6 +49,7 @@
       - [Information-System-Auditing.md](./Accounting/External-Auditing/Information-System-Auditing.md)
       - [Information-Systems-Audits.md](./Accounting/External-Auditing/Information-Systems-Audits.md)
       - [Integrated-Audits.md](./Accounting/External-Auditing/Integrated-Audits.md)
+      - [Operational-Audits.md](./Accounting/External-Auditing/Operational-Audits.md)
       - [Performance-Audits.md](./Accounting/External-Auditing/Performance-Audits.md)
     - [External-Auditing.md](./Accounting/External-Auditing.md)
     - [Financial-Accounting](./Accounting/Financial-Accounting)
