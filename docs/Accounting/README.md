@@ -23,6 +23,7 @@
     - [Audit-Methodology.md](./Audit-Methodology.md)
     - [Audit-Planning-and-Execution.md](./Audit-Planning-and-Execution.md)
     - [Compliance-Auditing.md](./Compliance-Auditing.md)
+    - [Financial-Auditing.md](./Financial-Auditing.md)
   - [Auditing.md](./Auditing.md)
   - [Budgeting](./Budgeting/)
     - [Budgeting-Control.md](./Budgeting-Control.md)
