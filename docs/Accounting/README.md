@@ -105,6 +105,8 @@
     - [Forecasting.md](./Forecasting.md)
     - [Internal-Controls.md](./Internal-Controls.md)
   - [Management-Accounting.md](./Management-Accounting.md)
+  - [Performance-Management](./Performance-Management/)
+    - [Key-Performance-Indicators.md](./Key-Performance-Indicators.md)
   - [Performance-Management.md](./Performance-Management.md)
   - [Public-Accounting](./Public-Accounting/)
     - [Internal-Audit.md](./Internal-Audit.md)
