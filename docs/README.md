@@ -19,6 +19,7 @@
     - [Financial-Accounting.md](./Accounting/Financial-Accounting.md)
     - [Forensic-Accounting.md](./Accounting/Forensic-Accounting.md)
     - [Governmental-Accounting.md](./Accounting/Governmental-Accounting.md)
+    - [Internal-Auditing.md](./Accounting/Internal-Auditing.md)
     - [International-Accounting.md](./Accounting/International-Accounting.md)
     - [Management-Accounting.md](./Accounting/Management-Accounting.md)
     - [Public-Accounting.md](./Accounting/Public-Accounting.md)
