@@ -140,6 +140,7 @@
       - [Tax-Compliance.md](./Accounting/Tax-Accounting/Tax-Compliance.md)
       - [Tax-Disputes-and-Resolution.md](./Accounting/Tax-Accounting/Tax-Disputes-and-Resolution.md)
       - [Tax-Law.md](./Accounting/Tax-Accounting/Tax-Law.md)
+      - [Tax-Preparation.md](./Accounting/Tax-Accounting/Tax-Preparation.md)
     - [Tax-Accounting.md](./Accounting/Tax-Accounting.md)
   - [_config.yml](./_config.yml)
 
