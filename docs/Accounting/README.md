@@ -75,6 +75,7 @@
     - [Forensic-Audit.md](./Forensic-Audit.md)
   - [Internal-Auditing.md](./Internal-Auditing.md)
   - [International-Accounting](./International-Accounting/)
+    - [Global-Accounting-Standards.md](./Global-Accounting-Standards.md)
     - [International-Taxation.md](./International-Taxation.md)
     - [Offshore-Accounting.md](./Offshore-Accounting.md)
   - [International-Accounting.md](./International-Accounting.md)
