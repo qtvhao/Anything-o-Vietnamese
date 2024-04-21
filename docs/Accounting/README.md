@@ -4,6 +4,7 @@
 - Accounting
   - [Accounting-Education.md](./Accounting-Education.md)
   - [Accounting-Fraud.md](./Accounting-Fraud.md)
+  - [Accounting-History.md](./Accounting-History.md)
   - [Accounting-Processes.md](./Accounting-Processes.md)
   - [Accounting-Research.md](./Accounting-Research.md)
   - [Accounting-Systems.md](./Accounting-Systems.md)
