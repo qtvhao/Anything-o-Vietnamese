@@ -19,6 +19,8 @@
   - [Auditing](./Auditing/)
     - [Compliance-Auditing.md](./Compliance-Auditing.md)
   - [Auditing.md](./Auditing.md)
+  - [Budgeting](./Budgeting/)
+    - [Personal-Budgeting.md](./Personal-Budgeting.md)
   - [Budgeting.md](./Budgeting.md)
   - [Cost-Accounting](./Cost-Accounting/)
     - [Activity-Based-Costing.md](./Activity-Based-Costing.md)
