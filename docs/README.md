@@ -113,6 +113,7 @@
       - [Internal-control-assessment.md](./Accounting/Internal-Auditing/Internal-control-assessment.md)
     - [Internal-Auditing.md](./Accounting/Internal-Auditing.md)
     - [International-Accounting](./Accounting/International-Accounting)
+      - [Foreign-Corrupt-Practices-Act.md](./Accounting/International-Accounting/Foreign-Corrupt-Practices-Act.md)
       - [Global-Accounting-Standards.md](./Accounting/International-Accounting/Global-Accounting-Standards.md)
       - [International-Taxation.md](./Accounting/International-Accounting/International-Taxation.md)
       - [Offshore-Accounting.md](./Accounting/International-Accounting/Offshore-Accounting.md)
