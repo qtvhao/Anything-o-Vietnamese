@@ -14,7 +14,7 @@
 ## TAXATION POLICY
 
 Chào mừng bạn đến với video của tôi về "chính sách thuế" (policy for taxation). Trong video này, tôi sẽ khám phá các khía cạnh khác nhau của "chính sách thuế" (taxation policy), tầm quan trọng của nó và cách nó ảnh hưởng đến "cá nhân" (individuals) và "nền kinh tế" (economy) nói chung. Vì vậy, hãy đi sâu vào ngay!
-![TAXATION POLICY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--20560085469-Montserrat-Thin-9C27B0.jpg)
+![TAXATION POLICY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--20560085469-Montserrat-Black-283593.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-24117577492.mp3" type="audio/mpeg">
 </audio>
@@ -24,7 +24,7 @@ Chào mừng bạn đến với video của tôi về "chính sách thuế" (pol
 ## GOVERNMENT
 
 Chính sách thuế đề cập đến "các quy tắc và quy định" (rules and regulations) do "chính phủ" (government) đặt ra để xác định cách đánh "thuế" (taxes) đối với "cá nhân" (individuals), "doanh nghiệp" (# 5456083479) và các "thực thể" khác (entities). Các chính sách này nêu rõ "mức thuế" (rates) mà tại đó thuế được áp dụng, loại thuế và cách "sử dụng" nguồn thu từ thuế (tax revenues) (utilized). "Chính sách thuế" được thiết kế tốt (taxation policy) đóng một vai trò quan trọng trong việc tài trợ cho "dịch vụ công cộng" (public services), thúc đẩy "tăng trưởng kinh tế" (economic growth) và đảm bảo "phúc lợi xã hội" (social welfare).
-![GOVERNMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-35536962889-Montserrat-Medium-283593.jpg)
+![GOVERNMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-35536962889-Montserrat-ExtraBold-4A148C.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-12459086858.mp3" type="audio/mpeg">
 </audio>
@@ -34,7 +34,7 @@ Chính sách thuế đề cập đến "các quy tắc và quy định" (rules a
 ## TAXATION
 
 Một trong những mục tiêu chính của "chính sách thuế" (taxation policy) là "tạo doanh thu" (generate revenue) cho "chính phủ" (government). Thuế là "nguồn thu nhập chính" (major source of income) cho phép chính phủ tài trợ cho các dự án cơ sở hạ tầng công cộng, cung cấp dịch vụ giáo dục và chăm sóc sức khỏe cũng như hỗ trợ các "chương trình phúc lợi xã hội" khác nhau (social welfare programs). Nếu không có thuế, các chính phủ sẽ gặp khó khăn trong việc đáp ứng những nhu cầu thiết yếu này của xã hội.
-![TAXATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-4233882454-Montserrat-SemiBold-4A148C.jpg)
+![TAXATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-4233882454-Montserrat-Thin-880E4F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-15276462591.mp3" type="audio/mpeg">
 </audio>
@@ -44,7 +44,7 @@ Một trong những mục tiêu chính của "chính sách thuế" (taxation pol
 ## PROGRESSIVE TAX SYSTEMS
 
 Một khía cạnh thiết yếu khác của chính sách thuế là vai trò của nó trong việc phân phối lại của cải và giảm bất bình đẳng về thu nhập. Hệ thống thuế lũy tiến, trong đó các cá nhân có thu nhập cao hơn bị đánh thuế ở "mức thuế cao hơn" (higher rates), giúp đảm bảo phân phối của cải công bằng hơn. Cách tiếp cận này nhằm mục đích giảm bớt "khoảng cách giàu nghèo" (wealth gap) và hỗ trợ những người "kém may mắn" (less fortunate). Bằng cách thực hiện các chính sách thuế lũy tiến, chính phủ có thể thúc đẩy một "xã hội công bằng hơn" (fairer society).
-![PROGRESSIVE TAX SYSTEMS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--10112251578-Montserrat-Medium-880E4F.jpg)
+![PROGRESSIVE TAX SYSTEMS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--10112251578-Montserrat-Medium-004895.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-930680250.mp3" type="audio/mpeg">
 </audio>
@@ -54,7 +54,7 @@ Một khía cạnh thiết yếu khác của chính sách thuế là vai trò c�
 ## ECONOMIC BEHAVIOR
 
 Chính sách thuế cũng ảnh hưởng đến "hành vi kinh tế" (economic behavior). Bằng cách áp đặt "thuế" (taxes) đối với một số "hàng hóa hoặc hoạt động" (goods or activities), "chính phủ" (governments) có thể "khuyến khích hoặc ngăn cản" (encourage or discourage) "hành vi" cụ thể (behaviors). Ví dụ: thuế cao hơn đối với "sản phẩm thuốc lá" (tobacco products) có thể ngăn cản "hút thuốc" (smoking), trong khi "ưu đãi thuế" (tax incentives) cho "năng lượng tái tạo" (renewable energy) có thể thúc đẩy sự thay đổi hướng tới các nguồn năng lượng sạch hơn quyền lực. Chính sách thuế có tác động đáng kể đến sự lựa chọn của người tiêu dùng, "đầu tư kinh doanh" (business investments) và năng suất kinh tế tổng thể.
-![ECONOMIC BEHAVIOR](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--15651891857-Montserrat-Thin-7B1FA2.jpg)
+![ECONOMIC BEHAVIOR](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--15651891857-Montserrat-Bold-4A148C.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-5266785416.mp3" type="audio/mpeg">
 </audio>
@@ -64,7 +64,7 @@ Chính sách thuế cũng ảnh hưởng đến "hành vi kinh tế" (economic b
 ## TAX POLICIES
 
 Điều quan trọng cần lưu ý là "chính sách thuế" (tax policies) phải tạo ra sự cân bằng giữa "tạo doanh thu" (generating revenue) và giảm thiểu tác động bất lợi đến "tăng trưởng kinh tế" (economic growth). "Gánh nặng thuế" quá mức (tax burdens) có thể cản trở "khởi nghiệp" (entrepreneurship), không khuyến khích "đầu tư" (investment) và cản trở "đổi mới" (innovation). Do đó, các "nhà hoạch định chính sách" (policymakers) phải xem xét cẩn thận "tác động tiềm tàng" (potential impact) của chính sách thuế đối với "môi trường kinh doanh" (business environment) và khả năng cạnh tranh kinh tế tổng thể.
-![TAX POLICIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-40004032215-Montserrat-SemiBold-004895.jpg)
+![TAX POLICIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-40004032215-Montserrat-Medium-673AB7.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-31934720151.mp3" type="audio/mpeg">
 </audio>
@@ -74,7 +74,7 @@ Chính sách thuế cũng ảnh hưởng đến "hành vi kinh tế" (economic b
 ## GOVERNMENTS
 
 Chính sách thuế là một "lĩnh vực năng động" phức tạp (dynamic field). Các chính phủ thường xuyên xem xét và cập nhật "luật thuế" (tax laws) để thích ứng với "điều kiện kinh tế" (economic conditions) và "nhu cầu xã hội" (societal needs) đang thay đổi. Những "sửa đổi" (revisions) này thường liên quan đến "tham vấn" (consultations) với "chuyên gia" (experts), "các bên liên quan của công chúng" (public stakeholders) và đại diện ngành để đảm bảo rằng hệ thống thuế vẫn "công bằng" (# 2090248391), "hiệu quả" (efficient) và hiệu quả.
-![GOVERNMENTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--26606781854-Montserrat-SemiBold-9C27B0.jpg)
+![GOVERNMENTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--26606781854-Montserrat-SemiBold-512DA8.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-38063982613.mp3" type="audio/mpeg">
 </audio>
@@ -84,7 +84,7 @@ Chính sách thuế là một "lĩnh vực năng động" phức tạp (dynamic 
 ## ECONOMIC GROWTH
 
 Tóm lại, "chính sách thuế" (taxation policy) là một thành phần quan trọng của bất kỳ xã hội hiện đại nào. Nó cung cấp nguồn vốn cần thiết cho hoạt động của chính phủ, thúc đẩy phúc lợi xã hội và ảnh hưởng đến hành vi kinh tế. Hệ thống thuế được thiết kế tốt sẽ tạo ra sự cân bằng giữa "tạo doanh thu" (generating revenue) và thúc đẩy tăng trưởng kinh tế, đồng thời giải quyết "bất bình đẳng về thu nhập" (income inequalities). Bằng cách hiểu và tham gia thảo luận về chính sách thuế, các cá nhân có thể góp phần hình thành một xã hội công bằng và thịnh vượng.
-![ECONOMIC GROWTH](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--20751517358-Montserrat-Regular-9C27B0.jpg)
+![ECONOMIC GROWTH](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--20751517358-Montserrat-Bold-512DA8.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-4021853052.mp3" type="audio/mpeg">
 </audio>
@@ -94,7 +94,7 @@ Tóm lại, "chính sách thuế" (taxation policy) là một thành phần quan
 ## POLICY FOR TAXATION
 
 Cảm ơn các bạn đã xem video này về chính sách thuế. Tôi hy vọng bạn thấy nó có nhiều thông tin và hiểu rõ hơn về tầm quan trọng của "chính sách thuế" (taxation policy) trong cuộc sống hàng ngày của chúng ta. Nếu bạn có thắc mắc gì thêm hoặc muốn tìm hiểu thêm, vui lòng để lại bình luận bên dưới.
-![POLICY FOR TAXATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-20044016220-Montserrat-Regular-880E4F.jpg)
+![POLICY FOR TAXATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-20044016220-Montserrat-Bold-303F9F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-39806558885.mp3" type="audio/mpeg">
 </audio>
