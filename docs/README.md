@@ -24,6 +24,8 @@
       - [Internal-financial-reporting.md](./Accounting/Accounting-Outsourcing/Internal-financial-reporting.md)
       - [Payroll-processing.md](./Accounting/Accounting-Outsourcing/Payroll-processing.md)
     - [Accounting-Outsourcing.md](./Accounting/Accounting-Outsourcing.md)
+    - [Accounting-Policy](./Accounting/Accounting-Policy)
+      - [Cash-Flow-Statement-Policy.md](./Accounting/Accounting-Policy/Cash-Flow-Statement-Policy.md)
     - [Accounting-Policy.md](./Accounting/Accounting-Policy.md)
     - [Accounting-Processes.md](./Accounting/Accounting-Processes.md)
     - [Accounting-Research.md](./Accounting/Accounting-Research.md)
