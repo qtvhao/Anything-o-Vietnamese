@@ -64,6 +64,8 @@
     - [Standard-Costing.md](./Standard-Costing.md)
     - [Variance-Analysis.md](./Variance-Analysis.md)
   - [Cost-Accounting.md](./Cost-Accounting.md)
+  - [Ethics-in-Accounting](./Ethics-in-Accounting/)
+    - [Fraud-Prevention-and-Ethics.md](./Fraud-Prevention-and-Ethics.md)
   - [Ethics-in-Accounting.md](./Ethics-in-Accounting.md)
   - [External-Auditing](./External-Auditing/)
     - [Compliance-Audits.md](./Compliance-Audits.md)
