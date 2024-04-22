@@ -5,6 +5,7 @@
   - [Accounting](./Accounting)
     - [Accounting-Automation](./Accounting/Accounting-Automation)
       - [Automated-Auditing.md](./Accounting/Accounting-Automation/Automated-Auditing.md)
+      - [Automated-Expense-Tracking.md](./Accounting/Accounting-Automation/Automated-Expense-Tracking.md)
       - [Automated-Financial-Analysis.md](./Accounting/Accounting-Automation/Automated-Financial-Analysis.md)
     - [Accounting-Automation.md](./Accounting/Accounting-Automation.md)
     - [Accounting-Education](./Accounting/Accounting-Education)
