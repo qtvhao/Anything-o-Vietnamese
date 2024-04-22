@@ -130,6 +130,7 @@
       - [Decision-Making.md](./Accounting/Management-Accounting/Decision-Making.md)
       - [Forecasting.md](./Accounting/Management-Accounting/Forecasting.md)
       - [Internal-Controls.md](./Accounting/Management-Accounting/Internal-Controls.md)
+      - [Tax-Management.md](./Accounting/Management-Accounting/Tax-Management.md)
     - [Management-Accounting.md](./Accounting/Management-Accounting.md)
     - [Performance-Management](./Accounting/Performance-Management)
       - [Key-Performance-Indicators.md](./Accounting/Performance-Management/Key-Performance-Indicators.md)
