@@ -26,6 +26,7 @@
   - [Accounting-Policy](./Accounting-Policy/)
     - [Cash-Flow-Statement-Policy.md](./Cash-Flow-Statement-Policy.md)
     - [Hedging-Policy.md](./Hedging-Policy.md)
+    - [Impairment-of-Assets-Policy.md](./Impairment-of-Assets-Policy.md)
   - [Accounting-Policy.md](./Accounting-Policy.md)
   - [Accounting-Processes.md](./Accounting-Processes.md)
   - [Accounting-Research.md](./Accounting-Research.md)
