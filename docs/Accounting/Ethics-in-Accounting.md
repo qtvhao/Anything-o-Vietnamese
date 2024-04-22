@@ -14,7 +14,7 @@
 ## ETHICS IN ACCOUNTING
 
 Chào mừng bạn đến với video của tôi về Đạo đức trong Kế toán. Trong video này, tôi sẽ khám phá tầm quan trọng của đạo đức trong "lĩnh vực kế toán" (field of accounting) và nêu bật một số "cân nhắc về đạo đức" chính (ethical considerations) mà "kế toán viên" (accountants) phải giải quyết.
-![ETHICS IN ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--32809368628-Montserrat-Thin-512DA8.jpg)
+![ETHICS IN ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--32809368628-Montserrat-Regular-4A148C.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-4917450791.mp3" type="audio/mpeg">
 </audio>
@@ -24,7 +24,7 @@ Chào mừng bạn đến với video của tôi về Đạo đức trong Kế t
 ## FIELD OF ACCOUNTING
 
 Kế toán là một "nghề" (profession) đóng vai trò quan trọng trong "thế giới tài chính" (financial world). Kế toán chịu trách nhiệm "ghi chép" (recording), "phân tích" (analyzing) và "báo cáo" (reporting) "thông tin tài chính" (financial information). Tuy nhiên, đi kèm với trách nhiệm này là cần có "hành vi đạo đức" (ethical behavior).
-![FIELD OF ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-9489440728-Montserrat-ExtraBold-1A237E.jpg)
+![FIELD OF ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-9489440728-Montserrat-Medium-283593.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-32867832218.mp3" type="audio/mpeg">
 </audio>
@@ -34,7 +34,7 @@ Kế toán là một "nghề" (profession) đóng vai trò quan trọng trong "t
 ## ETHICAL CONDUCT
 
 Hành vi đạo đức trong kế toán đảm bảo rằng "thông tin tài chính" (financial information) là "chính xác" (accurate), "đáng tin cậy" (reliable) và "minh bạch" (transparent). Nó liên quan đến việc tuân thủ một "bộ nguyên tắc" (set of principles) để "hướng dẫn" (guide) kế toán viên trong quá trình ra quyết định của họ. Những nguyên tắc này bao gồm "tính chính trực" (integrity), "tính khách quan" (objectivity), "bảo mật" (confidentiality) và năng lực chuyên môn.
-![ETHICAL CONDUCT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-34441827948-Montserrat-Black-303F9F.jpg)
+![ETHICAL CONDUCT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-34441827948-Montserrat-Bold-673AB7.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-1629782573.mp3" type="audio/mpeg">
 </audio>
@@ -44,7 +44,7 @@ Hành vi đạo đức trong kế toán đảm bảo rằng "thông tin tài ch�
 ## INTEGRITY
 
 Tính chính trực là cốt lõi của thực hành kế toán có đạo đức. Kế toán phải "trung thực" (honest), "trung thực" (truthful) và "minh bạch" (transparent) trong giao dịch của mình. Họ không được thao túng dữ liệu tài chính hoặc tham gia vào "các hoạt động lừa đảo" (fraudulent activities). Đề cao "sự liêm chính" (integrity) giúp "xây dựng niềm tin" (build trust) giữa các "bên liên quan" (stakeholders), chẳng hạn như "nhà đầu tư" (investors), "chủ nợ" (creditors) và công chúng.
-![INTEGRITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-2850925001-Montserrat-Medium-512DA8.jpg)
+![INTEGRITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-2850925001-Montserrat-SemiBold-7B1FA2.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-5556635488.mp3" type="audio/mpeg">
 </audio>
@@ -54,7 +54,7 @@ Tính chính trực là cốt lõi của thực hành kế toán có đạo đ�
 ## OBJECTIVITY
 
 Tính khách quan là một khía cạnh quan trọng khác của "kế toán có đạo đức" (ethical accounting). Kế toán phải thực hiện tính công bằng và tránh mọi "xung đột lợi ích" (conflicts of interest). Họ không được ủng hộ bất kỳ "bên liên quan" cụ thể nào (stakeholder) hoặc thao túng thông tin tài chính để đạt được mục tiêu cá nhân hoặc tổ chức. Tính khách quan đảm bảo rằng "báo cáo tài chính" (financial reports) không thiên vị và phản ánh "tình hình tài chính thực sự" (true financial position) của một thực thể.
-![OBJECTIVITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-24680622193-Montserrat-ExtraBold-512DA8.jpg)
+![OBJECTIVITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-24680622193-Montserrat-SemiBold-004895.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-14243081563.mp3" type="audio/mpeg">
 </audio>
@@ -64,7 +64,7 @@ Tính khách quan là một khía cạnh quan trọng khác của "kế toán c�
 ## ACCOUNTING ETHICS
 
 Bảo mật là nguyên tắc cơ bản trong "đạo đức kế toán" (accounting ethics). Kế toán thường có quyền truy cập vào thông tin tài chính nhạy cảm và họ phải duy trì "bảo mật" nghiêm ngặt (confidentiality). Họ không nên tiết lộ thông tin này cho những cá nhân không được ủy quyền hoặc sử dụng nó vì "lợi ích cá nhân" (personal gain). Vi phạm tính bảo mật có thể gây tổn hại đến danh tiếng, làm tổn hại đến "các mối quan hệ kinh doanh" (business relationships) và thậm chí dẫn đến hậu quả pháp lý.
-![ACCOUNTING ETHICS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--548588428-Montserrat-SemiBold-673AB7.jpg)
+![ACCOUNTING ETHICS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--548588428-Montserrat-Medium-880E4F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-63760753995.mp3" type="audio/mpeg">
 </audio>
@@ -74,7 +74,7 @@ Bảo mật là nguyên tắc cơ bản trong "đạo đức kế toán" (accoun
 ## PROFESSIONAL COMPETENCE
 
 Năng lực chuyên môn là điều cần thiết để "kế toán viên" (accountants) thực hiện nhiệm vụ của mình một cách "có đạo đức" (ethically). Họ phải có kiến ​​thức, kỹ năng và chuyên môn cần thiết để thực hiện trách nhiệm của mình một cách hiệu quả. Kế toán phải luôn cập nhật những thay đổi trong "chuẩn mực kế toán" (accounting standards) và "quy định" (regulations) để đảm bảo báo cáo tài chính chính xác. Phát triển chuyên môn liên tục là rất quan trọng trong việc duy trì năng lực trong lĩnh vực không ngừng phát triển này.
-![PROFESSIONAL COMPETENCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-4667831067-Montserrat-Regular-9C27B0.jpg)
+![PROFESSIONAL COMPETENCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-4667831067-Montserrat-ExtraBold-1A237E.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-50885702832.mp3" type="audio/mpeg">
 </audio>
@@ -84,7 +84,7 @@ Năng lực chuyên môn là điều cần thiết để "kế toán viên" (acc
 ## ETHICAL CHALLENGES
 
 Những thách thức về đạo đức trong kế toán có thể phát sinh dưới nhiều hình thức khác nhau. Một vấn đề nan giải về mặt đạo đức phổ biến là áp lực phải tham gia vào "quản lý thu nhập" (earnings management) hoặc các phương pháp kế toán sáng tạo nhằm thao túng kết quả tài chính. Kế toán phải chống lại những áp lực đó và duy trì cam kết về "tính chính trực" (integrity) và tính khách quan.
-![ETHICAL CHALLENGES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--1078523551-Montserrat-Black-283593.jpg)
+![ETHICAL CHALLENGES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--1078523551-Montserrat-ExtraBold-512DA8.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-32287845755.mp3" type="audio/mpeg">
 </audio>
@@ -94,7 +94,7 @@ Những thách thức về đạo đức trong kế toán có thể phát sinh d
 ## ETHICAL CONSIDERATIONS
 
 Một "sự cân nhắc về mặt đạo đức" khác (ethical consideration) là trách nhiệm của "kế toán viên" (accountants) đối với "lợi ích công cộng" (public interest). Chúng đóng vai trò quan trọng trong việc đảm bảo rằng "thông tin tài chính" (financial information) là "chính xác và đáng tin cậy" (accurate and reliable), giúp "các bên liên quan" (stakeholders) đưa ra "quyết định sáng suốt" (informed decisions). Kế toán nên ưu tiên lợi ích công cộng hơn lợi ích cá nhân hoặc tổ chức và xem xét "tác động tiềm tàng" (potential impact) của các quyết định của họ đối với các bên liên quan khác nhau.
-![ETHICAL CONSIDERATIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-3192915587-Montserrat-ExtraBold-9C27B0.jpg)
+![ETHICAL CONSIDERATIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-3192915587-Montserrat-Black-303F9F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-19073936908.mp3" type="audio/mpeg">
 </audio>
@@ -104,7 +104,7 @@ Một "sự cân nhắc về mặt đạo đức" khác (ethical consideration) 
 ## ACCOUNTANTS
 
 Tóm lại, "đạo đức trong kế toán" (ethics in accounting) là vô cùng quan trọng. Đề cao các nguyên tắc đạo đức như "chính trực" (integrity), "khách quan" (objectivity), "bảo mật" (confidentiality) và "năng lực chuyên môn" (professional competence) đảm bảo sự tin cậy và tín nhiệm của "các bên liên quan" (stakeholders ) trong thông tin tài chính. Kế toán phải điều hướng "những thách thức đạo đức" (ethical challenges) một cách có trách nhiệm, luôn ưu tiên "lợi ích công cộng" (public interest) và duy trì các tiêu chuẩn cao nhất về "hành vi đạo đức" (ethical conduct). Cảm ơn bạn đã xem video này về Đạo đức trong Kế toán.
-![ACCOUNTANTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--20797584732-Montserrat-Black-673AB7.jpg)
+![ACCOUNTANTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--20797584732-Montserrat-ExtraBold-004895.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-39628752971.mp3" type="audio/mpeg">
 </audio>
