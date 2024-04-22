@@ -106,6 +106,7 @@
     - [Financial-Accounting.md](./Accounting/Financial-Accounting.md)
     - [Financial-Statement-Analysis](./Accounting/Financial-Statement-Analysis)
       - [Balance-Sheet-Analysis.md](./Accounting/Financial-Statement-Analysis/Balance-Sheet-Analysis.md)
+      - [Comprehensive-Income-Analysis.md](./Accounting/Financial-Statement-Analysis/Comprehensive-Income-Analysis.md)
       - [Financial-Ratios.md](./Accounting/Financial-Statement-Analysis/Financial-Ratios.md)
       - [Horizontal-Analysis.md](./Accounting/Financial-Statement-Analysis/Horizontal-Analysis.md)
       - [Profitability-Ratios.md](./Accounting/Financial-Statement-Analysis/Profitability-Ratios.md)
