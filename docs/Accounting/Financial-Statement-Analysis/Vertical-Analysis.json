@@ -1,83 +1,69 @@
 {
-  "id": "6957156788",
+  "id": "143964975399",
   "titles": [
-    "Giải phóng sức mạnh của phân tích dọc: Hướng dẫn cơ bản về tỷ lệ và xu hướng báo cáo tài chính!"
+    "Giải phóng sức mạnh của phân tích dọc: Hướng dẫn cơ bản để phân tích báo cáo tài chính như một chuyên gia!"
   ],
   "topic": "Vertical Analysis",
-  "title": "Giải phóng sức mạnh của phân tích dọc: Hướng dẫn cơ bản về tỷ lệ và xu hướng báo cáo tài chính!",
-  "description": "\"Trong video này, tôi sẽ khám phá khái niệm Phân tích dọc, tầm quan trọng của nó trong phân tích tài chính và cách nó có thể cung cấp những hiểu biết có giá trị về hiệu quả tài chính của công ty. Vì vậy, hãy cùng tìm hiểu sâu! Phân tích dọc, còn được gọi là phân tích quy mô chung, là một kỹ thuật phân tích tài chính giúp chúng tôi hiểu cách trình bày tương ứng của từng mục trên báo cáo tài chính của công ty. Kỹ thuật này bao gồm việc thể hiện từng mục hàng dưới dạng phần trăm của giá trị cơ sở, thường là doanh thu thuần hoặc tổng doanh thu. có thể so sánh một cách hiệu quả tầm quan trọng tương đối của các mục trong báo cáo tài chính khác nhau theo thời gian hoặc giữa các công ty trong cùng ngành. Nó cho phép chúng tôi xác định các xu hướng, mô hình và các lĩnh vực quan tâm tiềm ẩn có thể không rõ ràng khi chỉ nhìn vào các số liệu tuyệt đối. có thể xem chi tiết video hướng dẫn ở bên dưới nhé.\"",
+  "title": "Giải phóng sức mạnh của phân tích dọc: Hướng dẫn cơ bản để phân tích báo cáo tài chính như một chuyên gia!",
+  "description": "\"Trong video này, em sẽ giới thiệu về Phân tích Dọc! Trong video này, tôi sẽ giới thiệu về khái niệm Phân tích Dọc và cách nó có thể được sử dụng để thu thập thông tin quan trọng về hiệu suất tài chính của một công ty. Dù bạn là chủ doanh nghiệp, nhà đầu tư hay đơn giản chỉ muốn hiểu về báo cáo tài chính, Phân tích Dọc là một công cụ mạnh mẽ giúp bạn đưa ra quyết định có căn cứ. Vậy, chúng ta hãy bắt đầu ngay! Trước khi đi vào chi tiết, hãy bắt đầu bằng việc hiểu rõ Phân tích Dọc là gì. Phân tích Dọc, còn được gọi là Phân tích Tỷ lệ chung, là một kỹ thuật được sử dụng để phân tích báo cáo tài chính bằng cách biểu thị mỗi khoản mục dưới dạng phần trăm của một số cơ sở. Số cơ sở này thường là tổng doanh thu đối với báo cáo lợi nhuận hoặc tổng tài sản đối với bảng cân đối kế toán. Bằng cách làm như vậy, chúng ta có thể so sánh các khoản mục khác nhau trong cùng một báo cáo tài chính và theo dõi tỷ lệ tương đối của chúng theo thời gian. Một trong những lợi ích chính của Phân tích Dọc là nó cho phép chúng ta nhận ra xu hướng và mô hình trong báo cáo tài chính của một công ty. Bằng cách biểu thị mỗi khoản mục dưới dạng phần trăm, chúng ta có thể dễ dàng nhận ra sự thay đổi trong cấu trúc doanh thu, chi phí, tài sản và nợ. Ví dụ, chúng ta có thể nhanh chóng nhận ra nếu tỷ lệ của một khoản chi phí cụ thể đã tăng trong thời gian hay nếu có một sự thay đổi đáng kể trong tỷ lệ doanh thu. Những thông tin này có thể cung cấp dấu hiệu quan trọng về sức khỏe tài chính của một công ty và các ưu tiên chiến lược của nó. Các sếp có thể xem video hướng dẫn chi tiết ở phía dưới nhé!\"",
   "author": "Vietnamese Online Voice",
   "date": "April 22, 2024",
   "content": [
     {
-      "id": "-11713095991",
+      "id": "22840455331",
       "heading": "VERTICAL ANALYSIS",
-      "text": "Chào mừng bạn đến với video của tôi về Phân tích dọc! Trong video này, tôi sẽ khám phá khái niệm Phân tích dọc, tầm quan trọng của nó trong \"phân tích tài chính\" (financial analysis) và cách nó có thể cung cấp \"thông tin chi tiết\" có giá trị (insights) về \"kết quả tài chính\" của công ty (financial performance). Vì vậy, hãy đi sâu vào!",
-      "transitionImageFile": "/app/storage/images/transitions/2024-04-22/transition--11713095991-Montserrat-Black-880E4F.jpg",
-      "audioFilePath": "/app/audio/file-43823144542.mp3"
+      "text": "Chào mừng bạn đến với video của tôi về Phân tích dọc! Trong video này, tôi sẽ khám phá khái niệm Phân tích dọc và cách sử dụng nó để đạt được những hiểu biết sâu sắc có giá trị về \"hiệu quả tài chính\" của công ty (financial performance). Cho dù bạn là \"chủ doanh nghiệp\" (business owner), \"nhà đầu tư\" (investor) hay chỉ đơn giản là muốn hiểu \"báo cáo tài chính\" (financial statements), Phân tích dọc là một công cụ mạnh mẽ có thể giúp bạn đưa ra \"quyết định sáng suốt\" (informed decisions). Vì vậy, hãy đi sâu vào ngay!",
+      "transitionImageFile": "/app/storage/images/transitions/2024-04-22/transition-22840455331-Montserrat-SemiBold-673AB7.jpg",
+      "audioFilePath": "/app/audio/file-856191520.mp3"
     },
     {
-      "id": "-8433091242",
-      "heading": "FINANCIAL ANALYSIS",
-      "text": "Phân tích dọc, còn được gọi là phân tích quy mô chung, là một kỹ thuật phân tích tài chính giúp chúng ta hiểu cách trình bày tương ứng của \"từng mục\" (each item) trên \"báo cáo tài chính\" của công ty (financial statement). Nó liên quan đến việc thể hiện từng mục hàng dưới dạng phần trăm của \"giá trị cơ bản\" (base value), thường là \"doanh thu thuần\" (net sales) hoặc \"tổng doanh thu\" (total revenue).",
-      "transitionImageFile": "/app/storage/images/transitions/2024-04-22/transition--8433091242-Montserrat-Thin-1A237E.jpg",
-      "audioFilePath": "/app/audio/file-20996051741.mp3"
-    },
-    {
-      "id": "-12301401160",
+      "id": "41979176209",
       "heading": "VERTICAL ANALYSIS",
-      "text": "Bằng cách sử dụng Phân tích dọc, chúng tôi có thể so sánh một cách hiệu quả tầm quan trọng tương đối của các mục báo cáo tài chính khác nhau \"theo thời gian\" (over time) hoặc \"giữa các công ty\" (across companies) trong \"cùng ngành\" (same industry). Nó cho phép chúng tôi \"xác định xu hướng\" (identify trends), \"mô hình\" (patterns) và các lĩnh vực quan tâm tiềm ẩn có thể không rõ ràng khi chỉ nhìn vào \"số liệu tuyệt đối\" (absolute figures).",
-      "transitionImageFile": "/app/storage/images/transitions/2024-04-22/transition--12301401160-Montserrat-Black-4A148C.jpg",
-      "audioFilePath": "/app/audio/file-5339574845.mp3"
+      "text": "Trước khi đi sâu vào chi tiết, hãy bắt đầu bằng cách hiểu Phân tích dọc là gì. Phân tích dọc, còn được gọi là Phân tích quy mô chung, là một kỹ thuật được sử dụng để phân tích \"báo cáo tài chính\" (financial statements) bằng cách biểu thị từng \"mục hàng\" (line item) dưới dạng \"phần trăm\" (percentage) của \"số tiền cơ sở\" (base amount). Số tiền cơ sở này thường là \"tổng doanh thu\" (total revenue) cho \"báo cáo thu nhập\" (income statement) hoặc \"tổng tài sản\" (total assets) cho \"bảng cân đối kế toán\" (balance sheet). Bằng cách đó, chúng tôi có thể so sánh các chi tiết đơn hàng khác nhau trong cùng một báo cáo tài chính và \"theo dõi\" (track) \"tỷ lệ tương đối\" (relative proportions) của chúng theo thời gian.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-04-22/transition-41979176209-Montserrat-SemiBold-283593.jpg",
+      "audioFilePath": "/app/audio/file-40760102765.mp3"
     },
     {
-      "id": "-13821249",
-      "heading": "FINANCIAL STATEMENT ANALYSIS",
-      "text": "Một trong những lợi ích chính của Phân tích dọc là khả năng làm nổi bật những thay đổi trong \"thành phần\" (composition) của \"báo cáo tài chính\" (financial statements) của \"công ty\" (company). Ví dụ: nếu chúng tôi quan sát thấy \"sự gia tăng\" đáng kể (increase) về tỷ lệ giá vốn hàng bán (COGS) theo thời gian, điều đó có thể cho thấy rằng công ty đang phải đối mặt với \"chi phí mua sắm hoặc sản xuất\" cao hơn (procurement costs), điều này có thể ảnh hưởng đến lợi nhuận của nó.",
-      "transitionImageFile": "/app/storage/images/transitions/2024-04-22/transition--13821249-Montserrat-Bold-7B1FA2.jpg",
-      "audioFilePath": "/app/audio/file-8713842482.mp3"
+      "id": "11744537639",
+      "heading": "VERTICAL ANALYSIS",
+      "text": "Một trong những lợi ích chính của Phân tích dọc là nó cho phép chúng tôi xác định \"xu hướng\" (trends) và \"mô hình\" (patterns) trong \"báo cáo tài chính\" của công ty (financial statements). Bằng cách biểu thị từng \"chi tiết đơn hàng\" (line item) dưới dạng \"tỷ lệ phần trăm\" (percentage), chúng tôi có thể dễ dàng phát hiện các thay đổi trong thành phần của \"doanh thu\" (revenues), \"chi phí\" (expenses), \"tài sản\" ( assets) và \"nợ\" (liabilities). Ví dụ: chúng tôi có thể nhanh chóng xác định xem \"tỷ lệ\" (proportion) của \"chi phí cụ thể\" (particular expense) có \"tăng theo thời gian\" (increased over time) hay có sự thay đổi đáng kể trong \"cơ cấu doanh thu\" (revenue mix). Những hiểu biết sâu sắc này có thể cung cấp manh mối có giá trị về \"sức khỏe tài chính\" (financial health) của công ty và các ưu tiên chiến lược của công ty.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-04-22/transition-11744537639-Montserrat-Regular-004895.jpg",
+      "audioFilePath": "/app/audio/file-1339173708.mp3"
     },
     {
-      "id": "-6212237599",
-      "heading": "BENCHMARKING",
-      "text": "Một ứng dụng quan trọng khác của Phân tích dọc là \"đo điểm chuẩn\" (benchmarking). Bằng cách so sánh các báo cáo tài chính quy mô chung của \"các công ty khác nhau\" (different companies) trong một \"ngành\" (industry), chúng tôi có thể hiểu rõ hơn về \"hiệu suất tương đối\" của chúng (relative performance) và xác định các điểm mạnh và điểm yếu tiềm ẩn. Thông tin này có thể có giá trị đối với \"nhà đầu tư\" (investors), \"nhà phân tích\" (analysts) và \"chủ doanh nghiệp\" (business owners) đang tìm cách đưa ra quyết định sáng suốt.",
-      "transitionImageFile": "/app/storage/images/transitions/2024-04-22/transition--6212237599-Montserrat-Medium-880E4F.jpg",
-      "audioFilePath": "/app/audio/file-13015554568.mp3"
+      "id": "-30942975669",
+      "heading": "VERTICAL ANALYSIS",
+      "text": "Bây giờ, chúng ta hãy xem xét kỹ hơn cách thực hiện Phân tích dọc. Để tiến hành Phân tích theo chiều dọc, chúng tôi bắt đầu bằng cách chọn \"số tiền cơ bản\" (base amount). Như đã đề cập trước đó, đây thường là \"tổng doanh thu\" (total revenue) cho \"báo cáo thu nhập\" (income statement) hoặc \"tổng tài sản\" (total assets) cho bảng cân đối kế toán. Sau đó, chúng tôi thể hiện từng mục hàng dưới dạng phần trăm của số tiền cơ sở này. Ví dụ: nếu \"giá vốn hàng bán\" (cost of goods sold) là 500.000 USD và tổng doanh thu là 1.000.000 USD thì giá vốn hàng bán sẽ được biểu thị bằng 50% ([$500.000 / 1.000.000 USD] x 100).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-04-22/transition--30942975669-Montserrat-Regular-7B1FA2.jpg",
+      "audioFilePath": "/app/audio/file-13293557840.mp3"
     },
     {
-      "id": "-6622654859",
-      "heading": "BASE VALUE",
-      "text": "Bây giờ, chúng ta hãy xem xét kỹ hơn cách thực hiện Phân tích dọc. Bước đầu tiên là chọn \"giá trị cơ sở\" (base value) mà tất cả \"chi tiết đơn hàng\" khác (line items) sẽ được biểu thị dưới dạng \"phần trăm\" (percentages). Như đã đề cập trước đó, \"doanh thu thuần\" (net sales) hoặc \"tổng doanh thu\" (total revenue) thường được sử dụng làm giá trị cơ bản vì chúng đại diện cho \"kết quả tài chính\" tổng thể (financial performance) của một công ty.",
-      "transitionImageFile": "/app/storage/images/transitions/2024-04-22/transition--6622654859-Montserrat-Regular-7B1FA2.jpg",
-      "audioFilePath": "/app/audio/file-8990536841.mp3"
-    },
-    {
-      "id": "-30263664934",
-      "heading": "FINANCIAL STATEMENT",
-      "text": "Khi đã chọn \"giá trị cơ sở\" (base value), chúng tôi tính tỷ lệ phần trăm cho mỗi \"mục hàng\" (line item) bằng cách chia giá trị mục hàng cho giá trị cơ sở và nhân với 100. Phép tính này giúp chúng tôi xác định tỷ lệ trình bày từng mục trên \"báo cáo tài chính\" (financial statement).",
-      "transitionImageFile": "/app/storage/images/transitions/2024-04-22/transition--30263664934-Montserrat-Black-512DA8.jpg",
-      "audioFilePath": "/app/audio/file-10804202692.mp3"
-    },
-    {
-      "id": "-16412149984",
-      "heading": "FINANCIAL STATEMENTS",
-      "text": "Điều đáng chú ý là Phân tích dọc không chỉ giới hạn ở báo cáo thu nhập. Nó cũng có thể được áp dụng cho \"bảng cân đối kế toán\" (balance sheet) và \"báo cáo lưu chuyển tiền tệ\" (cash flow statement). Bằng cách phân tích các \"báo cáo tài chính\" (financial statement) khác nhau bằng Phân tích dọc, chúng tôi có thể hiểu biết toàn diện về \"sức khỏe tài chính\" của công ty (financial health) và đưa ra quyết định sáng suốt hơn.",
-      "transitionImageFile": "/app/storage/images/transitions/2024-04-22/transition--16412149984-Montserrat-Black-004895.jpg",
-      "audioFilePath": "/app/audio/file-17694776305.mp3"
-    },
-    {
-      "id": "-30669709086",
+      "id": "37035881046",
       "heading": "FINANCIAL PERFORMANCE",
-      "text": "Tóm lại, Phân tích dọc là một kỹ thuật mạnh mẽ cho phép chúng tôi \"phân tích\" (analyze) \"báo cáo tài chính\" (financial statements) một cách có ý nghĩa và sâu sắc. Nó giúp chúng tôi xác định \"xu hướng\" (trends), \"so sánh các công ty\" (compare companies) và đưa ra \"quyết định sáng suốt\" (informed decisions). Bằng cách biểu thị từng \"chi tiết đơn hàng\" (line item) dưới dạng phần trăm của giá trị cơ bản, chúng tôi có thể hiểu sâu hơn về \"kết quả tài chính\" của công ty (financial performance). Vì vậy, cho dù bạn là \"nhà đầu tư\" (investor), \"nhà phân tích\" (analyst) hay \"chủ doanh nghiệp\" (business owner), Phân tích dọc là một công cụ có giá trị cần có trong bộ công cụ phân tích tài chính của bạn.",
-      "transitionImageFile": "/app/storage/images/transitions/2024-04-22/transition--30669709086-Montserrat-Bold-880E4F.jpg",
-      "audioFilePath": "/app/audio/file-29940181131.mp3"
+      "text": "Khi chúng tôi đã tính toán \"tỷ lệ phần trăm\" (percentages) cho mỗi \"mục hàng\" (line item), chúng tôi có thể so sánh chúng qua \"các giai đoạn khác nhau\" (different periods) hoặc \"điểm chuẩn\" (benchmark) với \"mức trung bình của ngành\" (industry averages). Điều này cho phép chúng tôi xác định các điểm mạnh hoặc điểm yếu trong \"kết quả hoạt động tài chính\" của công ty (financial performance). Ví dụ: nếu chúng tôi nhận thấy rằng chi phí nghiên cứu và phát triển tính theo phần trăm doanh thu đã tăng đáng kể thì điều đó có thể cho thấy cam kết đổi mới của công ty. Ngoài ra, nếu chúng tôi thấy rằng \"chi phí hoạt động\" (operating expenses) của một công ty cao hơn mức trung bình của ngành, điều đó có thể cho thấy sự kém hiệu quả cần được chú ý.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-04-22/transition-37035881046-Montserrat-ExtraBold-1A237E.jpg",
+      "audioFilePath": "/app/audio/file-25169788103.mp3"
     },
     {
-      "id": "5076944093",
-      "heading": "ESSENTIAL",
-      "text": "Thế là kết thúc video này về Phân tích theo chiều dọc. Tôi hy vọng bạn thấy nó có nhiều thông tin và nó đã cung cấp cho bạn sự hiểu biết vững chắc về kỹ thuật phân tích tài chính \"thiết yếu\" (essential) này. Cảm ơn các bạn đã xem và hẹn gặp lại các bạn ở video tiếp theo!",
-      "transitionImageFile": "/app/storage/images/transitions/2024-04-22/transition-5076944093-Montserrat-Medium-004895.jpg",
-      "audioFilePath": "/app/audio/file-8019119150.mp3"
+      "id": "30619621317",
+      "heading": "VERTICAL ANALYSIS",
+      "text": "Phân tích dọc có thể được áp dụng cho nhiều \"báo cáo tài chính\" (financial statements), bao gồm \"báo cáo thu nhập\" (income statement), \"bảng cân đối kế toán\" (balance sheet) và \"báo cáo lưu chuyển tiền tệ\" (statement of cash flows). Bằng cách phân tích các tuyên bố này theo chiều dọc, chúng tôi hiểu biết toàn diện về \"tình hình tài chính\" (financial position), \"khả năng sinh lời\" (profitability) và \"động lực dòng tiền\" (cash flow dynamics) của công ty. Thông tin này là vô giá để đánh giá \"sự ổn định tài chính\" (financial stability), \"tiềm năng tăng trưởng\" (growth potential) của công ty và khả năng tạo ra lợi nhuận bền vững.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-04-22/transition-30619621317-Montserrat-Black-880E4F.jpg",
+      "audioFilePath": "/app/audio/file-6894336164.mp3"
+    },
+    {
+      "id": "-55055270481",
+      "heading": "FINANCIAL STATEMENT ANALYSIS",
+      "text": "Tóm lại, Phân tích dọc là một công cụ mạnh mẽ cho phép chúng tôi hiểu rõ hơn về \"hiệu quả tài chính\" (financial performance) của công ty bằng cách biểu thị \"chi tiết đơn hàng\" (line items) dưới dạng \"tỷ lệ phần trăm\" (percentages) của \"số tiền cơ bản\" (base amount). Bằng cách sử dụng kỹ thuật này, chúng tôi có thể xác định \"xu hướng\" (trends), đánh giá các thay đổi về \"tỷ lệ\" (proportions) và \"điểm chuẩn\" (benchmark) so với \"tiêu chuẩn ngành\" (industry standards). Cho dù bạn là \"chủ doanh nghiệp\" (business owner), \"nhà đầu tư\" (investor) hay \"nhà phân tích tài chính\" (financial analyst), Phân tích dọc có thể cung cấp cho bạn thông tin có giá trị để đưa ra quyết định sáng suốt. Vì vậy, hãy tận dụng kỹ thuật này và khám phá những hiểu biết sâu sắc ẩn giấu trong báo cáo tài chính.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-04-22/transition--55055270481-Montserrat-ExtraBold-880E4F.jpg",
+      "audioFilePath": "/app/audio/file-48234661690.mp3"
+    },
+    {
+      "id": "-25951088500",
+      "heading": "FINANCIAL STATEMENTS",
+      "text": "Cảm ơn bạn đã xem video này trên Phân tích dọc. Tôi hy vọng bạn tìm thấy nó nhiều thông tin và hữu ích. Nếu bạn có thắc mắc hoặc muốn tìm hiểu thêm, vui lòng để lại bình luận bên dưới. Hãy nhớ đăng ký kênh của chúng tôi để có thêm video về các chủ đề liên quan đến tài chính và kinh doanh. Cho đến lần sau, hãy cẩn thận và vui vẻ phân tích!",
+      "transitionImageFile": "/app/storage/images/transitions/2024-04-22/transition--25951088500-Montserrat-Medium-880E4F.jpg",
+      "audioFilePath": "/app/audio/file-11273344522.mp3"
     }
   ],
   "categories": [
@@ -85,32 +71,56 @@
     "Financial Statement Analysis"
   ],
   "tags": [
-    "#FinancialAnalysis",
     "#CommonSizeAnalysis",
-    "#FinancialStatements",
     "#FinancialPerformance",
-    "#ProportionateRepresentation",
-    "#NetSales",
-    "#TotalRevenue",
+    "#FinancialStatements",
+    "#BusinessOwners",
+    "#Investors",
+    "#FinancialAnalysis",
     "#Trends",
     "#Patterns",
-    "#AreasOfConcern",
-    "#CostOfGoodsSold",
-    "#COGS",
-    "#Benchmarking",
-    "#FinancialStatementAnalysis",
-    "#Investors",
-    "#Analysts",
-    "#BusinessOwners",
+    "#FinancialHealth",
+    "#StrategicPriorities",
     "#IncomeStatement",
     "#BalanceSheet",
-    "#CashFlowStatement",
-    "#FinancialHealth",
-    "#InformedDecisions",
-    "#FinancialTools",
-    "#Finance",
+    "#StatementOfCashFlows",
+    "#FinancialPosition",
+    "#Profitability",
+    "#CashFlowDynamics",
+    "#FinancialStability",
+    "#GrowthPotential",
+    "#SustainableProfits",
+    "#FinancialInsights",
+    "#DataAnalysis",
+    "#FinancialManagement",
+    "#BusinessIntelligence",
+    "#FinancialReporting",
     "#Accounting",
-    "#ProfessionalDevelopment"
+    "#FinancialAnalysisTools",
+    "#FinancialData",
+    "#FinancialMetrics",
+    "#FinancialBenchmarking",
+    "#FinancialTrends",
+    "#FinancialPerformanceIndicators",
+    "#FinancialStatementAnalysis",
+    "#FinancialDecisionMaking",
+    "#FinancialAcumen",
+    "#FinancialKnowledge",
+    "#FinancialLiteracy",
+    "#ContinuousLearning",
+    "#ProfessionalDevelopment",
+    "#EducationalContent",
+    "#FinanceTutorial",
+    "#FinancialConcepts",
+    "#FinanceExplained",
+    "#AccountingSimplified",
+    "#UnderstandingFinance",
+    "#FinanceForNonFinance",
+    "#EmpoweringFinance",
+    "#FinanceMadeEasy",
+    "#FinanceForBusiness",
+    "#FinanceForInvestors",
+    "#FinanceForEveryone"
   ],
   "comments": []
 }
