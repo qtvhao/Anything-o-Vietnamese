@@ -14,6 +14,7 @@
       - [Forensic-Accounting-Education.md](./Accounting/Accounting-Education/Forensic-Accounting-Education.md)
     - [Accounting-Education.md](./Accounting/Accounting-Education.md)
     - [Accounting-Fraud](./Accounting/Accounting-Fraud)
+      - [Channel-Stuffing.md](./Accounting/Accounting-Fraud/Channel-Stuffing.md)
       - [Corruption.md](./Accounting/Accounting-Fraud/Corruption.md)
       - [Expense-Recognition-Fraud.md](./Accounting/Accounting-Fraud/Expense-Recognition-Fraud.md)
     - [Accounting-Fraud.md](./Accounting/Accounting-Fraud.md)
