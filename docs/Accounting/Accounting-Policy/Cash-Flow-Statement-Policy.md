@@ -14,7 +14,7 @@
 ## CASH FLOW STATEMENT POLICY
 
 Chào mừng bạn đến với video của tôi về Chính sách báo cáo lưu chuyển tiền tệ. Trong video này, tôi sẽ tìm hiểu tầm quan trọng của "chính sách báo cáo lưu chuyển tiền tệ" (cash flow statement policy) đối với doanh nghiệp, nó được "chuẩn bị" như thế nào (prepared) và "các thành phần chính" (key components) tạo nên một chính sách toàn diện. chính sách. Vì vậy, hãy đi sâu vào!
-![CASH FLOW STATEMENT POLICY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-9388901511-Montserrat-Regular-303F9F.jpg)
+![CASH FLOW STATEMENT POLICY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-9388901511-Montserrat-Black-1A237E.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-34748891309.mp3" type="audio/mpeg">
 </audio>
@@ -24,7 +24,7 @@ Chào mừng bạn đến với video của tôi về Chính sách báo cáo lư
 ## FINANCIAL DOCUMENT
 
 Chính sách báo cáo lưu chuyển tiền tệ là một "tài liệu tài chính" quan trọng (financial document) giúp doanh nghiệp giám sát và quản lý dòng tiền vào và dòng tiền ra của mình. Nó cung cấp một "bức tranh rõ ràng" (clear picture) về "cách tiền mặt di chuyển" (how cash moves) trong một "tổ chức" (organization) và nó rất cần thiết để đưa ra các quyết định tài chính sáng suốt. Nếu không có chính sách báo cáo lưu chuyển tiền tệ được xác định rõ ràng, doanh nghiệp có thể gặp khó khăn trong việc "theo dõi" (tracking) vị thế tiền mặt của mình một cách chính xác.
-![FINANCIAL DOCUMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--10025933847-Montserrat-SemiBold-303F9F.jpg)
+![FINANCIAL DOCUMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--10025933847-Montserrat-Bold-004895.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-4631995502.mp3" type="audio/mpeg">
 </audio>
@@ -44,7 +44,7 @@ Vì vậy, chính sách "báo cáo lưu chuyển tiền tệ" (cash flow stateme
 ## OPERATING ACTIVITIES
 
 Phần "hoạt động điều hành" (operating activities) bao gồm "dòng tiền" (cash flows) phát sinh từ "hoạt động chính" (main operations) của "doanh nghiệp" (business), chẳng hạn như "doanh thu bán hàng" (sales revenue) , "thanh toán cho nhà cung cấp" (payments to suppliers) và "tiền lương của nhân viên" (employee wages). Nó cung cấp cái nhìn sâu sắc về việc tạo ra tiền mặt hàng ngày và "cách sử dụng" (usage) của công ty.
-![OPERATING ACTIVITIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-9695181627-Montserrat-ExtraBold-303F9F.jpg)
+![OPERATING ACTIVITIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-9695181627-Montserrat-Black-7B1FA2.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-16554111892.mp3" type="audio/mpeg">
 </audio>
@@ -54,7 +54,7 @@ Phần "hoạt động điều hành" (operating activities) bao gồm "dòng ti
 ## INVESTING ACTIVITIES
 
 Phần "hoạt động đầu tư" (investing activities) tập trung vào các dòng tiền liên quan đến việc mua hoặc thanh lý tài sản dài hạn, chẳng hạn như tài sản, nhà xưởng và thiết bị, cũng như đầu tư vào các công ty khác. Phần này giúp doanh nghiệp đánh giá các quyết định đầu tư của mình và hiểu tác động đến "vị trí tiền mặt" của họ (cash position).
-![INVESTING ACTIVITIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--20843533849-Montserrat-SemiBold-512DA8.jpg)
+![INVESTING ACTIVITIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--20843533849-Montserrat-Bold-880E4F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-7791763680.mp3" type="audio/mpeg">
 </audio>
@@ -64,7 +64,7 @@ Phần "hoạt động đầu tư" (investing activities) tập trung vào các 
 ## FINANCING ACTIVITIES
 
 Phần "hoạt động tài chính" (financing activities) nắm bắt "dòng tiền" (cash flows) phát sinh từ các hoạt động như "huy động vốn" (raising capital), "trả nợ" (repaying loans) hoặc "phân chia cổ tức" (distributing dividends) . Nó "làm sáng tỏ" (sheds light) về cách một công ty "tài trợ cho hoạt động của mình" (funds its operations) và tác động của "các quyết định tài chính" (financing decisions) đối với dòng tiền của công ty.
-![FINANCING ACTIVITIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--17948769229-Montserrat-Black-512DA8.jpg)
+![FINANCING ACTIVITIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--17948769229-Montserrat-Bold-880E4F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-10132908718.mp3" type="audio/mpeg">
 </audio>
@@ -74,7 +74,7 @@ Phần "hoạt động tài chính" (financing activities) nắm bắt "dòng ti
 ## CASH FLOW STATEMENT
 
 Sau khi tất cả "dòng tiền" (cash flows) được "phân loại" (categorized), chúng sẽ được trình bày trong "báo cáo lưu chuyển tiền tệ" (cash flow statement), bao gồm "phân tích chi tiết" (detailed breakdown) của từng "hoạt động". phần" (activity section). Tuyên bố này cung cấp thông tin có giá trị về "tăng ròng" (net increase) hoặc "giảm" (decrease) bằng tiền mặt trong một "giai đoạn cụ thể" (specific period).
-![CASH FLOW STATEMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--27776748201-Montserrat-Medium-283593.jpg)
+![CASH FLOW STATEMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--27776748201-Montserrat-Black-512DA8.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-16574257779.mp3" type="audio/mpeg">
 </audio>
@@ -84,7 +84,7 @@ Sau khi tất cả "dòng tiền" (cash flows) được "phân loại" (categori
 ## ORGANIZATION
 
 Bây giờ, hãy thảo luận về các thành phần chính của "chính sách" báo cáo lưu chuyển tiền tệ toàn diện (policy). Đầu tiên, cần xác định rõ ràng mục đích và "mục tiêu" (objectives) của chính sách, nêu rõ lý do tại sao nó lại quan trọng đối với "tổ chức" (organization). Điều này giúp đảm bảo rằng mọi người trong công ty hiểu được tầm quan trọng của việc duy trì báo cáo lưu chuyển tiền tệ chính xác.
-![ORGANIZATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--20843874702-Montserrat-ExtraBold-512DA8.jpg)
+![ORGANIZATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--20843874702-Montserrat-ExtraBold-303F9F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-38664323198.mp3" type="audio/mpeg">
 </audio>
@@ -94,7 +94,7 @@ Bây giờ, hãy thảo luận về các thành phần chính của "chính sác
 ## SYSTEMATIC APPROACH
 
 Thứ hai, chính sách cần xác định rõ vai trò và trách nhiệm của các cá nhân tham gia vào quá trình lập báo cáo lưu chuyển tiền tệ. Điều này đảm bảo "trách nhiệm giải trình" (accountability) và "cách tiếp cận có hệ thống" (systematic approach) để thu thập dữ liệu dòng tiền.
-![SYSTEMATIC APPROACH](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--56714603325-Montserrat-Regular-004895.jpg)
+![SYSTEMATIC APPROACH](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--56714603325-Montserrat-ExtraBold-303F9F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-7278096061.mp3" type="audio/mpeg">
 </audio>
@@ -104,7 +104,7 @@ Thứ hai, chính sách cần xác định rõ vai trò và trách nhiệm của
 ## REPORTING TIMELINE
 
 Ngoài ra, chính sách nên nêu rõ tần suất lập báo cáo lưu chuyển tiền tệ và "mốc thời gian báo cáo" (reporting timeline). "Cập nhật thường xuyên và kịp thời" (timely updates) cho phép doanh nghiệp phản ứng kịp thời với mọi "vấn đề về dòng tiền" (cash flow issues) hoặc "cơ hội" (opportunities).
-![REPORTING TIMELINE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-8006187136-Montserrat-Thin-7B1FA2.jpg)
+![REPORTING TIMELINE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-8006187136-Montserrat-Thin-1A237E.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-24542007240.mp3" type="audio/mpeg">
 </audio>
@@ -114,7 +114,7 @@ Ngoài ra, chính sách nên nêu rõ tần suất lập báo cáo lưu chuyển
 ## ACCOUNTING PRINCIPLES
 
 Cuối cùng, chính sách phải đề cập đến mọi hướng dẫn hoặc thủ tục cụ thể cần tuân theo trong khi lập "báo cáo lưu chuyển tiền tệ" (cash flow statement). Điều này có thể bao gồm "các định dạng được chuẩn hóa" (standardized formats), "nguyên tắc kế toán" (accounting principles) hoặc bất kỳ cân nhắc liên quan nào khác.
-![ACCOUNTING PRINCIPLES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--1419930659-Montserrat-Black-4A148C.jpg)
+![ACCOUNTING PRINCIPLES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--1419930659-Montserrat-ExtraBold-7B1FA2.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-31164201614.mp3" type="audio/mpeg">
 </audio>
@@ -124,7 +124,7 @@ Cuối cùng, chính sách phải đề cập đến mọi hướng dẫn hoặc
 ## MANAGE CASH EFFECTIVELY
 
 Tóm lại, chính sách báo cáo lưu chuyển tiền tệ là một công cụ quan trọng để doanh nghiệp quản lý tiền mặt một cách hiệu quả. Bằng cách thiết lập chính sách rõ ràng, "tổ chức" (organizations) có thể theo dõi dòng tiền của họ một cách chính xác, đưa ra quyết định tài chính sáng suốt và đảm bảo "sức khỏe tài chính" tổng thể (financial health) của "công ty" (company). Cảm ơn bạn đã xem video này về Chính sách báo cáo lưu chuyển tiền tệ.
-![MANAGE CASH EFFECTIVELY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--12469388233-Montserrat-Medium-283593.jpg)
+![MANAGE CASH EFFECTIVELY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--12469388233-Montserrat-SemiBold-283593.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-5237862195.mp3" type="audio/mpeg">
 </audio>
