@@ -5,3 +5,4 @@
   - [Cash-Flow-Statement-Policy.md](./Cash-Flow-Statement-Policy.md)
   - [Hedging-Policy.md](./Hedging-Policy.md)
   - [Impairment-of-Assets-Policy.md](./Impairment-of-Assets-Policy.md)
+  - [Policy-for-Taxation.md](./Policy-for-Taxation.md)
