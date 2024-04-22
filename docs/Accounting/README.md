@@ -24,6 +24,7 @@
     - [Payroll-processing.md](./Payroll-processing.md)
   - [Accounting-Outsourcing.md](./Accounting-Outsourcing.md)
   - [Accounting-Policy](./Accounting-Policy/)
+    - [Capital-Structure-Policy.md](./Capital-Structure-Policy.md)
     - [Cash-Flow-Statement-Policy.md](./Cash-Flow-Statement-Policy.md)
     - [Hedging-Policy.md](./Hedging-Policy.md)
     - [Impairment-of-Assets-Policy.md](./Impairment-of-Assets-Policy.md)
