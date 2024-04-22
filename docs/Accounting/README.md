@@ -3,6 +3,8 @@
 
 - Accounting
   - [Accounting-Automation.md](./Accounting-Automation.md)
+  - [Accounting-Education](./Accounting-Education/)
+    - [Auditing-Education.md](./Auditing-Education.md)
   - [Accounting-Education.md](./Accounting-Education.md)
   - [Accounting-Fraud.md](./Accounting-Fraud.md)
   - [Accounting-History.md](./Accounting-History.md)

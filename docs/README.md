@@ -4,6 +4,8 @@
 - docs
   - [Accounting](./Accounting)
     - [Accounting-Automation.md](./Accounting/Accounting-Automation.md)
+    - [Accounting-Education](./Accounting/Accounting-Education)
+      - [Auditing-Education.md](./Accounting/Accounting-Education/Auditing-Education.md)
     - [Accounting-Education.md](./Accounting/Accounting-Education.md)
     - [Accounting-Fraud.md](./Accounting/Accounting-Fraud.md)
     - [Accounting-History.md](./Accounting/Accounting-History.md)
