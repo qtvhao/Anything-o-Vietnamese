@@ -14,7 +14,7 @@
 ## FINANCIAL REPORTING
 
 Chào mừng bạn đến với video của tôi về "báo cáo tài chính" (financial reporting)! Trong video này, tôi sẽ khám phá tầm quan trọng của báo cáo tài chính trong "kinh doanh" (business) và cung cấp cho bạn cái nhìn tổng quan toàn diện về các yếu tố chính của nó. Báo cáo tài chính đóng một vai trò quan trọng trong việc truyền đạt minh bạch về "sức khỏe tài chính" (financial health) của công ty tới "các bên liên quan" (stakeholders), bao gồm "nhà đầu tư" (investors), "chủ nợ" (creditors) và " cơ quan quản lý" (# 7137487164). Vì vậy, hãy đi sâu vào và hiểu tầm quan trọng của báo cáo tài chính.
-![FINANCIAL REPORTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--6707803796-Montserrat-Medium-1A237E.jpg)
+![FINANCIAL REPORTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--6707803796-Montserrat-SemiBold-7B1FA2.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-2848476668.mp3" type="audio/mpeg">
 </audio>
@@ -44,7 +44,7 @@ Một trong những lý do chính tại sao "báo cáo tài chính" (financial r
 ## FINANCIAL INFORMATION
 
 Báo cáo tài chính cũng đóng một vai trò quan trọng trong việc thúc đẩy "tính minh bạch" (transparency) và "trách nhiệm giải trình" (accountability) trong một tổ chức. Khi các công ty tiết lộ "thông tin tài chính" (financial information), điều đó cho phép "các bên liên quan" (stakeholders) có khả năng hiển thị "giao dịch tài chính" (financial transactions), "chính sách" (policies) và "hiệu suất" (# 1344367255) của "công ty" (company). Sự minh bạch này tạo dựng "niềm tin" (trust) và "niềm tin" (confidence) giữa các "nhà đầu tư" (investors), điều này có thể dẫn đến tăng "đầu tư" (investment) và cải thiện khả năng tiếp cận vốn.
-![FINANCIAL INFORMATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--2571502030-Montserrat-Black-283593.jpg)
+![FINANCIAL INFORMATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--2571502030-Montserrat-Black-4A148C.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-63638801320.mp3" type="audio/mpeg">
 </audio>
@@ -54,7 +54,7 @@ Báo cáo tài chính cũng đóng một vai trò quan trọng trong việc thú
 ## ACCOUNTING STANDARDS
 
 Một khía cạnh khác của báo cáo tài chính là việc tuân thủ các chuẩn mực và quy định kế toán. Các công ty phải tuân thủ các nguyên tắc kế toán được chấp nhận rộng rãi (GAAP) hoặc các tiêu chuẩn báo cáo tài chính quốc tế (IFRS) khi lập "báo cáo tài chính" (financial statements). Việc tuân thủ các tiêu chuẩn này đảm bảo "tính nhất quán" (consistency), "khả năng so sánh" (comparability) và "độ tin cậy" (reliability) của "thông tin tài chính" (financial information), cho phép "các bên liên quan" (stakeholders) đưa ra thông tin đầy đủ các quyết định.
-![ACCOUNTING STANDARDS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-21981568292-Montserrat-Medium-9C27B0.jpg)
+![ACCOUNTING STANDARDS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-21981568292-Montserrat-Thin-283593.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-35895403712.mp3" type="audio/mpeg">
 </audio>
@@ -64,7 +64,7 @@ Một khía cạnh khác của báo cáo tài chính là việc tuân thủ các
 ## STAKEHOLDERS
 
 Trong những năm gần đây, báo cáo bền vững trong phạm vi "báo cáo tài chính" (financial reporting) ngày càng được chú trọng nhiều hơn. Nhiều tổ chức hiện đang tiết lộ hiệu suất "môi trường" (environment)al, xã hội và quản trị (ESG) của họ cùng với thông tin tài chính truyền thống. Phương pháp báo cáo rộng hơn này cung cấp cho "các bên liên quan" (stakeholders) hiểu biết toàn diện hơn về "tác động của công ty" (company's impact) đối với "xã hội" (society) và môi trường.
-![STAKEHOLDERS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-26627230554-Montserrat-SemiBold-303F9F.jpg)
+![STAKEHOLDERS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-26627230554-Montserrat-Regular-283593.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-13283458018.mp3" type="audio/mpeg">
 </audio>
@@ -74,7 +74,7 @@ Trong những năm gần đây, báo cáo bền vững trong phạm vi "báo cá
 ## AUTOMATION
 
 Công nghệ cũng đóng một vai trò quan trọng trong việc chuyển đổi "báo cáo tài chính" (financial reporting). Tự động hóa và "số hóa" (digitalization) đã hợp lý hóa quy trình báo cáo, giúp quy trình này hiệu quả và chính xác hơn. Phần mềm nâng cao và "công cụ phân tích dữ liệu" (data analytics tools) cho phép các công ty thu thập, xử lý và phân tích "dữ liệu tài chính" (financial data) trong thời gian thực, cải thiện việc ra quyết định và nâng cao chất lượng tổng thể của báo cáo tài chính.
-![AUTOMATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--32600240826-Montserrat-Bold-673AB7.jpg)
+![AUTOMATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--32600240826-Montserrat-ExtraBold-673AB7.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-13513486764.mp3" type="audio/mpeg">
 </audio>
@@ -84,7 +84,7 @@ Công nghệ cũng đóng một vai trò quan trọng trong việc chuyển đ�
 ## DECISION MAKING
 
 Tóm lại, "báo cáo tài chính" (financial reporting) là khía cạnh cơ bản của bất kỳ doanh nghiệp nào. Nó đóng vai trò như một phương tiện liên lạc giữa một công ty và "các bên liên quan" (stakeholders), cung cấp thông tin quan trọng cho việc ra quyết định, thúc đẩy "tính minh bạch" (transparency) và đảm bảo tuân thủ "các tiêu chuẩn kế toán" (accounting standards). Bằng cách tuân thủ các nguyên tắc báo cáo tài chính, các công ty có thể thiết lập "niềm tin" (trust), thu hút "đầu tư" (investment) và thúc đẩy tăng trưởng bền vững. Cảm ơn bạn đã xem video này về báo cáo tài chính và tôi hy vọng bạn thấy video này có nhiều thông tin và sâu sắc.
-![DECISION MAKING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--29829394945-Montserrat-Bold-7B1FA2.jpg)
+![DECISION MAKING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--29829394945-Montserrat-Thin-673AB7.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-25018761794.mp3" type="audio/mpeg">
 </audio>
