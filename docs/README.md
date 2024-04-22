@@ -12,6 +12,7 @@
     - [Accounting-Education](./Accounting/Accounting-Education)
       - [Auditing-Education.md](./Accounting/Accounting-Education/Auditing-Education.md)
       - [Forensic-Accounting-Education.md](./Accounting/Accounting-Education/Forensic-Accounting-Education.md)
+      - [Taxation-Education.md](./Accounting/Accounting-Education/Taxation-Education.md)
     - [Accounting-Education.md](./Accounting/Accounting-Education.md)
     - [Accounting-Fraud](./Accounting/Accounting-Fraud)
       - [Channel-Stuffing.md](./Accounting/Accounting-Fraud/Channel-Stuffing.md)
