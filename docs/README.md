@@ -10,6 +10,8 @@
       - [Auditing-Education.md](./Accounting/Accounting-Education/Auditing-Education.md)
       - [Forensic-Accounting-Education.md](./Accounting/Accounting-Education/Forensic-Accounting-Education.md)
     - [Accounting-Education.md](./Accounting/Accounting-Education.md)
+    - [Accounting-Fraud](./Accounting/Accounting-Fraud)
+      - [Expense-Recognition-Fraud.md](./Accounting/Accounting-Fraud/Expense-Recognition-Fraud.md)
     - [Accounting-Fraud.md](./Accounting/Accounting-Fraud.md)
     - [Accounting-History.md](./Accounting/Accounting-History.md)
     - [Accounting-Outsourcing](./Accounting/Accounting-Outsourcing)
