@@ -151,5 +151,6 @@
     - [Tax-Compliance.md](./Tax-Compliance.md)
     - [Tax-Disputes-and-Resolution.md](./Tax-Disputes-and-Resolution.md)
     - [Tax-Law.md](./Tax-Law.md)
+    - [Tax-Planning.md](./Tax-Planning.md)
     - [Tax-Preparation.md](./Tax-Preparation.md)
   - [Tax-Accounting.md](./Tax-Accounting.md)
