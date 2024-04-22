@@ -1,0 +1,111 @@
+
+---
+
+# Khám phá sự thật tiềm ẩn: Tác động của việc tài trợ ngoại bảng đối với doanh nghiệp, rủi ro và tính minh bạch trong báo cáo tài chính
+
+- Published: April 22, 2024
+- Author: Vietnamese Online Voice
+- Categories: Accounting / **Accounting Fraud**
+- #FinancialReporting #AssetsLiabilities #FinancialStatements #OperatingLeases #JointVentures #RiskManagement #FinancialFlexibility #DebtToEquityRatio #MisleadingFinancialStatements #InvestorDeception #HiddenLiabilities #SpecialPurposeEntities #FinancialInstruments #Transparency #AccountingStandards #IFRS #GAAP #FinancialHealth #BusinessFinance #CorporateFinance #FinancialManagement #FinancialPractices #InvestorRelations #StakeholderCommunication
+
+"Trong video này, em sẽ giới thiệu về Tài chính ngoài bảng cân đối kế toán (Off-Balance Sheet Financing). Em sẽ khám phá khái niệm Off-Balance Sheet Financing, sự quan trọng của nó trong báo cáo tài chính, và những lợi ích và rủi ro tiềm năng cho doanh nghiệp. Vậy, chúng ta hãy bắt đầu! Tài chính ngoài bảng cân đối kế toán đề cập đến việc một số tài sản, khoản nợ hoặc hoạt động tài chính của một công ty không được báo cáo trên bảng cân đối kế toán. Thay vào đó, chúng được tiết lộ trong chú thích hoặc lịch trình bổ sung của báo cáo tài chính. Thực hành này cho phép các công ty giữ một số nghĩa vụ hoặc rủi ro ngoài bảng cân đối kế toán, tạo ra một hình ảnh tiềm năng của tình hình tài chính. Mục đích chính của Tài chính ngoài bảng cân đối kế toán là quản lý rủi ro, nâng cao tính linh hoạt tài chính và cải thiện tỷ lệ tài chính. Các công ty có thể thực hiện thực hành này để tiến hành các dự án quy mô lớn, như phát triển cơ sở hạ tầng hoặc nghiên cứu và phát triển, mà không gánh nặng bảng cân đối kế toán của họ bằng các khoản nợ hoặc nghĩa vụ bổ sung. Bằng cách làm như vậy, họ có thể thu hút nhà đầu tư và tín dụng viên trong khi duy trì tỷ lệ nợ vốn thuận lợi. Các sếp có thể xem video hướng dẫn chi tiết ở phía dưới nhé."
+
+
+## FINANCIAL REPORTING
+
+Chào mừng bạn đến với video của tôi về Tài trợ ngoại bảng. Trong video này, tôi sẽ khám phá khái niệm Tài trợ ngoại bảng cân đối kế toán, tầm quan trọng của nó trong "báo cáo tài chính" (financial reporting) và "lợi ích" tiềm năng (benefits) và "rủi ro" (risks) đối với doanh nghiệp. Vì vậy, hãy đi sâu vào!
+![FINANCIAL REPORTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-12559801345-Montserrat-ExtraBold-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-10618095120.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## OFF-BALANCE SHEET FINANCING
+
+Tài trợ ngoại bảng cân đối kế toán đề cập đến một "hoạt động tài chính" (financial practice) trong đó một số "tài sản" (assets), "nợ phải trả" (liabilities) hoặc "hoạt động tài chính" (financing activities) của một công ty không được báo cáo trên "bảng cân đối kế toán" của nó (balance sheet). Thay vào đó, chúng được tiết lộ trong "chú thích cuối trang" (footnotes) hoặc "các lịch trình bổ sung" (supplementary schedules) của "báo cáo tài chính" (financial statements). Thông lệ này cho phép các công ty loại bỏ một số "nghĩa vụ" (obligations) hoặc "rủi ro" (risks) khỏi bảng cân đối kế toán của họ, thể hiện một bức tranh có thể bị sai lệch về sức khỏe tài chính của họ.
+![OFF-BALANCE SHEET FINANCING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--8935276876-Montserrat-ExtraBold-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-10140747331.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## FINANCIAL FLEXIBILITY
+
+Mục đích chính của Tài trợ ngoại bảng cân đối kế toán là "quản lý rủi ro" (manage risk), nâng cao "tính linh hoạt tài chính" (financial flexibility) và cải thiện các tỷ số tài chính. Các công ty có thể tham gia vào hoạt động này để thực hiện các dự án quy mô lớn, chẳng hạn như phát triển cơ sở hạ tầng hoặc nghiên cứu và phát triển mà không tạo gánh nặng cho bảng cân đối kế toán của họ với "nợ bổ sung" (additional debt) hoặc "nợ phải trả" (liabilities). Bằng cách đó, họ có thể thu hút các nhà đầu tư và chủ nợ trong khi vẫn duy trì tỷ lệ nợ trên vốn chủ sở hữu thuận lợi.
+![FINANCIAL FLEXIBILITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-21955977078-Montserrat-ExtraBold-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-37763877146.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## OPERATING LEASES
+
+Một hình thức tài trợ ngoại bảng phổ biến là sử dụng "hợp đồng thuê hoạt động" (operating leases). Các công ty thường cho thuê tài sản, chẳng hạn như thiết bị hoặc bất động sản, thay vì mua hoàn toàn. Vì tài sản cho thuê không xuất hiện trên bảng cân đối kế toán nên "nợ phải trả" (liabilities) và "tỷ lệ nợ" (debt ratios) của công ty có thể thấp hơn thực tế. Điều này có thể làm cho công ty trông "ổn định về tài chính" hơn (financially stable) và hấp dẫn các nhà đầu tư.
+![OPERATING LEASES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--49877799968-Montserrat-SemiBold-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-53513552493.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## JOINT VENTURES
+
+Tài trợ ngoại bảng cân đối kế toán cũng có thể ở dạng "liên doanh" (joint ventures), trong đó hai hoặc nhiều công ty hợp tác trong một "dự án" cụ thể (project) mà không cần "sáp nhập chính thức" (formally merging) hoạt động của họ. Bằng cách tạo ra một "thực thể pháp lý riêng biệt" (separate legal entity) cho liên doanh, "các công ty tham gia" (participating companies) có thể chia sẻ rủi ro và chi phí liên quan đến dự án mà không cần "hợp nhất" (consolidating) "tài chính" của liên doanh (financials) bằng của riêng họ. Điều này cho phép họ tránh ghi lại "tài sản và nợ phải trả" (assets and liabilities) của liên doanh trên "bảng cân đối kế toán" (balance sheets).
+![JOINT VENTURES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--15552687361-Montserrat-Bold-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-19268912395.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## RISKS
+
+Tuy nhiên, mặc dù việc tài trợ ngoại bảng có thể mang lại một số lợi ích nhất định nhưng nó cũng tiềm ẩn những "rủi ro" cố hữu (risks). Một trong những rủi ro chính là khả năng "gây hiểu lầm" (misleading) "báo cáo tài chính" (financial statements). Bằng cách loại trừ các "nghĩa vụ" quan trọng (obligations) hoặc rủi ro khỏi "bảng cân đối kế toán" (balance sheet), các công ty có thể đưa ra bức tranh không chính xác về "sức khỏe tài chính" (financial health) và "hiệu suất" (performance) của họ. Điều này có thể đánh lừa "nhà đầu tư" (investors) và "chủ nợ" (creditors), dẫn đến các quyết định đầu tư sai lầm.
+![RISKS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-34743907309-Montserrat-Medium-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-25564220351.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## HIDDEN LIABILITIES
+
+Một rủi ro khác của việc tài trợ ngoại bảng là tiềm ẩn các khoản nợ tiềm ẩn. Các công ty có thể tạo ra các thực thể có mục đích đặc biệt (SPE) hoặc sử dụng các công cụ tài chính phức tạp để thực hiện các giao dịch không hoàn toàn "minh bạch" (transparent). Những thỏa thuận này có thể dẫn đến "nợ phải trả không mong muốn" (unexpected liabilities), đặc biệt trong trường hợp công ty "đảm bảo" (guarantees) "nghĩa vụ" (obligations) của SPE hoặc nắm giữ "rủi ro đáng kể" (substantial risks) liên quan đến các công cụ tài chính.
+![HIDDEN LIABILITIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-38754273582-Montserrat-Bold-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-34759567547.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## ACCOUNTING STANDARDS
+
+Trong những năm gần đây, các chuẩn mực kế toán đã phát triển để giải quyết một số mối lo ngại liên quan đến việc tài trợ ngoại bảng. Các Chuẩn mực Báo cáo Tài chính Quốc tế (IFRS) và Nguyên tắc Kế toán được Chấp nhận Chung (GAAP) hiện yêu cầu các công ty cung cấp thêm "thông tin tiết lộ chi tiết" (detailed disclosures) về các thỏa thuận ngoại bảng của họ. Tính minh bạch ngày càng tăng này nhằm mục đích cung cấp cho các bên liên quan hiểu rõ hơn về "tình hình tài chính" (financial position) và "rủi ro tiềm ẩn" (potential risks) của công ty.
+![ACCOUNTING STANDARDS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-22548670532-Montserrat-Regular-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-25377776564.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## FINANCIAL PRACTICE
+
+Tóm lại, Tài trợ ngoại bảng là một "hoạt động tài chính" (financial practice) cho phép các công ty quản lý rủi ro và cải thiện "tính linh hoạt tài chính" (financial flexibility). Mặc dù nó có thể mang lại những lợi thế nhất định, chẳng hạn như thu hút các nhà đầu tư và duy trì "tỷ lệ tài chính" thuận lợi (financial ratios), nhưng nó cũng gây ra rủi ro, bao gồm báo cáo tài chính sai lệch và "nợ tiềm ẩn" (hidden liabilities). Khi "chuẩn mực kế toán" (accounting standards) tiếp tục phát triển, điều quan trọng đối với các doanh nghiệp là phải đảm bảo "minh bạch" (transparency) và cung cấp thông tin chính xác và toàn diện cho "các bên liên quan" (stakeholders).
+![FINANCIAL PRACTICE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--15694368911-Montserrat-Regular-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-14048140288.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## FINANCIAL STATEMENTS
+
+Cảm ơn bạn đã xem video này về Tài trợ ngoại bảng. Tôi hy vọng bạn thấy nó có nhiều thông tin và hiểu rõ hơn về khái niệm tài chính quan trọng này. Nếu bạn có thắc mắc gì thêm, vui lòng để lại bình luận bên dưới.
+![FINANCIAL STATEMENTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-15151233637-Montserrat-Medium-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-3931567099.mp3" type="audio/mpeg">
+</audio>
+

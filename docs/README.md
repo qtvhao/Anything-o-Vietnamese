@@ -17,6 +17,7 @@
       - [Channel-Stuffing.md](./Accounting/Accounting-Fraud/Channel-Stuffing.md)
       - [Corruption.md](./Accounting/Accounting-Fraud/Corruption.md)
       - [Expense-Recognition-Fraud.md](./Accounting/Accounting-Fraud/Expense-Recognition-Fraud.md)
+      - [Off-Balance-Sheet-Financing.md](./Accounting/Accounting-Fraud/Off-Balance-Sheet-Financing.md)
     - [Accounting-Fraud.md](./Accounting/Accounting-Fraud.md)
     - [Accounting-History.md](./Accounting/Accounting-History.md)
     - [Accounting-Outsourcing](./Accounting/Accounting-Outsourcing)
