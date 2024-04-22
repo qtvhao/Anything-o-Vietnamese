@@ -8,6 +8,7 @@
   - [Accounting-History.md](./Accounting-History.md)
   - [Accounting-Outsourcing](./Accounting-Outsourcing/)
     - [Bookkeeping.md](./Bookkeeping.md)
+    - [Payroll-processing.md](./Payroll-processing.md)
   - [Accounting-Outsourcing.md](./Accounting-Outsourcing.md)
   - [Accounting-Policy.md](./Accounting-Policy.md)
   - [Accounting-Processes.md](./Accounting-Processes.md)
