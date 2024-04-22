@@ -7,3 +7,4 @@
   - [Financial-Ratios.md](./Financial-Ratios.md)
   - [Horizontal-Analysis.md](./Horizontal-Analysis.md)
   - [Profitability-Ratios.md](./Profitability-Ratios.md)
+  - [Vertical-Analysis.md](./Vertical-Analysis.md)

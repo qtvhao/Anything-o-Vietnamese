@@ -112,6 +112,7 @@
       - [Financial-Ratios.md](./Accounting/Financial-Statement-Analysis/Financial-Ratios.md)
       - [Horizontal-Analysis.md](./Accounting/Financial-Statement-Analysis/Horizontal-Analysis.md)
       - [Profitability-Ratios.md](./Accounting/Financial-Statement-Analysis/Profitability-Ratios.md)
+      - [Vertical-Analysis.md](./Accounting/Financial-Statement-Analysis/Vertical-Analysis.md)
     - [Financial-Statement-Analysis.md](./Accounting/Financial-Statement-Analysis.md)
     - [Forensic-Accounting](./Accounting/Forensic-Accounting)
       - [Anti-money-laundering.md](./Accounting/Forensic-Accounting/Anti-money-laundering.md)
