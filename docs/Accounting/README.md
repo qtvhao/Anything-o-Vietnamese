@@ -6,6 +6,7 @@
     - [Automated-Auditing.md](./Automated-Auditing.md)
     - [Automated-Expense-Tracking.md](./Automated-Expense-Tracking.md)
     - [Automated-Financial-Analysis.md](./Automated-Financial-Analysis.md)
+    - [Automated-Financial-Reporting.md](./Automated-Financial-Reporting.md)
   - [Accounting-Automation.md](./Accounting-Automation.md)
   - [Accounting-Education](./Accounting-Education/)
     - [Auditing-Education.md](./Auditing-Education.md)
