@@ -166,6 +166,7 @@
   - [Performance-Management](./Performance-Management/)
     - [Key-Performance-Indicators.md](./Key-Performance-Indicators.md)
     - [Strategy-Mapping.md](./Strategy-Mapping.md)
+    - [Tax-Planning-and-Compliance.md](./Tax-Planning-and-Compliance.md)
   - [Performance-Management.md](./Performance-Management.md)
   - [Public-Accounting](./Public-Accounting/)
     - [Advisory-Services.md](./Advisory-Services.md)
