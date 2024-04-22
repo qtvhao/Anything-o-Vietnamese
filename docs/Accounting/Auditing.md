@@ -14,7 +14,7 @@
 ## AUDITING
 
 Chào mừng bạn đến với video của tôi về "kiểm toán" (auditing), một khía cạnh thiết yếu của "nghề kế toán" (accounting profession). Trong video này, tôi sẽ khám phá khái niệm kiểm tra, "mục đích" của nó (purpose) và các bước chính liên quan đến "tiến hành kiểm tra" (conducting an audit). Vì vậy, hãy đi sâu vào!
-![AUDITING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--16146512267-Montserrat-Medium-9C27B0.jpg)
+![AUDITING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--16146512267-Montserrat-Black-004895.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-15254200027.mp3" type="audio/mpeg">
 </audio>
@@ -24,7 +24,7 @@ Chào mừng bạn đến với video của tôi về "kiểm toán" (auditing),
 ## SYSTEMATIC EXAMINATION
 
 Kiểm toán là "kiểm tra có hệ thống" (systematic examination) hồ sơ tài chính, báo cáo và giao dịch để đảm bảo tính chính xác, tính toàn vẹn và tuân thủ luật pháp và quy định hiện hành. Nó được thực hiện bởi các chuyên gia độc lập được gọi là kiểm toán viên.
-![SYSTEMATIC EXAMINATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-26770871533-Montserrat-Black-512DA8.jpg)
+![SYSTEMATIC EXAMINATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-26770871533-Montserrat-Black-4A148C.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-25348534220.mp3" type="audio/mpeg">
 </audio>
@@ -34,7 +34,7 @@ Kiểm toán là "kiểm tra có hệ thống" (systematic examination) hồ sơ
 ## ASSURANCE
 
 Mục đích chính của kiểm toán là cung cấp "sự đảm bảo" (assurance) cho "các bên liên quan" (stakeholders), chẳng hạn như nhà đầu tư, cổ đông và người cho vay, rằng "thông tin tài chính" (financial information) do tổ chức đưa ra là " đáng tin cậy" (reliable) và "đáng tin cậy" (trustworthy). Kiểm toán giúp duy trì sự tin cậy trong quá trình báo cáo tài chính.
-![ASSURANCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--1226877942-Montserrat-Black-004895.jpg)
+![ASSURANCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--1226877942-Montserrat-SemiBold-1A237E.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-45482440710.mp3" type="audio/mpeg">
 </audio>
@@ -44,7 +44,7 @@ Mục đích chính của kiểm toán là cung cấp "sự đảm bảo" (assur
 ## ACCOUNTING PROFESSION
 
 Bước đầu tiên trong quá trình "kiểm tra" (audit) là lập kế hoạch. Kiểm toán viên đánh giá các rủi ro liên quan đến "hoạt động kinh doanh của khách hàng" (client's business) và thiết kế "chiến lược kiểm toán" (audit strategy) tương ứng. Họ thu thập sự hiểu biết về hệ thống kiểm soát nội bộ của khách hàng và xác định các lĩnh vực cần "sự chú ý đặc biệt" (special attention).
-![ACCOUNTING PROFESSION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--36770023676-Montserrat-Medium-9C27B0.jpg)
+![ACCOUNTING PROFESSION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--36770023676-Montserrat-Medium-512DA8.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-29986617355.mp3" type="audio/mpeg">
 </audio>
@@ -54,7 +54,7 @@ Bước đầu tiên trong quá trình "kiểm tra" (audit) là lập kế hoạ
 ## FIELDWORK
 
 Sau khi lập kế hoạch hoàn tất, kiểm toán viên chuyển sang giai đoạn "điều tra thực địa" (fieldwork). Điều này liên quan đến việc thu thập "bằng chứng" (evidence) thông qua các "thủ tục" khác nhau (procedures), chẳng hạn như "kiểm tra tài liệu" (examining documents), "tiến hành phỏng vấn" (conducting interviews) và thực hiện kiểm tra các giao dịch và số dư. Kiểm toán viên xác minh "tính chính xác" (accuracy) và "tính đầy đủ" (completeness) của "thông tin tài chính" (financial information) trong giai đoạn này.
-![FIELDWORK](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-21620452082-Montserrat-SemiBold-673AB7.jpg)
+![FIELDWORK](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-21620452082-Montserrat-Regular-303F9F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-31150976203.mp3" type="audio/mpeg">
 </audio>
@@ -64,7 +64,7 @@ Sau khi lập kế hoạch hoàn tất, kiểm toán viên chuyển sang giai đ
 ## INTERNAL CONTROLS
 
 Trong quá trình điều tra thực địa, "kiểm toán viên" (auditors) cũng đánh giá hệ thống kiểm soát nội bộ tại chỗ. Họ đánh giá tính hiệu quả của các biện pháp kiểm soát và xác định mọi điểm yếu hoặc thiếu sót có thể dẫn đến sai sót hoặc gian lận. Đánh giá này giúp kiểm toán viên xác định mức độ "thử nghiệm cơ bản" (substantive testing) cần thiết.
-![INTERNAL CONTROLS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--30648608603-Montserrat-Black-9C27B0.jpg)
+![INTERNAL CONTROLS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--30648608603-Montserrat-Bold-1A237E.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-12510441185.mp3" type="audio/mpeg">
 </audio>
@@ -74,7 +74,7 @@ Trong quá trình điều tra thực địa, "kiểm toán viên" (auditors) cũ
 ## SUBSTANTIVE TESTING
 
 Thử nghiệm cơ bản bao gồm việc kiểm tra chi tiết "giao dịch tài chính" (financial transactions), "số dư tài khoản" (account balances) và "tài liệu hỗ trợ" (supporting documents). Kiểm toán viên thực hiện "thủ tục phân tích" (analytical procedures) để đánh giá tính hợp lý của các số liệu và tiến hành "kiểm tra chi tiết" (tests of details) để thu được bằng chứng trực tiếp.
-![SUBSTANTIVE TESTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-20915240767-Montserrat-Thin-512DA8.jpg)
+![SUBSTANTIVE TESTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-20915240767-Montserrat-Bold-4A148C.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-21977779989.mp3" type="audio/mpeg">
 </audio>
@@ -84,7 +84,7 @@ Thử nghiệm cơ bản bao gồm việc kiểm tra chi tiết "giao dịch tà
 ## AUDIT REPORT
 
 Sau khi hoàn thành "điều tra thực địa" (fieldwork) và "thử nghiệm cơ bản" (substantive testing), "kiểm toán viên" (auditors) chuyển sang "giai đoạn báo cáo" (reporting stage). Họ tổng hợp các phát hiện và "ý kiến" (opinion) của mình trong một "báo cáo kiểm toán" (audit report). Báo cáo bao gồm ý kiến ​​về "tính công bằng" (fairness) của "báo cáo tài chính" (financial statements) và nêu bật mọi "điểm yếu trọng yếu" (material weaknesses) hoặc "mối lo ngại" (concerns) được phát hiện trong quá trình kiểm toán.
-![AUDIT REPORT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--3791983461-Montserrat-Bold-7B1FA2.jpg)
+![AUDIT REPORT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--3791983461-Montserrat-ExtraBold-512DA8.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-15768133958.mp3" type="audio/mpeg">
 </audio>
@@ -94,7 +94,7 @@ Sau khi hoàn thành "điều tra thực địa" (fieldwork) và "thử nghiệm
 ## RISK MANAGEMENT
 
 Bước cuối cùng là giao tiếp. Kiểm toán viên thảo luận về "các phát hiện" (findings) và "đề xuất" (recommendations) của họ với sự quản lý của "đơn vị được kiểm toán" (audited entity). Chúng cung cấp những hiểu biết sâu sắc có giá trị để cải thiện "kiểm soát nội bộ" (internal controls), "quản lý rủi ro" (risk management) và quy trình báo cáo tài chính.
-![RISK MANAGEMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--16067309223-Montserrat-Regular-7B1FA2.jpg)
+![RISK MANAGEMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--16067309223-Montserrat-Black-004895.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-5142348798.mp3" type="audio/mpeg">
 </audio>
@@ -104,7 +104,7 @@ Bước cuối cùng là giao tiếp. Kiểm toán viên thảo luận về "cá
 ## FINANCIAL INFORMATION
 
 Tóm lại, "kiểm toán" (auditing) đóng một vai trò quan trọng trong việc đảm bảo "tính chính xác" (accuracy) và "độ tin cậy" (reliability) của "thông tin tài chính" (financial information). Nó cung cấp sự đảm bảo cho "các bên liên quan" (stakeholders) và giúp duy trì "niềm tin" (trust) trong hệ thống "báo cáo" tài chính (reporting). Thông qua "lập kế hoạch cẩn thận" (careful planning), "điều tra thực địa" (fieldwork), "thử nghiệm cơ bản" (substantive testing), báo cáo và giao tiếp, kiểm toán viên đóng góp vào "tính chính trực" (integrity) của "nghề kế toán" ( accounting profession).
-![FINANCIAL INFORMATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--40364442110-Montserrat-Bold-880E4F.jpg)
+![FINANCIAL INFORMATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--40364442110-Montserrat-SemiBold-7B1FA2.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-13398722867.mp3" type="audio/mpeg">
 </audio>
@@ -114,7 +114,7 @@ Tóm lại, "kiểm toán" (auditing) đóng một vai trò quan trọng trong v
 ## ACCOUNTING
 
 Cảm ơn bạn đã xem video này về "kiểm toán" (auditing). Tôi hy vọng bạn thấy nó có nhiều thông tin và hiểu rõ hơn về "quy trình kiểm toán" (auditing process). Nếu bạn có thắc mắc hoặc muốn tìm hiểu thêm, vui lòng để lại bình luận bên dưới. Hãy theo dõi để biết thêm video về các chủ đề liên quan đến kế toán.
-![ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--3735933202-Montserrat-SemiBold-4A148C.jpg)
+![ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--3735933202-Montserrat-Regular-4A148C.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-11198364068.mp3" type="audio/mpeg">
 </audio>
