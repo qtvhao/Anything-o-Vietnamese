@@ -25,6 +25,7 @@
       - [Audit-Planning-and-Execution.md](./Accounting/Auditing/Audit-Planning-and-Execution.md)
       - [Compliance-Auditing.md](./Accounting/Auditing/Compliance-Auditing.md)
       - [Financial-Auditing.md](./Accounting/Auditing/Financial-Auditing.md)
+      - [Forensic-Auditing.md](./Accounting/Auditing/Forensic-Auditing.md)
     - [Auditing.md](./Accounting/Auditing.md)
     - [Budgeting](./Accounting/Budgeting)
       - [Budgeting-Control.md](./Accounting/Budgeting/Budgeting-Control.md)
