@@ -90,6 +90,7 @@
       - [Corporate-Ethics.md](./Accounting/Corporate-Governance/Corporate-Ethics.md)
       - [Corporate-Responsibility.md](./Accounting/Corporate-Governance/Corporate-Responsibility.md)
       - [Earnings-Management.md](./Accounting/Corporate-Governance/Earnings-Management.md)
+      - [Executive-Compensation.md](./Accounting/Corporate-Governance/Executive-Compensation.md)
       - [Fraud-Prevention.md](./Accounting/Corporate-Governance/Fraud-Prevention.md)
       - [Sarbanes-Oxley-Act.md](./Accounting/Corporate-Governance/Sarbanes-Oxley-Act.md)
       - [Shareholder-Rights.md](./Accounting/Corporate-Governance/Shareholder-Rights.md)
