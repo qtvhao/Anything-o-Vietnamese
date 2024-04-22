@@ -11,6 +11,8 @@
   - [Accounting-Processes.md](./Accounting-Processes.md)
   - [Accounting-Research.md](./Accounting-Research.md)
   - [Accounting-Systems.md](./Accounting-Systems.md)
+  - [Accounting-Theory](./Accounting-Theory/)
+    - [Auditing-Theory.md](./Auditing-Theory.md)
   - [Accounting-Theory.md](./Accounting-Theory.md)
   - [Assurance-Services](./Assurance-Services/)
     - [Advisory-Services.md](./Advisory-Services.md)
