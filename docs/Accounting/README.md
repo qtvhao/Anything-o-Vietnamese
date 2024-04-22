@@ -116,6 +116,7 @@
   - [Internal-Auditing](./Internal-Auditing/)
     - [Forensic-Audit.md](./Forensic-Audit.md)
     - [Internal-control-assessment.md](./Internal-control-assessment.md)
+    - [Reporting-and-communication.md](./Reporting-and-communication.md)
   - [Internal-Auditing.md](./Internal-Auditing.md)
   - [International-Accounting](./International-Accounting/)
     - [Foreign-Corrupt-Practices-Act.md](./Foreign-Corrupt-Practices-Act.md)
