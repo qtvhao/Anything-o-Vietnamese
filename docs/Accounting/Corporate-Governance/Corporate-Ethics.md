@@ -1,101 +1,111 @@
 
 ---
 
-# Giải phóng sức mạnh của đạo đức doanh nghiệp: Công thức cho sự tin cậy, lòng trung thành và tác động xã hội vượt ra ngoài sự tuân thủ: Những lợi ích đáng ngạc nhiên của việc ưu tiên đạo đức trong thế giới doanh nghiệp Đạo đức đang được chú ý: Hành vi của công ty tác động như thế nào đến nhân viên, khách hàng và xã hội Lãnh đạo bằng đạo đức: Đạo đức Chìa khóa để mở ra sự hài lòng của nhân viên, lòng trung thành của khách hàng và trách nhiệm xã hội
+# Mở ra Thành công thông qua Đạo đức Doanh nghiệp: Niềm tin, Văn hóa và Tuân thủ trong Thế giới Kinh doanh
 
 - Published: April 22, 2024
 - Author: Vietnamese Online Voice
 - Categories: Accounting / **Corporate Governance**
-- #EthicalBehavior #CorporateResponsibility #BusinessEthics #MoralValues #Trust #Integrity #Transparency #EmployeeSatisfaction #Productivity #EmployeeRetention #CustomerTrust #CustomerLoyalty #CorporateImpact #SocialResponsibility #Sustainability #DiversityAndInclusion #Philanthropy #BeyondCompliance #Honesty #Fairness #Respect #Leadership #EthicalGuidelines #CodesOfConduct #EthicalTraining #ConflictsOfInterest #Confidentiality #AntiDiscriminationPolicies #ResponsibleUseOfResources
+- #EthicalBehavior #MoralPrinciples #BusinessEthics #CorporateResponsibility #TrustAndCredibility #PositiveWorkCulture #EmployeeEngagement #Compliance #LawsAndRegulations #SustainableDevelopment #CodeOfEthics #EthicalDecisionMaking #Leadership #Whistleblower #ReportingEthicalViolations #EthicsAssessment #ThirdPartyAssessments #EthicsCompliance #CorporateValues #StakeholderManagement #Transparency #Fairness #Honesty #Respect #BusinessIntegrity #SocialResponsibility #EthicalStandards #Sustainability #OrganizationalEthics #ProfessionalEthics #EthicalLeadership #BusinessEthicsPrograms #EthicalTraining #MoralValues #ResponsibleBusiness #CorporateGovernance #EthicsInBusiness #BusinessEthicsMatters
 
-"Trong video này, em sẽ giới thiệu về đạo đức doanh nghiệp. Trong video này, em sẽ khám phá tầm quan trọng của hành vi đạo đức trong thế giới doanh nghiệp và cách nó ảnh hưởng đến nhân viên, khách hàng và xã hội nói chung. Hãy cùng khám phá! Hành vi đạo đức trong thế giới doanh nghiệp đề cập đến các nguyên tắc và giá trị hướng dẫn hành vi của tổ chức và nhân viên. Nó liên quan đến việc đưa ra quyết định và thực hiện hành động đúng đạo đức và có trách nhiệm xã hội. Khi các công ty ưu tiên đạo đức, điều này tạo dựng niềm tin, chính trực và minh bạch trong tổ chức. Một trong những lý do chính tại sao đạo đức doanh nghiệp quan trọng là ảnh hưởng của nó đến nhân viên. Khi một công ty duy trì các tiêu chuẩn đạo đức, nó tạo ra một môi trường làm việc tích cực, nơi nhân viên cảm thấy được đánh giá cao và tôn trọng. Điều này lại dẫn đến sự hài lòng với công việc cao hơn, tăng năng suất làm việc và tỉ lệ giữ chân nhân viên tốt hơn. Các sếp có thể xem video hướng dẫn chi tiết ở phía dưới nhé."
+"Trong video này, tôi sẽ khám phá tầm quan trọng của hành vi đạo đức trong thế giới doanh nghiệp và những lợi ích mà nó mang lại cho các tổ chức và xã hội nói chung. Đạo đức doanh nghiệp đề cập đến các nguyên tắc và giá trị đạo đức hướng dẫn hành vi và quá trình ra quyết định của các công ty Nó liên quan đến việc tiến hành kinh doanh một cách công bằng, trung thực, minh bạch và tôn trọng các bên liên quan khác nhau, bao gồm nhân viên, khách hàng, cổ đông và cộng đồng. Hành vi đạo đức trong thế giới doanh nghiệp là rất quan trọng vì một số lý do. sự tin cậy và tín nhiệm giữa các bên liên quan Khi một công ty thể hiện cam kết thực hành đạo đức, công ty sẽ nâng cao danh tiếng của mình và thúc đẩy mối quan hệ bền chặt hơn với khách hàng, nhân viên và đối tác. Các ông trùm có thể xem video hướng dẫn chi tiết ở bên dưới nhé."
 
 
 ## CORPORATE ETHICS
 
-Chào mừng bạn đến với video của tôi về "đạo đức doanh nghiệp" (corporate ethics). Trong video này, tôi sẽ khám phá tầm quan trọng của "hành vi đạo đức" (ethical behavior) trong "thế giới doanh nghiệp" (corporate world) và cách nó "tác động" (impacts) "nhân viên" (employees), "khách hàng" ( customers) và "xã hội" (society) nói chung. Hãy đi sâu vào!
-![CORPORATE ETHICS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-19957085005-Montserrat-SemiBold-4A148C.jpg)
+Chào mừng bạn đến với video của tôi về "đạo đức doanh nghiệp" (corporate ethics). Trong video này, tôi sẽ khám phá tầm quan trọng của "hành vi đạo đức" (ethical behavior) trong "thế giới doanh nghiệp" (corporate world) và "lợi ích" (benefits) mà nó mang lại cho "tổ chức" (organizations) và "xã hội". " (society) nói chung.
+![CORPORATE ETHICS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-4354668320-Montserrat-Regular-9C27B0.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-59152135094.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-23015410089.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## MORAL PRINCIPLES
+
+Đạo đức doanh nghiệp đề cập đến "các nguyên tắc đạo đức" (moral principles) và "giá trị" (values) hướng dẫn hành vi và quá trình ra quyết định của "công ty" (companies). Nó liên quan đến việc tiến hành kinh doanh theo cách "công bằng" (fair), "trung thực" (honest), "minh bạch" (transparent) và tôn trọng nhiều "bên liên quan" (stakeholders), bao gồm cả "nhân viên" ( employees), "khách hàng" (customers), "cổ đông" (shareholders) và cộng đồng.
+![MORAL PRINCIPLES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--25552136153-Montserrat-ExtraBold-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-3750210049.mp3" type="audio/mpeg">
 </audio>
 
 
 
 ## ETHICAL BEHAVIOR
 
-Hành vi đạo đức trong "thế giới doanh nghiệp" (corporate world) đề cập đến "các nguyên tắc" (principles) và "giá trị" (values) hướng dẫn "hành vi" (conduct) của "tổ chức" (organizations) và các tổ chức của họ. "nhân viên" (employees). Nó liên quan đến việc đưa ra "quyết định" (decisions) và thực hiện "hành động" (actions) "đúng về mặt đạo đức" (morally right) và "có trách nhiệm với xã hội" (socially responsible). Khi các công ty ưu tiên đạo đức, điều đó sẽ thúc đẩy "sự tin cậy" (trust), "sự chính trực" (integrity) và "sự minh bạch" (transparency) trong tổ chức.
-![ETHICAL BEHAVIOR](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-32203463339-Montserrat-Black-283593.jpg)
+Hành vi đạo đức trong "thế giới doanh nghiệp" (corporate world) rất quan trọng vì nhiều lý do. Thứ nhất, nó giúp xây dựng "niềm tin" (trust) và "sự tín nhiệm" (credibility) giữa các "bên liên quan" (stakeholders). Khi một công ty thể hiện "cam kết" (commitment) đối với "thực hành đạo đức" (ethical practices), công ty đó sẽ nâng cao "danh tiếng" của mình (reputation) và thúc đẩy mối quan hệ bền chặt hơn với "khách hàng" (customers), "nhân viên" (# 817967384) và các đối tác.
+![ETHICAL BEHAVIOR](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-8235317126-Montserrat-Regular-4A148C.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-1565476352.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-13275938133.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## EMPLOYEES
+## POSITIVE WORK CULTURE
 
-Một trong những lý do chính khiến "đạo đức doanh nghiệp" (corporate ethics) quan trọng là tác động của nó đối với nhân viên. Khi một công ty duy trì các tiêu chuẩn đạo đức, nó sẽ tạo ra một "môi trường làm việc" tích cực (work environment) nơi nhân viên cảm thấy được coi trọng và "được tôn trọng" (respected). Ngược lại, điều này dẫn đến "sự hài lòng trong công việc" cao hơn (job satisfaction), "năng suất" tăng lên (productivity) và tỷ lệ giữ chân nhân viên tốt hơn.
-![EMPLOYEES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-625271461-Montserrat-Medium-4A148C.jpg)
+Thứ hai, "hành vi đạo đức" (ethical behavior) "thúc đẩy" (promotes) "văn hóa làm việc tích cực" (positive work culture). Khi nhân viên cảm thấy rằng tổ chức của họ coi trọng "sự chính trực" (integrity) và "hành vi đạo đức" (ethical conduct), họ có nhiều khả năng "tham gia" (engaged), "có động lực" (motivated) và "trung thành" hơn (loyal). Ngược lại, điều này dẫn đến "năng suất" tăng lên (productivity) và "tỷ lệ luân chuyển thấp hơn" (lower turnover rate).
+![POSITIVE WORK CULTURE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-7380600608-Montserrat-Regular-303F9F.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-10590048866.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-24631310835.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## TRUST WITH CUSTOMERS
+## ETHICAL STANDARDS
 
-Ngoài ra, hành vi đạo đức trong các tập đoàn là rất quan trọng để xây dựng niềm tin với khách hàng. Khi khách hàng nhận thấy một công ty có đạo đức, họ có nhiều khả năng tham gia kinh doanh với công ty đó, mua sản phẩm hoặc dịch vụ của công ty đó và trở thành khách hàng trung thành. Mặt khác, "các hành vi phi đạo đức" (unethical practices) có thể gây tổn hại đến danh tiếng của công ty và dẫn đến "mất khách hàng" (customer loss).
-![TRUST WITH CUSTOMERS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-15161369133-Montserrat-ExtraBold-880E4F.jpg)
+Ngoài ra, "đạo đức doanh nghiệp" (corporate ethics) đóng một vai trò quan trọng trong việc đảm bảo tuân thủ luật pháp và quy định. Bằng cách tuân thủ "tiêu chuẩn đạo đức" (ethical standards), các công ty có thể tránh được "các vấn đề pháp lý" (legal issues), "tiền phạt" (fines) và "thiệt hại danh tiếng" (reputational damage). Hành vi đạo đức cũng khuyến khích các công ty chủ động giải quyết các mối quan tâm về xã hội và môi trường, góp phần vào "sự phát triển bền vững" (sustainable development).
+![ETHICAL STANDARDS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-46300346633-Montserrat-Bold-303F9F.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-9989597888.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-26578752844.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## ENVIRONMENTAL ISSUES
+## ETHICAL PRACTICES
 
-Ngoài tác động tức thời đến nhân viên và khách hàng, "đạo đức doanh nghiệp" (corporate ethics) còn đóng một vai trò quan trọng trong việc định hình toàn xã hội. Các công ty có trách nhiệm hành động vì lợi ích tốt nhất của "cộng đồng" (communities) mà họ hoạt động và đóng góp tích cực cho "các vấn đề xã hội và môi trường" (environmental issues). Bằng cách áp dụng các thực hành đạo đức, các tập đoàn có thể tạo ra sự khác biệt đáng kể trong các lĩnh vực như "tính bền vững" (sustainability), "sự đa dạng và hòa nhập" (diversity and inclusion) và hoạt động từ thiện.
-![ENVIRONMENTAL ISSUES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--36021803639-Montserrat-Medium-512DA8.jpg)
+Việc thực hiện các thực hành đạo đức trong một tổ chức đòi hỏi một cách tiếp cận toàn diện. Nó bắt đầu bằng việc thiết lập một quy tắc đạo đức rõ ràng trong đó nêu ra các tiêu chuẩn hành vi mong đợi đối với "tất cả nhân viên" (all employees). Quy tắc này phải được "truyền đạt thường xuyên" (regularly communicated) và được củng cố thông qua "các chương trình đào tạo" (training programs) và "truyền thông nội bộ" (internal communications).
+![ETHICAL PRACTICES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--16551213906-Montserrat-SemiBold-283593.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-20409066683.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-35097813994.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## FUNDAMENTAL VALUES
+## ETHICAL DECISION MAKING
 
-Điều quan trọng cần lưu ý là "đạo đức doanh nghiệp" (corporate ethics) không chỉ đơn thuần là tuân thủ các yêu cầu pháp lý. Mặc dù luật pháp đặt ra "tiêu chuẩn tối thiểu" (minimum standards), "hành vi đạo đức" (ethical behavior) đòi hỏi phải vượt lên trên những yêu cầu đó. Nó liên quan đến việc đưa ra quyết định dựa trên "các giá trị cơ bản" (fundamental values) chẳng hạn như "trung thực" (honesty), "công bằng" (fairness) và tôn trọng tất cả các bên liên quan.
-![FUNDAMENTAL VALUES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-4524006162-Montserrat-Thin-512DA8.jpg)
+Hơn nữa, "các tổ chức" (organizations) cần "nuôi dưỡng một nền văn hóa" (foster a culture) hỗ trợ việc ra quyết định có đạo đức. Điều này liên quan đến việc tạo ra một môi trường nơi nhân viên cảm thấy thoải mái khi lên tiếng về "các mối quan ngại về đạo đức" (ethical concerns) và nơi "hành vi phi đạo đức" (unethical behavior) không được "dung thứ" (tolerated). Khả năng lãnh đạo đóng một "vai trò quan trọng" (crucial role) trong việc "thiết lập tinh thần" (setting the tone) và dẫn đầu bằng gương mẫu.
+![ETHICAL DECISION MAKING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-26221130910-Montserrat-Thin-880E4F.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-11673494726.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-43832356870.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## ETHICAL FRAMEWORK
+## WHISTLEBLOWER HOTLINES
 
-Việc triển khai một "khuôn khổ đạo đức" mạnh mẽ (ethical framework) trong một tổ chức bắt đầu bằng "sự lãnh đạo" (leadership). Khi các nhà lãnh đạo ưu tiên và thể hiện "hành vi đạo đức" (ethical behavior), điều đó sẽ tạo ra tinh thần chung cho toàn bộ công ty. Điều này bao gồm việc thiết lập các hướng dẫn đạo đức rõ ràng, cung cấp đào tạo và hỗ trợ cũng như "nuôi dưỡng một nền văn hóa" (fostering a culture) khuyến khích "đối thoại cởi mở" (open dialogue) và báo cáo các mối lo ngại về đạo đức.
-![ETHICAL FRAMEWORK](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-13123403875-Montserrat-Bold-880E4F.jpg)
+Một chương trình đạo đức hiệu quả cũng bao gồm các cơ chế báo cáo và giải quyết "vi phạm đạo đức" (ethical violations). Đường dây nóng của người tố giác, các kênh báo cáo bí mật và quy trình điều tra minh bạch giúp đảm bảo rằng "các vi phạm đạo đức" (ethical breaches) được xác định và giải quyết kịp thời.
+![WHISTLEBLOWER HOTLINES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-14073731897-Montserrat-SemiBold-7B1FA2.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-9627582916.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-1487525575.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## CODES OF CONDUCT
+## INTERNAL AUDITS
 
-Để đảm bảo "hành vi đạo đức" (ethical behavior), các công ty có thể thiết lập "quy tắc ứng xử" (codes of conduct) nêu ra các tiêu chuẩn hành vi mong đợi đối với nhân viên. Các quy tắc này phải bao gồm nhiều chủ đề, bao gồm "xung đột lợi ích" (conflicts of interest), "bảo mật" (confidentiality), chính sách chống phân biệt đối xử và sử dụng tài nguyên có trách nhiệm. Các chương trình đào tạo thường xuyên có thể giúp nhân viên hiểu và tuân thủ các nguyên tắc đạo đức này.
-![CODES OF CONDUCT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--19369245260-Montserrat-Black-512DA8.jpg)
+Điều cần thiết là các công ty phải thường xuyên đánh giá và "đánh giá" (evaluate) các thực hành đạo đức của họ. Điều này có thể được thực hiện thông qua "kiểm toán nội bộ" (internal audits) và đánh giá của bên thứ ba để xác định "các lĩnh vực cần cải thiện" (areas for improvement) và đảm bảo tuân thủ liên tục các tiêu chuẩn đạo đức.
+![INTERNAL AUDITS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--13465514906-Montserrat-Black-9C27B0.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-21334029592.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-17302552465.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## WORK ENVIRONMENT
+## WORKPLACE CULTURE
 
-Tóm lại, "đạo đức doanh nghiệp" (corporate ethics) là điều cần thiết để tạo ra một môi trường làm việc tích cực, xây dựng "niềm tin với khách hàng" (trust with customers) và tạo ra tác động tích cực đến xã hội. Bằng cách áp dụng "hành vi đạo đức" (ethical behavior), các công ty không chỉ có thể nâng cao danh tiếng của mình mà còn đóng góp vào một thế giới "bền vững" hơn (sustainable) và công bằng. Cảm ơn bạn đã xem video này về đạo đức doanh nghiệp.
-![WORK ENVIRONMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--12185543326-Montserrat-ExtraBold-303F9F.jpg)
+Tóm lại, "đạo đức doanh nghiệp" (corporate ethics) không chỉ là một từ thông dụng; đó là khía cạnh cơ bản của "hoạt động kinh doanh" thành công và có trách nhiệm (business practices). Bằng cách ưu tiên đạo đức, các công ty có thể xây dựng "niềm tin" (trust), nâng cao "danh tiếng" của mình (reputation) và tạo ra "văn hóa nơi làm việc" tích cực (workplace culture). Hơn nữa, "hành vi đạo đức" (ethical behavior) góp phần vào sự thịnh vượng của "xã hội" (society) và "sự bền vững" (sustainability) của hành tinh chúng ta. Cảm ơn bạn đã xem video này về đạo đức doanh nghiệp.
+![WORKPLACE CULTURE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--5521637369-Montserrat-Thin-303F9F.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-48365926329.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-30838528674.mp3" type="audio/mpeg">
 </audio>
 
