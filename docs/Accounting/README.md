@@ -74,6 +74,7 @@
   - [Ethics-in-Accounting](./Ethics-in-Accounting/)
     - [Auditing-Ethics.md](./Auditing-Ethics.md)
     - [Fraud-Prevention-and-Ethics.md](./Fraud-Prevention-and-Ethics.md)
+    - [Tax-Ethics.md](./Tax-Ethics.md)
   - [Ethics-in-Accounting.md](./Ethics-in-Accounting.md)
   - [External-Auditing](./External-Auditing/)
     - [Compliance-Audits.md](./Compliance-Audits.md)
