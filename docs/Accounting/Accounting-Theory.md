@@ -3,7 +3,7 @@
 
 # Khám phá sự kỳ diệu của lý thuyết kế toán: Nguyên tắc, khái niệm và thực tiễn để báo cáo tài chính đáng tin cậy
 
-- Published: April 21, 2024
+- Published: April 22, 2024
 - Author: Vietnamese Online Voice
 - Categories: **Accounting**
 - #FinancialReporting #AccountingPrinciples #AssumptionsAndConcepts #MatchingPrinciple #Conservatism #AccrualAccounting #MeasurementInAccounting #HistoricalCost #FairValue #Materiality #AccountingConcepts #FinancialStatements #AccountingPractices #AccountingStandards #FinancialReportingConsistency #ComparabilityAcrossFinancialStatements #AccountantsJudgment #RelevantFinancialInformation #EnhancingUsefulnessAndCredibilityOfFinancialReporting #InformedDecisionMaking #BusinessEconomicReality #CautionInAccounting #ReliableFinancialStatements #PreventingManipulation #ProfessionalAccounting
@@ -14,7 +14,7 @@
 ## ACCOUNTING THEORY
 
 Chào mừng bạn đến với video của tôi về Lý thuyết Kế toán. Trong video này, tôi sẽ khám phá "các khái niệm cơ bản" (fundamental concepts) và "nguyên tắc" (principles) làm nền tảng cho lĩnh vực "kế toán" (accounting). Lý thuyết kế toán đóng vai trò là nền tảng cho sự phát triển của "thực hành kế toán" (accounting practices) và "chuẩn mực" (standards), cung cấp hướng dẫn về cách "ghi lại" "thông tin tài chính" (financial information) (recorded), " đã báo cáo" (reported) và "được giải thích" (interpreted). Vì vậy, hãy cùng đi sâu và khám phá những khía cạnh chính của chủ đề hấp dẫn này.
-![ACCOUNTING THEORY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--26217738232-Montserrat-Regular-512DA8.jpg)
+![ACCOUNTING THEORY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--26217738232-Montserrat-Black-283593.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-36487486861.mp3" type="audio/mpeg">
 </audio>
@@ -24,7 +24,7 @@ Chào mừng bạn đến với video của tôi về Lý thuyết Kế toán. T
 ## ACCOUNTING THEORY
 
 Để bắt đầu, "lý thuyết kế toán" (accounting theory) bao gồm một tập hợp các "nguyên tắc" (principles), "giả định" (assumptions) và "khái niệm" (concepts) hướng dẫn quy trình "báo cáo tài chính" ( financial reporting). Những lý thuyết này giúp chúng tôi hiểu cách thức và lý do một số "thực tiễn kế toán" (accounting practices) nhất định được áp dụng. Chúng cung cấp khuôn khổ cho việc ra quyết định và hỗ trợ đảm bảo "tính nhất quán" (consistency) và "khả năng so sánh" (comparability) trên các báo cáo tài chính.
-![ACCOUNTING THEORY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--17929646980-Montserrat-Bold-512DA8.jpg)
+![ACCOUNTING THEORY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--17929646980-Montserrat-Thin-283593.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-408233703.mp3" type="audio/mpeg">
 </audio>
@@ -34,7 +34,7 @@ Chào mừng bạn đến với video của tôi về Lý thuyết Kế toán. T
 ## MATCHING PRINCIPLE
 
 Một khía cạnh quan trọng của "lý thuyết kế toán" (accounting theory) là khái niệm về ""nguyên tắc phù hợp" (matching principle)". Theo nguyên tắc này, "chi phí" (expenses) phải được ghi nhận trong cùng kỳ với "doanh thu" (revenues) mà chúng giúp tạo ra. Điều này đảm bảo rằng "báo cáo tài chính" (financial statements) phản ánh chính xác "thực tế kinh tế" (economic reality) của một "doanh nghiệp" (business) bằng cách điều chỉnh việc ghi nhận doanh thu và chi phí.
-![MATCHING PRINCIPLE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-6587329038-Montserrat-Thin-9C27B0.jpg)
+![MATCHING PRINCIPLE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-6587329038-Montserrat-ExtraBold-4A148C.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-46692905981.mp3" type="audio/mpeg">
 </audio>
@@ -44,7 +44,7 @@ Một khía cạnh quan trọng của "lý thuyết kế toán" (accounting theo
 ## ACCOUNTANTS
 
 Một khái niệm quan trọng khác trong "lý thuyết kế toán" (accounting theory) là nguyên tắc "bảo thủ". Nguyên tắc này gợi ý rằng khi đối mặt với "sự không chắc chắn" (uncertainty), "kế toán" (accountants) nên thận trọng và chọn "tùy chọn" (option) ít có khả năng phóng đại tài sản hoặc thu nhập nhất. Bằng cách áp dụng cách tiếp cận thận trọng, "báo cáo tài chính" (financial statements) trở nên đáng tin cậy hơn và ít bị thao túng hơn.
-![ACCOUNTANTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--15610678417-Montserrat-Thin-673AB7.jpg)
+![ACCOUNTANTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--15610678417-Montserrat-SemiBold-283593.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-43702232334.mp3" type="audio/mpeg">
 </audio>
@@ -54,7 +54,7 @@ Một khái niệm quan trọng khác trong "lý thuyết kế toán" (accountin
 ## FUNDAMENTAL CONCEPTS
 
 Kế toán dồn tích là một khái niệm cơ bản trong "lý thuyết kế toán" (accounting theory). Nó tuyên bố rằng "các giao dịch tài chính" (financial transactions) ​​phải được ghi lại khi chúng xảy ra, không nhất thiết là khi "dòng tiền" liên quan (cash flows) diễn ra. Phương pháp này cung cấp sự thể hiện chính xác hơn về tình hình tài chính và hiệu quả hoạt động của công ty bằng cách xem xét "các sự kiện kinh tế" (economic events), chẳng hạn như "doanh thu" (sales) hoặc "chi phí" (expenses), khi chúng xảy ra.
-![FUNDAMENTAL CONCEPTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-5807786063-Montserrat-Medium-303F9F.jpg)
+![FUNDAMENTAL CONCEPTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-5807786063-Montserrat-SemiBold-4A148C.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-25961039973.mp3" type="audio/mpeg">
 </audio>
@@ -64,7 +64,7 @@ Kế toán dồn tích là một khái niệm cơ bản trong "lý thuyết kế
 ## MEASUREMENT BASIS
 
 Bây giờ chúng ta cùng đi sâu vào chủ đề "đo lường" (measurement) trong "lý thuyết kế toán" (accounting theory). Việc lựa chọn "cơ sở đo lường" (measurement basis), chẳng hạn như "chi phí lịch sử" (historical cost) hoặc "giá trị hợp lý" (fair value), có thể tác động đáng kể đến số liệu được báo cáo trong báo cáo tài chính. Chi phí lịch sử đo lường "tài sản" (assets) và "nợ" (liabilities) theo "giá gốc" (original cost), trong khi giá trị hợp lý thể hiện "giá trị thị trường hiện tại" ước tính của chúng (current market value). Lý thuyết kế toán khám phá những ưu và nhược điểm của từng cơ sở đo lường và giúp kế toán viên đưa ra quyết định sáng suốt.
-![MEASUREMENT BASIS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--48930022131-Montserrat-ExtraBold-512DA8.jpg)
+![MEASUREMENT BASIS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--48930022131-Montserrat-Bold-4A148C.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-62053854022.mp3" type="audio/mpeg">
 </audio>
@@ -74,7 +74,7 @@ Bây giờ chúng ta cùng đi sâu vào chủ đề "đo lường" (measurement
 ## MATERIALITY
 
 Khái niệm "tính trọng yếu" (materiality) cũng rất cần thiết trong "lý thuyết kế toán" (accounting theory). Tính trọng yếu đề cập đến tầm quan trọng của một khoản mục hoặc sự kiện liên quan đến "báo cáo tài chính" (financial statements) nói chung. Kế toán sử dụng "đánh giá chuyên môn" (professional judgment) của mình để xác định xem một mục có đủ trọng yếu để đảm bảo "tiết lộ" (disclosure) hay "điều chỉnh" (adjustment). Nguyên tắc này đảm bảo rằng báo cáo tài chính tập trung vào "thông tin liên quan" (relevant information) và tránh sự lộn xộn không cần thiết.
-![MATERIALITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition--35227619303-Montserrat-Thin-512DA8.jpg)
+![MATERIALITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--35227619303-Montserrat-SemiBold-7B1FA2.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-32668104207.mp3" type="audio/mpeg">
 </audio>
@@ -84,7 +84,7 @@ Khái niệm "tính trọng yếu" (materiality) cũng rất cần thiết trong
 ## FINANCIAL REPORTING
 
 Cuối cùng, "lý thuyết kế toán" (accounting theory) nhận ra tầm quan trọng của việc cung cấp thông tin liên quan và đáng tin cậy cho "người dùng bên ngoài" (external users). Báo cáo tài chính phải được lập theo cách cho phép "nhà đầu tư" (investors), "chủ nợ" (creditors) và "các bên liên quan" khác (stakeholders) đưa ra "quyết định sáng suốt" (informed decisions). Bằng cách tuân thủ các nguyên tắc và khái niệm của lý thuyết kế toán, "kế toán viên" (accountants) có thể nâng cao "tính hữu ích" (usefulness) và "độ tin cậy" (credibility) của báo cáo tài chính.
-![FINANCIAL REPORTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-20850048252-Montserrat-Thin-283593.jpg)
+![FINANCIAL REPORTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-20850048252-Montserrat-SemiBold-303F9F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-1085036176.mp3" type="audio/mpeg">
 </audio>
@@ -94,7 +94,7 @@ Cuối cùng, "lý thuyết kế toán" (accounting theory) nhận ra tầm quan
 ## FINANCIAL STATEMENTS
 
 Tóm lại, "lý thuyết kế toán" (accounting theory) đóng vai trò là khuôn khổ hướng dẫn cho việc thực hành kế toán. Nó cung cấp một tập hợp các "nguyên tắc" (principles), "khái niệm" (concepts) và "giả định" (assumptions) giúp "kế toán viên" (accountants) "ghi lại" (record), "báo cáo" ( report) và "thông dịch" (interpret) "thông tin tài chính" (financial information). Bằng cách hiểu những lý thuyết này, chúng tôi hiểu rõ hơn lý do tại sao một số "thực hành kế toán" (accounting practices) được áp dụng và cách chúng đóng góp vào "độ tin cậy" (reliability) và "tính hữu ích" (usefulness) tổng thể của báo cáo tài chính. Cảm ơn các bạn đã xem video Lý thuyết Kế toán.
-![FINANCIAL STATEMENTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-21/transition-34718317161-Montserrat-SemiBold-673AB7.jpg)
+![FINANCIAL STATEMENTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-34718317161-Montserrat-Regular-283593.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-23074202450.mp3" type="audio/mpeg">
 </audio>
