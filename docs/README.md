@@ -26,6 +26,7 @@
     - [Accounting-Outsourcing.md](./Accounting/Accounting-Outsourcing.md)
     - [Accounting-Policy](./Accounting/Accounting-Policy)
       - [Cash-Flow-Statement-Policy.md](./Accounting/Accounting-Policy/Cash-Flow-Statement-Policy.md)
+      - [Hedging-Policy.md](./Accounting/Accounting-Policy/Hedging-Policy.md)
     - [Accounting-Policy.md](./Accounting/Accounting-Policy.md)
     - [Accounting-Processes.md](./Accounting/Accounting-Processes.md)
     - [Accounting-Research.md](./Accounting/Accounting-Research.md)
