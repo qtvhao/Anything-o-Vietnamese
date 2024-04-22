@@ -80,6 +80,7 @@
     - [Cost-Accounting.md](./Accounting/Cost-Accounting.md)
     - [Ethics-in-Accounting](./Accounting/Ethics-in-Accounting)
       - [Auditing-Ethics.md](./Accounting/Ethics-in-Accounting/Auditing-Ethics.md)
+      - [Financial-Reporting-Ethics.md](./Accounting/Ethics-in-Accounting/Financial-Reporting-Ethics.md)
       - [Fraud-Prevention-and-Ethics.md](./Accounting/Ethics-in-Accounting/Fraud-Prevention-and-Ethics.md)
       - [Tax-Ethics.md](./Accounting/Ethics-in-Accounting/Tax-Ethics.md)
     - [Ethics-in-Accounting.md](./Accounting/Ethics-in-Accounting.md)
