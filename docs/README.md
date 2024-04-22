@@ -41,6 +41,7 @@
       - [Financial-Accounting-Systems.md](./Accounting/Accounting-Systems/Financial-Accounting-Systems.md)
       - [General-Ledger-Systems.md](./Accounting/Accounting-Systems/General-Ledger-Systems.md)
       - [Payroll-Systems.md](./Accounting/Accounting-Systems/Payroll-Systems.md)
+      - [Tax-Accounting-Systems.md](./Accounting/Accounting-Systems/Tax-Accounting-Systems.md)
     - [Accounting-Systems.md](./Accounting/Accounting-Systems.md)
     - [Accounting-Theory](./Accounting/Accounting-Theory)
       - [Auditing-Theory.md](./Accounting/Accounting-Theory/Auditing-Theory.md)
