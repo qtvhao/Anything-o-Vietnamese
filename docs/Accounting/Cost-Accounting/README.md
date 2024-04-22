@@ -8,3 +8,4 @@
   - [Marginal-Costing.md](./Marginal-Costing.md)
   - [Process-Costing.md](./Process-Costing.md)
   - [Standard-Costing.md](./Standard-Costing.md)
+  - [Variance-Analysis.md](./Variance-Analysis.md)
