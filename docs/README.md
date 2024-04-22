@@ -38,6 +38,7 @@
       - [Budgeting-Process.md](./Accounting/Budgeting/Budgeting-Process.md)
       - [Budgeting-Strategies.md](./Accounting/Budgeting/Budgeting-Strategies.md)
       - [Budgeting-Techniques.md](./Accounting/Budgeting/Budgeting-Techniques.md)
+      - [Budgeting-best-practices.md](./Accounting/Budgeting/Budgeting-best-practices.md)
       - [Budgeting-for-students.md](./Accounting/Budgeting/Budgeting-for-students.md)
       - [Business-Budgeting.md](./Accounting/Budgeting/Business-Budgeting.md)
       - [Non-profit-Budgeting.md](./Accounting/Budgeting/Non-profit-Budgeting.md)
