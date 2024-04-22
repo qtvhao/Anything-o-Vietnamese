@@ -11,3 +11,4 @@
   - [Fraud-Prevention.md](./Fraud-Prevention.md)
   - [Sarbanes-Oxley-Act.md](./Sarbanes-Oxley-Act.md)
   - [Shareholder-Rights.md](./Shareholder-Rights.md)
+  - [Transparency-and-Disclosure.md](./Transparency-and-Disclosure.md)
