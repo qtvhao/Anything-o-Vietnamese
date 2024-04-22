@@ -42,6 +42,7 @@
       - [Business-Budgeting.md](./Accounting/Budgeting/Business-Budgeting.md)
       - [Non-profit-Budgeting.md](./Accounting/Budgeting/Non-profit-Budgeting.md)
       - [Personal-Budgeting.md](./Accounting/Budgeting/Personal-Budgeting.md)
+      - [Personal-budgeting.md](./Accounting/Budgeting/Personal-budgeting.md)
     - [Budgeting.md](./Accounting/Budgeting.md)
     - [Corporate-Governance](./Accounting/Corporate-Governance)
       - [Audit-Committees.md](./Accounting/Corporate-Governance/Audit-Committees.md)
