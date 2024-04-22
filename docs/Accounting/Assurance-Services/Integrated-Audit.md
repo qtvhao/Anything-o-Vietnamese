@@ -1,101 +1,101 @@
 
 ---
 
-# Giải phóng sức mạnh của Kiểm toán Tích hợp: Hướng dẫn Toàn diện về Độ tin cậy của Báo cáo Tài chính và Kiểm soát Nội bộ Kiểm toán Tích hợp: Giải pháp Hoàn chỉnh để Nâng cao Hiệu quả, Độ tin cậy và Quản trị Doanh nghiệp của Kiểm toán Cuộc cách mạng Kiểm toán Tích hợp: Cách tiếp cận mang tính thay đổi cuộc chơi đối với Kiểm toán Báo cáo Tài chính và Kiểm soát Nội bộ Nắm vững kiểm toán tích hợp: Đi sâu vào khái niệm, quy trình và lợi ích của phương pháp tiếp cận toàn diện này Khám phá sự khác biệt của kiểm toán tích hợp: Kiểm tra toàn diện các báo cáo tài chính và kiểm soát nội bộ để cải thiện quản trị
+# Giải phóng sức mạnh của Kiểm toán tích hợp: Cách tiếp cận toàn diện để đảm bảo báo cáo tài chính và giảm thiểu rủi ro Kiểm toán tích hợp: Chiến lược thay đổi cuộc chơi về báo cáo tài chính và kiểm soát nội bộ Làm chủ kiểm toán tích hợp: Hướng dẫn đầy đủ để tối ưu hóa kiểm toán báo cáo tài chính và kiểm soát nội bộ nhằm tạo niềm tin cho các bên liên quan
 
 - Published: April 22, 2024
 - Author: Vietnamese Online Voice
 - Categories: Accounting / **Assurance Services**
-- #FinancialStatements #InternalControls #Audit #FinancialReporting #RiskAssessment #AuditProcedures #AuditEfficiency #AuditReport #AuditorOpinion #MaterialMisstatements #FraudulentActivities #AuditMethodologies #AuditTests #InternalControlEnvironment #RegulatoryRequirements #FinancialTransactions #SubstantiveProcedures #AuditFindings #EffectivenessOfInternalControls #CompanyFinancials #FinancialAuditing #ControlAuditing #HolisticView #ReliabilityOfFinancialStatements
+- #Auditing #FinancialStatements #InternalControls #FinancialReporting #ControlEnvironment #RiskAssessment #AuditProcedures #AuditorReport #FinancialInformation #AssetSafeguarding #AccurateReporting #StakeholderConfidence #InternalControlAudit #ComprehensiveAudit #AuditOpinion #Accounting #BusinessOperations #IndustryDynamics #RegulatoryEnvironment #ControlActivities #InformationSystems #TestingEffectiveness #EvidenceGathering #FinancialReliability #MitigatingRisks
 
-"Trong video này, tôi sẽ khám phá khái niệm kiểm toán tích hợp, tầm quan trọng của nó và cách nó được thực hiện trong thực tế. Kiểm toán tích hợp là hoạt động kiểm tra toàn diện báo cáo tài chính và kiểm soát nội bộ của công ty do một nhóm kiểm toán duy nhất thực hiện. Nó kết hợp nỗ lực của cả kiểm toán viên báo cáo tài chính và kiểm toán viên kiểm soát nội bộ nhằm cung cấp cái nhìn toàn diện về quy trình báo cáo tài chính của công ty. Mục đích của kiểm toán tích hợp là đánh giá độ tin cậy của báo cáo tài chính của công ty và tính hiệu quả của kiểm soát nội bộ đối với báo cáo tài chính. Bằng cách tích hợp kiểm toán báo cáo tài chính và kiểm toán kiểm soát nội bộ, nhóm kiểm toán có thể hiểu sâu hơn về hoạt động của công ty và xác định mọi rủi ro hoặc điểm yếu tiềm ẩn có thể ảnh hưởng đến tính chính xác của báo cáo tài chính. khả năng nâng cao hiệu quả kiểm toán bằng cách tích hợp các thủ tục kiểm toán, nhóm kiểm toán có thể loại bỏ những điểm dư thừa và hợp lý hóa quy trình kiểm toán tổng thể. Điều này dẫn đến tiết kiệm chi phí cho cả công ty được kiểm toán và công ty kiểm toán. Các Boss có thể xem video hướng dẫn chi tiết ở bên dưới nhé."
+"Trong video này, tôi sẽ tìm hiểu khái niệm kiểm toán tích hợp và tầm quan trọng của nó trong lĩnh vực kiểm toán. Kiểm toán tích hợp là hoạt động kiểm tra toàn diện báo cáo tài chính của một công ty và các biện pháp kiểm soát nội bộ của công ty đối với báo cáo tài chính. Nó kết hợp kiểm toán báo cáo tài chính truyền thống với kiểm toán môi trường kiểm soát nội bộ của công ty. Mục tiêu là đưa ra ý kiến ​​về tính trung thực của báo cáo tài chính và tính hiệu quả của kiểm soát nội bộ. Kiểm toán tích hợp thừa nhận sự phụ thuộc lẫn nhau giữa báo cáo tài chính và kiểm soát nội bộ đối với báo cáo tài chính. kiểm toán, kiểm toán viên có thể hiểu rõ hơn về những rủi ro có thể ảnh hưởng đến báo cáo tài chính và các biện pháp kiểm soát được áp dụng để giảm thiểu những rủi ro đó. Kiểm toán tích hợp cũng thúc đẩy hiệu quả bằng cách tiết kiệm thời gian và nguồn lực. dưới nhé."
 
 
 ## INTEGRATED AUDIT
 
-Chào mừng bạn đến với video của tôi về "kiểm toán tích hợp" (integrated audit). Trong video này, tôi sẽ khám phá khái niệm kiểm toán tích hợp, tầm quan trọng của nó và cách nó được thực hiện trong thực tế. Vì vậy, hãy đi sâu vào ngay!. Kiểm toán tích hợp là cuộc kiểm tra toàn diện về "báo cáo tài chính" (financial statements) và "kiểm soát nội bộ" (internal controls) của công ty do một "nhóm kiểm toán duy nhất" (single audit team) thực hiện. Nó kết hợp nỗ lực của cả kiểm toán viên báo cáo tài chính và kiểm toán viên kiểm soát nội bộ để cung cấp cái nhìn toàn diện về quy trình báo cáo tài chính của công ty.
-![INTEGRATED AUDIT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-32990109053-Montserrat-SemiBold-283593.jpg)
+Chào mừng bạn đến với video của tôi về "kiểm toán tích hợp" (integrated audit). Trong video này, tôi sẽ khám phá khái niệm kiểm toán tích hợp và tầm quan trọng của nó trong lĩnh vực kiểm toán. Vì vậy, chúng ta hãy đi sâu vào!. Kiểm toán tích hợp là kiểm tra toàn diện "báo cáo tài chính" của công ty (financial statements) và kiểm soát nội bộ của công ty đối với báo cáo tài chính. Nó kết hợp kiểm toán báo cáo tài chính truyền thống với kiểm toán môi trường kiểm soát nội bộ của công ty. Mục tiêu là đưa ra ý kiến ​​về tính trung thực của báo cáo tài chính và tính hiệu quả của kiểm soát nội bộ.
+![INTEGRATED AUDIT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-6857571474-Montserrat-Regular-303F9F.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-3919340787.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-10406971421.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## FINANCIAL STATEMENTS
+## FINANCIAL REPORTING
 
-Mục đích của "kiểm toán tích hợp" (integrated audit) là đánh giá "độ tin cậy" (reliability) của "báo cáo tài chính" (financial statements) của công ty và tính hiệu quả của kiểm soát nội bộ đối với báo cáo tài chính. Bằng cách tích hợp kiểm toán báo cáo tài chính và kiểm toán kiểm soát nội bộ, "nhóm kiểm toán" (audit team) có thể hiểu sâu hơn về "hoạt động của công ty" (company's operations) và xác định mọi "rủi ro tiềm ẩn" (potential risks) hoặc "điểm yếu" ( weaknesses) có thể "tác động" (impact) "độ chính xác" (accuracy) của báo cáo tài chính.
-![FINANCIAL STATEMENTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--21075210190-Montserrat-SemiBold-303F9F.jpg)
+Tại sao "kiểm toán tích hợp" (integrated audit) lại cần thiết? Chà, nó thừa nhận sự phụ thuộc lẫn nhau giữa "báo cáo tài chính" (financial reporting) và kiểm soát nội bộ đối với báo cáo tài chính. Bằng cách tiến hành kiểm toán tích hợp, kiểm toán viên có thể hiểu rõ hơn về "rủi ro" (risks) có thể ảnh hưởng đến "báo cáo tài chính" (financial statements) và "các biện pháp kiểm soát" (controls) được áp dụng để giảm thiểu những rủi ro đó.
+![FINANCIAL REPORTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-36991040895-Montserrat-ExtraBold-7B1FA2.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-5038949170.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-8188005425.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## AUDIT EFFICIENCY
+## PROMOTING EFFICIENCY
 
-Một trong những lợi ích chính của "kiểm toán tích hợp" (integrated audit) là khả năng nâng cao "hiệu quả kiểm toán" (audit efficiency). Bằng cách tích hợp "thủ tục kiểm tra" (audit procedures), nhóm kiểm toán có thể loại bỏ "những phần dư thừa" (redundancies) và hợp lý hóa "quy trình kiểm toán" tổng thể (audit process). Điều này dẫn đến "tiết kiệm chi phí" (cost savings) cho cả "công ty được kiểm toán" (company being audited) và công ty kiểm toán.
-![AUDIT EFFICIENCY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-29383834791-Montserrat-Black-9C27B0.jpg)
+Kiểm toán tích hợp cũng thúc đẩy hiệu quả. Thay vì tiến hành kiểm toán riêng biệt cho "báo cáo tài chính" (financial statements) và "kiểm soát nội bộ" (internal controls), kiểm toán viên có thể thực hiện cả hai "đồng thời" (simultaneously), tiết kiệm thời gian và nguồn lực. Cách tiếp cận này cho phép đánh giá toàn diện hơn về quy trình báo cáo tài chính của công ty.
+![PROMOTING EFFICIENCY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--8864019868-Montserrat-Medium-512DA8.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-29752916908.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-1841134690.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## ASSURANCE
+## CONTROL ENVIRONMENT
 
-Một khía cạnh quan trọng khác của "kiểm toán tích hợp" (integrated audit) là mức độ "đảm bảo" (assurance) mà nó cung cấp ngày càng tăng. Bằng cách kiểm tra cả "báo cáo tài chính" (financial statements) và "kiểm soát nội bộ" (internal controls), nhóm kiểm toán có thể hiểu biết toàn diện hơn về quy trình báo cáo tài chính của công ty. Điều này giúp xác định bất kỳ "sai sót trọng yếu" (material misstatements) hoặc "hoạt động gian lận" (fraudulent activities), từ đó nâng cao độ tin cậy của báo cáo tài chính.
-![ASSURANCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--27254652729-Montserrat-Regular-9C27B0.jpg)
+Quy trình "kiểm tra tích hợp" (integrated audit) thường bao gồm một số bước chính. Đầu tiên, kiểm toán viên đánh giá tổng thể "môi trường kiểm soát" (control environment) của công ty, bao gồm "các hoạt động kiểm soát" (control activities), các quy trình "đánh giá rủi ro" (risk assessment) và "hệ thống thông tin" (information systems). Điều này cung cấp nền tảng để hiểu cấu trúc kiểm soát nội bộ.
+![CONTROL ENVIRONMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--22734240593-Montserrat-Black-9C27B0.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-12902534976.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## AUDIT PROCESS
-
-Quá trình tiến hành "kiểm tra tích hợp" (integrated audit) bao gồm một số bước chính. Đầu tiên, nhóm kiểm toán đánh giá các rủi ro liên quan đến "báo cáo tài chính" (financial statements) và "kiểm soát nội bộ" (internal controls) của công ty. Điều này liên quan đến việc hiểu rõ "ngành của công ty" (company's industry), môi trường kiểm soát nội bộ của công ty và bất kỳ yêu cầu pháp lý quan trọng nào.
-![AUDIT PROCESS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--10820284617-Montserrat-Thin-1A237E.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-42534124823.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## AUDIT PROCEDURES
-
-Tiếp theo, nhóm kiểm toán lập kế hoạch cho "thủ tục kiểm toán" (audit procedures) bằng cách xác định "các lĩnh vực trọng tâm" (areas of focus) dựa trên "rủi ro được đánh giá" (assessed risks). Điều này bao gồm việc xác định "cỡ mẫu để thử nghiệm" (sample size for testing), chọn "phương pháp kiểm tra" thích hợp (audit methodologies) và thiết kế "các thử nghiệm kiểm tra" (audit tests) để đánh giá tính hiệu quả của "kiểm soát nội bộ" (internal controls).
-![AUDIT PROCEDURES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--7086491961-Montserrat-SemiBold-1A237E.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-1189568888.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-7711297152.mp3" type="audio/mpeg">
 </audio>
 
 
 
 ## INTERNAL CONTROLS
 
-Sau khi giai đoạn lập kế hoạch hoàn tất, nhóm kiểm toán sẽ thực hiện "thủ tục kiểm toán" (audit procedures). Điều này bao gồm việc kiểm tra "các giao dịch tài chính" (financial transactions) ​​của công ty, thực hiện "các thủ tục cơ bản" (substantive procedures) trên "báo cáo tài chính" (financial statements) và đánh giá "thiết kế" (design) và "hiệu quả hoạt động" ( operating effectiveness) của "kiểm soát nội bộ" (internal controls).
-![INTERNAL CONTROLS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--22687623969-Montserrat-Black-283593.jpg)
+Tiếp theo, "kiểm toán viên" (auditor) xác định và đánh giá "rủi ro" (risks) có thể ảnh hưởng đến "báo cáo tài chính" (financial statements). Điều này liên quan đến việc hiểu "hoạt động kinh doanh" (business operations), "động lực của ngành" (industry dynamics) và "môi trường pháp lý" (regulatory environment) của công ty. Sau đó, kiểm toán viên thiết kế các thủ tục để kiểm tra tính hiệu quả của "kiểm soát nội bộ" (internal controls) trong việc giảm thiểu những rủi ro đó.
+![INTERNAL CONTROLS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-34277456791-Montserrat-Regular-7B1FA2.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-8960635755.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-3492572084.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## SUBSTANTIVE PROCEDURES
+
+Trong quá trình kiểm toán, kiểm toán viên thực hiện "thủ tục cơ bản" (substantive procedures) để thu thập "bằng chứng" (evidence) về tính chính xác và đầy đủ của "báo cáo tài chính" (financial statements). Điều này bao gồm việc kiểm tra tài liệu hỗ trợ, "tiến hành các cuộc phỏng vấn" (conducting interviews) và thực hiện "các quy trình phân tích" (analytical procedures). Kiểm toán viên cũng kiểm tra "tính hiệu quả hoạt động" (operating effectiveness) của hệ thống kiểm soát nội bộ.
+![SUBSTANTIVE PROCEDURES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-20219031651-Montserrat-Thin-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-26029869324.mp3" type="audio/mpeg">
 </audio>
 
 
 
 ## FINANCIAL STATEMENTS
 
-Sau khi hoàn thành "thủ tục kiểm toán" (audit procedures), nhóm kiểm toán sẽ phân tích các phát hiện và chuẩn bị "báo cáo kiểm toán" (audit report). Báo cáo bao gồm "ý kiến ​​của kiểm toán viên" (auditor's opinion) về "sự công bằng" (fairness) của "báo cáo tài chính" (financial statements) và tính hiệu quả của "kiểm soát nội bộ" (internal controls). Nó cũng nêu bật bất kỳ thiếu sót đáng kể hoặc điểm yếu trọng yếu nào được xác định trong quá trình kiểm toán.
-![FINANCIAL STATEMENTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--88310528-Montserrat-Thin-7B1FA2.jpg)
+Sau khi "thủ tục kiểm toán" (audit procedures) hoàn tất, kiểm toán viên sẽ đánh giá các phát hiện và "đưa ra ý kiến" (forms an opinion) về tính trung thực của "báo cáo tài chính" (financial statements) và tính hiệu quả của kiểm soát nội bộ. Ý kiến ​​này được đưa vào "báo cáo của kiểm toán viên" (auditor's report), đây là thông tin quan trọng gửi đến các bên liên quan của công ty.
+![FINANCIAL STATEMENTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--22933049756-Montserrat-Black-673AB7.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-2444135250.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-40655765438.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## POTENTIAL RISKS
+## ASSURANCE
 
-Tóm lại, "kiểm toán tích hợp" (integrated audit) là cuộc kiểm tra toàn diện về "báo cáo tài chính" (financial statements) và "kiểm soát nội bộ" (internal controls) của công ty. Nó cung cấp cái nhìn toàn diện hơn về quy trình báo cáo tài chính của công ty, nâng cao "hiệu quả kiểm toán" (audit efficiency) và tăng mức độ "đảm bảo" (assurance). Bằng cách kết hợp kiểm toán báo cáo tài chính và kiểm toán kiểm soát nội bộ, nhóm kiểm toán có thể xác định "rủi ro tiềm ẩn" (potential risks), đảm bảo tính chính xác của báo cáo tài chính và cải thiện quản trị doanh nghiệp tổng thể. Cảm ơn bạn đã xem video này về kiểm toán tích hợp.
-![POTENTIAL RISKS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--6444178647-Montserrat-SemiBold-7B1FA2.jpg)
+Kiểm toán tích hợp mang lại nhiều lợi ích cho tất cả các bên liên quan. Đối với công ty, nó cung cấp "sự đảm bảo" (assurance) rằng "báo cáo tài chính" (financial statements) của nó là đáng tin cậy và các biện pháp kiểm soát nội bộ của nó là "hiệu quả" (effective) trong "bảo vệ tài sản" (safeguarding assets) và đảm bảo tính chính xác báo cáo tài chính. Đối với "nhà đầu tư" (investors), "người cho vay" (lenders) và "các bên liên quan" khác (stakeholders), nó nâng cao "niềm tin" (confidence) vào thông tin tài chính của công ty.
+![ASSURANCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--30691719582-Montserrat-SemiBold-880E4F.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-50483026273.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-6355237646.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## STAKEHOLDERS
+
+Tóm lại, "kiểm toán tích hợp" (integrated audit) là một phương pháp toàn diện kết hợp kiểm toán báo cáo tài chính với đánh giá "kiểm soát nội bộ" (internal controls). Nó công nhận "sự phụ thuộc lẫn nhau" (interdependencies) giữa "báo cáo tài chính" (financial reporting) và kiểm soát nội bộ đối với báo cáo tài chính, "thúc đẩy hiệu quả" (promoting efficiency) và cung cấp sự đảm bảo có giá trị cho "các bên liên quan" (stakeholders). Bằng cách tiến hành kiểm toán tích hợp, kiểm toán viên có thể có được "cái nhìn toàn diện" (holistic view) về quy trình báo cáo tài chính của công ty và các biện pháp kiểm soát hiện có để giảm thiểu rủi ro. Cảm ơn bạn đã xem video này về kiểm toán tích hợp.
+![STAKEHOLDERS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--18277780818-Montserrat-Bold-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-27756307040.mp3" type="audio/mpeg">
 </audio>
 
