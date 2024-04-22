@@ -3,6 +3,8 @@
 
 - docs
   - [Accounting](./Accounting)
+    - [Accounting-Automation](./Accounting/Accounting-Automation)
+      - [Automated-Auditing.md](./Accounting/Accounting-Automation/Automated-Auditing.md)
     - [Accounting-Automation.md](./Accounting/Accounting-Automation.md)
     - [Accounting-Education](./Accounting/Accounting-Education)
       - [Auditing-Education.md](./Accounting/Accounting-Education/Auditing-Education.md)

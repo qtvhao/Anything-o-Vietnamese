@@ -2,6 +2,8 @@
 # docs
 
 - Accounting
+  - [Accounting-Automation](./Accounting-Automation/)
+    - [Automated-Auditing.md](./Automated-Auditing.md)
   - [Accounting-Automation.md](./Accounting-Automation.md)
   - [Accounting-Education](./Accounting-Education/)
     - [Auditing-Education.md](./Auditing-Education.md)
