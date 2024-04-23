@@ -1,121 +1,121 @@
 
 ---
 
-# Giải phóng hiệu quả của tổ chức: Giải thích về sức mạnh của kiểm toán hoạt động!
+# Giải phóng tiềm năng kinh doanh: Hướng dẫn cơ bản về kiểm toán hoạt động tiết lộ sự thiếu hiệu quả, tăng năng suất và tối ưu hóa tài nguyên!
 
-- Published: April 22, 2024
+- Published: April 23, 2024
 - Author: Vietnamese Online Voice
 - Categories: Accounting / **Assurance Services**
-- #Audit #Organizations #Efficiency #Effectiveness #Policies #Procedures #Controls #ResourceUtilization #BusinessOperations #StrategicObjectives #IndustryBestPractices #Inefficiencies #Risks #CostSavings #ProcessImprovements #InternalControls #Fraud #Errors #Compliance #Laws #Regulations #ResourceAllocation #Productivity #Benchmarking #DataAnalysis #Interviews #Observation #Evidence #AuditFindings #Management #Stakeholders #SmallBusinesses #MediumSizedEnterprises #ContinuousImprovement #PerformanceAssessment #InefficiencyIdentification #OperationalPerformanceEnhancement
+- #BusinessOperations #Auditing #OperationalExcellence #Efficiency #Effectiveness #Productivity #ResourceUtilization #OrganizationalGoals #OperationalBottlenecks #ProcessImprovement #PerformanceOptimization #RiskManagement #RegulatoryCompliance #AssetProtection #AuditScope #AuditObjectives #OperationalDocuments #FinancialAnalysis #PerformanceData #DataAnalysis #RootCauseAnalysis #AnalyticalTools #AuditRecommendations #StakeholderCommunication #AuditReport #ImplementationMonitoring #FollowUpAudits #OperationalPerformance #BusinessSustainability #CompetitiveAdvantage #OrganizationalSuccess
 
-"Trong video này, em sẽ giới thiệu về kiểm toán hoạt động. Trong video này, em sẽ giới thiệu về tầm quan trọng của việc kiểm toán hoạt động trong các tổ chức và cách chúng có thể đóng góp vào việc cải thiện hiệu quả và hiệu suất. Vậy hãy bắt đầu nào! Kiểm toán hoạt động là một quá trình kiểm tra hệ thống của tổ chức và quá trình hoạt động. Nó bao gồm đánh giá các khía cạnh khác nhau như chính sách, quy trình, kiểm soát và sử dụng tài nguyên. Mục tiêu chính của kiểm toán hoạt động là xác định các lĩnh vực cần cải thiện và đưa ra các khuyến nghị để nâng cao hiệu suất hoạt động. Kiểm toán hoạt động đóng vai trò quan trọng trong các tổ chức bằng cách đảm bảo rằng hoạt động kinh doanh được phù hợp với các mục tiêu chiến lược và các phương pháp tốt nhất của ngành. Bằng cách tiến hành kiểm toán hoạt động định kỳ, các công ty có thể xác định được sự không hiệu quả, rủi ro và cơ hội tiết kiệm chi phí và cải tiến quy trình." "Các sếp có thể xem video hướng dẫn chi tiết ở phía dưới nhé."
+"Trong video này, tôi sẽ tìm hiểu khái niệm kiểm toán hoạt động, tầm quan trọng của nó trong các tổ chức kinh doanh và các bước chính liên quan đến việc tiến hành kiểm toán hoạt động. Vì vậy, hãy cùng tìm hiểu sâu nhé! Kiểm toán hoạt động là hoạt động xem xét và đánh giá một cách có hệ thống các quy trình hoạt động của một tổ chức , thủ tục và hệ thống. Nó tập trung vào việc đánh giá hiệu quả, hiệu quả và tính kinh tế của các hoạt động của tổ chức. Mục tiêu của kiểm toán hoạt động là xác định các lĩnh vực cần cải tiến, nâng cao năng suất và tối ưu hóa việc sử dụng nguồn lực. họ cung cấp những hiểu biết sâu sắc có giá trị về hoạt động hàng ngày của mình. Bằng cách tiến hành kiểm toán hoạt động, các công ty có thể xác định các điểm nghẽn trong hoạt động, hợp lý hóa các quy trình và nâng cao hiệu suất tổng thể. Kiểm toán hoạt động cũng giúp xác định rủi ro, đảm bảo tuân thủ các quy định và bảo vệ tài sản của tổ chức. . Các Boss có thể xem video hướng dẫn chi tiết ở bên dưới nhé."
 
 
 ## OPERATIONAL AUDIT
 
-Chào mừng bạn đến với video của tôi về "kiểm toán hoạt động" (operational audit). Trong video này, tôi sẽ khám phá tầm quan trọng của kiểm toán hoạt động trong các tổ chức và cách chúng có thể góp phần nâng cao "hiệu quả" (efficiency) và "hiệu quả" (effectiveness). Vì vậy, hãy đi sâu vào!
-![OPERATIONAL AUDIT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-4686537597-Montserrat-Bold-4A148C.jpg)
+Chào mừng bạn đến với video của tôi về "kiểm toán hoạt động" (operational audit). Trong video này, tôi sẽ khám phá khái niệm kiểm toán hoạt động, tầm quan trọng của nó trong các tổ chức kinh doanh và các bước chính liên quan đến việc tiến hành kiểm toán hoạt động. Vì vậy, hãy đi sâu vào!
+![OPERATIONAL AUDIT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition-9377669654-Montserrat-SemiBold-283593.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-7266542169.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-1030290833.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## SYSTEMATIC EXAMINATION
+## OPERATIONAL PROCESSES
 
-Kiểm toán hoạt động là "kiểm tra có hệ thống" (systematic examination) về hoạt động và quy trình của tổ chức. Nó liên quan đến việc đánh giá các khía cạnh khác nhau như chính sách, thủ tục, kiểm soát và "sử dụng tài nguyên" (resource utilization). Mục tiêu chính của "kiểm toán hoạt động" (operational audit) là xác định "các lĩnh vực cải tiến" (areas of improvement) và đưa ra các đề xuất để nâng cao hiệu suất hoạt động.
-![SYSTEMATIC EXAMINATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--7854595269-Montserrat-Thin-4A148C.jpg)
+Kiểm toán hoạt động là "đánh giá có hệ thống" (systematic review) và "đánh giá" (evaluation) về "quy trình hoạt động" (operational processes), "thủ tục" (procedures) và "hệ thống" (systems) của một tổ chức. Nó tập trung vào việc đánh giá "hiệu quả" (efficiency), "hiệu quả" (effectiveness) và "nền kinh tế" (economy) trong hoạt động của một tổ chức. Mục tiêu của "kiểm toán hoạt động" (operational audit) là xác định "các lĩnh vực cải tiến" (areas of improvement), nâng cao "năng suất" (productivity) và tối ưu hóa việc sử dụng tài nguyên.
+![OPERATIONAL PROCESSES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition--29368453120-Montserrat-Thin-004895.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-25150575803.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-16781466159.mp3" type="audio/mpeg">
 </audio>
 
 
 
 ## OPERATIONAL AUDITS
 
-Kiểm toán hoạt động đóng một vai trò quan trọng trong các tổ chức bằng cách đảm bảo rằng "hoạt động kinh doanh" (business operations) phù hợp với "mục tiêu chiến lược" (strategic objectives) và "các phương pháp hay nhất trong ngành" (industry best practices). Bằng cách tiến hành "kiểm toán hoạt động" thường xuyên (operational audits), các công ty có thể xác định "sự thiếu hiệu quả" (inefficiencies), "rủi ro" (risks) và các cơ hội tiềm năng để "tiết kiệm chi phí" (cost savings) và cải tiến quy trình.
-![OPERATIONAL AUDITS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--17795901337-Montserrat-Bold-303F9F.jpg)
+Kiểm toán hoạt động rất quan trọng đối với các tổ chức vì chúng cung cấp những hiểu biết có giá trị về hoạt động hàng ngày của họ. Bằng cách tiến hành "kiểm toán hoạt động" (operational audits), các công ty có thể xác định "nút thắt cổ chai trong hoạt động" (operational bottlenecks), hợp lý hóa "quy trình" (processes) và nâng cao "hiệu suất" tổng thể (performance). Kiểm toán hoạt động cũng giúp "xác định rủi ro" (identifying risks), đảm bảo "tuân thủ" (compliance) với "các quy định" (regulations) và "bảo vệ" (safeguarding) "tài sản" của tổ chức (assets).
+![OPERATIONAL AUDITS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition--3227424913-Montserrat-Thin-283593.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-16699715283.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-17955775496.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## INTERNAL CONTROLS
+## KEY OPERATIONAL AREAS
 
-Một khía cạnh quan trọng của "kiểm toán hoạt động" (operational audits) là đánh giá "kiểm soát nội bộ" (internal controls). Điều này giúp các tổ chức xác định và giảm thiểu rủi ro liên quan đến "gian lận" (fraud), "sai sót" (errors) và việc tuân thủ luật pháp và quy định. Bằng cách tăng cường kiểm soát nội bộ, các công ty có thể giảm thiểu khả năng "tổn thất tài chính" (financial losses) và thiệt hại về danh tiếng.
-![INTERNAL CONTROLS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-11450246552-Montserrat-Regular-4A148C.jpg)
+Bước đầu tiên trong việc tiến hành "kiểm toán hoạt động" (operational audit) là xác định "phạm vi" (scope) và "mục tiêu" (objectives) của cuộc kiểm tra. Điều này liên quan đến việc hiểu "mục tiêu của tổ chức" (organization's goals), xác định "các lĩnh vực hoạt động chính" (key operational areas) cần được kiểm tra và đặt ra "mục tiêu rõ ràng" (clear objectives) cho cuộc kiểm toán. Phạm vi và mục tiêu phải được "liên kết" (aligned) với các ưu tiên chiến lược của tổ chức.
+![KEY OPERATIONAL AREAS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition--33269917647-Montserrat-Medium-880E4F.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-33856187160.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-4158441301.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## RESOURCE UTILIZATION
+## OPERATIONAL DOCUMENTS
 
-Kiểm toán hoạt động cũng tập trung vào "việc sử dụng tài nguyên" (resource utilization) và "hiệu quả" (efficiency). Họ đánh giá mức độ tổ chức sử dụng các nguồn lực của mình, bao gồm "nguồn nhân lực" (human resources), "công nghệ" (technology) và "cơ sở hạ tầng" (infrastructure). Bằng cách xác định các lĩnh vực "sử dụng không đúng mức" (underutilization) hoặc "thiếu hiệu quả" (inefficiencies), các tổ chức có thể tối ưu hóa "phân bổ nguồn lực" (resource allocation) và cải thiện năng suất tổng thể.
-![RESOURCE UTILIZATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--15071627662-Montserrat-SemiBold-4A148C.jpg)
+Khi phạm vi và mục tiêu được xác định, bước tiếp theo là thu thập dữ liệu và thông tin liên quan. Điều này bao gồm việc xem xét "tài liệu hoạt động" (operational documents), chẳng hạn như chính sách, thủ tục và hướng dẫn công việc, cũng như phân tích dữ liệu tài chính và hiệu suất. Nó cũng có thể liên quan đến việc tiến hành "phỏng vấn" (interviews) với các nhân sự chủ chốt và các bên liên quan để hiểu biết toàn diện về hoạt động.
+![OPERATIONAL DOCUMENTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition-3779889077-Montserrat-Regular-1A237E.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-24901466717.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-6572748207.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## BENCHMARKING
+## EVALUATION
 
-Một khía cạnh quan trọng khác của "kiểm toán hoạt động" (operational audits) là "đo điểm chuẩn" (benchmarking). Bằng cách so sánh hiệu suất của tổ chức với "tiêu chuẩn ngành" (industry standards) và "các phương pháp thực hành tốt nhất" (best practices), các công ty có thể xác định các lĩnh vực mà họ "tụt hậu" (lagging behind) hoặc "xuất sắc" (excelling). Điều này giúp họ đặt ra "mục tiêu thực tế" (realistic targets) và thực hiện "chiến lược" (strategies) để cải thiện hoạt động của mình.
-![BENCHMARKING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--47284086845-Montserrat-Black-303F9F.jpg)
+Sau khi thu thập "dữ liệu" cần thiết (data), kiểm toán viên cần "phân tích" (analyze) và "đánh giá" (evaluate) thông tin. Điều này liên quan đến việc so sánh hiệu suất thực tế với "các tiêu chuẩn đã thiết lập" (established benchmarks), xác định các sai lệch và khác biệt cũng như đánh giá "nguyên nhân gốc rễ" (root causes) của hoạt động kém hiệu quả. Kiểm toán viên có thể sử dụng nhiều công cụ và kỹ thuật phân tích khác nhau để tiến hành phân tích này.
+![EVALUATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition--69314122029-Montserrat-ExtraBold-9C27B0.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-15606914857.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-17799186611.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## EVIDENCE-BASED APPROACH
+## PRACTICAL ACTIONABLE
 
-Trong quá trình "kiểm toán hoạt động" (operational audit), kiểm toán viên thu thập "bằng chứng" (evidence) thông qua "phân tích dữ liệu" (data analysis), "phỏng vấn" (interviews) và "quan sát" (observation). Họ phân tích "báo cáo tài chính" (financial statements), "báo cáo hoạt động" (operational reports) và các "tài liệu liên quan" khác (relevant documents) để hiểu rõ hơn về hoạt động của tổ chức. "Phương pháp tiếp cận dựa trên bằng chứng" này (evidence-based approach) đảm bảo rằng các phát hiện kiểm tra là "khách quan" (objective) và đáng tin cậy.
-![EVIDENCE-BASED APPROACH](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-1862596818-Montserrat-ExtraBold-673AB7.jpg)
+Dựa trên phân tích, kiểm toán viên sau đó sẽ đưa ra các khuyến nghị để cải thiện. Những khuyến nghị này phải thực tế, có thể thực hiện được và phù hợp với mục tiêu của tổ chức. Kiểm toán viên nên ưu tiên các khuyến nghị dựa trên "tác động tiềm tàng" (potential impact) và tính khả thi của việc triển khai.
+![PRACTICAL ACTIONABLE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition--20200043944-Montserrat-Bold-673AB7.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-14140113247.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-4531390504.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## COMPREHENSIVE REPORT
+## AUDIT REPORT
 
-Sau khi "kiểm toán hoạt động" (operational audit) hoàn tất, kiểm toán viên sẽ chuẩn bị một "báo cáo toàn diện" (comprehensive report) nêu rõ "các phát hiện" (findings) và "đề xuất" (recommendations) của họ. Báo cáo này được chia sẻ với "ban quản lý" (management) và "các bên liên quan" (stakeholders), những người sau đó có thể thực hiện các hành động thích hợp để giải quyết các vấn đề đã xác định và cải thiện hiệu suất hoạt động.
-![COMPREHENSIVE REPORT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-14131050413-Montserrat-Bold-673AB7.jpg)
+Sau khi các khuyến nghị được phát triển, bước tiếp theo là truyền đạt "các phát hiện" (findings) cho các bên liên quan. Điều này bao gồm việc chuẩn bị một "báo cáo kiểm toán" toàn diện (audit report) tóm tắt "quy trình kiểm toán" (audit process), trình bày các phát hiện và đưa ra các đề xuất cải tiến. Báo cáo phải "rõ ràng" (clear), "ngắn gọn" (concise) và được hỗ trợ bởi "dữ liệu liên quan" (relevant data) và "bằng chứng" (evidence).
+![AUDIT REPORT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition-13204941091-Montserrat-ExtraBold-1A237E.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-2112662223.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-29299692642.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## EFFECTIVELY IMPLEMENTED
+
+Sau khi báo cáo được truyền đạt, bước cuối cùng là giám sát việc thực hiện "khuyến nghị" (recommendations). Kiểm toán viên phải hợp tác chặt chẽ với đội ngũ quản lý để đảm bảo rằng các cải tiến được đề xuất được "thực hiện một cách hiệu quả" (effectively implemented). Các cuộc kiểm toán tiếp theo thường xuyên có thể được tiến hành để đánh giá tiến độ và đo lường tác động của những thay đổi đã thực hiện.
+![EFFECTIVELY IMPLEMENTED](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition-12195444168-Montserrat-ExtraBold-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-17910105807.mp3" type="audio/mpeg">
 </audio>
 
 
 
 ## AREAS OF IMPROVEMENT
 
-Điều quan trọng cần lưu ý là "kiểm toán hoạt động" (operational audits) không chỉ giới hạn ở các tập đoàn lớn. Các doanh nghiệp vừa và nhỏ cũng có thể hưởng lợi từ việc tiến hành kiểm toán hoạt động vì chúng cung cấp "những hiểu biết có giá trị" (valuable insights) về hoạt động của họ và giúp xác định các lĩnh vực cần phát triển và cải thiện.
-![AREAS OF IMPROVEMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--18484871182-Montserrat-SemiBold-7B1FA2.jpg)
+Tóm lại, "kiểm toán hoạt động" (operational audit) đóng một vai trò quan trọng trong việc giúp các tổ chức nâng cao hiệu suất hoạt động của họ. Bằng cách tiến hành đánh giá kỹ lưỡng "quy trình hoạt động" (operational processes), xác định "các lĩnh vực cải tiến" (areas of improvement) và thực hiện "những thay đổi hiệu quả" (effective changes), các tổ chức có thể đạt được "hiệu quả cao hơn" (greater efficiency), " hiệu quả" (effectiveness) và "lợi nhuận" (profitability). Kiểm toán hoạt động góp phần vào "thành công chung" (overall success) và "tính bền vững" (sustainability) của các doanh nghiệp trong bối cảnh cạnh tranh ngày nay.
+![AREAS OF IMPROVEMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition--61522836902-Montserrat-ExtraBold-004895.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-25255718206.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-10334854132.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## EFFICIENCY
+## EFFECTIVENESS
 
-Tóm lại, "kiểm toán hoạt động" (operational audits) là cần thiết để các tổ chức đánh giá hoạt động của mình, xác định "sự thiếu hiệu quả" (inefficiencies) và cải thiện "hiệu suất tổng thể" (overall performance). Bằng cách tiến hành kiểm tra hoạt động thường xuyên, "các công ty" (companies) có thể nâng cao "hiệu quả" (efficiency), giảm thiểu "rủi ro" (risks) và điều chỉnh hoạt động của họ với "mục tiêu chiến lược" (strategic objectives). Vì vậy, hãy cân nhắc việc kết hợp kiểm toán hoạt động vào thực tiễn tổ chức của bạn để thúc đẩy "thành công" (success) và cải tiến liên tục.
-![EFFICIENCY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--24849559580-Montserrat-ExtraBold-7B1FA2.jpg)
+Đó là tất cả cho video này về "kiểm toán hoạt động" (operational audit). Tôi hy vọng bạn thấy nó có nhiều thông tin và hiểu rõ hơn về tầm quan trọng cũng như quy trình tiến hành kiểm toán hoạt động. Cảm ơn bạn đã xem và hãy theo dõi để có những video sâu sắc hơn.
+![EFFECTIVENESS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition--10883525897-Montserrat-Bold-004895.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-3138350747.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## BUSINESS OPERATIONS
-
-Điều đó đưa chúng ta đến phần cuối của video này. Tôi hy vọng bạn thấy nó có nhiều thông tin và hiểu rõ hơn về "kiểm toán hoạt động" (operational audits). Cảm ơn bạn đã xem và hãy nhớ đăng ký để có thêm thông tin về các chủ đề kinh doanh và quản lý.
-![BUSINESS OPERATIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-42988620380-Montserrat-Regular-283593.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-298945190.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-3241339210.mp3" type="audio/mpeg">
 </audio>
 
