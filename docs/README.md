@@ -80,6 +80,7 @@
       - [Budgeting-for-non-profits.md](./Accounting/Budgeting/Budgeting-for-non-profits.md)
       - [Budgeting-for-retirees.md](./Accounting/Budgeting/Budgeting-for-retirees.md)
       - [Budgeting-for-students.md](./Accounting/Budgeting/Budgeting-for-students.md)
+      - [Budgeting-software-and-tools.md](./Accounting/Budgeting/Budgeting-software-and-tools.md)
       - [Business-Budgeting.md](./Accounting/Budgeting/Business-Budgeting.md)
       - [Non-profit-Budgeting.md](./Accounting/Budgeting/Non-profit-Budgeting.md)
       - [Personal-Budgeting.md](./Accounting/Budgeting/Personal-Budgeting.md)

@@ -79,6 +79,7 @@
     - [Budgeting-for-non-profits.md](./Budgeting-for-non-profits.md)
     - [Budgeting-for-retirees.md](./Budgeting-for-retirees.md)
     - [Budgeting-for-students.md](./Budgeting-for-students.md)
+    - [Budgeting-software-and-tools.md](./Budgeting-software-and-tools.md)
     - [Business-Budgeting.md](./Business-Budgeting.md)
     - [Non-profit-Budgeting.md](./Non-profit-Budgeting.md)
     - [Personal-Budgeting.md](./Personal-Budgeting.md)
