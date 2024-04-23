@@ -1,101 +1,91 @@
 
 ---
 
-# Giải phóng sức mạnh của phân tích thu nhập toàn diện: Vượt xa thu nhập ròng và khám phá những hiểu biết sâu sắc về tài chính ẩn giấu!
+# Giải phóng sức mạnh của phân tích thu nhập toàn diện: Hướng dẫn cơ bản về hiệu quả tài chính toàn diện!
 
-- Published: April 22, 2024
+- Published: April 23, 2024
 - Author: Vietnamese Online Voice
 - Categories: Accounting / **Financial Statement Analysis**
-- #FinancialReporting #NetIncome #EquityAnalysis #OtherComprehensiveIncome #FinancialPerformance #FinancialHealth #Investors #Creditors #FinancialInstruments #ForeignCurrencyTranslation #Derivatives #FinancialStatements #FinancialAnalysis #EarningsQuality #SustainableEarnings #FinancialManagement #BusinessEnterprise #FinancialTransactions #FinancialEvents #FinancialStakeholders #FinancialMarkets #FinancialReportingStandards #FinancialStatementAnalysis #FinancialPerformanceIndicators #FinancialAnalysisTools #FinancialManagementStrategies #FinancialProfessionals #FinancialEducation #FinancialLiteracy #FinancialKnowledge #FinancialAwareness #FinancialSuccess #FinancialGrowth #FinancialGoals #FinancialSecurity #FinancialFreedom
+- #FinancialReporting #FinancialAnalysis #RealizedGains #UnrealizedGains #NetIncome #Equity #OtherComprehensiveIncome #AvailableForSaleSecurities #DerivativeInstruments #FinancialPerformance #FinancialPosition #ForeignCurrencyTranslation #CurrencyMovements #PensionPlans #PostEmploymentBenefits #ActuarialGains #ActuarialLosses #FinancialStatements #StatementOfComprehensiveIncome #Investors #Analysts #Stakeholders #FinancialHealth #FinancialRisks #HolisticFinancialView
 
-"Trong video này, em sẽ giới thiệu về phân tích lợi nhuận toàn diện! Trong video này, em sẽ khám phá khái niệm về lợi nhuận toàn diện và tầm quan trọng của nó trong báo cáo tài chính. Lợi nhuận toàn diện vượt xa con số lợi nhuận ròng và mang đến một cái nhìn tổng quan hơn về hiệu suất tài chính của một công ty. Hãy cùng khám phá và tìm hiểu các khía cạnh chính của phân tích lợi nhuận toàn diện. Nhưng trước tiên, hãy làm rõ ý nghĩa thực sự của lợi nhuận toàn diện. Lợi nhuận toàn diện là sự thay đổi về vốn chủ sở hữu của một doanh nghiệp trong một khoảng thời gian nhất định, kết quả từ các giao dịch và sự kiện khác, trừ các giao dịch với chủ sở hữu. Nó bao gồm cả lợi nhuận ròng và các khoản lợi nhuận toàn diện khác, như lợi / tổn thất chưa thực hiện trên chứng khoán sẵn sàng bán hoặc điều chỉnh chênh lệch tỷ giá ngoại tệ. Mục đích của phân tích lợi nhuận toàn diện là cung cấp cho các bên liên quan một cái nhìn tổng quan hơn về hiệu suất tài chính và tác động tiềm năng của nó đối với giá trị tổng thể của công ty. Nó giúp các nhà đầu tư, ngân hàng và các bên liên quan khác đánh giá tình hình tài chính và hiệu suất của một doanh nghiệp vượt qua con số lợi nhuận ròng truyền thống."
+"Trong video này, em sẽ giới thiệu về phân tích thu nhập toàn diện. Comprehensive income đóng vai trò quan trọng trong báo cáo tài chính và phân tích. Comprehensive income bao gồm cả lợi nhuận thực tế và lợi nhuận không thực tế, tạo ra cái nhìn tổng thể về hiệu suất tài chính của một công ty. Video này sẽ giúp sếp hiểu rõ khái niệm quan trọng này. Các sếp có thể xem video hướng dẫn chi tiết ở phía dưới nhé."
 
 
 ## COMPREHENSIVE INCOME
 
-Chào mừng bạn đến với video của tôi về "phân tích thu nhập toàn diện" (comprehensive income analysis)! Trong video này, tôi sẽ khám phá khái niệm thu nhập toàn diện và tầm quan trọng của nó trong "báo cáo tài chính" (financial reporting). Thu nhập toàn diện không chỉ là con số "thu nhập ròng" (net income) mà còn cung cấp "cái nhìn rộng hơn" (broader view) về "kết quả tài chính" của công ty (financial performance). Vì vậy, hãy cùng đi sâu và khám phá những khía cạnh chính của phân tích thu nhập toàn diện.
-![COMPREHENSIVE INCOME](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-23535180450-Montserrat-Bold-303F9F.jpg)
+Chào mừng bạn đến với video của tôi về "phân tích thu nhập toàn diện" (comprehensive income analysis). Trong video này, tôi sẽ khám phá khái niệm thu nhập toàn diện và tầm quan trọng của nó trong "báo cáo tài chính" (financial reporting) và phân tích. Thu nhập toàn diện là một thước đo quan trọng cung cấp "cái nhìn toàn diện" (holistic view) về "kết quả tài chính" (financial performance) của công ty, nắm bắt cả lãi và lỗ đã thực hiện và chưa thực hiện. Vì vậy, hãy cùng đi sâu tìm hiểu khía cạnh quan trọng này của "phân tích tài chính" (financial analysis).
+![COMPREHENSIVE INCOME](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition--9641694775-Montserrat-Thin-880E4F.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-10290002815.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-5770286707.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## BUSINESS ENTERPRISE
+## EQUITY SECTION
 
-Nhưng trước tiên, hãy làm rõ "thu nhập toàn diện" (comprehensive income) thực sự có nghĩa là gì. Thu nhập toàn diện là sự thay đổi vốn chủ sở hữu của một "doanh nghiệp kinh doanh" (business enterprise) trong một khoảng thời gian cụ thể, phát sinh từ các giao dịch và các sự kiện khác, không bao gồm các giao dịch với chủ sở hữu. Nó bao gồm cả "thu nhập ròng" (net income) và các khoản thu nhập toàn diện khác, chẳng hạn như lãi hoặc lỗ chưa thực hiện trên chứng khoán sẵn sàng để bán hoặc điều chỉnh chuyển đổi ngoại tệ.
-![BUSINESS ENTERPRISE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-1757985122-Montserrat-SemiBold-1A237E.jpg)
+Để bắt đầu, điều quan trọng là phải hiểu "thu nhập toàn diện" (comprehensive income) đòi hỏi những gì. Thu nhập toàn diện thể hiện sự thay đổi trong "vốn chủ sở hữu" (equity) của công ty trong một "giai đoạn cụ thể" (specific period), không chỉ bao gồm "thu nhập ròng" (net income) mà còn các khoản thu nhập toàn diện khác. Thu nhập toàn diện khác bao gồm "lãi và lỗ" (gains and losses) không được ghi nhận trong "báo cáo thu nhập" (income statement) mà thay vào đó được báo cáo trực tiếp trong "phần vốn chủ sở hữu" (equity section) của bảng cân đối kế toán.
+![EQUITY SECTION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition-17174259681-Montserrat-Black-303F9F.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-38336139469.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## COMPREHENSIVE INCOME ANALYSIS
-
-Mục đích của phân tích thu nhập toàn diện là cung cấp cho "các bên liên quan" (stakeholders) một bức tranh toàn diện hơn về "kết quả tài chính" của công ty (financial performance) và tác động tiềm tàng của nó đối với giá trị tổng thể của công ty. Nó giúp các nhà đầu tư, chủ nợ và các bên quan tâm khác đánh giá tình hình tài chính và hiệu quả hoạt động của một doanh nghiệp ngoài con số thu nhập ròng truyền thống.
-![COMPREHENSIVE INCOME ANALYSIS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-44910563297-Montserrat-ExtraBold-004895.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-16310108891.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## COMPREHENSIVE INCOME ANALYSIS
-
-Một thành phần quan trọng của phân tích thu nhập toàn diện là hiểu được các yếu tố khác nhau góp phần tạo nên thu nhập toàn diện. Những yếu tố này bao gồm doanh thu, chi phí, lãi và lỗ không được ghi nhận trong báo cáo thu nhập truyền thống. Chúng có thể phát sinh từ những thay đổi về giá trị hợp lý của các công cụ tài chính, điều chỉnh chuyển đổi ngoại tệ, lãi hoặc lỗ trên các công cụ phái sinh, v.v.
-![COMPREHENSIVE INCOME ANALYSIS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--12508850879-Montserrat-Medium-1A237E.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-6497983178.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-10197190358.mp3" type="audio/mpeg">
 </audio>
 
 
 
 ## FINANCIAL PERFORMANCE
 
-Phân tích "thu nhập toàn diện" (comprehensive income) yêu cầu kiểm tra cẩn thận các yếu tố khác nhau này và tầm quan trọng của chúng đối với "kết quả tài chính" tổng thể (financial performance) của một công ty. Nó giúp "các bên liên quan" (stakeholders) đánh giá "tác động" (impact) của các hoạt động không hoạt động, chẳng hạn như đầu tư, hoạt động phòng ngừa rủi ro hoặc thay đổi trong "điều kiện thị trường" (market conditions), đối với "kết quả kinh doanh cuối cùng" của công ty " (bottom line).
-![FINANCIAL PERFORMANCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-27716523685-Montserrat-SemiBold-4A148C.jpg)
+Một yếu tố quan trọng của "thu nhập toàn diện" (comprehensive income) là bao gồm các khoản lãi và lỗ chưa thực hiện. Đây là những khoản lãi hoặc lỗ phát sinh từ "biến động" (fluctuations) về "giá trị thị trường" (market value) của một số tài sản nhất định, chẳng hạn như chứng khoán sẵn sàng để bán hoặc "công cụ phái sinh" (derivative instruments). Không giống như lãi và lỗ đã thực hiện, ảnh hưởng đến "thu nhập ròng" (net income), lãi và lỗ chưa thực hiện có tác động trực tiếp đến thu nhập toàn diện. Do đó, thu nhập toàn diện cung cấp một bức tranh toàn diện hơn về hiệu quả tài chính của công ty.
+![FINANCIAL PERFORMANCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition--10311529303-Montserrat-ExtraBold-004895.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-23026192269.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-37417836166.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## FINANCIAL STATEMENTS
+## EXCHANGE RATES
 
-Một khía cạnh khác cần xem xét trong phân tích "thu nhập toàn diện" (comprehensive income) là báo cáo thu nhập toàn diện. Các công ty được yêu cầu trình bày thu nhập toàn diện trong "báo cáo tài chính" (financial statements) của họ, dưới dạng báo cáo riêng hoặc là một phần của báo cáo thay đổi vốn chủ sở hữu. Điều này cho phép "các bên liên quan" (stakeholders) dễ dàng xác định và hiểu các thành phần của thu nhập toàn diện.
-![FINANCIAL STATEMENTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-581335347-Montserrat-ExtraBold-7B1FA2.jpg)
+Một thành phần quan trọng khác của "thu nhập toàn diện" (comprehensive income) là điều chỉnh dịch chuyển ngoại tệ. Khi một công ty hoạt động bằng nhiều loại tiền tệ, những thay đổi về "tỷ giá hối đoái" (exchange rates) có thể ảnh hưởng đến giá trị tài sản và nợ nước ngoài của công ty đó. Những biến động này không được ghi nhận trong "báo cáo thu nhập" (income statement) nhưng được tính vào thu nhập toàn diện khác. Bằng cách bao gồm những điều chỉnh này, thu nhập toàn diện phản ánh tác động của biến động tiền tệ đối với "vị trí tài chính" của công ty (financial position).
+![EXCHANGE RATES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition-12160576811-Montserrat-Regular-283593.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-16968935756.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-25392632870.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## STAKEHOLDERS
+## PENSION PLANS
 
-Hơn nữa, phân tích thu nhập toàn diện có thể được sử dụng để đánh giá chất lượng và "tính bền vững" (sustainability) thu nhập của công ty. Bằng cách kiểm tra các thành phần định kỳ và không định kỳ của thu nhập toàn diện, "các bên liên quan" (stakeholders) có thể hiểu rõ hơn về sự ổn định của "hiệu quả tài chính" (financial performance) của công ty và khả năng tạo ra "thu nhập ổn định" (consistent earnings) tăng ca.
-![STAKEHOLDERS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-14093842565-Montserrat-SemiBold-880E4F.jpg)
+Thu nhập toàn diện cũng tính đến một số mục nhất định liên quan đến "kế hoạch lương hưu" (pension plans) và các phúc lợi sau khi nghỉ việc. Các công ty cung cấp phúc lợi lương hưu cho nhân viên của mình phải tính đến những thay đổi trong "giá trị hợp lý" (fair value) trong kế hoạch lương hưu của họ. Những thay đổi này, được gọi là lãi hoặc lỗ tính toán, được báo cáo trong "thu nhập toàn diện" khác (comprehensive income). Việc đưa chúng vào thu nhập toàn diện sẽ phản ánh chính xác hơn về hiệu quả tài chính tổng thể của công ty.
+![PENSION PLANS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition-22733851604-Montserrat-Regular-7B1FA2.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-56291217466.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-12284353640.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## BOTTOM LINE
+## COMPREHENSIVE INCOME ANALYSIS
 
-Tóm lại, phân tích "thu nhập toàn diện" (comprehensive income) cung cấp cái nhìn toàn diện hơn về "kết quả tài chính" (financial performance) của công ty bằng cách kết hợp không chỉ "thu nhập ròng" (net income) mà còn các khoản thu nhập toàn diện khác. Nó giúp "các bên liên quan" (stakeholders) hiểu được tác động của các yếu tố khác nhau đến kết quả kinh doanh của công ty, đánh giá các hoạt động phi hoạt động cũng như đánh giá chất lượng và tính bền vững của thu nhập.
-![BOTTOM LINE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-14559650680-Montserrat-Regular-9C27B0.jpg)
+Điều đáng chú ý là "thu nhập toàn diện" (comprehensive income) được báo cáo trong "báo cáo tài chính" (financial statements), thường ở dạng "báo cáo riêng" (separate statement) được gọi là báo cáo thu nhập toàn diện. Tuyên bố này hiển thị "thu nhập ròng" (net income) trong kỳ, cùng với "các thành phần khác nhau" (various components) của thu nhập toàn diện khác. Bằng cách trình bày thu nhập toàn diện một cách riêng biệt, người sử dụng báo cáo tài chính có thể dễ dàng phân biệt giữa lãi và lỗ đã thực hiện và chưa thực hiện.
+![COMPREHENSIVE INCOME ANALYSIS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition--28873524770-Montserrat-ExtraBold-283593.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-42690152068.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-30798816518.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## FINANCIAL REPORTING
+## GAINS AND LOSSES
 
-Cảm ơn bạn đã xem video này về phân tích "thu nhập toàn diện" (comprehensive income). Tôi hy vọng bạn thấy nó sâu sắc và hiểu rõ hơn về tầm quan trọng của thu nhập toàn diện trong "báo cáo tài chính" (financial reporting). Nếu bạn có thêm bất kỳ câu hỏi nào hoặc muốn tìm hiểu thêm, vui lòng khám phá "các tài nguyên bổ sung" (additional resources) hoặc tham khảo ý kiến ​​của "chuyên gia tài chính" (financial professional).
-![FINANCIAL REPORTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-32450220157-Montserrat-Bold-880E4F.jpg)
+Phân tích thu nhập toàn diện là điều cần thiết để "nhà đầu tư" (investors), "nhà phân tích" (analysts) và "các bên liên quan" khác (stakeholders) có được sự hiểu biết toàn diện về "kết quả tài chính" của công ty (financial performance). Bằng cách xem xét tất cả các thành phần của thu nhập toàn diện, bao gồm lãi và lỗ chưa thực hiện, điều chỉnh quy đổi ngoại tệ và lãi hoặc lỗ theo tính toán, các nhà phân tích có thể đánh giá tình hình tài chính tổng thể và "rủi ro tiềm ẩn" (potential risks) liên quan đến một công ty.
+![GAINS AND LOSSES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition-10755735217-Montserrat-Black-9C27B0.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-6504847890.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-17812393305.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## FINANCIAL POSITION
+
+Tóm lại, phân tích thu nhập toàn diện cung cấp cái nhìn toàn diện về "kết quả tài chính" của công ty (financial performance) bằng cách kết hợp cả lãi và lỗ đã thực hiện và chưa thực hiện, điều chỉnh chuyển đổi ngoại tệ và "các mục quan trọng khác" (other significant items). Nó nâng cao hiểu biết về "tình hình tài chính" (financial position), "khả năng sinh lời" (profitability) và "rủi ro tiềm ẩn" (potential risks) của công ty. Bằng cách xem xét thu nhập toàn diện, các nhà phân tích có thể đưa ra quyết định đầu tư và kinh doanh sáng suốt hơn. Cảm ơn bạn đã xem video này về phân tích thu nhập toàn diện.
+![FINANCIAL POSITION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition--44117083592-Montserrat-Regular-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-9966540181.mp3" type="audio/mpeg">
 </audio>
 
