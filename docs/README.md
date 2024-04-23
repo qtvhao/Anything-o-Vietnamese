@@ -66,6 +66,8 @@
       - [Compliance-Auditing.md](./Accounting/Auditing/Compliance-Auditing.md)
       - [Financial-Auditing.md](./Accounting/Auditing/Financial-Auditing.md)
       - [Forensic-Auditing.md](./Accounting/Auditing/Forensic-Auditing.md)
+      - [Internal-Auditing](./Accounting/Auditing/Internal-Auditing)
+        - [Audit-Planning-and-Reporting.md](./Accounting/Auditing/Internal-Auditing/Audit-Planning-and-Reporting.md)
       - [Operational-Auditing.md](./Accounting/Auditing/Operational-Auditing.md)
     - [Auditing.md](./Accounting/Auditing.md)
     - [Budgeting](./Accounting/Budgeting)
