@@ -4,4 +4,5 @@
 - Accounting-Theory
   - [Auditing-Theory.md](./Auditing-Theory.md)
   - [Cost-Accounting-Theory.md](./Cost-Accounting-Theory.md)
+  - [Financial-Accounting-Theory.md](./Financial-Accounting-Theory.md)
   - [Theory-of-Financial-Reporting.md](./Theory-of-Financial-Reporting.md)

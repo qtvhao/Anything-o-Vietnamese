@@ -47,6 +47,7 @@
     - [Accounting-Theory](./Accounting/Accounting-Theory)
       - [Auditing-Theory.md](./Accounting/Accounting-Theory/Auditing-Theory.md)
       - [Cost-Accounting-Theory.md](./Accounting/Accounting-Theory/Cost-Accounting-Theory.md)
+      - [Financial-Accounting-Theory.md](./Accounting/Accounting-Theory/Financial-Accounting-Theory.md)
       - [Theory-of-Financial-Reporting.md](./Accounting/Accounting-Theory/Theory-of-Financial-Reporting.md)
     - [Accounting-Theory.md](./Accounting/Accounting-Theory.md)
     - [Assurance-Services](./Accounting/Assurance-Services)
