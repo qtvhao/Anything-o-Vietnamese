@@ -126,6 +126,7 @@
     - [Internal-Audits.md](./Internal-Audits.md)
     - [Operational-Audits.md](./Operational-Audits.md)
     - [Performance-Audits.md](./Performance-Audits.md)
+    - [Risk-Based-Audits.md](./Risk-Based-Audits.md)
   - [External-Auditing.md](./External-Auditing.md)
   - [Financial-Accounting](./Financial-Accounting/)
     - [Auditing](./Auditing/)
