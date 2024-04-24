@@ -3,6 +3,7 @@
 
 - Financial-Statement-Analysis
   - [Balance-Sheet-Analysis.md](./Balance-Sheet-Analysis.md)
+  - [Cash-Flow-Analysis.md](./Cash-Flow-Analysis.md)
   - [Comprehensive-Income-Analysis.md](./Comprehensive-Income-Analysis.md)
   - [Financial-Ratios.md](./Financial-Ratios.md)
   - [Horizontal-Analysis.md](./Horizontal-Analysis.md)
