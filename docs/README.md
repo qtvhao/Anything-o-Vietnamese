@@ -57,6 +57,7 @@
       - [Audit-and-Assurance.md](./Accounting/Assurance-Services/Audit-and-Assurance.md)
       - [Compliance-Consulting.md](./Accounting/Assurance-Services/Compliance-Consulting.md)
       - [Financial-Statement-Audit.md](./Accounting/Assurance-Services/Financial-Statement-Audit.md)
+      - [IT-Assurance.md](./Accounting/Assurance-Services/IT-Assurance.md)
       - [Integrated-Audit.md](./Accounting/Assurance-Services/Integrated-Audit.md)
       - [Operational-Audit.md](./Accounting/Assurance-Services/Operational-Audit.md)
       - [Regulatory-Assurance.md](./Accounting/Assurance-Services/Regulatory-Assurance.md)
