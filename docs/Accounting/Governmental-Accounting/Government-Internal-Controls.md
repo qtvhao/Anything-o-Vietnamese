@@ -8,13 +8,13 @@
 - Categories: Accounting / **Governmental Accounting**
 - #InternalControls #GovernmentOperations #Transparency #Accountability #Trust #SegregationOfDuties #ChecksAndBalances #Documentation #RecordKeeping #InternalAudits #ExternalAudits #Compliance #PoliciesAndProcedures #EmployeeTraining #Communication #GovernmentFinances #FinancialManagement #AutomatedSystems #ContinuousMonitoring #RiskAssessment #PublicResources #GovernmentIntegrity #FraudPrevention #AccurateFinancialReporting #LawsAndRegulations #PreventAndDetectFraud
 
-"Trong video này, em sẽ giới thiệu về kiểm soát nội bộ trong Chính phủ. Trong video này, tôi sẽ khám phá tầm quan trọng của kiểm soát nội bộ trong các tổ chức chính phủ và cách chúng đóng góp vào hoạt động hiệu quả và hiệu quả. Kiểm soát nội bộ là các hệ thống, quy trình và thủ tục được thiết lập để bảo vệ tài sản, đảm bảo báo cáo tài chính chính xác, thúc đẩy tuân thủ luật pháp và quy định, và ngăn chặn và phát hiện gian lận. Chúng quan trọng để duy trì tính minh bạch, trách nhiệm và sự tin tưởng trong hoạt động chính phủ. Một khía cạnh quan trọng của kiểm soát nội bộ là sự phân tách nhiệm vụ. Điều này có nghĩa là các cá nhân khác nhau nên chịu trách nhiệm cho các giai đoạn khác nhau của một giao dịch hoặc quy trình. Ví dụ, người phê duyệt chi tiêu nên là người riêng biệt với người thực hiện thanh toán. Phân tách này giúp ngăn ngừa lỗi hoặc gian lận bằng cách cung cấp kiểm tra và cân đối." "Các sếp có thể xem video hướng dẫn chi tiết ở phía dưới nhé."
+"Trong video này, em sẽ giới thiệu về Kiểm soát nội bộ trong phủ Chính phủ. Trong video này, tôi sẽ khám phá tầm quan trọng của kiểm soát Kiểm soát nội bộ trong các tổ chức chính phủ và cách đóng góp cho hoạt động hiệu quả và hiệu quả Kiểm soát nội bộ là hệ thống, quy trình và thủ tục được thiết lập để bảo vệ tài sản, đảm bảo báo cáo tài chính chính xác, cung cấp luật pháp và quy định, và ngăn chặn và phát hiện gian nan. Chúng tôi quan trọng để duy trì tính minh bạch, trách nhiệm và sự tin tưởng trong hoạt động chính phủ. Một khía cạnh quan trọng của kiểm soát nội bộ là sự phân chia nhiệm vụ. Điều này có nghĩa là các nhiệm vụ. cá nhân khác nhau nên chịu trách nhiệm cho các giai đoạn khác nhau của một giao dịch hoặc quy trình. Ví dụ, người phê duyệt chi tiêu nên là người đặc biệt với người thực hiện phân tích này giúp giải quyết lỗi. gian nan bằng cách cung cấp kiểm tra và cân đối." "Các thủ lĩnh có thể xem video hướng dẫn chi tiết ở bên dưới nhé."
 
 
 ## GOVERNMENT INTERNAL CONTROLS
 
 Chào mừng bạn đến với video của tôi về Kiểm soát nội bộ của Chính phủ. Trong video này, tôi sẽ khám phá tầm quan trọng của kiểm soát nội bộ trong các tổ chức chính phủ và cách chúng góp phần vào hoạt động hiệu quả và hiệu quả.
-![GOVERNMENT INTERNAL CONTROLS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-17535410909-Montserrat-Medium-9C27B0.jpg)
+![GOVERNMENT INTERNAL CONTROLS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-17535410909-Montserrat-Bold-283593.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-5751205718.mp3" type="audio/mpeg">
 </audio>
@@ -24,7 +24,7 @@ Chào mừng bạn đến với video của tôi về Kiểm soát nội bộ c�
 ## INTERNAL CONTROLS
 
 Kiểm soát nội bộ là các hệ thống, quy trình và thủ tục được áp dụng để "bảo vệ tài sản" (safeguard assets), đảm bảo "báo cáo tài chính" chính xác (financial reporting), thúc đẩy việc tuân thủ luật pháp và quy định cũng như ngăn chặn và phát hiện gian lận. Chúng rất quan trọng để duy trì "sự minh bạch" (transparency), "trách nhiệm giải trình" (accountability) và "sự tin cậy" (trust) trong hoạt động của chính phủ.
-![INTERNAL CONTROLS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-17344488144-Montserrat-Black-4A148C.jpg)
+![INTERNAL CONTROLS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-17344488144-Montserrat-Medium-303F9F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-2170905165.mp3" type="audio/mpeg">
 </audio>
@@ -34,7 +34,7 @@ Kiểm soát nội bộ là các hệ thống, quy trình và thủ tục đư�
 ## INTERNAL CONTROLS
 
 Một khía cạnh quan trọng của "kiểm soát nội bộ" (internal controls) là "phân chia nhiệm vụ" (segregation of duties). Điều này có nghĩa là các cá nhân khác nhau phải chịu trách nhiệm về các giai đoạn khác nhau của một "giao dịch" (transaction) hoặc "quy trình" (process). Ví dụ: người "phê duyệt chi tiêu" (approves expenditures) phải tách biệt với người "xử lý thanh toán" (processes payments). Sự tách biệt này giúp ngăn ngừa sai sót hoặc gian lận bằng cách cung cấp séc và số dư.
-![INTERNAL CONTROLS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--30481392823-Montserrat-Black-004895.jpg)
+![INTERNAL CONTROLS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--30481392823-Montserrat-Bold-303F9F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-20912951972.mp3" type="audio/mpeg">
 </audio>
@@ -44,7 +44,7 @@ Một khía cạnh quan trọng của "kiểm soát nội bộ" (internal contro
 ## RECORD KEEPING
 
 Một yếu tố quan trọng khác của "kiểm soát nội bộ" (internal controls) là "tài liệu" (documentation) và lưu giữ hồ sơ. Các tổ chức chính phủ xử lý một khối lượng lớn "giao dịch" (transactions) và "dữ liệu" (data), đồng thời việc duy trì hồ sơ chính xác và đầy đủ là điều cần thiết. Tài liệu phù hợp đảm bảo "tính minh bạch" (transparency), tạo điều kiện thuận lợi cho "kiểm toán" (audits) và giúp xác định mọi "sự bất thường" (irregularities) hoặc khác biệt.
-![RECORD KEEPING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--1808824626-Montserrat-Bold-004895.jpg)
+![RECORD KEEPING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--1808824626-Montserrat-ExtraBold-512DA8.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-24394338108.mp3" type="audio/mpeg">
 </audio>
@@ -64,7 +64,7 @@ Kiểm toán nội bộ và bên ngoài thường xuyên và độc lập đóng
 ## POLICIES AND PROCEDURES
 
 "Kiểm soát nội bộ" hiệu quả (internal controls) cũng liên quan đến việc thiết lập các "chính sách và thủ tục" rõ ràng (policies and procedures). Những nguyên tắc này phác thảo hành vi, trách nhiệm và quy trình dự kiến ​​trong "tổ chức" (organization). Bằng việc có các chính sách được xác định rõ ràng, nhân viên hiểu rõ hơn về vai trò và trách nhiệm của mình, giảm nguy cơ sai sót hoặc hành vi sai trái có chủ ý.
-![POLICIES AND PROCEDURES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--37195459637-Montserrat-Black-880E4F.jpg)
+![POLICIES AND PROCEDURES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--37195459637-Montserrat-Thin-9C27B0.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-14014012116.mp3" type="audio/mpeg">
 </audio>
@@ -74,7 +74,7 @@ Kiểm toán nội bộ và bên ngoài thường xuyên và độc lập đóng
 ## TRAINING PROGRAMS
 
 Đào tạo và giao tiếp là không thể thiếu cho sự thành công của "kiểm soát nội bộ" (internal controls). Các tổ chức chính phủ nên cung cấp "chương trình đào tạo" (training programs) thường xuyên cho "nhân viên" (employees), đảm bảo họ hiểu tầm quan trọng của kiểm soát nội bộ và "vai trò cá nhân" (individual roles) của họ trong việc "duy trì chúng" (maintaining them). Các đường dây liên lạc cởi mở cũng khuyến khích nhân viên "báo cáo mọi mối lo ngại" (report any concerns) hoặc "các vi phạm tiềm ẩn" (potential violations) mà họ quan sát thấy.
-![TRAINING PROGRAMS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--15394454470-Montserrat-ExtraBold-9C27B0.jpg)
+![TRAINING PROGRAMS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--15394454470-Montserrat-SemiBold-7B1FA2.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-18191898911.mp3" type="audio/mpeg">
 </audio>
@@ -84,7 +84,7 @@ Kiểm toán nội bộ và bên ngoài thường xuyên và độc lập đóng
 ## AUTOMATED SYSTEMS
 
 Công nghệ đóng một vai trò quan trọng trong việc tăng cường "kiểm soát nội bộ" (internal controls) trong các tổ chức chính phủ. Hệ thống tự động có thể giúp "hợp lý hóa các quy trình" (streamline processes), "giảm lỗi thủ công" (reduce manual errors) và cung cấp khả năng giám sát theo thời gian thực. Ví dụ: hệ thống quản lý tài chính có thể "tạo báo cáo" (generate reports), gắn cờ các giao dịch bất thường và thực thi "phân chia nhiệm vụ" (segregation of duties) bằng điện tử.
-![AUTOMATED SYSTEMS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--27107573969-Montserrat-SemiBold-9C27B0.jpg)
+![AUTOMATED SYSTEMS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--27107573969-Montserrat-Regular-512DA8.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-25886234972.mp3" type="audio/mpeg">
 </audio>
@@ -94,7 +94,7 @@ Công nghệ đóng một vai trò quan trọng trong việc tăng cường "ki�
 ## CONTINUOUS MONITORING
 
 Giám sát liên tục và "đánh giá rủi ro" (risk assessment) là cần thiết để điều chỉnh "kiểm soát nội bộ" (internal controls) cho phù hợp với "hoàn cảnh thay đổi" (changing circumstances). Các tổ chức chính phủ nên thường xuyên "xem xét" (review) "hệ thống kiểm soát" (control systems), xác định mọi "rủi ro mới nổi" (emerging risks) và thực hiện "các điều chỉnh cần thiết" (necessary adjustments). "Phương pháp tiếp cận chủ động" này (proactive approach) giúp giải quyết các lỗ hổng tiềm ẩn và đảm bảo rằng các biện pháp kiểm soát nội bộ vẫn "hiệu quả" (effective).
-![CONTINUOUS MONITORING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--25286434158-Montserrat-Bold-283593.jpg)
+![CONTINUOUS MONITORING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--25286434158-Montserrat-Thin-303F9F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-44646543484.mp3" type="audio/mpeg">
 </audio>
@@ -104,7 +104,7 @@ Giám sát liên tục và "đánh giá rủi ro" (risk assessment) là cần th
 ## PUBLIC TRUST
 
 Tóm lại, "kiểm soát nội bộ" (internal controls) rất quan trọng đối với hoạt động đúng đắn của các tổ chức chính phủ. Họ đề cao "trách nhiệm giải trình" (accountability), "minh bạch" (transparency) và "chính trực" (integrity) trong "hoạt động tài chính" (financial operations), giảm nguy cơ "gian lận" (fraud) và "sai sót" " (errors) và giúp duy trì "niềm tin của công chúng" (public trust). Bằng cách triển khai các biện pháp kiểm soát nội bộ mạnh mẽ, các chính phủ có thể đảm bảo việc sử dụng "hiệu quả" (efficient) và "hiệu quả" (effective) "các nguồn lực công" (public resources) vì lợi ích của công dân của họ.
-![PUBLIC TRUST](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--15933062347-Montserrat-Thin-004895.jpg)
+![PUBLIC TRUST](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--15933062347-Montserrat-SemiBold-283593.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-17612129384.mp3" type="audio/mpeg">
 </audio>
@@ -114,7 +114,7 @@ Tóm lại, "kiểm soát nội bộ" (internal controls) rất quan trọng đ�
 ## SEGREGATION OF DUTIES
 
 Cảm ơn bạn đã xem video này về Cơ quan Kiểm soát Nội bộ của Chính phủ. Chúng tôi hy vọng bạn thấy bài viết này có nhiều thông tin và hiểu rõ hơn về "tầm quan trọng" (importance) của kiểm soát nội bộ trong các tổ chức chính phủ. Nếu bạn có thắc mắc hoặc muốn tìm hiểu thêm, vui lòng để lại bình luận bên dưới.
-![SEGREGATION OF DUTIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--25862997463-Montserrat-Thin-303F9F.jpg)
+![SEGREGATION OF DUTIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--25862997463-Montserrat-ExtraBold-4A148C.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-7860769432.mp3" type="audio/mpeg">
 </audio>
