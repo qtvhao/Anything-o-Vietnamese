@@ -122,6 +122,7 @@
       - [Compliance-Audits.md](./Accounting/External-Auditing/Compliance-Audits.md)
       - [Environmental-Audits.md](./Accounting/External-Auditing/Environmental-Audits.md)
       - [Financial-Statement-Audits.md](./Accounting/External-Auditing/Financial-Statement-Audits.md)
+      - [Forensic-Audits.md](./Accounting/External-Auditing/Forensic-Audits.md)
       - [Information-System-Auditing.md](./Accounting/External-Auditing/Information-System-Auditing.md)
       - [Information-Systems-Audits.md](./Accounting/External-Auditing/Information-Systems-Audits.md)
       - [Integrated-Audits.md](./Accounting/External-Auditing/Integrated-Audits.md)
