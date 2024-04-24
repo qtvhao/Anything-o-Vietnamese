@@ -172,6 +172,7 @@
     - [Financial-Statement-Analysis.md](./Accounting/Financial-Statement-Analysis.md)
     - [Forensic-Accounting](./Accounting/Forensic-Accounting)
       - [Anti-money-laundering.md](./Accounting/Forensic-Accounting/Anti-money-laundering.md)
+      - [Asset-misappropriation.md](./Accounting/Forensic-Accounting/Asset-misappropriation.md)
       - [Bribery-and-corruption.md](./Accounting/Forensic-Accounting/Bribery-and-corruption.md)
       - [Computer-forensic-accounting.md](./Accounting/Forensic-Accounting/Computer-forensic-accounting.md)
       - [Financial-statement-fraud.md](./Accounting/Forensic-Accounting/Financial-statement-fraud.md)
