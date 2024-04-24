@@ -10,6 +10,7 @@
       - [Automated-Financial-Reporting.md](./Accounting/Accounting-Automation/Automated-Financial-Reporting.md)
     - [Accounting-Automation.md](./Accounting/Accounting-Automation.md)
     - [Accounting-Education](./Accounting/Accounting-Education)
+      - [Accounting-Ethics-Education.md](./Accounting/Accounting-Education/Accounting-Ethics-Education.md)
       - [Auditing-Education.md](./Accounting/Accounting-Education/Auditing-Education.md)
       - [Forensic-Accounting-Education.md](./Accounting/Accounting-Education/Forensic-Accounting-Education.md)
       - [Taxation-Education.md](./Accounting/Accounting-Education/Taxation-Education.md)
