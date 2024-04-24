@@ -14,7 +14,7 @@
 ## FORENSIC AUDITS
 
 Chào mừng bạn đến với video của tôi về "kiểm toán pháp y" (forensic audits). Trong video này, tôi sẽ khám phá thế giới hấp dẫn của kiểm toán pháp y, mục đích của chúng và cách chúng đóng vai trò quan trọng trong việc phát hiện những bất thường về tài chính. Vì vậy, hãy đi sâu vào ngay!
-![FORENSIC AUDITS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--4176833118-Montserrat-Black-303F9F.jpg)
+![FORENSIC AUDITS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--4176833118-Montserrat-Medium-880E4F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-61005562498.mp3" type="audio/mpeg">
 </audio>
@@ -24,7 +24,7 @@ Chào mừng bạn đến với video của tôi về "kiểm toán pháp y" (fo
 ## FORENSIC AUDIT
 
 Trước tiên, hãy hiểu "kiểm toán pháp y" (forensic audit) là gì. Không giống như kiểm toán tài chính truyền thống, tập trung vào việc xác minh tính chính xác của báo cáo tài chính, kiểm toán pháp lý tiến thêm một bước. Chúng là các cuộc kiểm toán điều tra được thực hiện bởi "kế toán pháp y" (forensic accountants) để phát hiện "gian lận tài chính" (financial fraud), "tham ô" (embezzlement) hoặc "hoạt động bất hợp pháp" khác (illegal activities). Các cuộc kiểm toán này yêu cầu "kỹ năng chuyên môn" (specialized skills) và "kỹ thuật" (techniques) để thu thập "bằng chứng" (evidence), phân tích "giao dịch tài chính" (financial transactions) ​​và xây dựng lại các kế hoạch tài chính phức tạp.
-![FORENSIC AUDIT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-17773945281-Montserrat-Thin-4A148C.jpg)
+![FORENSIC AUDIT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-17773945281-Montserrat-ExtraBold-7B1FA2.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-48683908245.mp3" type="audio/mpeg">
 </audio>
@@ -34,7 +34,7 @@ Trước tiên, hãy hiểu "kiểm toán pháp y" (forensic audit) là gì. Kh�
 ## FORENSIC AUDITORS
 
 Mục đích chính của "kiểm toán pháp y" (forensic audit) là phát hiện và ghi lại mọi "hành vi sai trái tài chính" (financial wrongdoing). Nó bao gồm việc kiểm tra toàn diện "hồ sơ tài chính" (financial records), phỏng vấn "nhân sự chủ chốt" (key personnel) và sử dụng các công cụ phân tích dữ liệu nâng cao. Kiểm toán viên pháp y giống như "thám tử tài chính" (financial detectives), tỉ mỉ ghép các "bằng chứng" lại với nhau (evidence) để hiểu hành vi gian lận đã được thực hiện như thế nào và ai có thể chịu trách nhiệm.
-![FORENSIC AUDITORS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--40523420241-Montserrat-ExtraBold-004895.jpg)
+![FORENSIC AUDITORS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--40523420241-Montserrat-Black-303F9F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-3803737994.mp3" type="audio/mpeg">
 </audio>
@@ -44,7 +44,7 @@ Mục đích chính của "kiểm toán pháp y" (forensic audit) là phát hi�
 ## FORENSIC AUDITS
 
 Kiểm toán điều tra thường được bắt đầu để ứng phó với "nghi ngờ gian lận" (suspected fraud) hoặc khi có dấu hiệu "quản lý tài chính yếu kém" (financial mismanagement). Chúng thường được tiến hành trong "thế giới doanh nghiệp" (corporate world), nơi các công ty có thể nghi ngờ "gian lận nội bộ" (internal fraud) hoặc những bất thường trong "báo cáo tài chính" (financial reporting). Ngoài ra, "các cơ quan chính phủ" (government agencies) và các cơ quan thực thi pháp luật có thể sử dụng "kiểm toán pháp y" (forensic audits) để điều tra các trường hợp liên quan đến "công quỹ" (public funds) hoặc tội phạm tài chính.
-![FORENSIC AUDITS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-9962310459-Montserrat-Medium-512DA8.jpg)
+![FORENSIC AUDITS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-9962310459-Montserrat-Black-7B1FA2.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-1732592838.mp3" type="audio/mpeg">
 </audio>
@@ -54,7 +54,7 @@ Kiểm toán điều tra thường được bắt đầu để ứng phó với 
 ## FORENSIC AUDITS
 
 Một khía cạnh quan trọng của "kiểm toán pháp y" (forensic audits) là việc bảo quản và phân tích "bằng chứng điện tử" (electronic evidence). Trong thời đại kỹ thuật số ngày nay, "giao dịch tài chính" (financial transactions) ​​và "giao tiếp" (communication) thường để lại "dấu vết kỹ thuật số" (digital trail). Kiểm toán viên pháp y sử dụng các kỹ thuật tiên tiến để trích xuất và phân tích dữ liệu từ "máy tính" (computers), "máy chủ" (servers) và "thiết bị điện tử" khác (electronic devices). Bằng chứng kỹ thuật số này có thể cung cấp những hiểu biết có giá trị về "các hoạt động lừa đảo" (fraudulent activities) và giúp xây dựng một vụ án chắc chắn.
-![FORENSIC AUDITS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-17404275926-Montserrat-Regular-9C27B0.jpg)
+![FORENSIC AUDITS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-17404275926-Montserrat-Regular-004895.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-14337408658.mp3" type="audio/mpeg">
 </audio>
@@ -64,7 +64,7 @@ Một khía cạnh quan trọng của "kiểm toán pháp y" (forensic audits) l
 ## FORENSIC AUDIT
 
 Quá trình tiến hành "kiểm toán pháp y" (forensic audit) bao gồm một số bước. Ban đầu, kiểm toán viên pháp y xác định "phạm vi" (scope) và "mục tiêu" (objectives) của "cuộc điều tra" (investigation). Điều này bao gồm việc xác định các lĩnh vực hoặc giao dịch cụ thể cần kiểm tra và các "âm mưu lừa đảo" tiềm ẩn (fraud schemes) cần chú ý. Tiếp theo, kiểm toán viên thu thập "dữ liệu" (data) và "tài liệu" (documents) có liên quan, đảm bảo "tính toàn vẹn" (integrity) và tính xác thực của chúng.
-![FORENSIC AUDIT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--45594702232-Montserrat-Medium-880E4F.jpg)
+![FORENSIC AUDIT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--45594702232-Montserrat-ExtraBold-512DA8.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-16278785597.mp3" type="audio/mpeg">
 </audio>
@@ -74,7 +74,7 @@ Quá trình tiến hành "kiểm toán pháp y" (forensic audit) bao gồm một
 ## FORENSIC AUDITOR
 
 Sau khi dữ liệu được thu thập, "kiểm toán viên pháp y" (forensic auditor) sẽ phân tích thông tin bằng nhiều kỹ thuật khác nhau. Điều này có thể liên quan đến phân tích báo cáo tài chính, "phân tích xu hướng" (trend analysis), "khai thác dữ liệu" (data mining) hoặc sử dụng các công cụ phần mềm chuyên dụng. Mục tiêu là xác định "các điểm bất thường" (anomalies), "các mẫu" (patterns) hoặc "cờ đỏ" (red flags) cho biết "khả năng gian lận" (potential fraud) hoặc các bất thường về tài chính.
-![FORENSIC AUDITOR](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-856961408-Montserrat-SemiBold-9C27B0.jpg)
+![FORENSIC AUDITOR](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-856961408-Montserrat-SemiBold-004895.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-45739985855.mp3" type="audio/mpeg">
 </audio>
@@ -84,7 +84,7 @@ Sau khi dữ liệu được thu thập, "kiểm toán viên pháp y" (forensic 
 ## INTERVIEWS
 
 Khi quá trình "kiểm toán pháp y" (forensic audit) diễn ra, kiểm toán viên có thể tiến hành "phỏng vấn" (interviews) với các cá nhân có liên quan hoặc hiểu biết về "hoạt động gian lận" bị nghi ngờ (fraudulent activities). Những cuộc phỏng vấn này giúp thu thập thêm thông tin, làm rõ "sự khác biệt" (discrepancies) và cung cấp thông tin chi tiết về "động cơ" (motivations) và hành động của những người liên quan.
-![INTERVIEWS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--1188557399-Montserrat-SemiBold-7B1FA2.jpg)
+![INTERVIEWS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--1188557399-Montserrat-Bold-512DA8.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-13790072636.mp3" type="audio/mpeg">
 </audio>
@@ -94,7 +94,7 @@ Khi quá trình "kiểm toán pháp y" (forensic audit) diễn ra, kiểm toán 
 ## DETAILED REPORT
 
 Cuối cùng, "kiểm toán viên pháp y" (forensic auditor) chuẩn bị một "báo cáo chi tiết" (detailed report) tóm tắt "các phát hiện" (findings) của "cuộc điều tra" (investigation). Báo cáo này bao gồm mô tả về "phương pháp" (methodology) được sử dụng, "bằng chứng" (evidence) được thu thập và "kết luận" (conclusions) được rút ra. Nó cũng có thể cung cấp "đề xuất" (recommendations) để cải thiện "kiểm soát nội bộ" (internal controls) hoặc ngăn chặn gian lận trong tương lai.
-![DETAILED REPORT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--4732362263-Montserrat-Medium-9C27B0.jpg)
+![DETAILED REPORT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--4732362263-Montserrat-Black-512DA8.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-6710265381.mp3" type="audio/mpeg">
 </audio>
@@ -104,7 +104,7 @@ Cuối cùng, "kiểm toán viên pháp y" (forensic auditor) chuẩn bị một
 ## FINANCIAL FRAUD
 
 Tóm lại, "kiểm toán pháp y" (forensic audits) là công cụ mạnh mẽ để phát hiện "gian lận tài chính" (financial fraud) và "những điều bất thường" (irregularities). Chúng đòi hỏi sự kết hợp độc đáo giữa "chuyên môn kế toán" (accounting expertise), "kỹ năng điều tra" (investigative skills) và bí quyết công nghệ. Bằng cách tiến hành "điều tra kỹ lưỡng" (thorough investigations) và đưa ra "bằng chứng thuyết phục" (compelling evidence), kiểm toán viên pháp y đóng một vai trò quan trọng trong việc duy trì "tính toàn vẹn tài chính" (financial integrity) và đảm bảo trách nhiệm giải trình.
-![FINANCIAL FRAUD](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--25078279973-Montserrat-Medium-1A237E.jpg)
+![FINANCIAL FRAUD](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--25078279973-Montserrat-ExtraBold-283593.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-24231111566.mp3" type="audio/mpeg">
 </audio>
@@ -114,7 +114,7 @@ Tóm lại, "kiểm toán pháp y" (forensic audits) là công cụ mạnh mẽ 
 ## FINANCIAL WRONGDOING
 
 Cảm ơn bạn đã xem video này về "kiểm toán pháp y" (forensic audits). Tôi hy vọng bạn thấy nó có nhiều thông tin và hiểu rõ hơn về lĩnh vực kế toán pháp lý hấp dẫn. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn khám phá thêm về chủ đề này, vui lòng để lại nhận xét bên dưới.
-![FINANCIAL WRONGDOING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-4475145692-Montserrat-Medium-512DA8.jpg)
+![FINANCIAL WRONGDOING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-4475145692-Montserrat-Medium-7B1FA2.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-7917352116.mp3" type="audio/mpeg">
 </audio>
