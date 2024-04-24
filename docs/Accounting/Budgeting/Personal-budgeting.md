@@ -3,7 +3,7 @@
 
 # Chuyển đổi tài chính của bạn: Làm chủ ngân sách cá nhân trong 9 bước đơn giản - Đạt được tự do tài chính và sống một cuộc sống không căng thẳng ngay hôm nay!
 
-- Published: April 23, 2024
+- Published: April 24, 2024
 - Author: Vietnamese Online Voice
 - Categories: Accounting / **Budgeting**
 - #FinancialManagement #FinancialStability #BudgetingTips #ManageYourMoney #IncomeExpensesSavings #FixedAndVariableExpenses #SMARTGoals #BudgetPlan #FinancialGoals #BudgetingTools #ExpenseTracking #FrugalLiving #FinancialDiscipline #SaveForEmergency #InvestForFuture #FinancialWellbeing #MoneyManagement #BudgetingVlog #FinanceEducation #MoneySavingTips #PersonalFinance #FinancialFreedom #BudgetingHacks #StayMotivated #FinancialSecurity
@@ -14,7 +14,7 @@
 ## PERSONAL BUDGETING
 
 Chào mừng bạn đến với video của tôi về "lập ngân sách cá nhân" (personal budgeting)! Trong video này, tôi sẽ khám phá tầm quan trọng của việc tạo và duy trì ngân sách cá nhân để giúp bạn quản lý tài chính của mình một cách hiệu quả. Hãy đi sâu vào!. Sự ổn định tài chính là rất quan trọng để đạt được mục tiêu của bạn và sống một cuộc sống không căng thẳng. Ngân sách cá nhân đóng vai trò như một lộ trình hướng dẫn bạn hướng tới "các mục tiêu tài chính" của mình (financial objectives). Nó giúp bạn theo dõi "thu nhập" (income), "chi phí" (expenses) và "tiết kiệm" (savings), cung cấp cho bạn bức tranh rõ ràng về tình hình tài chính của bạn.
-![PERSONAL BUDGETING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition--31652239299-Montserrat-Medium-9C27B0.jpg)
+![PERSONAL BUDGETING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition--31652239299-Montserrat-Thin-4A148C.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-17396366074.mp3" type="audio/mpeg">
 </audio>
@@ -24,7 +24,7 @@ Chào mừng bạn đến với video của tôi về "lập ngân sách cá nh�
 ## INCOME SOURCES
 
 Bước đầu tiên trong việc tạo ngân sách cá nhân là xác định "nguồn thu nhập" của bạn (income sources). Điều này bao gồm "tiền lương" (salary), "công việc tự do" (freelance work), "đầu tư" (investments) hoặc bất kỳ nguồn thu nhập nào khác. Đảm bảo xem xét cả "thu nhập thường xuyên" (regular income) và mọi "thu nhập không thường xuyên" hoặc "thu nhập thay đổi" (variable income) mà bạn có thể nhận được.
-![INCOME SOURCES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition--25631477400-Montserrat-SemiBold-1A237E.jpg)
+![INCOME SOURCES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition--25631477400-Montserrat-Black-283593.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-4130145956.mp3" type="audio/mpeg">
 </audio>
@@ -34,7 +34,7 @@ Bước đầu tiên trong việc tạo ngân sách cá nhân là xác định "
 ## EXPENSES
 
 Khi bạn đã xác định được thu nhập của mình, đã đến lúc đánh giá chi phí của bạn. Phân loại chi phí của bạn thành các loại cố định và thay đổi. Chi phí cố định là những chi phí không đổi mỗi tháng, chẳng hạn như "tiền thuê nhà" (rent) hoặc "thanh toán thế chấp" (mortgage payments), "hóa đơn tiện ích" (utility bills) và "phí bảo hiểm" (insurance premiums). Mặt khác, các chi phí biến đổi có thể dao động theo từng tháng và bao gồm các mục như "tạp hóa" (groceries), "ăn ngoài" (dining out), "giải trí" (entertainment) và vận chuyển.
-![EXPENSES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition--20588507252-Montserrat-Medium-673AB7.jpg)
+![EXPENSES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition--20588507252-Montserrat-Bold-4A148C.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-37630928463.mp3" type="audio/mpeg">
 </audio>
@@ -44,7 +44,7 @@ Khi bạn đã xác định được thu nhập của mình, đã đến lúc đ
 ## FINANCIAL GOALS
 
 Bây giờ bạn đã hiểu rõ ràng về thu nhập và chi phí của mình, đã đến lúc đặt "mục tiêu tài chính" (financial goals). Xác định những gì bạn muốn đạt được trong ngắn hạn và dài hạn. Đó có thể là tiết kiệm để trả trước tiền mua nhà, trả hết nợ hoặc xây dựng quỹ khẩn cấp. Đặt mục tiêu cụ thể, có thể đo lường được, có thể đạt được, phù hợp và có thời hạn (SMART) sẽ giúp bạn tập trung và có động lực.
-![FINANCIAL GOALS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition-20265504371-Montserrat-Regular-004895.jpg)
+![FINANCIAL GOALS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition-20265504371-Montserrat-Regular-512DA8.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-26683655072.mp3" type="audio/mpeg">
 </audio>
@@ -54,7 +54,7 @@ Bây giờ bạn đã hiểu rõ ràng về thu nhập và chi phí của mình,
 ## BUDGETING
 
 Với mục tiêu của bạn, đã đến lúc tạo "kế hoạch ngân sách" (budget plan). Bắt đầu bằng cách phân bổ một phần "thu nhập" (income) của bạn cho từng "loại chi phí" (expense category). Điều quan trọng là phải "ưu tiên" (prioritize) "nhu cầu" (needs) hơn "mong muốn" (wants) và đảm bảo rằng chi phí của bạn không vượt quá thu nhập của bạn. Hãy cân nhắc sử dụng "công cụ lập ngân sách" (budgeting tools) hoặc "ứng dụng" (apps) để đơn giản hóa quy trình và theo dõi "chi tiêu" của bạn (spending).
-![BUDGETING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition--14268508230-Montserrat-Thin-283593.jpg)
+![BUDGETING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition--14268508230-Montserrat-ExtraBold-9C27B0.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-10267984681.mp3" type="audio/mpeg">
 </audio>
@@ -64,7 +64,7 @@ Với mục tiêu của bạn, đã đến lúc tạo "kế hoạch ngân sách"
 ## INFORMED DECISIONS
 
 Hãy nhớ rằng "lập ngân sách" (budgeting) không phải là hạn chế bản thân tận hưởng cuộc sống mà là đưa ra "những quyết định sáng suốt" (informed decisions). Hãy tìm những lĩnh vực mà bạn có thể "cắt giảm" (cut back) "chi tiêu" (expenses) mà không phải hy sinh sức khỏe của mình. Ví dụ: hãy cân nhắc việc "nấu ăn tại nhà" (cooking at home) thay vì "ăn ngoài" (eating out) hoặc tìm các lựa chọn giải trí miễn phí hoặc chi phí thấp.
-![INFORMED DECISIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition-2673398424-Montserrat-Black-7B1FA2.jpg)
+![INFORMED DECISIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition-2673398424-Montserrat-Regular-4A148C.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-4387335068.mp3" type="audio/mpeg">
 </audio>
@@ -81,20 +81,20 @@ Thường xuyên xem xét và điều chỉnh ngân sách của bạn là điề
 
 
 
-## SAVINGS
+## SAVING
 
 Một khía cạnh quan trọng khác của "lập ngân sách cá nhân" (personal budgeting) là "tiết kiệm" (saving) cho "các trường hợp khẩn cấp" (emergencies) và các nhu cầu trong tương lai. Dành một phần thu nhập của bạn cho quỹ khẩn cấp, quỹ này có thể mang lại cho bạn "sự an toàn tài chính" (financial security) và "sự an tâm" (peace of mind). Ngoài ra, hãy cân nhắc tiết kiệm cho "nghỉ hưu" (retirement) hoặc các mục tiêu dài hạn khác thông qua "phương tiện đầu tư" (investment vehicles) chẳng hạn như "tài khoản hưu trí" (retirement accounts) hoặc quỹ tương hỗ.
-![SAVINGS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition--4605358615-Montserrat-Bold-9C27B0.jpg)
+![SAVING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition--4605358615-Montserrat-ExtraBold-7B1FA2.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-5064309635.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## DISCIPLINED
+## IMPULSIVE PURCHASES
 
 Cuối cùng, điều quan trọng là phải duy trì "kỷ luật" (disciplined) và "cam kết" (committed) với "ngân sách" của bạn (budget). Tránh "mua sắm bốc đồng" (impulsive purchases) và "chi phí không cần thiết" (unnecessary expenses). Tìm cách để duy trì "động lực" (motivated), chẳng hạn như theo dõi tiến trình của bạn hoặc "tự thưởng cho bản thân" (rewarding yourself) khi bạn đạt được "các cột mốc cụ thể" (specific milestones). Hãy nhớ rằng, những bước nhỏ được thực hiện một cách nhất quán có thể dẫn đến thành công tài chính đáng kể.
-![DISCIPLINED](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition-11995900418-Montserrat-Thin-7B1FA2.jpg)
+![IMPULSIVE PURCHASES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition-11995900418-Montserrat-SemiBold-880E4F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-43104601646.mp3" type="audio/mpeg">
 </audio>
@@ -104,7 +104,7 @@ Cuối cùng, điều quan trọng là phải duy trì "kỷ luật" (discipline
 ## FINANCIAL STABILITY
 
 Tóm lại, "lập ngân sách cá nhân" (personal budgeting) là một công cụ vô giá để quản lý tài chính của bạn một cách hiệu quả. Nó cung cấp cho bạn sự hiểu biết rõ ràng về "thu nhập" (income), "chi phí" (expenses) và "tiết kiệm" (savings), giúp bạn đặt ra và đạt được "mục tiêu tài chính" (financial goals) và đảm bảo một tương lai tài chính an toàn và ổn định. Vì vậy, hãy bắt đầu lập ngân sách ngay hôm nay và kiểm soát tình hình tài chính của bạn!
-![FINANCIAL STABILITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition--23113150544-Montserrat-Medium-303F9F.jpg)
+![FINANCIAL STABILITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition--23113150544-Montserrat-Thin-283593.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-6933250001.mp3" type="audio/mpeg">
 </audio>
@@ -114,7 +114,7 @@ Tóm lại, "lập ngân sách cá nhân" (personal budgeting) là một công c
 ## FINANCIAL FREEDOM
 
 Đó là tất cả cho video này về "lập ngân sách cá nhân" (personal budgeting). Tôi hy vọng bạn tìm thấy nó nhiều thông tin và cảm hứng. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ mẹo lập ngân sách cá nhân của mình, vui lòng để lại nhận xét bên dưới. Hãy nhớ rằng, "tự do tài chính" (financial freedom) nằm trong tầm tay của bạn. Cho đến lần sau!
-![FINANCIAL FREEDOM](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition--2492931846-Montserrat-SemiBold-7B1FA2.jpg)
+![FINANCIAL FREEDOM](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-23/transition--2492931846-Montserrat-Bold-303F9F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-38707381606.mp3" type="audio/mpeg">
 </audio>
