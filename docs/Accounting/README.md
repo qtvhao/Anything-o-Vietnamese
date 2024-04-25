@@ -171,6 +171,7 @@
     - [Financial-Ratios.md](./Financial-Ratios.md)
     - [Horizontal-Analysis.md](./Horizontal-Analysis.md)
     - [Profitability-Ratios.md](./Profitability-Ratios.md)
+    - [Trend-Analysis.md](./Trend-Analysis.md)
     - [Vertical-Analysis.md](./Vertical-Analysis.md)
   - [Financial-Statement-Analysis.md](./Financial-Statement-Analysis.md)
   - [Forensic-Accounting](./Forensic-Accounting/)
