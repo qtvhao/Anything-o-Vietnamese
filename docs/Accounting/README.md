@@ -67,6 +67,7 @@
   - [Auditing](./Auditing/)
     - [Audit-Methodology.md](./Audit-Methodology.md)
     - [Audit-Planning-and-Execution.md](./Audit-Planning-and-Execution.md)
+    - [Auditing-Standards.md](./Auditing-Standards.md)
     - [Compliance-Auditing.md](./Compliance-Auditing.md)
     - [Financial-Auditing.md](./Financial-Auditing.md)
     - [Forensic-Auditing.md](./Forensic-Auditing.md)
