@@ -1,0 +1,101 @@
+
+---
+
+# Giải phóng sức mạnh của kiểm toán CNTT: Bảo vệ bối cảnh kỹ thuật số của bạn và tăng cường sự tự tin!
+
+- Published: April 25, 2024
+- Author: Vietnamese Online Voice
+- Categories: Accounting / **Auditing**
+- #InformationTechnologyAudit #ITControls #ITGovernance #Cybersecurity #DataIntegrity #RiskManagement #Compliance #Regulations #DataPrivacy #NetworkSecurity #AccessControls #SoftwareDevelopment #ITInfrastructure #AuditFindings #AuditReport #ITRiskManagement #SecurityMeasures #StakeholderTrust #ContinuousImprovement #ITProcesses #ITStrategies #BusinessObjectives #InformationSecurity #ITCompliance #AuditTesting #AuditEvidence #ITPolicy #StandardsCompliance #SystematicApproach #DataBackups #ITSecurity #ITAssurance #ITAuditor #ITAuditingFundamentals #DigitalLandscape #OrganizationalIT #ITBestPractices #ITControlFramework #ITSystemsAudit #ITRiskAssessment #ITRiskManagementStrategies
+
+"Trong video này, tôi sẽ giới thiệu các nguyên tắc cơ bản của Kiểm toán CNTT và tầm quan trọng của nó trong bối cảnh kỹ thuật số ngày nay. Kiểm toán CNTT là một quy trình quan trọng nhằm đánh giá các hệ thống và hoạt động công nghệ thông tin của tổ chức nhằm đảm bảo chúng hoạt động hiệu quả, an toàn và tuân thủ các quy định. Nó liên quan đến việc đánh giá cơ sở hạ tầng, chính sách, thủ tục và biện pháp kiểm soát CNTT để xác định các rủi ro và điểm yếu tiềm ẩn. Mục tiêu là đảm bảo tính bảo mật, tính toàn vẹn và tính sẵn có của dữ liệu. Bằng cách tiến hành kiểm soát an ninh mạng, sao lưu dữ liệu, kiểm soát truy cập và quy trình phát triển phần mềm. kiểm tra kỹ lưỡng, có thể xác định các lỗ hổng và triển khai các biện pháp cần thiết. Kiểm toán viên CNTT cộng tác với các nhóm CNTT, ban quản lý và cơ quan quản lý để cải thiện quản trị CNTT."
+
+
+## IT INFRASTRUCTURE
+
+Chào mừng bạn đến với video của tôi về Kiểm toán CNTT. Trong video này, tôi sẽ khám phá các nguyên tắc cơ bản của Kiểm toán CNTT và tầm quan trọng của nó trong bối cảnh kỹ thuật số ngày nay. Vì vậy, chúng ta hãy đi sâu vào ngay!. Kiểm tra CNTT là một quy trình quan trọng nhằm đánh giá các hệ thống và hoạt động công nghệ thông tin của tổ chức để đảm bảo chúng "hiệu quả" (effective), "an toàn" (secure) và "tuân thủ" (compliant) với "các quy định hiện hành" (# 14462227135). Nó liên quan đến việc đánh giá cơ sở hạ tầng CNTT, "chính sách" (policies), "thủ tục" (procedures) và "kiểm soát" (controls) để xác định "rủi ro tiềm ẩn" (potential risks) và "điểm yếu" (weaknesses).
+![IT INFRASTRUCTURE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--11987144247-Montserrat-Thin-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-6531653729.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## APPLICABLE REGULATIONS
+
+Một trong những mục tiêu chính của Kiểm tra CNTT là đảm bảo tính bảo mật, tính toàn vẹn và tính sẵn có của "dữ liệu" (data). Kiểm toán viên kiểm tra các khía cạnh khác nhau của hệ thống CNTT của tổ chức, bao gồm "bảo mật mạng" (network security), "sao lưu dữ liệu" (data backups), "kiểm soát truy cập" (access controls) và quy trình phát triển phần mềm. Bằng cách tiến hành "kiểm toán toàn diện" (comprehensive audits), các tổ chức có thể chủ động xác định "các lỗ hổng" (vulnerabilities) và thực hiện các biện pháp cần thiết để giảm thiểu rủi ro.
+![APPLICABLE REGULATIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--33434666858-Montserrat-Black-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-6780609211.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## IT CONTROLS
+
+Vai trò của Kiểm toán viên CNTT là "đánh giá" (assess) và cung cấp sự đảm bảo độc lập về "tính hiệu quả" (effectiveness) và "độ tin cậy" (reliability) của các biện pháp kiểm soát CNTT của tổ chức. Họ có hiểu biết sâu sắc về công nghệ, các biện pháp bảo mật tốt nhất và "các quy định của ngành" (industry regulations). Kiểm toán viên CNTT làm việc chặt chẽ với các bên liên quan khác nhau, bao gồm nhóm CNTT, "quản lý" (management) và "cơ quan quản lý bên ngoài" (external regulators), để đánh giá và cải thiện khuôn khổ quản trị CNTT tổng thể.
+![IT CONTROLS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-12143980746-Montserrat-Regular-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-4908311609.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## IT AUDITING
+
+Trong quá trình kiểm tra CNTT, kiểm toán viên tuân theo "cách tiếp cận có hệ thống" (systematic approach) để thu thập "bằng chứng" (evidence) và "đánh giá các biện pháp kiểm soát" (evaluate controls). Họ có thể thực hiện "kiểm tra chi tiết" (detailed testing) hệ thống CNTT, "xem xét tài liệu" (review documentation), "phỏng vấn" (interview) "nhân sự chủ chốt" (key personnel) và phân tích dữ liệu để "xác thực sự tuân thủ" (# 6755128214) với các chính sách và tiêu chuẩn đã được thiết lập. "Các phát hiện kiểm tra" (audit findings) được ghi lại trong "báo cáo toàn diện" (comprehensive report) nêu rõ "các vấn đề đã xác định" (identified issues), "đề xuất" (recommendations) và các rủi ro tiềm ẩn.
+![IT AUDITING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--29743408196-Montserrat-Bold-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-18082938205.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## IT AUDITING
+
+Kiểm toán CNTT đóng một vai trò quan trọng trong việc giúp các tổ chức đáp ứng "các yêu cầu quy định" (regulatory requirements) và "tiêu chuẩn ngành" (industry standards). Nó hỗ trợ xác định "các vấn đề không tuân thủ" (non-compliance issues), "vi phạm bảo mật" (security breaches) và hoạt động kém hiệu quả. Bằng cách tiến hành kiểm tra CNTT thường xuyên, các tổ chức có thể nâng cao chiến lược quản lý rủi ro tổng thể, củng cố "tư thế an ninh mạng" (cybersecurity posture) và đảm bảo tính toàn vẹn của cơ sở hạ tầng CNTT của họ.
+![IT AUDITING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--4895075241-Montserrat-Bold-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-6325685183.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## VULNERABILITIES
+
+Bây giờ, hãy thảo luận về một số lợi ích chính của Kiểm toán CNTT. Thứ nhất, nó giúp các tổ chức xác định "lỗ hổng" (vulnerabilities) và "điểm yếu" (weaknesses) trong hệ thống CNTT của họ trước khi chúng có thể bị "tác nhân độc hại" (malicious actors) khai thác. "Phương pháp tiếp cận chủ động" này (proactive approach) cho phép triển khai kịp thời "các biện pháp bảo mật" (security measures) để ngăn chặn "vi phạm dữ liệu" (data breaches) và giảm thiểu rủi ro.
+![VULNERABILITIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--9711131385-Montserrat-Black-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-22550400234.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## IT CONTROLS
+
+Thứ hai, Kiểm toán CNTT cung cấp "sự đảm bảo" (assurance) cho "các bên liên quan" (stakeholders), bao gồm "nhà đầu tư" (investors), "khách hàng" (customers) và "cơ quan quản lý" (regulatory bodies), rằng các biện pháp kiểm soát CNTT của tổ chức là "hiệu quả" (effective) và "đáng tin cậy" (reliable). Điều này xây dựng "niềm tin" (trust) và "niềm tin" (confidence) vào khả năng bảo vệ "thông tin nhạy cảm" (sensitive information) của tổ chức và hoạt động một cách an toàn.
+![IT CONTROLS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--2882920951-Montserrat-SemiBold-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-12145169772.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## AREAS FOR ENHANCEMENT
+
+Cuối cùng, Kiểm tra CNTT hỗ trợ "cải tiến liên tục" (continuous improvement) bằng cách "xác định" (identifying) "các lĩnh vực cần nâng cao" (areas for enhancement) trong quy trình CNTT, "kiểm soát" (controls) và "quản trị" (governance) . Nó giúp "tổ chức" (organizations) "hợp lý hóa hoạt động" (streamline operations), tối ưu hóa việc phân bổ nguồn lực và điều chỉnh chiến lược CNTT phù hợp với mục tiêu kinh doanh.
+![AREAS FOR ENHANCEMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-47138440529-Montserrat-Black-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-2612323447.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CYBERSECURITY DEFENSES
+
+Tóm lại, Kiểm toán CNTT là một quy trình quan trọng nhằm đảm bảo tính bảo mật, độ tin cậy và tuân thủ của hệ thống CNTT của tổ chức. Bằng cách tiến hành kiểm tra thường xuyên, các tổ chức có thể xác định và giải quyết các rủi ro tiềm ẩn, tăng cường "phòng thủ an ninh mạng" (cybersecurity defenses) và tạo niềm tin cho các bên liên quan của họ. Vì vậy, hãy biến Kiểm toán CNTT trở thành một phần không thể thiếu trong khuôn khổ quản lý rủi ro của tổ chức bạn và bảo vệ "tài sản kỹ thuật số" của bạn (digital assets). Cảm ơn vì đã xem!
+![CYBERSECURITY DEFENSES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--21523987276-Montserrat-Black-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-25609551542.mp3" type="audio/mpeg">
+</audio>
+
