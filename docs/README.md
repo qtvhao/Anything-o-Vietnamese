@@ -219,6 +219,7 @@
       - [Strategy-Mapping.md](./Accounting/Performance-Management/Strategy-Mapping.md)
       - [Tax-Planning-and-Compliance.md](./Accounting/Performance-Management/Tax-Planning-and-Compliance.md)
     - [Performance-Management.md](./Accounting/Performance-Management.md)
+    - [Personal-Financial-Planning.md](./Accounting/Personal-Financial-Planning.md)
     - [Public-Accounting](./Accounting/Public-Accounting)
       - [Advisory-Services.md](./Accounting/Public-Accounting/Advisory-Services.md)
       - [Assurance-Services](./Accounting/Public-Accounting/Assurance-Services)
