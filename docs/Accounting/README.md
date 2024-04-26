@@ -184,6 +184,7 @@
     - [Regulatory-compliance..md](./Regulatory-compliance..md)
     - [Tax-evasion.md](./Tax-evasion.md)
   - [Forensic-Accounting.md](./Forensic-Accounting.md)
+  - [Fraud-Examination.md](./Fraud-Examination.md)
   - [Governmental-Accounting](./Governmental-Accounting/)
     - [Government-Budgeting](./Government-Budgeting/)
       - [State-and-Local-Budgeting.md](./State-and-Local-Budgeting.md)
