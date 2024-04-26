@@ -1,101 +1,131 @@
 
 ---
 
-# Giải phóng sức mạnh của kế toán chi phí: Hướng dẫn toàn diện để phân tích, kiểm soát và tối ưu hóa chi phí kinh doanh
+# Giải phóng sức mạnh của kế toán chi phí: Nắm vững các khái niệm, phương pháp và lợi ích quản lý tài chính quan trọng để thành công trong kinh doanh!
 
-- Published: April 22, 2024
+- Published: April 26, 2024
 - Author: Vietnamese Online Voice
 - Categories: **Accounting**
-- #Accounting #BusinessDecisionMaking #CostStructure #CostReduction #DirectCosts #IndirectCosts #FixedCosts #VariableCosts #CostOfProduction #PricingDecisions #AllocationMethods #ActivityBasedCosting #CostDrivers #Budgeting #CostControl #CostManagement #ProfitabilityAnalysis #ResourceAllocation #PricingStrategies #StrategicPlanning #CostVolumeProfitAnalysis #BreakevenPoint #ContributionMargin #FinancialViability #OptimizingOperations #CompetitiveEdge #FinancialGoals #ManagementInsights #AccountingPrinciples #BusinessFinances #CompanyCosts #InformedDecisions #CostInsights #ProfitMaximization
+- #FinancialManagement #AccountingConcepts #DirectCosts #IndirectCosts #CostClassification #VariableCosts #FixedCosts #CostBehavior #JobCosting #ProcessCosting #ActivityBasedCosting #ABC #CostSavingOpportunities #FinancialReporting #IncomeStatements #BalanceSheets #CashFlowStatements #BusinessDecisions #CostManagement #ProfitabilityEnhancement #CompetitiveEdge #FinancialHealth #StrategicBusinessDecisions
 
-"Trong video này, tôi sẽ khám phá các khái niệm và nguyên tắc cơ bản của kế toán chi phí, cũng như tầm quan trọng của nó trong việc ra quyết định kinh doanh. Kế toán chi phí cung cấp những hiểu biết có giá trị về chi phí mà công ty phải chịu và giúp đánh giá lợi nhuận, kiểm soát chi phí và đưa ra các quyết định tài chính sáng suốt Kế toán chi phí là một nhánh của kế toán tập trung vào việc phân tích, ghi chép và phân bổ chi phí trong một công ty. Nó liên quan đến việc phân loại chi phí thành các loại khác nhau, chẳng hạn như chi phí trực tiếp, chi phí gián tiếp, chi phí cố định và chi phí biến đổi. Bằng cách hiểu rõ hơn về các loại chi phí này, doanh nghiệp có thể hiểu rõ hơn về cơ cấu chi phí của mình và xác định các lĩnh vực cần giảm hoặc tối ưu hóa chi phí. Một trong những mục tiêu chính của kế toán chi phí là xác định chi phí sản xuất hàng hóa hoặc dịch vụ. chẳng hạn như nguyên liệu thô và nhân công trực tiếp, doanh nghiệp có thể tính toán chi phí trên mỗi đơn vị sản xuất. Thông tin này rất quan trọng cho việc ra quyết định về giá vì nó giúp các công ty đặt ra mức giá cạnh tranh mà vẫn đảm bảo lợi nhuận. Các Boss có thể xem video hướng dẫn chi tiết ở bên dưới nhé."
+"Trong video này, em sẽ giới thiệu về kế toán chi phí! Chào mừng bạn đến với video về kế toán chi phí của tôi! Trong video này, tôi sẽ khám phá các khái niệm và nguyên tắc cơ bản của kế toán chi phí, mang đến cho bạn sự hiểu biết vững chắc về khía cạnh quan trọng này của kế toán chi phí. Quản lý tài chính Kế toán chi phí là một nhánh của kế toán tập trung vào việc xác định và phân tích các chi phí liên quan đến việc sản xuất hàng hóa hoặc dịch vụ. Nó đóng vai trò quan trọng trong việc giúp doanh nghiệp đưa ra các quyết định sáng suốt về giá cả, lập ngân sách và kiểm soát chi phí. video hướng dẫn chi tiết ở phía dưới nhé. Để bắt đầu, chúng ta cùng thảo luận về mục đích của việc hạch toán chi phí. Mục tiêu chính là tính toán và phân bổ chi phí một cách chính xác, giúp doanh nghiệp xác định được giá thành thực tế của sản phẩm hoặc dịch vụ của mình. thiết lập mức giá cạnh tranh, đánh giá lợi nhuận và xác định các lĩnh vực có thể giảm chi phí."
 
 
 ## COST ACCOUNTING
 
-Chào mừng bạn đến với video của tôi về "kế toán chi phí" (cost accounting). Trong video này, tôi sẽ khám phá "các khái niệm cơ bản" (fundamental concepts) và "nguyên tắc" (principles) về kế toán chi phí, cũng như tầm quan trọng của nó trong việc ra quyết định kinh doanh. Kế toán chi phí cung cấp những hiểu biết có giá trị về chi phí "phát sinh" (incurred) của một công ty và giúp "đánh giá lợi nhuận" (assessing profitability), "kiểm soát chi phí" (controlling expenses) và đưa ra các quyết định tài chính sáng suốt.
-![COST ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--5525398746-Montserrat-Black-004895.jpg)
+Chào mừng bạn đến với video của tôi về "kế toán chi phí" (cost accounting)! Trong video này, tôi sẽ khám phá các khái niệm và nguyên tắc cơ bản của kế toán chi phí, cung cấp cho bạn sự hiểu biết vững chắc về khía cạnh quan trọng này của "quản lý tài chính" (financial management).
+![COST ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-26/transition-3146651831-Montserrat-ExtraBold-9C27B0.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-5178657780.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-18848649203.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## COST STRUCTURE
+## ACCOUNTING
 
-Vậy, chính xác thì "kế toán chi phí" (cost accounting) là gì? Kế toán chi phí là một nhánh của kế toán tập trung vào việc phân tích, ghi chép và phân bổ chi phí trong một công ty. Nó liên quan đến việc phân loại chi phí thành các loại khác nhau, chẳng hạn như chi phí trực tiếp, chi phí gián tiếp, chi phí cố định và chi phí biến đổi, v.v. Bằng cách hiểu các loại chi phí này, doanh nghiệp có thể hiểu rõ hơn về "cấu trúc chi phí" (cost structure) của mình và xác định các lĩnh vực cần giảm hoặc tối ưu hóa chi phí.
-![COST STRUCTURE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--14160890269-Montserrat-Regular-880E4F.jpg)
+Kế toán chi phí là một nhánh của kế toán tập trung vào việc xác định và phân tích các chi phí liên quan đến việc sản xuất hàng hóa hoặc dịch vụ. Nó đóng một vai trò quan trọng trong việc giúp các doanh nghiệp đưa ra quyết định sáng suốt về "giá cả" (pricing), "lập ngân sách" (budgeting) và "kiểm soát chi phí" (cost control).
+![ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-26/transition-12503665311-Montserrat-Regular-9C27B0.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-36499053400.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-35121457931.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## PRICING DECISIONS
+## TRUE COST
 
-Một trong những mục tiêu chính của "kế toán chi phí" (cost accounting) là xác định chi phí sản xuất hàng hóa hoặc dịch vụ. Bằng cách theo dõi "chi phí trực tiếp" (direct costs), chẳng hạn như "nguyên liệu thô" (raw materials) và "lao động trực tiếp" (direct labor), doanh nghiệp có thể tính toán chi phí trên mỗi đơn vị sản xuất. Thông tin này rất quan trọng đối với "các quyết định về giá" (pricing decisions), vì nó giúp các công ty đặt ra "giá cạnh tranh" (competitive prices) trong khi vẫn đảm bảo lợi nhuận.
-![PRICING DECISIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition-30519901815-Montserrat-ExtraBold-673AB7.jpg)
+Để bắt đầu, hãy thảo luận về mục đích của "kế toán chi phí" (cost accounting). Mục tiêu chính là tính toán và phân bổ chi phí một cách chính xác, giúp doanh nghiệp xác định "chi phí thực" (true cost) của "sản phẩm hoặc dịch vụ" (products or services) của mình. Thông tin này rất cần thiết để thiết lập "giá cạnh tranh" (competitive prices), đánh giá "khả năng sinh lời" (profitability) và xác định các lĩnh vực có thể thực hiện "giảm chi phí" (cost reductions).
+![TRUE COST](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-26/transition-26024799607-Montserrat-Regular-283593.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-1123918596.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-3208240037.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## INDIRECT COSTS
+## CLASSIFICATION OF COSTS
 
-Một khía cạnh quan trọng khác của "kế toán chi phí" (cost accounting) là "phân bổ" (allocation) của "chi phí gián tiếp" (indirect costs). Chi phí gián tiếp là "chi phí" (expenses) không thể liên kết trực tiếp với một sản phẩm hoặc dịch vụ cụ thể. Ví dụ bao gồm tiền thuê nhà, tiện ích và "chi phí hành chính" (administrative expenses). Người kế toán chi phí sử dụng nhiều "phương pháp phân bổ" khác nhau (allocation methods), chẳng hạn như tính chi phí dựa trên hoạt động hoặc "trình điều khiển chi phí" (cost drivers), để ấn định các chi phí gián tiếp này cho các sản phẩm hoặc dịch vụ dựa trên việc sử dụng tài nguyên của chúng.
-![INDIRECT COSTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--14029872567-Montserrat-Regular-004895.jpg)
+Một trong những khái niệm chính trong "kế toán chi phí" (cost accounting) là "phân loại chi phí" (classification of costs). Chi phí thường được phân loại là "chi phí trực tiếp" (direct costs) hoặc "chi phí gián tiếp" (indirect costs). Chi phí trực tiếp có thể dễ dàng truy tìm đến một sản phẩm hoặc dịch vụ cụ thể, chẳng hạn như "chi phí nguyên vật liệu thô" (cost of raw materials) hoặc "lao động trực tiếp" (direct labor). Mặt khác, chi phí gián tiếp không gắn trực tiếp với một sản phẩm hoặc dịch vụ cụ thể và bao gồm "chi phí" (expenses) như "tiền thuê" (rent), "tiện ích" (utilities) hoặc khấu hao.
+![CLASSIFICATION OF COSTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-26/transition-103999128551-Montserrat-Bold-283593.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-3166536453.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-567614756.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## COST CONTROL
+## COST BEHAVIOR
 
-Kế toán chi phí cũng đóng một vai trò quan trọng trong việc "lập ngân sách" (budgeting) và "kiểm soát chi phí" (cost control). Bằng cách phân tích "dữ liệu chi phí lịch sử" (historical cost data) và "dự đoán trong tương lai" (future projections), doanh nghiệp có thể tạo "ngân sách" (budgets) phù hợp với "mục tiêu tài chính" (financial goals) của họ. Người kế toán chi phí giám sát "chi phí thực tế" (actual costs) so với "chi phí ngân sách" (budgeted costs), xác định bất kỳ "khác biệt" nào (variances) và cung cấp thông tin chi tiết cho ban quản lý về "hành động khắc phục" (corrective actions). Điều này giúp "kiểm soát chi phí" (controlling costs) và tối đa hóa lợi nhuận.
-![COST CONTROL](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--34079229321-Montserrat-Thin-303F9F.jpg)
+Một khái niệm quan trọng khác trong "kế toán chi phí" (cost accounting) là "hành vi chi phí" (cost behavior). Chi phí có thể được phân loại là "chi phí thay đổi" (variable costs) hoặc "chi phí cố định" (fixed costs). Chi phí biến đổi thay đổi tỷ lệ với "mức sản xuất" (level of production) hoặc "doanh thu" (sales), chẳng hạn như chi phí "nguyên vật liệu trực tiếp" (direct materials). Ngược lại, chi phí cố định không đổi bất kể mức độ sản xuất hoặc bán hàng, như "tiền thuê" (rent) hoặc "tiền lương" (salaries).
+![COST BEHAVIOR](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-26/transition-50420413012-Montserrat-ExtraBold-512DA8.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-11694204746.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-18954440644.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## PROFITABILITY
+## JOB COSTING
 
-Hơn nữa, "kế toán chi phí" (cost accounting) cung cấp thông tin có giá trị cho việc ra quyết định. Người quản lý dựa vào báo cáo kế toán chi phí để đánh giá "khả năng sinh lời" (profitability) của các sản phẩm, phòng ban hoặc dự án khác nhau. Bằng cách so sánh "doanh thu" (revenues) và "chi phí" (costs), các công ty có thể xác định các lĩnh vực kinh doanh có lợi nhuận cao nhất và đưa ra quyết định sáng suốt về "phân bổ nguồn lực" (resource allocation), "chiến lược định giá" (pricing strategies) hoặc ngừng các sản phẩm hoặc dịch vụ không mang lại lợi nhuận.
-![PROFITABILITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--11823666132-Montserrat-Thin-283593.jpg)
+Bây giờ, hãy đi sâu vào các phương pháp khác nhau được sử dụng trong "kế toán chi phí" (cost accounting). Một cách tiếp cận thường được sử dụng là "chi phí công việc" (job costing), bao gồm "phân bổ chi phí" (allocating costs) cho một "công việc hoặc dự án cụ thể" (specific job or project). Phương pháp này đặc biệt hữu ích trong "các ngành" (industries) trong đó "sản phẩm độc đáo" (unique products) hoặc "dịch vụ" (services) được sản xuất, chẳng hạn như "xây dựng" (construction) hoặc sản xuất theo yêu cầu.
+![JOB COSTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-26/transition-15884846408-Montserrat-Bold-512DA8.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-7197983423.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-17292960758.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## STRATEGIC PLANNING
+## PROCESS COSTING
 
-Kế toán chi phí cũng đóng một vai trò quan trọng trong "kế hoạch chiến lược" (strategic planning). Nó giúp các doanh nghiệp đánh giá "khả năng tồn tại về tài chính" (financial viability) của "dự án kinh doanh mới" (new ventures), "mở rộng" (expansions) hoặc "đầu tư" (investments). Bằng cách tiến hành phân tích chi phí-khối lượng-lợi nhuận và xem xét các yếu tố như "điểm hòa vốn" (breakeven points) và "tỷ lệ đóng góp" (contribution margins), các công ty có thể đánh giá khả năng sinh lời tiềm năng của các "kịch bản" khác nhau (scenarios) và đưa ra các lựa chọn chiến lược phù hợp với mục tiêu dài hạn của họ.
-![STRATEGIC PLANNING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--9086965630-Montserrat-Bold-004895.jpg)
+Một phương pháp khác là "chi phí quy trình" (process costing), được sử dụng khi sản phẩm hoặc dịch vụ được sản xuất theo cách "liên tục" (continuous) hoặc "cách lặp lại" (repetitive manner). Nó liên quan đến việc tính toán "chi phí trung bình trên mỗi đơn vị" (average cost per unit) bằng cách chia "tổng chi phí" (total costs) phát sinh trong một "giai đoạn cụ thể" (specific period) cho số lượng đơn vị được sản xuất.
+![PROCESS COSTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-26/transition-8037169100-Montserrat-ExtraBold-283593.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-29066501696.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-11016808964.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## ASSESSING PROFITABILITY
+## ACTIVITY-BASED COSTING
 
-Tóm lại, "kế toán chi phí" (cost accounting) là một công cụ mạnh mẽ cung cấp cho doanh nghiệp sự hiểu biết chi tiết về chi phí của họ. Nó giúp xác định chi phí "sản xuất" (production), phân bổ "chi phí gián tiếp" (indirect costs), "lập ngân sách" (budgeting), "kiểm soát chi phí" (cost control), ra quyết định và "lập kế hoạch chiến lược". " (strategic planning). Bằng cách triển khai hệ thống kế toán chi phí hiệu quả, các công ty có thể tối ưu hóa hoạt động của mình, cải thiện "khả năng sinh lời" (profitability) và đạt được lợi thế cạnh tranh trên thị trường.
-![ASSESSING PROFITABILITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--34534269066-Montserrat-ExtraBold-512DA8.jpg)
+Tính chi phí dựa trên hoạt động (ABC) là một kỹ thuật nâng cao hơn, gán "chi phí" (costs) cho "các hoạt động cụ thể" (specific activities) thay vì "sản phẩm hoặc dịch vụ" (products or services). Nó cung cấp "bức tranh chính xác" hơn (accurate picture) về "tài nguyên" (resources) được sử dụng bởi các hoạt động khác nhau và giúp xác định "các yếu tố thúc đẩy chi phí thực sự" (true cost drivers) trong một tổ chức.
+![ACTIVITY-BASED COSTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-26/transition--7710557949-Montserrat-SemiBold-512DA8.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-50604089907.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-9528699196.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## BUSINESS
+## DETERMINING COSTS
 
-Cảm ơn bạn đã xem video này về "kế toán chi phí" (cost accounting). Tôi hy vọng bạn thấy nó có nhiều thông tin và hiểu rõ hơn về tầm quan trọng của kế toán chi phí trong "kinh doanh" (business). Nếu bạn có thắc mắc hoặc muốn tìm hiểu thêm, vui lòng để lại bình luận bên dưới.
-![BUSINESS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-22/transition--3409997194-Montserrat-Regular-880E4F.jpg)
+Tiếp tục, hãy thảo luận về lợi ích của "kế toán chi phí" (cost accounting). Bằng cách "xác định chi phí" chính xác (determining costs), doanh nghiệp có thể đưa ra "quyết định sáng suốt" (informed decisions) liên quan đến "giá cả" (pricing), "kết hợp sản phẩm" (product mix) và "phân bổ nguồn lực" (resource allocation). Nó cũng giúp xác định các cơ hội tiết kiệm chi phí và nâng cao hiệu quả trong tổ chức.
+![DETERMINING COSTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-26/transition--38365295247-Montserrat-Regular-7B1FA2.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-7202705728.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-10885220365.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## FINANCIAL REPORTING
+
+Hơn nữa, "kế toán chi phí" (cost accounting) đóng một vai trò quan trọng trong "báo cáo tài chính" (financial reporting). Nó cung cấp thông tin có giá trị để lập "báo cáo tài chính" (financial statements), chẳng hạn như "báo cáo thu nhập" (income statements), "bảng cân đối kế toán" (balance sheets) và "báo cáo lưu chuyển tiền tệ" (cash flow statements). Những tuyên bố này rất cần thiết để đánh giá "sức khỏe tài chính" (financial health) của một công ty và đưa ra các quyết định kinh doanh chiến lược.
+![FINANCIAL REPORTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-26/transition-10334147086-Montserrat-SemiBold-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-460366436.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## COSTING METHODS
+
+Tóm lại, "kế toán chi phí" (cost accounting) là một nguyên tắc quan trọng giúp doanh nghiệp hiểu và quản lý chi phí của mình một cách hiệu quả. Bằng cách sử dụng nhiều "phương pháp tính chi phí" (costing methods) và phân tích "hành vi chi phí" (cost behavior), doanh nghiệp có thể đưa ra quyết định sáng suốt, nâng cao "khả năng sinh lời" (profitability) và đạt được "lợi thế cạnh tranh" (competitive edge) trong thời đại ngày nay thị trường năng động.
+![COSTING METHODS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-26/transition-14955935784-Montserrat-Medium-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-2014755010.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## FINANCIAL MANAGEMENT
+
+Tôi hy vọng video này đã cung cấp cho bạn cái nhìn tổng quan toàn diện về "kế toán chi phí" (cost accounting). Hãy nhớ rằng thông tin chi phí chính xác là nền tảng cho "quản lý tài chính" hợp lý (financial management). Cảm ơn các bạn đã xem và hẹn gặp lại các bạn ở video tiếp theo!
+![FINANCIAL MANAGEMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-26/transition--20449381601-Montserrat-ExtraBold-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-31885472352.mp3" type="audio/mpeg">
 </audio>
 
