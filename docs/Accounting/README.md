@@ -160,6 +160,7 @@
       - [Activity-Based-Costing.md](./Activity-Based-Costing.md)
       - [Activity-Based-Management.md](./Activity-Based-Management.md)
       - [Transfer-Pricing.md](./Transfer-Pricing.md)
+    - [Managerial-Accounting.md](./Managerial-Accounting.md)
     - [Regulatory-Compliance.md](./Regulatory-Compliance.md)
     - [Tax-Accounting](./Tax-Accounting/)
       - [Tax-Reporting.md](./Tax-Reporting.md)

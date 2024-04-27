@@ -161,6 +161,7 @@
         - [Activity-Based-Costing.md](./Accounting/Financial-Accounting/Management-Accounting/Activity-Based-Costing.md)
         - [Activity-Based-Management.md](./Accounting/Financial-Accounting/Management-Accounting/Activity-Based-Management.md)
         - [Transfer-Pricing.md](./Accounting/Financial-Accounting/Management-Accounting/Transfer-Pricing.md)
+      - [Managerial-Accounting.md](./Accounting/Financial-Accounting/Managerial-Accounting.md)
       - [Regulatory-Compliance.md](./Accounting/Financial-Accounting/Regulatory-Compliance.md)
       - [Tax-Accounting](./Accounting/Financial-Accounting/Tax-Accounting)
         - [Tax-Reporting.md](./Accounting/Financial-Accounting/Tax-Accounting/Tax-Reporting.md)
