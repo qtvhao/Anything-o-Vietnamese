@@ -232,6 +232,7 @@
       - [Management-Consulting.md](./Accounting/Public-Accounting/Management-Consulting.md)
       - [Tax-Services.md](./Accounting/Public-Accounting/Tax-Services.md)
     - [Public-Accounting.md](./Accounting/Public-Accounting.md)
+    - [Social-Accounting.md](./Accounting/Social-Accounting.md)
     - [Tax-Accounting](./Accounting/Tax-Accounting)
       - [Individual-Tax-Accounting.md](./Accounting/Tax-Accounting/Individual-Tax-Accounting.md)
       - [Tax-Audits.md](./Accounting/Tax-Accounting/Tax-Audits.md)
