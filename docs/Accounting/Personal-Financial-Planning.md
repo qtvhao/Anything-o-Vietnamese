@@ -14,7 +14,7 @@
 ## PERSONAL FINANCIAL PLANNING
 
 Chào mừng bạn đến với video của tôi về "lập kế hoạch tài chính cá nhân" (personal financial planning). Trong video này, tôi sẽ khám phá tầm quan trọng của việc quản lý tài chính của bạn một cách hiệu quả và cung cấp cho bạn những lời khuyên thiết thực để giúp bạn đạt được "mục tiêu tài chính" của mình (financial goals). Lập kế hoạch tài chính là một khía cạnh quan trọng trong cuộc sống của chúng ta, vì nó cho phép chúng ta đưa ra "những quyết định sáng suốt" (informed decisions) về "tiền" của mình (money) và tạo ra một "tương lai an toàn" (secure future) cho bản thân và "những người thân yêu" của chúng ta. những cái" (loved ones).
-![PERSONAL FINANCIAL PLANNING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-17996574153-Montserrat-ExtraBold-512DA8.jpg)
+![PERSONAL FINANCIAL PLANNING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-17996574153-Montserrat-Bold-283593.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-37705753664.mp3" type="audio/mpeg">
 </audio>
@@ -24,7 +24,7 @@ Chào mừng bạn đến với video của tôi về "lập kế hoạch tài c
 ## FINANCIAL GOALS
 
 Bước đầu tiên trong lập kế hoạch tài chính cá nhân là đặt ra các "mục tiêu tài chính" cụ thể (financial goals). Cho dù đó là "tiết kiệm để nghỉ hưu" (saving for retirement), "mua nhà" (buying a house) hay "khởi nghiệp kinh doanh" (starting a business), việc có mục tiêu rõ ràng sẽ cho phép bạn tập trung nỗ lực và phân bổ nguồn lực của mình phù hợp. Hãy dành chút thời gian để suy ngẫm về nguyện vọng của bạn và xác định những gì bạn muốn đạt được về mặt tài chính trong ngắn hạn, trung hạn và dài hạn.
-![FINANCIAL GOALS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--56368057326-Montserrat-ExtraBold-303F9F.jpg)
+![FINANCIAL GOALS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--56368057326-Montserrat-Medium-9C27B0.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-13832566175.mp3" type="audio/mpeg">
 </audio>
@@ -34,7 +34,7 @@ Bước đầu tiên trong lập kế hoạch tài chính cá nhân là đặt r
 ## FINANCIAL SITUATION
 
 Khi bạn đã thiết lập "mục tiêu tài chính" (financial goals), điều quan trọng là phải đánh giá tình hình tài chính hiện tại của bạn. Điều này bao gồm việc đánh giá "thu nhập" (income), "chi phí" (expenses), "tài sản" (assets) và "nợ" (debts) của bạn. Hiểu được "tình trạng tài chính" (financial standing) của bạn sẽ cho bạn bức tranh thực tế về nơi bạn bắt đầu và cho phép bạn đưa ra quyết định sáng suốt về cách tiến về phía trước.
-![FINANCIAL SITUATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--37749180467-Montserrat-Bold-283593.jpg)
+![FINANCIAL SITUATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--37749180467-Montserrat-SemiBold-1A237E.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-26353586668.mp3" type="audio/mpeg">
 </audio>
@@ -44,7 +44,7 @@ Khi bạn đã thiết lập "mục tiêu tài chính" (financial goals), điề
 ## BUDGETING
 
 Lập ngân sách là một khía cạnh cơ bản của kế hoạch tài chính cá nhân. Bằng cách tạo ngân sách, bạn có thể theo dõi "thu nhập" (income) và "chi phí" (expenses), xác định các lĩnh vực mà bạn có thể cắt giảm chi tiêu không cần thiết và phân bổ vốn cho "mục tiêu tài chính" của mình (financial goals). Hãy nhớ ưu tiên "các chi phí thiết yếu" (essential expenses) như "nhà ở" (housing), "tiện ích" (utilities) và "thực phẩm" (food), đồng thời dành tiền để "tiết kiệm" (savings ) và đầu tư
-![BUDGETING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--11460505259-Montserrat-SemiBold-1A237E.jpg)
+![BUDGETING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--11460505259-Montserrat-SemiBold-4A148C.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-27086058759.mp3" type="audio/mpeg">
 </audio>
@@ -54,7 +54,7 @@ Lập ngân sách là một khía cạnh cơ bản của kế hoạch tài chín
 ## SAVING
 
 Tiết kiệm và "đầu tư" (investing) là những thành phần chính trong kế hoạch tài chính cá nhân. Tiết kiệm liên quan đến việc dành một phần "thu nhập" (income) của bạn để sử dụng trong tương lai, chẳng hạn như "các trường hợp khẩn cấp" (emergencies) hoặc "chi phí dự kiến" (planned expenses). Mặt khác, đầu tư liên quan đến việc đưa tiền của bạn vào "tài sản" (assets) có tiềm năng "tăng trưởng" (grow) theo thời gian, chẳng hạn như "cổ phiếu" (stocks), "trái phiếu" (bonds ) hoặc "bất động sản" (real estate). Cả "tiết kiệm" (saving) và đầu tư đều có thể giúp bạn "xây dựng sự giàu có" (build wealth) và đạt được sự đảm bảo tài chính lâu dài.
-![SAVING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--6959244038-Montserrat-Thin-4A148C.jpg)
+![SAVING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--6959244038-Montserrat-SemiBold-1A237E.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-58297480618.mp3" type="audio/mpeg">
 </audio>
@@ -64,7 +64,7 @@ Tiết kiệm và "đầu tư" (investing) là những thành phần chính tron
 ## DEBT MANAGEMENT
 
 Quản lý nợ là một khía cạnh quan trọng khác của kế hoạch tài chính cá nhân. Điều quan trọng là phải hiểu tác động của "lãi suất" (interest rates) và "phí" (fees) đối với "các khoản nợ" (debts) của bạn và phát triển một "chiến lược" (strategy) để thanh toán chúng một cách hiệu quả. Ưu tiên các khoản nợ có lãi suất cao và xem xét các chiến lược như "hợp nhất nợ" ​​(debt consolidation) hoặc "tái cấp vốn" (refinancing) để giảm khoản thanh toán lãi tổng thể của bạn.
-![DEBT MANAGEMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-36460547352-Montserrat-Regular-673AB7.jpg)
+![DEBT MANAGEMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-36460547352-Montserrat-Thin-303F9F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-9152613862.mp3" type="audio/mpeg">
 </audio>
@@ -74,7 +74,7 @@ Quản lý nợ là một khía cạnh quan trọng khác của kế hoạch tà
 ## INSURANCE
 
 Bảo hiểm đóng một vai trò quan trọng trong việc lập kế hoạch tài chính cá nhân bằng cách cung cấp sự bảo vệ chống lại "các sự kiện bất ngờ" (unexpected events). "Bảo hiểm" sức khỏe (insurance), "bảo hiểm nhân thọ" (life insurance) và "bảo hiểm tài sản" (property insurance) là những ví dụ về các chính sách có thể bảo vệ bạn và gia đình bạn khỏi "khó khăn tài chính" (financial hardship) trong trường hợp "trường hợp khẩn cấp" (emergencies) hoặc "tai nạn" (accidents). Đánh giá "nhu cầu bảo hiểm" (insurance needs) của bạn và đảm bảo bạn có "bảo hiểm đầy đủ" (adequate coverage) cho các trường hợp cụ thể của mình.
-![INSURANCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--3758949419-Montserrat-SemiBold-673AB7.jpg)
+![INSURANCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--3758949419-Montserrat-Regular-673AB7.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-41403503211.mp3" type="audio/mpeg">
 </audio>
@@ -84,7 +84,7 @@ Bảo hiểm đóng một vai trò quan trọng trong việc lập kế hoạch 
 ## FINANCIAL PLAN
 
 Khi bạn "tiến bộ" (progress) trên "hành trình tài chính" (financial journey), điều quan trọng là phải thường xuyên "xem xét và đánh giá lại" (review and reassess) "kế hoạch tài chính" (financial plan) của bạn. Hoàn cảnh sống và "mục tiêu" (goals) có thể thay đổi theo thời gian, vì vậy điều quan trọng là phải "điều chỉnh" (adjustments) cho phù hợp. Thường xuyên theo dõi tiến trình của bạn, kỷ niệm các "cột mốc" (milestones) và tìm kiếm "lời khuyên chuyên nghiệp" (professional advice) nếu cần để đảm bảo bạn luôn đi đúng hướng đạt được các mục tiêu tài chính của mình.
-![FINANCIAL PLAN](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-4850121306-Montserrat-Medium-7B1FA2.jpg)
+![FINANCIAL PLAN](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-4850121306-Montserrat-ExtraBold-880E4F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-1106096066.mp3" type="audio/mpeg">
 </audio>
@@ -94,7 +94,7 @@ Khi bạn "tiến bộ" (progress) trên "hành trình tài chính" (financial j
 ## SECURE FUTURE
 
 Tóm lại, lập kế hoạch tài chính cá nhân là điều cần thiết cho bất kỳ ai muốn kiểm soát tài chính của mình và xây dựng một tương lai an toàn. Bằng cách đặt ra các mục tiêu rõ ràng, đánh giá "tình hình tài chính" (financial situation), "ngân sách" (budgeting), "tiết kiệm" (saving) và "đầu tư" (investing) một cách khôn ngoan, quản lý nợ và bảo vệ bản thân bằng "bảo hiểm". " (insurance), bạn có thể tạo nền tảng tài chính vững chắc. Hãy nhớ rằng, lập kế hoạch tài chính là một "quá trình suốt đời" (lifelong process) và với sự cống hiến và kỷ luật, bạn có thể đạt được "tự do tài chính" (financial freedom) và "sự an tâm" (peace of mind). Cảm ơn bạn đã xem video này và chúc bạn may mắn trên hành trình tài chính của mình!
-![SECURE FUTURE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--36323112618-Montserrat-Regular-7B1FA2.jpg)
+![SECURE FUTURE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--36323112618-Montserrat-ExtraBold-880E4F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-29889177167.mp3" type="audio/mpeg">
 </audio>
