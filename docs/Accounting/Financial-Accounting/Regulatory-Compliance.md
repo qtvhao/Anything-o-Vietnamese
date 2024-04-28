@@ -14,7 +14,7 @@
 ## REGULATORY COMPLIANCE
 
 Chào mừng bạn đến với video của tôi về "tuân thủ quy định" (regulatory compliance). Trong video này, tôi sẽ khám phá tầm quan trọng của việc tuân thủ quy định đối với "doanh nghiệp" (businesses), "các quy định chính" (key regulations) mà "tổ chức" (organizations) cần lưu ý và một số phương pháp hay nhất cho " duy trì sự tuân thủ" (maintaining compliance).
-![REGULATORY COMPLIANCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-16795517752-Montserrat-Black-004895.jpg)
+![REGULATORY COMPLIANCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-16795517752-Montserrat-Bold-004895.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-18968646306.mp3" type="audio/mpeg">
 </audio>
@@ -24,7 +24,7 @@ Chào mừng bạn đến với video của tôi về "tuân thủ quy định" 
 ## BUSINESSES
 
 Tuân thủ quy định đề cập đến việc tuân thủ luật pháp, quy tắc và quy định do "các cơ quan chính phủ" (government bodies) và "các cơ quan trong ngành" (industry authorities) đặt ra. Điều quan trọng là các doanh nghiệp phải tuân thủ các quy định này để đảm bảo "hành vi đạo đức" (ethical conduct), bảo vệ "quyền của người tiêu dùng" (consumer rights) và duy trì một sân chơi bình đẳng trên "thị trường" (marketplace).
-![BUSINESSES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--9779660057-Montserrat-ExtraBold-283593.jpg)
+![BUSINESSES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--9779660057-Montserrat-Thin-673AB7.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-511101676.mp3" type="audio/mpeg">
 </audio>
@@ -34,7 +34,7 @@ Tuân thủ quy định đề cập đến việc tuân thủ luật pháp, quy 
 ## HEFTY FINES
 
 Một trong những lý do chính khiến "tuân thủ quy định" (regulatory compliance) là cần thiết là vì nó giúp các tổ chức tránh được các hình phạt pháp lý và tài chính. Việc không tuân thủ có thể dẫn đến "các khoản tiền phạt nặng" (hefty fines), "các cuộc chiến pháp lý" (legal battles) và "thiệt hại về danh tiếng" (reputational damage) có thể ảnh hưởng đáng kể đến lợi nhuận của công ty.
-![HEFTY FINES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--18041514038-Montserrat-Thin-303F9F.jpg)
+![HEFTY FINES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--18041514038-Montserrat-SemiBold-4A148C.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-10378889652.mp3" type="audio/mpeg">
 </audio>
@@ -44,7 +44,7 @@ Một trong những lý do chính khiến "tuân thủ quy định" (regulatory 
 ## ACCOUNTABILITY
 
 Ngoài ra, "tuân thủ quy định" (regulatory compliance) thúc đẩy "tính minh bạch" (transparency) và "trách nhiệm giải trình" (accountability) trong "tổ chức" (organizations). Nó đảm bảo rằng "doanh nghiệp" (businesses) hoạt động một cách "có trách nhiệm" (responsible) và "có đạo đức" (ethical manner), bảo vệ lợi ích của "các bên liên quan" của họ (stakeholders), bao gồm cả "nhân viên" (employees ), "khách hàng" (customers) và các cổ đông.
-![ACCOUNTABILITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-2513382315-Montserrat-Regular-004895.jpg)
+![ACCOUNTABILITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-2513382315-Montserrat-ExtraBold-512DA8.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-3975410782.mp3" type="audio/mpeg">
 </audio>
@@ -54,7 +54,7 @@ Ngoài ra, "tuân thủ quy định" (regulatory compliance) thúc đẩy "tính
 ## KEY REGULATIONS
 
 Bây giờ, chúng ta hãy xem một số "quy định" chính (regulations) mà "tổ chức" (organizations) cần lưu ý. Một trong những quy định nổi bật nhất là Quy định chung về bảo vệ dữ liệu (GDPR), quy định việc thu thập, lưu trữ và xử lý "dữ liệu cá nhân" (personal data) của các cá nhân trong Liên minh Châu Âu (EU).
-![KEY REGULATIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-17011765422-Montserrat-Thin-512DA8.jpg)
+![KEY REGULATIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-17011765422-Montserrat-Black-9C27B0.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5639928057.mp3" type="audio/mpeg">
 </audio>
@@ -64,7 +64,7 @@ Bây giờ, chúng ta hãy xem một số "quy định" chính (regulations) mà
 ## MAINTAINING COMPLIANCE
 
 Một quy định quan trọng khác là Đạo luật về trách nhiệm giải trình và cung cấp bảo hiểm y tế (HIPAA) tại Hoa Kỳ. HIPAA đặt ra các tiêu chuẩn để bảo vệ thông tin sức khỏe nhạy cảm của bệnh nhân và đảm bảo "tính bảo mật" (confidentiality), "tính toàn vẹn" (integrity) và "tính sẵn có" (availability).
-![MAINTAINING COMPLIANCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-9598373696-Montserrat-Medium-1A237E.jpg)
+![MAINTAINING COMPLIANCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-9598373696-Montserrat-Thin-004895.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-13330352572.mp3" type="audio/mpeg">
 </audio>
@@ -74,7 +74,7 @@ Một quy định quan trọng khác là Đạo luật về trách nhiệm giả
 ## FINANCIAL SECTOR
 
 Trong "lĩnh vực tài chính" (financial sector), các tổ chức phải tuân thủ các quy định như Đạo luật Sarbanes-Oxley (SOX) và Tiêu chuẩn bảo mật dữ liệu ngành thẻ thanh toán (PCI DSS). SOX nhằm mục đích nâng cao "quản trị doanh nghiệp" (corporate governance) và "báo cáo tài chính" (financial reporting), trong khi PCI DSS cung cấp hướng dẫn để bảo mật các giao dịch thẻ tín dụng và bảo vệ "dữ liệu chủ thẻ" (cardholder data).
-![FINANCIAL SECTOR](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-35208732003-Montserrat-Bold-9C27B0.jpg)
+![FINANCIAL SECTOR](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-35208732003-Montserrat-Bold-283593.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-7254677907.mp3" type="audio/mpeg">
 </audio>
@@ -84,7 +84,7 @@ Trong "lĩnh vực tài chính" (financial sector), các tổ chức phải tuâ
 ## COMPLIANCE GAPS
 
 Các biện pháp thực hành tốt nhất để duy trì "tuân thủ quy định" (regulatory compliance) bao gồm tiến hành đánh giá rủi ro thường xuyên để xác định "khoảng trống tuân thủ" tiềm ẩn (compliance gaps), phát triển và triển khai các chính sách và quy trình mạnh mẽ cũng như cung cấp "đào tạo toàn diện" (comprehensive training) cho "nhân viên " (employees).
-![COMPLIANCE GAPS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--12428992929-Montserrat-SemiBold-4A148C.jpg)
+![COMPLIANCE GAPS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--12428992929-Montserrat-Regular-4A148C.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-20454247844.mp3" type="audio/mpeg">
 </audio>
@@ -94,7 +94,7 @@ Các biện pháp thực hành tốt nhất để duy trì "tuân thủ quy đ�
 ## ORGANIZATIONS
 
 Điều quan trọng nữa là các tổ chức phải luôn cập nhật về mọi "cập nhật quy định" (regulatory updates) hoặc những thay đổi có thể xảy ra. Điều này có thể đạt được thông qua sự tham gia tích cực với "các hiệp hội ngành" (industry associations), đăng ký "bản tin quy định" (regulatory newsletters) và tìm kiếm "tư vấn pháp lý" (legal counsel) khi cần thiết.
-![ORGANIZATIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--14901523534-Montserrat-Regular-303F9F.jpg)
+![ORGANIZATIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--14901523534-Montserrat-Thin-512DA8.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-994050986.mp3" type="audio/mpeg">
 </audio>
@@ -104,7 +104,7 @@ Các biện pháp thực hành tốt nhất để duy trì "tuân thủ quy đ�
 ## TECHNOLOGY
 
 Hơn nữa, việc tận dụng công nghệ có thể hỗ trợ rất nhiều trong việc đạt được và duy trì "sự tuân thủ quy định" (regulatory compliance). Hệ thống quản lý tuân thủ tự động, "công cụ mã hóa dữ liệu" (data encryption tools) và các giải pháp quản lý tài liệu an toàn có thể hợp lý hóa các quy trình tuân thủ và tăng cường bảo vệ dữ liệu.
-![TECHNOLOGY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-44500745943-Montserrat-ExtraBold-004895.jpg)
+![TECHNOLOGY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-44500745943-Montserrat-Thin-004895.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-18258912138.mp3" type="audio/mpeg">
 </audio>
@@ -114,7 +114,7 @@ Hơn nữa, việc tận dụng công nghệ có thể hỗ trợ rất nhiều 
 ## RELEVANT REGULATIONS
 
 Tóm lại, "tuân thủ quy định" (regulatory compliance) có tầm quan trọng tối cao đối với các doanh nghiệp thuộc nhiều ngành khác nhau. Nó đảm bảo các hoạt động hợp pháp và đạo đức, bảo vệ lợi ích của các bên liên quan và "giảm thiểu rủi ro" (mitigates risks) liên quan đến việc không tuân thủ. Bằng cách hiểu "các quy định có liên quan" (relevant regulations), triển khai "các phương pháp hay nhất" (best practices) và sử dụng "công nghệ" (technology), các tổ chức có thể điều hướng thành công bối cảnh phức tạp của việc tuân thủ quy định.
-![RELEVANT REGULATIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--20981658788-Montserrat-ExtraBold-880E4F.jpg)
+![RELEVANT REGULATIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--20981658788-Montserrat-SemiBold-673AB7.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-9711887525.mp3" type="audio/mpeg">
 </audio>
@@ -124,7 +124,7 @@ Tóm lại, "tuân thủ quy định" (regulatory compliance) có tầm quan tr�
 ## BUSINESS STRATEGY
 
 Cảm ơn bạn đã xem video này về "tuân thủ quy định" (regulatory compliance). Hãy nhớ cập nhật thông tin, ưu tiên tuân thủ và biến nó thành một phần không thể thiếu trong "chiến lược kinh doanh" của bạn (business strategy).
-![BUSINESS STRATEGY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-16036802493-Montserrat-Bold-880E4F.jpg)
+![BUSINESS STRATEGY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-16036802493-Montserrat-Medium-303F9F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-615980571.mp3" type="audio/mpeg">
 </audio>
