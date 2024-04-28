@@ -14,7 +14,7 @@
 ## INTERNATIONAL ACCOUNTING
 
 Chào mừng bạn đến với video của tôi về Kế toán quốc tế. Trong video này, tôi sẽ khám phá thế giới hấp dẫn của "kế toán quốc tế" (international accounting), tầm quan trọng của nó trong môi trường kinh doanh toàn cầu ngày nay và những thách thức nảy sinh khi xử lý các thông lệ kế toán đa dạng ở các "quốc gia" khác nhau (countries).
-![INTERNATIONAL ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-24060791168-Montserrat-Thin-673AB7.jpg)
+![INTERNATIONAL ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-24060791168-Montserrat-Regular-303F9F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-16313957954.mp3" type="audio/mpeg">
 </audio>
@@ -24,7 +24,7 @@ Chào mừng bạn đến với video của tôi về Kế toán quốc tế. Tr
 ## INTERNATIONAL ACCOUNTING
 
 Kế toán quốc tế đề cập đến "chuẩn mực kế toán" (accounting standards) và "thông lệ" (practices) được sử dụng bởi "các công ty" (companies) hoạt động ở "nhiều quốc gia" (multiple countries). Nó đóng một vai trò quan trọng trong việc tạo điều kiện thuận lợi cho "thương mại toàn cầu" (global trade) và "đầu tư" (investment) bằng cách cung cấp "thông tin tài chính" nhất quán và đáng tin cậy (financial information) cho "các bên liên quan" (stakeholders) xuyên biên giới.
-![INTERNATIONAL ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--15535350174-Montserrat-Bold-512DA8.jpg)
+![INTERNATIONAL ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--15535350174-Montserrat-Thin-512DA8.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-15872012.mp3" type="audio/mpeg">
 </audio>
@@ -34,7 +34,7 @@ Kế toán quốc tế đề cập đến "chuẩn mực kế toán" (accounting
 ## INTERNATIONAL ACCOUNTING
 
 Một trong những lý do chính tại sao kế toán quốc tế lại quan trọng là nhu cầu về "khả năng so sánh" (comparability). Trong thế giới kết nối ngày nay, "nhà đầu tư" (investors) và "các bên liên quan" (stakeholders) thường đánh giá các công ty dựa trên "báo cáo tài chính" (financial statements). Bằng cách áp dụng các chuẩn mực kế toán quốc tế, các công ty có thể đảm bảo rằng thông tin tài chính của họ có thể so sánh được và "minh bạch" (transparent), cho phép các nhà đầu tư đưa ra quyết định sáng suốt.
-![INTERNATIONAL ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--28452675472-Montserrat-Black-880E4F.jpg)
+![INTERNATIONAL ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--28452675472-Montserrat-Regular-4A148C.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-19000059182.mp3" type="audio/mpeg">
 </audio>
@@ -44,7 +44,7 @@ Một trong những lý do chính tại sao kế toán quốc tế lại quan tr
 ## ACCOUNTING STANDARDS
 
 Một khía cạnh quan trọng khác của kế toán quốc tế là sự hội tụ của các chuẩn mực kế toán. Nhiều tổ chức khác nhau, chẳng hạn như Tổ chức Chuẩn mực Báo cáo Tài chính Quốc tế (IFRS), nỗ lực hướng tới việc hài hòa hóa các thông lệ kế toán trên toàn cầu. Sự hội tụ này giúp giảm bớt "sự khác biệt" (discrepancies) và "sự phức tạp" (complexities) phát sinh từ các khuôn khổ kế toán khác nhau, giúp doanh nghiệp hoạt động quốc tế dễ dàng hơn.
-![ACCOUNTING STANDARDS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--13987981602-Montserrat-SemiBold-283593.jpg)
+![ACCOUNTING STANDARDS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--13987981602-Montserrat-ExtraBold-880E4F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-11758795204.mp3" type="audio/mpeg">
 </audio>
@@ -54,7 +54,7 @@ Một khía cạnh quan trọng khác của kế toán quốc tế là sự hộ
 ## MULTINATIONAL COMPANIES
 
 Tuy nhiên, kế toán quốc tế cũng đặt ra những thách thức do sự khác biệt về văn hóa, pháp lý và kinh tế giữa các "quốc gia" (countries). Những khác biệt này có thể dẫn đến những khác biệt trong "nguyên tắc kế toán" (accounting principles), "yêu cầu tiết lộ" (disclosure requirements) và thậm chí cả cách xử lý một số giao dịch nhất định. Các công ty đa quốc gia phải giải quyết những vấn đề phức tạp này để đảm bảo tuân thủ "các quy định địa phương" (local regulations) trong khi vẫn duy trì tính nhất quán trong báo cáo tài chính của họ.
-![MULTINATIONAL COMPANIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--4635973833-Montserrat-Black-1A237E.jpg)
+![MULTINATIONAL COMPANIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--4635973833-Montserrat-Black-673AB7.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-13676632296.mp3" type="audio/mpeg">
 </audio>
@@ -64,7 +64,7 @@ Tuy nhiên, kế toán quốc tế cũng đặt ra những thách thức do sự
 ## ACCOUNTING TECHNIQUES
 
 Một trong những thách thức đáng kể trong kế toán quốc tế là quản lý các giao dịch và dịch thuật ngoại tệ. Các công ty xử lý nhiều loại tiền tệ cần tính đến sự biến động của tỷ giá hối đoái, điều này có thể ảnh hưởng đến "báo cáo tài chính" (financial statements). Họ phải sử dụng "kỹ thuật kế toán" thích hợp (accounting techniques) để ghi lại chính xác các giao dịch ngoại tệ và báo cáo kết quả bằng "đồng nội tệ" (home currency).
-![ACCOUNTING TECHNIQUES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--8567219115-Montserrat-Regular-1A237E.jpg)
+![ACCOUNTING TECHNIQUES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--8567219115-Montserrat-ExtraBold-673AB7.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-14196890412.mp3" type="audio/mpeg">
 </audio>
@@ -74,7 +74,7 @@ Một trong những thách thức đáng kể trong kế toán quốc tế là q
 ## TAXATION
 
 Một thách thức khác là "thuế" (taxation). Luật thuế và "quy định" (regulations) khác nhau đáng kể giữa các quốc gia và việc hiểu cũng như tuân thủ chúng có thể phức tạp đối với "các công ty đa quốc gia" (multinational companies). Họ phải điều hướng cẩn thận các điều khoản về thuế, "quy tắc chuyển giá" (transfer pricing rules) và các cân nhắc khác liên quan đến thuế để đảm bảo "tuân thủ" (compliance) và tránh mọi rủi ro pháp lý hoặc danh tiếng.
-![TAXATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--5505029257-Montserrat-SemiBold-7B1FA2.jpg)
+![TAXATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--5505029257-Montserrat-SemiBold-1A237E.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-14878228197.mp3" type="audio/mpeg">
 </audio>
@@ -84,7 +84,7 @@ Một thách thức khác là "thuế" (taxation). Luật thuế và "quy địn
 ## ACCOUNTING
 
 Để giải quyết những thách thức này, các công ty thường thành lập các bộ phận kế toán toàn cầu hoặc thuê các công ty kế toán quốc tế có chuyên môn trong việc điều hướng các hoạt động kế toán đa dạng. Những chuyên gia này giúp đảm bảo tuân thủ "các quy định địa phương" (local regulations) trong khi vẫn duy trì tính nhất quán trong "báo cáo tài chính" (financial reporting) trên các khu vực pháp lý khác nhau.
-![ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--38239071004-Montserrat-Bold-673AB7.jpg)
+![ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--38239071004-Montserrat-Medium-512DA8.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-19813489694.mp3" type="audio/mpeg">
 </audio>
@@ -94,7 +94,7 @@ Một thách thức khác là "thuế" (taxation). Luật thuế và "quy địn
 ## MULTIPLE COUNTRIES
 
 Tóm lại, kế toán quốc tế đóng một vai trò quan trọng trong bối cảnh kinh doanh toàn cầu ngày nay. Nó cung cấp một khuôn khổ cho "báo cáo tài chính" nhất quán (financial reporting), tạo điều kiện thuận lợi cho "sự minh bạch" (transparency) và "khả năng so sánh" (comparability) và giúp các doanh nghiệp giải quyết sự phức tạp khi hoạt động ở "nhiều quốc gia" (multiple countries). Trong khi vẫn còn tồn tại những thách thức, các công ty có thể tận dụng các chuẩn mực kế toán quốc tế và chuyên môn chuyên môn để vượt qua chúng một cách thành công. Cảm ơn bạn đã xem video này về Kế toán quốc tế.
-![MULTIPLE COUNTRIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--41114812299-Montserrat-Bold-303F9F.jpg)
+![MULTIPLE COUNTRIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--41114812299-Montserrat-Regular-004895.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-23547080115.mp3" type="audio/mpeg">
 </audio>
