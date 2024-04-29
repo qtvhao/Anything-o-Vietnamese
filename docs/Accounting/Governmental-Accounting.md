@@ -1,101 +1,91 @@
 
 ---
 
-# Khám phá bí mật của kế toán chính phủ: Giải thích về tính minh bạch, trách nhiệm giải trình và quản lý nợ!
+# Hé lộ bí mật kế toán chính phủ: Nguyên tắc, quy trình và thực tiễn đảm bảo tính minh bạch và tin cậy
 
-- Published: April 28, 2024
+- Published: April 29, 2024
 - Author: Vietnamese Online Voice
 - Categories: **Accounting**
-- #AccountingPractices #GovernmentSector #FinancialManagement #ResourceAllocation #Transparency #Accountability #FundAccounting #GeneralFunds #SpecialRevenueFunds #CapitalProjectFunds #DebtServiceFunds #ModifiedAccrualBasis #CommercialAccounting #InterPeriodEquity #PublicFinance #FinancialReporting #GovernmentEntities #GovernmentalStandards #GASB #PublicDebt #FiscalStability #BorrowingCapacity #FinancialIntegrity #CredibleFinancialInformation #PublicSectorFinance #EffectiveResourceAllocation #SocietalWellbeing
+- #PublicSector #FinancialManagement #Accountability #PublicFunds #Transparency #FinancialReporting #LocalGovernment #StateAgencies #FederalDepartments #BasesOfAccounting #CashBasis #AccrualBasis #BudgetaryAccounting #FundAccounting #ComprehensiveAnnualFinancialReports #CAFRs #Auditing #FinancialIntegrity #PublicTrust #FinancialStatements #InternalControls #AccountingStandards #FinancialRegulations #FinancialPerformance #ResourceAllocation #FiscalResponsibility
 
-"Trong video này, tôi sẽ khám phá thế giới kế toán hấp dẫn trong khu vực chính phủ. Kế toán chính phủ đề cập đến lĩnh vực kế toán chuyên biệt tập trung vào quản lý tài chính và báo cáo cho các cơ quan chính phủ. Nó đóng một vai trò quan trọng trong việc đảm bảo tính minh bạch, trách nhiệm giải trình, và phân bổ nguồn lực hiệu quả. Hãy cùng đi sâu và khám phá các khía cạnh chính của kế toán chính phủ! Một trong những nguyên tắc cơ bản là khái niệm kế toán quỹ, trong đó các giao dịch tài chính được phân loại thành các quỹ khác nhau là việc sử dụng cơ sở dồn tích được sửa đổi. cung cấp một bức tranh chính xác hơn về tình hình tài chính và hoạt động của các cơ quan chính phủ. Các ông trùm có thể xem video hướng dẫn chi tiết ở phía dưới nhé."
+"Trong video này, tôi sẽ khám phá các khái niệm và thực tiễn thiết yếu liên quan đến kế toán cho các cơ quan chính phủ. Kế toán chính phủ là một lĩnh vực chuyên môn tập trung vào quản lý tài chính và báo cáo của các tổ chức khu vực công. Nó đảm bảo tính minh bạch, trách nhiệm giải trình và phân bổ nguồn lực công hiệu quả." Chúng ta sẽ thảo luận về các nguyên tắc chính như trách nhiệm giải trình, ghi chép và báo cáo chính xác các giao dịch tài chính cũng như cung cấp báo cáo tài chính minh bạch. Ngoài ra, chúng ta sẽ đi sâu vào hai cơ sở kế toán chính được sử dụng trong khu vực công: cơ sở tiền mặt và cơ sở dồn tích. video hướng dẫn chi tiết bên dưới, Boss!"
 
 
 ## GOVERNMENTAL ACCOUNTING
 
-Chào mừng bạn đến với video của tôi về Kế toán Chính phủ. Trong video này, tôi sẽ khám phá thế giới hấp dẫn của các hoạt động "kế toán" (accounting) trong khu vực chính phủ. Kế toán chính phủ đề cập đến lĩnh vực kế toán chuyên biệt tập trung vào "quản lý tài chính" (financial management) và báo cáo cho các cơ quan chính phủ. Nó đóng một vai trò quan trọng trong việc đảm bảo "tính minh bạch" (transparency), "trách nhiệm giải trình" (accountability) và phân bổ nguồn lực hiệu quả. Vì vậy, hãy cùng đi sâu và khám phá các khía cạnh chính của "kế toán chính phủ" (governmental accounting)!
-![GOVERNMENTAL ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-13448882578-Montserrat-SemiBold-303F9F.jpg)
+Chào mừng bạn đến với video của tôi về Kế toán Chính phủ. Trong video này, tôi sẽ khám phá các khái niệm và thực tiễn thiết yếu liên quan đến "kế toán" (accounting) cho các tổ chức chính phủ. Kế toán chính phủ là một lĩnh vực chuyên môn tập trung vào quản lý tài chính và báo cáo của các tổ chức khu vực công, chẳng hạn như chính quyền địa phương, cơ quan nhà nước và các cơ quan liên bang. Nó đóng một vai trò quan trọng trong việc đảm bảo tính minh bạch, trách nhiệm giải trình và phân bổ hiệu quả các nguồn lực công. Vì vậy, hãy cùng đi sâu vào thế giới "kế toán chính phủ" (governmental accounting) và hiểu các nguyên tắc cũng như quy trình chính của nó.
+![GOVERNMENTAL ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-29/transition-8766920212-Montserrat-Bold-673AB7.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-71953403289.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-8372372063.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## ACCOUNTABILITY
+
+Một trong những nguyên tắc cơ bản của "kế toán chính phủ" (governmental accounting) là "trách nhiệm giải trình" (accountability). Các cơ quan chính phủ được giao phó "quỹ công" (public funds) và trách nhiệm của họ là quản lý và sử dụng các nguồn lực này một cách hiệu quả. Trách nhiệm giải trình bao gồm việc ghi lại và báo cáo chính xác "các giao dịch tài chính" (financial transactions), đảm bảo rằng quỹ công được sử dụng cho "mục đích đã định" (intended purposes) và cung cấp báo cáo tài chính minh bạch cho "các bên liên quan" (stakeholders), bao gồm cả "công dân" (citizens), "người nộp thuế" (taxpayers) và các cơ quan giám sát.
+![ACCOUNTABILITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-29/transition--32006977111-Montserrat-Bold-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-3946678251.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## BASIS OF ACCOUNTING
+
+Đặc điểm chính của "kế toán chính phủ" (governmental accounting) là "cơ sở kế toán" (basis of accounting). Có hai cơ sở kế toán chính được sử dụng trong "khu vực công" (public sector): "cơ sở tiền mặt" (cash basis) và "cơ sở dồn tích" (accrual basis). Cơ sở tiền mặt ghi nhận các giao dịch khi tiền mặt được nhận hoặc thanh toán, trong khi cơ sở dồn tích ghi nhận các giao dịch khi chúng xảy ra, bất kể thời điểm của "dòng tiền" (cash flows). Hầu hết các cơ quan chính phủ sử dụng cơ sở kế toán dồn tích vì nó cung cấp cái nhìn toàn diện hơn về "vị trí tài chính" (financial position), "hiệu suất" (performance) và dòng tiền của tổ chức.
+![BASIS OF ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-29/transition-42972192289-Montserrat-Thin-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-3336203326.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## BUDGETARY ACCOUNTING
+
+Kế toán chính phủ cũng liên quan đến "kế toán ngân sách" (budgetary accounting). Ngân sách đóng một vai trò quan trọng trong khu vực công vì chúng đóng vai trò là "kế hoạch tài chính" (financial plan) và "công cụ kiểm soát" (control tool). Kế toán ngân sách tập trung vào việc theo dõi và báo cáo kết quả tài chính thực tế so với ngân sách đã được phê duyệt. Nó giúp các cơ quan chính phủ giám sát "chi tiêu" (expenditures), "thu ngân sách" (revenue collection) và tuân thủ "giới hạn ngân sách" (budgetary limits). Thông tin này rất cần thiết để đánh giá "hiệu quả tài chính" (financial performance) và đưa ra quyết định sáng suốt về phân bổ nguồn lực.
+![BUDGETARY ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-29/transition-13414327091-Montserrat-Black-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-43878336558.mp3" type="audio/mpeg">
 </audio>
 
 
 
 ## FUND ACCOUNTING
 
-Một trong những nguyên tắc cơ bản của "kế toán chính phủ" (governmental accounting) là khái niệm "kế toán quỹ" (fund accounting). Không giống như "kế toán truyền thống" (traditional accounting), chủ yếu tập trung vào "lãi và lỗ" (profit and loss) của một "thực thể duy nhất" (single entity), kế toán chính phủ phân loại "các giao dịch tài chính" (financial transactions) ​​thành các "quỹ" khác nhau. " (funds). Các quỹ này là "thực thể kế toán" riêng biệt (accounting entities) được sử dụng để theo dõi và kiểm soát tài nguyên cho "mục đích cụ thể" (specific purposes), chẳng hạn như "quỹ chung" (general funds), "quỹ doanh thu đặc biệt" (special revenue funds) , "quỹ dự án vốn" (capital project funds) và quỹ dịch vụ nợ.
-![FUND ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--9273754488-Montserrat-Black-7B1FA2.jpg)
+Một khía cạnh độc đáo khác của "kế toán chính phủ" (governmental accounting) là khái niệm "kế toán quỹ" (fund accounting). Các cơ quan chính phủ thường vận hành nhiều "quỹ" (funds), mỗi quỹ có bộ "tài nguyên" (resources) và "hạn chế" (restrictions) riêng. Quỹ được sử dụng để tách biệt và theo dõi các hoạt động, chương trình cụ thể hoặc "nguồn doanh thu" (revenue sources). Ví dụ: chính quyền thành phố có thể có quỹ riêng cho "hoạt động chung" (general operations), "dự án vốn" (capital projects) và "nguồn thu đặc biệt" (special revenue sources) như trợ cấp. Kế toán quỹ đảm bảo rằng các nguồn lực được phân bổ và hạch toán phù hợp trong mỗi quỹ.
+![FUND ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-29/transition-19151081405-Montserrat-Medium-9C27B0.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-34065495302.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-11109933727.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## ACCOUNTING
+## FINANCIAL POSITION
 
-Một khía cạnh quan trọng khác của kế toán chính phủ là việc sử dụng "cơ sở dồn tích" đã được sửa đổi (accrual basis) của kế toán. Không giống như cơ sở dồn tích được sử dụng trong "kế toán thương mại" (commercial accounting), cơ sở dồn tích được sửa đổi ghi nhận doanh thu khi chúng vừa có thể đo lường được vừa có sẵn. Tương tự, các khoản chi tiêu được ghi nhận khi chúng phát sinh và có thể đo lường được. Phương pháp này cung cấp một bức tranh chính xác hơn về "vị trí tài chính" (financial position) và hiệu quả hoạt động của các cơ quan chính phủ.
-![ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--16514320803-Montserrat-Black-1A237E.jpg)
+Ngoài báo cáo tài chính, các cơ quan chính phủ được yêu cầu chuẩn bị báo cáo tài chính hàng năm toàn diện (CAFR). CAFR cung cấp cái nhìn tổng quan chi tiết về hoạt động tài chính của một cơ quan chính phủ, bao gồm tình hình tài chính, kết quả hoạt động, dòng tiền và thuyết minh báo cáo tài chính. CAFR rất cần thiết để thể hiện tính minh bạch và trách nhiệm giải trình với các bên liên quan và thường được kiểm toán bên ngoài để đảm bảo tuân thủ các chuẩn mực và quy định kế toán.
+![FINANCIAL POSITION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-29/transition--17432793386-Montserrat-Thin-303F9F.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-10679987651.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-41744059040.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## INTER-PERIOD EQUITY
+## INDEPENDENT AUDITORS
 
-Ngoài "cơ sở dồn tích được sửa đổi" (modified accrual basis), "kế toán chính phủ" (governmental accounting) cũng tuân theo nguyên tắc công bằng giữa các thời kỳ. Nguyên tắc này đảm bảo rằng "doanh thu" (revenues) của kỳ hiện tại đủ để trang trải các "chi phí" (expenses) và "nghĩa vụ" (obligations) liên quan. Nó giúp ngăn chặn sự tích tụ các khoản nợ dài hạn và thúc đẩy "quản lý tài chính" có trách nhiệm (financial management) trong chính phủ.
-![INTER-PERIOD EQUITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-50318811709-Montserrat-Regular-673AB7.jpg)
+Cuối cùng, vai trò của kiểm toán viên rất quan trọng trong "kế toán chính phủ" (governmental accounting). Kiểm toán viên độc lập xem xét "báo cáo tài chính" (financial statements) và hoạt động của "các cơ quan chính phủ" (government entities) để đưa ra sự đảm bảo về tính chính xác, tuân thủ "chuẩn mực kế toán" (accounting standards) và "kiểm soát nội bộ" (internal controls) . Kiểm toán giúp xác định mọi bất thường về tài chính, "điểm yếu" (weaknesses) trong kiểm soát nội bộ hoặc "các lĩnh vực cần cải thiện" (areas for improvement). Chúng đóng vai trò quan trọng trong việc duy trì "tính chính trực" (integrity) của kế toán chính phủ và đảm bảo "niềm tin của công chúng" (public trust) trong quản lý tài chính của các cơ quan chính phủ.
+![INDEPENDENT AUDITORS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-29/transition--15628743225-Montserrat-SemiBold-9C27B0.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-39049436744.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-3417965230.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## TRANSPARENCY
+## PRINCIPLES
 
-Một trong những thách thức chính trong "kế toán chính phủ" (governmental accounting) là nhu cầu về "tính minh bạch" (transparency) và "trách nhiệm giải trình" (accountability). Các cơ quan chính phủ chịu trách nhiệm quản lý "quỹ công" (public funds) và "công dân" (citizens) có quyền biết "tiền thuế" (tax dollars) của họ đang được sử dụng như thế nào. Để đạt được điều này, kế toán chính phủ nhấn mạnh đến "báo cáo tài chính" toàn diện (financial reporting), bao gồm việc lập báo cáo tài chính hàng năm, "báo cáo ngân sách" (budgetary reports) và các "tiết lộ" khác (disclosures). Các báo cáo này cung cấp cái nhìn tổng quan rõ ràng về "hoạt động tài chính" (financial activities) và hiệu quả hoạt động của chính phủ.
-![TRANSPARENCY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-5750313689-Montserrat-Thin-880E4F.jpg)
+Tóm lại, "kế toán chính phủ" (governmental accounting) là một lĩnh vực chuyên biệt tập trung vào "quản lý tài chính" (financial management) và "báo cáo" (reporting) của "các tổ chức chính phủ" (government entities). Nó liên quan đến "các nguyên tắc" (principles) như "trách nhiệm giải trình" (accountability), cơ sở kế toán, "kế toán ngân sách" (budgetary accounting), "kế toán quỹ" (fund accounting) và chuẩn bị báo cáo tài chính hàng năm toàn diện. Thông qua những thực tiễn này, các cơ quan chính phủ đảm bảo "tính minh bạch" (transparency), trách nhiệm giải trình và phân bổ nguồn lực hiệu quả. Kiểm toán viên đóng một vai trò quan trọng trong việc duy trì "tính toàn vẹn" (integrity) của kế toán chính phủ. Hiểu các nguyên tắc và quy trình kế toán chính phủ là điều cần thiết đối với cả các chuyên gia làm việc trong "khu vực công" (public sector) và những công dân muốn có cái nhìn rõ ràng về cách quản lý "tiền thuế" (tax dollars) của họ.
+![PRINCIPLES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-29/transition--97586128075-Montserrat-ExtraBold-9C27B0.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-13641574923.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## COMPLIANCE
-
-Để đảm bảo tính chính xác và độ tin cậy của thông tin tài chính, "kế toán chính phủ" (governmental accounting) cũng tuân thủ một bộ "tiêu chuẩn" (standards) và "nguyên tắc" (guidelines) nghiêm ngặt. Tại Hoa Kỳ, Ủy ban Chuẩn mực Kế toán Chính phủ (GASB) thiết lập các tiêu chuẩn này. GASB đặt ra các "quy tắc" (rules) cho "báo cáo tài chính" (financial reporting) và đảm bảo tính nhất quán và khả năng so sánh giữa các cơ quan chính phủ. Việc tuân thủ các tiêu chuẩn này là điều cần thiết để duy trì "tính chính trực" (integrity) và "sự tín nhiệm" (credibility) của kế toán chính phủ.
-![COMPLIANCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-13213383917-Montserrat-Medium-880E4F.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5020561637.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## PUBLIC DEBT
-
-Một khía cạnh quan trọng của "kế toán chính phủ" (governmental accounting) là quản lý "nợ công" (public debt). Các cơ quan chính phủ thường cần vay vốn để tài trợ cho các dự án dài hạn, chẳng hạn như phát triển cơ sở hạ tầng hoặc "dịch vụ công cộng" (public services). Quản lý nợ hợp lý là rất quan trọng để duy trì "sự ổn định tài chính" (fiscal stability) và tránh gánh nặng quá mức cho các thế hệ tương lai. Kế toán chính phủ cung cấp các công cụ và kỹ thuật để theo dõi mức nợ, đánh giá "khả năng vay" (borrowing capacity) và đảm bảo hoàn trả các nghĩa vụ.
-![PUBLIC DEBT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--2159010132-Montserrat-Regular-673AB7.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-4487163995.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## FINANCIAL MANAGEMENT
-
-Tóm lại, "kế toán chính phủ" (governmental accounting) là một lĩnh vực chuyên biệt đóng vai trò quan trọng trong "quản lý tài chính" (financial management) và báo cáo cho "các tổ chức chính phủ" (government entities). Thông qua việc sử dụng "kế toán quỹ" (fund accounting), "cơ sở dồn tích được sửa đổi" (modified accrual basis) và báo cáo tài chính toàn diện, nó đảm bảo "tính minh bạch" (transparency), "trách nhiệm giải trình" (accountability) và quản lý tài chính có trách nhiệm . Bằng cách tuân thủ "các tiêu chuẩn nghiêm ngặt" (stringent standards) và "nguyên tắc" (guidelines), kế toán chính phủ duy trì "tính chính trực" (integrity) và "độ tin cậy" (credibility) của "thông tin tài chính" (financial information) trong "khu vực công" (public sector). Nó là một công cụ thiết yếu để phân bổ nguồn lực hiệu quả và phúc lợi chung của xã hội.
-![FINANCIAL MANAGEMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--30824368929-Montserrat-Medium-4A148C.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5634578740.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## FINANCIAL REPORTING
-
-Cảm ơn bạn đã xem video này về "kế toán chính phủ" (governmental accounting). Tôi hy vọng bạn thấy nó có nhiều thông tin và hiểu rõ hơn về lĩnh vực quan trọng này. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn khám phá chủ đề này chi tiết hơn, vui lòng để lại nhận xét bên dưới. Hãy theo dõi để biết thêm các video giáo dục về "tài chính" (finance) và kế toán.
-![FINANCIAL REPORTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--26045736621-Montserrat-Black-7B1FA2.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5373291965.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-16796962491.mp3" type="audio/mpeg">
 </audio>
 
