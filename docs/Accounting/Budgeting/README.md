@@ -15,4 +15,6 @@
   - [Business-Budgeting.md](./Business-Budgeting.md)
   - [Non-profit-Budgeting.md](./Non-profit-Budgeting.md)
   - [Personal-Budgeting.md](./Personal-Budgeting.md)
+  - [Personal-budgeting](./Personal-budgeting/)
+    - [Savings-goals.md](./Savings-goals.md)
   - [Personal-budgeting.md](./Personal-budgeting.md)
