@@ -1,111 +1,121 @@
 
 ---
 
-# Khám phá thế giới kiểm toán: Nền tảng của tính liêm chính trong kế toán
+# \"Khám phá thế giới kiểm toán: Hành trình toàn diện thông qua lập kế hoạch, nghiên cứu thực địa, thử nghiệm nội dung và báo cáo!\"
 
-- Published: April 28, 2024
+- Published: May 3, 2024
 - Author: Vietnamese Online Voice
 - Categories: **Accounting**
-- #Accounting #FinancialRecords #Transactions #InternalControls #Accuracy #Reliability #Compliance #LawsAndRegulations #Stakeholders #Investors #Lenders #Shareholders #FinancialInformation #FraudulentActivities #SafeguardAssets #PreventFraud #OperationalAudits #OperationalProcesses #Efficiency #ComplianceAuditing #LawsRegulations #IndustryStandards #AuditTechniques #Evidence #AnalyticalProcedures #TestingInternalControls #AuditProcess #Planning #Fieldwork #AuditReport #AuditorOpinion #AccountingStandards #Transparency #Credibility #FinancialMarkets #AccountingProfession #FinancialIntegrity
+- #Accounting #FinancialRecords #FinancialStatements #Transactions #Auditors #Assurance #Stakeholders #Investors #Shareholders #Lenders #FinancialReporting #Planning #RiskAssessment #InternalControlSystems #Fieldwork #EvidenceGathering #SubstantiveTesting #AnalyticalProcedures #DirectEvidence #Reporting #AuditReport #Communication #AccountingProfession #FinancialIntegrity #TrustworthyFinance #AuditingStandards #AuditQuality #AuditOpinion #FinancialWeaknesses #FraudPrevention #AccountingEthics #ReliableFinance #BusinessTransparency #AccountingRegulations
 
-"Trong video này, tôi sẽ khám phá thế giới kiểm toán hấp dẫn và vai trò quan trọng của nó trong lĩnh vực kế toán. Kiểm toán là hoạt động kiểm tra và xác minh có hệ thống các hồ sơ tài chính, giao dịch và kiểm soát nội bộ của công ty để đảm bảo tính chính xác, độ tin cậy và tuân thủ các quy định luật và quy định hiện hành. Kiểm toán đóng vai trò quan trọng trong việc cung cấp sự đảm bảo cho các bên liên quan, chẳng hạn như nhà đầu tư, người cho vay và cổ đông, về độ tin cậy của thông tin tài chính của công ty. Một trong những mục tiêu chính của kiểm toán là phát hiện và ngăn chặn các hoạt động gian lận. đánh giá hệ thống kiểm soát nội bộ để xác định điểm yếu và đề xuất cải tiến nhằm giảm thiểu rủi ro gian lận. Các Boss có thể xem video hướng dẫn chi tiết ở phía dưới nhé."
+"Trong video này, em sẽ giới thiệu về kiểm tra toán, một khía cạnh cần thiết trong kế toán nghề nghiệp. Trong video này, em sẽ khám phá khái niệm kiểm toán, mục tiêu của nó và các bước chính trong quá trình kiểm tra. Vì vậy, họ hãy bắt đầu kiểm tra! được thực hiện bởi các chuyên gia độc lập được gọi là kiểm tra viên. Mục tiêu chính của kiểm tra là cung cấp sự đảm bảo cho các liên quan, như nhà tư, cổ đông và ngân hàng, thông tin tài chính được thực hiện được trình bày bởi một tổ chức đáng tin cậy. Kiểm tra sự giúp đỡ duy trì ý tưởng trong quá trình báo cáo tài chính." "Các thủ lĩnh có thể xem video hướng dẫn chi tiết ở bên dưới nhé."
 
 
 ## AUDITING
 
-Chào mừng bạn đến với video của tôi về "kiểm toán" (auditing)! Trong video này, tôi sẽ khám phá thế giới kiểm toán hấp dẫn và vai trò quan trọng của nó trong lĩnh vực "kế toán" (accounting). Kiểm toán là "kiểm tra có hệ thống" (systematic examination) và "xác minh" (verification) hồ sơ tài chính, "giao dịch" (transactions) và "kiểm soát nội bộ" (internal controls) của công ty để đảm bảo "tính chính xác" (accuracy ), "độ tin cậy" (reliability) và "tuân thủ" (compliance) với luật và quy định hiện hành. Vì vậy, hãy cùng đi sâu và khám phá tầm quan trọng của kiểm toán trong thế giới kế toán.
-![AUDITING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-22754712268-Montserrat-Regular-1A237E.jpg)
+Chào mừng bạn đến với video của tôi về "kiểm toán" (auditing), một khía cạnh thiết yếu của "nghề kế toán" (accounting profession). Trong video này, tôi sẽ khám phá khái niệm kiểm tra, "mục đích" của nó (purpose) và các bước chính liên quan đến "tiến hành kiểm tra" (conducting an audit). Vì vậy, hãy đi sâu vào!
+![AUDITING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-03/transition--16146512267-Montserrat-Thin-512DA8.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-9704229181.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## FINANCIAL STATEMENTS
-
-Kiểm toán đóng một vai trò quan trọng trong việc cung cấp sự đảm bảo cho các bên liên quan, chẳng hạn như nhà đầu tư, người cho vay và cổ đông, về độ tin cậy của "thông tin tài chính" của công ty (financial information). Bằng cách tiến hành kiểm toán, "kiểm toán viên độc lập" (independent auditors) có thể đánh giá liệu "báo cáo tài chính" (financial statements) có thể hiện "quan điểm trung thực và công bằng" (true and fair view) về tình hình tài chính và hiệu quả hoạt động của công ty hay không.
-![FINANCIAL STATEMENTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-45623116307-Montserrat-Bold-512DA8.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-2144953208.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## INTERNAL CONTROLS
-
-Một trong những mục tiêu chính của "kiểm toán" (auditing) là phát hiện và ngăn chặn "các hoạt động gian lận" (fraudulent activities). Kiểm toán viên được đào tạo để đánh giá "kiểm soát nội bộ" (internal controls) trong một tổ chức, là các biện pháp được đưa ra để "bảo vệ tài sản" (safeguard assets) và ngăn chặn gian lận. Bằng cách "đánh giá" (evaluating) các biện pháp kiểm soát này, "kiểm toán viên" (auditors) có thể xác định các "điểm yếu" tiềm ẩn (weaknesses) và "đề xuất cải tiến" (recommend improvements) để giảm thiểu rủi ro gian lận.
-![INTERNAL CONTROLS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--41173190044-Montserrat-Medium-303F9F.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-25533273516.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## OPERATIONAL AUDITS
-
-Kiểm toán không chỉ giới hạn ở báo cáo tài chính. Nó cũng bao gồm "kiểm toán hoạt động" (operational audits), tập trung vào việc đánh giá "quy trình hoạt động" (operational processes) và "hiệu quả" (efficiency) của tổ chức. Kiểm toán hoạt động giúp xác định các lĩnh vực cần cải tiến, cơ hội tiết kiệm chi phí và nâng cao "năng suất" (productivity) trong tổ chức.
-![OPERATIONAL AUDITS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--2547381426-Montserrat-Thin-303F9F.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-1041048234.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## COMPLIANCE AUDITING
-
-Một khía cạnh quan trọng khác của kiểm tra là "kiểm toán tuân thủ" (compliance auditing). Loại kiểm tra này đảm bảo rằng tổ chức "tuân thủ" (adheres) các luật, quy định cụ thể và "tiêu chuẩn ngành" (industry standards). Kiểm tra tuân thủ giúp xác định mọi "vấn đề không tuân thủ" (non-compliance issues) và đề xuất "hành động khắc phục" (corrective actions) để tránh các hậu quả pháp lý và quy định.
-![COMPLIANCE AUDITING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-22327521528-Montserrat-SemiBold-512DA8.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5077905356.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## FINANCIAL INFORMATION
-
-Trong quá trình "kiểm toán" (audit), "kiểm toán viên" (auditors) sử dụng nhiều "kỹ thuật" (techniques) và "thủ tục" (procedures) để thu thập "bằng chứng" (evidence) và chứng minh "thông tin tài chính" (financial information) do "công ty" trình bày (company). Các kỹ thuật này bao gồm "xem xét tài liệu" (reviewing documents), "tiến hành phỏng vấn" (conducting interviews), thực hiện "quy trình phân tích" (analytical procedures) và kiểm tra kiểm soát nội bộ. Thông qua các thủ tục này, kiểm toán viên có thể hình thành "ý kiến ​​độc lập" (independent opinion) về "tính chính xác" (accuracy) và "độ tin cậy" (reliability) của báo cáo tài chính.
-![FINANCIAL INFORMATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-21128077960-Montserrat-Bold-673AB7.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-45326211386.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-21385980252.mp3" type="audio/mpeg">
 </audio>
 
 
 
 ## SYSTEMATIC EXAMINATION
 
-"Quy trình kiểm tra" (audit process) thường bao gồm một số giai đoạn. Nó bắt đầu với "lập kế hoạch" (planning), trong đó kiểm toán viên hiểu rõ về "hoạt động kinh doanh của tổ chức" (organization's business) và "rủi ro" (risks) và phát triển "chiến lược kiểm toán" (audit strategy). Sau đó đến "giai đoạn điều tra thực địa" (fieldwork stage), trong đó kiểm toán viên thu thập và phân tích "bằng chứng" (evidence), thực hiện "kiểm tra" (tests) và đánh giá "kiểm soát nội bộ" (internal controls). Cuối cùng, kiểm toán viên đưa ra "báo cáo kiểm toán" (audit report), tóm tắt "các phát hiện" (findings), "ý kiến" (opinions) và các khuyến nghị của họ.
-![SYSTEMATIC EXAMINATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--4284338492-Montserrat-Thin-7B1FA2.jpg)
+Kiểm toán là "kiểm tra có hệ thống" (systematic examination) hồ sơ tài chính, báo cáo và giao dịch để đảm bảo tính chính xác, tính toàn vẹn và tuân thủ luật pháp và quy định hiện hành. Nó được thực hiện bởi các chuyên gia độc lập được gọi là kiểm toán viên.
+![SYSTEMATIC EXAMINATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-03/transition-26770871533-Montserrat-Bold-303F9F.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-11682127457.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-19443922925.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## RELIABILITY
+## ASSURANCE
 
-"Báo cáo kiểm toán" (audit report) là sản phẩm quan trọng cung cấp thông tin kết quả kiểm toán cho "các bên liên quan" (stakeholders). Nó bao gồm "ý kiến ​​của kiểm toán viên" (auditor's opinion) về việc liệu "báo cáo tài chính" (financial statements) có được trình bày công bằng và phù hợp với các chuẩn mực kế toán hiện hành hay không. Báo cáo kiểm toán cung cấp "sự minh bạch" (transparency) và nâng cao "độ tin cậy" (credibility) của "thông tin tài chính" (financial information) cho người dùng.
-![RELIABILITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-8528706237-Montserrat-Black-004895.jpg)
+Mục đích chính của kiểm toán là cung cấp "sự đảm bảo" (assurance) cho "các bên liên quan" (stakeholders), chẳng hạn như nhà đầu tư, cổ đông và người cho vay, rằng "thông tin tài chính" (financial information) do tổ chức trình bày là " đáng tin cậy" (reliable) và "đáng tin cậy" (trustworthy). Kiểm toán giúp duy trì sự tin cậy trong quá trình báo cáo tài chính.
+![ASSURANCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-03/transition--1226877942-Montserrat-Thin-4A148C.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-9932605149.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-4657697577.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## ESSENTIAL FUNCTION
+## ACCOUNTING PROFESSION
 
-Tóm lại, "kiểm toán" (auditing) là một "chức năng thiết yếu" (essential function) trong lĩnh vực "kế toán" (accounting). Nó đảm bảo độ tin cậy của thông tin tài chính, phát hiện và ngăn chặn "gian lận" (fraud), xác định hiệu quả hoạt động và đảm bảo "tuân thủ" (compliance) với "luật pháp và quy định" (laws and regulations). Bằng cách cung cấp sự đảm bảo cho "các bên liên quan" (stakeholders), kiểm toán giúp duy trì niềm tin vào "thị trường tài chính" (financial markets) và góp phần vào tính toàn vẹn chung của nghề kế toán.
-![ESSENTIAL FUNCTION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition-6404174912-Montserrat-SemiBold-512DA8.jpg)
+Bước đầu tiên trong quá trình "kiểm tra" (audit) là lập kế hoạch. Kiểm toán viên đánh giá các rủi ro liên quan đến "hoạt động kinh doanh của khách hàng" (client's business) và thiết kế "chiến lược kiểm toán" (audit strategy) tương ứng. Họ thu thập sự hiểu biết về hệ thống kiểm soát nội bộ của khách hàng và xác định các lĩnh vực cần "sự chú ý đặc biệt" (special attention).
+![ACCOUNTING PROFESSION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-03/transition--36770023676-Montserrat-Black-004895.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-9289935451.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-26358769482.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## FIELDWORK
+
+Sau khi lập kế hoạch hoàn tất, kiểm toán viên chuyển sang giai đoạn "điều tra thực địa" (fieldwork). Điều này liên quan đến việc thu thập "bằng chứng" (evidence) thông qua các "thủ tục" khác nhau (procedures), chẳng hạn như "kiểm tra tài liệu" (examining documents), "tiến hành phỏng vấn" (conducting interviews) và thực hiện kiểm tra các giao dịch và số dư. Kiểm toán viên xác minh "tính chính xác" (accuracy) và "tính đầy đủ" (completeness) của "thông tin tài chính" (financial information) trong giai đoạn này.
+![FIELDWORK](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-03/transition-21620452082-Montserrat-Thin-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-36225143818.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## INTERNAL CONTROLS
+
+Trong quá trình điều tra thực địa, "kiểm toán viên" (auditors) cũng đánh giá hệ thống kiểm soát nội bộ tại chỗ. Họ đánh giá tính hiệu quả của các biện pháp kiểm soát và xác định mọi điểm yếu hoặc thiếu sót có thể dẫn đến sai sót hoặc gian lận. Đánh giá này giúp kiểm toán viên xác định mức độ "thử nghiệm cơ bản" (substantive testing) cần thiết.
+![INTERNAL CONTROLS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-03/transition--30648608603-Montserrat-Thin-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-12517263138.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## SUBSTANTIVE TESTING
+
+Thử nghiệm cơ bản bao gồm việc kiểm tra chi tiết "giao dịch tài chính" (financial transactions), "số dư tài khoản" (account balances) và "tài liệu hỗ trợ" (supporting documents). Kiểm toán viên thực hiện "thủ tục phân tích" (analytical procedures) để đánh giá tính hợp lý của các số liệu và tiến hành "kiểm tra chi tiết" (tests of details) để thu được bằng chứng trực tiếp.
+![SUBSTANTIVE TESTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-03/transition-20915240767-Montserrat-Medium-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-22800501396.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## AUDIT REPORT
+
+Sau khi hoàn thành "điều tra thực địa" (fieldwork) và "thử nghiệm cơ bản" (substantive testing), "kiểm toán viên" (auditors) chuyển sang "giai đoạn báo cáo" (reporting stage). Họ tổng hợp các phát hiện và "ý kiến" (opinion) của mình trong một "báo cáo kiểm toán" (audit report). Báo cáo bao gồm ý kiến ​​về "tính công bằng" (fairness) của "báo cáo tài chính" (financial statements) và nêu bật mọi "điểm yếu trọng yếu" (material weaknesses) hoặc "mối lo ngại" (concerns) được phát hiện trong quá trình kiểm toán.
+![AUDIT REPORT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-03/transition--3791983461-Montserrat-SemiBold-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-19176901543.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## RISK MANAGEMENT
+
+Bước cuối cùng là giao tiếp. Kiểm toán viên thảo luận về "các phát hiện" (findings) và "đề xuất" (recommendations) của họ với sự quản lý của "đơn vị được kiểm toán" (audited entity). Chúng cung cấp những hiểu biết sâu sắc có giá trị để cải thiện "kiểm soát nội bộ" (internal controls), "quản lý rủi ro" (risk management) và quy trình báo cáo tài chính.
+![RISK MANAGEMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-03/transition--16067309223-Montserrat-Black-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-9688891421.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## FINANCIAL INFORMATION
+
+Tóm lại, "kiểm toán" (auditing) đóng một vai trò quan trọng trong việc đảm bảo "tính chính xác" (accuracy) và "độ tin cậy" (reliability) của "thông tin tài chính" (financial information). Nó cung cấp sự đảm bảo cho "các bên liên quan" (stakeholders) và giúp duy trì "niềm tin" (trust) trong hệ thống "báo cáo" tài chính (reporting). Thông qua "lập kế hoạch cẩn thận" (careful planning), "điều tra thực địa" (fieldwork), "thử nghiệm cơ bản" (substantive testing), báo cáo và giao tiếp, kiểm toán viên đóng góp vào "tính chính trực" (integrity) của "nghề kế toán" ( accounting profession).
+![FINANCIAL INFORMATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-03/transition--40364442110-Montserrat-Bold-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-15770333876.mp3" type="audio/mpeg">
 </audio>
 
 
 
 ## ACCOUNTING
 
-Điều đó kết thúc video của chúng tôi về "kiểm toán" (auditing). Tôi hy vọng bạn thấy nó có nhiều thông tin và hiểu rõ hơn về tầm quan trọng của kiểm toán trong bối cảnh "kế toán" (accounting). Cảm ơn bạn đã xem và nhớ theo dõi để biết thêm nội dung giáo dục.
-![ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-28/transition--28452664196-Montserrat-ExtraBold-9C27B0.jpg)
+Cảm ơn bạn đã xem video này về "kiểm toán" (auditing). Tôi hy vọng bạn thấy nó có nhiều thông tin và hiểu rõ hơn về "quy trình kiểm tra" (auditing process). Nếu bạn có thắc mắc hoặc muốn tìm hiểu thêm, vui lòng để lại bình luận bên dưới. Hãy theo dõi để biết thêm video về các chủ đề liên quan đến kế toán.
+![ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-03/transition--3735933202-Montserrat-ExtraBold-7B1FA2.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-7376539185.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-4519505158.mp3" type="audio/mpeg">
 </audio>
 
