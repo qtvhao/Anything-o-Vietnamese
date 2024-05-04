@@ -176,6 +176,8 @@
     - [Financial-Ratios.md](./Financial-Ratios.md)
     - [Horizontal-Analysis.md](./Horizontal-Analysis.md)
     - [Profitability-Ratios.md](./Profitability-Ratios.md)
+    - [Ratio-Analysis](./Ratio-Analysis/)
+      - [Debt-to-Equity-Ratio.md](./Debt-to-Equity-Ratio.md)
     - [Trend-Analysis.md](./Trend-Analysis.md)
     - [Vertical-Analysis.md](./Vertical-Analysis.md)
   - [Financial-Statement-Analysis.md](./Financial-Statement-Analysis.md)
