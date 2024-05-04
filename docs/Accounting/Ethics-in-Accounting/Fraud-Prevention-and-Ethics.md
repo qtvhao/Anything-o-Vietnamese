@@ -1,91 +1,111 @@
 
 ---
 
-# Vạch trần gian lận: Hướng dẫn cơ bản về phòng chống gian lận và đạo đức vì một tương lai an toàn
+# Vạch trần sự lừa dối: Nắm vững đạo đức và phòng chống gian lận để có một thế giới kinh doanh đáng tin cậy
 
-- Published: April 24, 2024
+- Published: May 4, 2024
 - Author: Vietnamese Online Voice
 - Categories: Accounting / **Ethics in Accounting**
-- #Ethics #FraudAwareness #InternalControl #SegregationOfDuties #RegularAudits #Whistleblower #CultureOfEthics #Integrity #Honesty #Transparency #Accountability #EthicsTraining #FraudDetection #TechnologicalAdvancements #DataAnalytics #AI #MachineLearning #Collaboration #InformationSharing #FraudTrends #BusinessEthics #Trust #StakeholderTrust #Compliance #LegalCompliance #BeyondCompliance #EthicalBehavior #Fraudsters #CoordinatedApproach #FraudPreventionTools #Anomalies #Patterns #BusinessEnvironment #Misrepresentation #PersonalGain #Harm #FinancialFraud #IdentityTheft #InsiderTrading #DevastatingImpact #FinancialLosses #DamagedReputations #LegalConsequences
+- #EthicsInBusiness #FightFraud #BusinessEthics #HonestyInBusiness #IntegrityMatters #Transparency #SegregationOfDuties #InternalControls #Audits #FraudDetection #ReportingSuspiciousActivities #EmployeeTraining #FraudAwareness #AdvancedAnalytics #DataMonitoring #ArtificialIntelligence #MachineLearning #FraudInvestigation #Collaboration #InformationSharing #IndustryAssociations #LawEnforcement #RegulatoryBodies #ContinuousImprovement #BusinessIntegrity #TrustInBusiness #FraudRiskAssessment #EthicalCulture #FraudSchemes #FraudPreventionStrategies
 
-"Trong video này, tôi sẽ khám phá các khía cạnh quan trọng của việc ngăn chặn gian lận và những cân nhắc về mặt đạo đức xung quanh nó. Gian lận là một vấn đề nghiêm trọng có thể gây ra hậu quả nghiêm trọng cho các cá nhân, tổ chức và toàn xã hội. Bằng cách hiểu tầm quan trọng của việc phòng chống gian lận và duy trì các tiêu chuẩn đạo đức, chúng ta có thể hướng tới một môi trường đáng tin cậy và an toàn hơn: hành vi lừa dối có chủ ý hoặc trình bày sai sự thật để thu lợi cá nhân hoặc gây tổn hại cho người khác. Hành vi này có thể diễn ra dưới nhiều hình thức khác nhau như gian lận tài chính, trộm cắp danh tính hoặc giao dịch nội gián. . Tác động của gian lận có thể rất nghiêm trọng, dẫn đến tổn thất tài chính, danh tiếng bị tổn hại và hậu quả pháp lý. Việc thiết lập các biện pháp mạnh mẽ để ngăn chặn gian lận là điều cần thiết. Một bước cơ bản là tạo ra một hệ thống kiểm soát nội bộ mạnh mẽ với các chính sách, thủ tục và quy trình kiểm soát. nhiệm vụ, kiểm toán thường xuyên và cơ chế tố cáo có thể giảm thiểu cơ hội gian lận và tăng khả năng phát hiện sớm." "Các thủ lĩnh có thể xem video hướng dẫn chi tiết ở bên dưới nhé."
+"Trong video này, em sẽ giới thiệu về Phòng thu khổng lồ và Đạo đức kinh doanh. Trong video này, em sẽ khám phá chủ đề quan trọng về phòng bướm khổng lồ, tầm quan trọng của nó trong công việc duy trì các nguyên tắc Đạo đức kinh doanh và các giải pháp mà các tổ chức có thể áp dụng để bảo vệ hoạt động khoa học nano là một vấn đề nghiêm trọng đối với các doanh nghiệp ở mọi quy mô và ngành nghề. lừa dối hay biểu hiện sai sự thật lợi ích cá nhân, gây tổn hại tài chính chính và làm tổn hại danh tiếng của cá nhân và tổ chức Vì vậy, việc phát triển biện pháp phòng rồng hiệu quả là rất quan trọng Quan trọng để duy trì lòng tin, đóng góp thủ công các tiêu chuẩn đạo đức và bảo vệ lợi ích của các bên liên quan. Một trong những khía cạnh quan trọng của phòng rồng gian nan là thiết lập một văn hóa đạo đức mạnh mẽ trong tổ chức . Điều này bắt đầu từ cách Putin đặt lời nói, nhấn mạnh sự quan trọng của trung thực, chính trực và minh bạch trong mọi giao dịch kinh doanh. Khi nhân viên hiểu được kỳ vọng đạo đức và cảm thấy được hỗ trợ khi báo cáo. các hoạt động đáng mong đợi, điều này tạo nên nền tảng cho phòng nghiên cứu. Các Boss có thể xem video hướng dẫn chi tiết ở bên dưới nhé."
 
 
 ## FRAUD PREVENTION
 
-Chào mừng bạn đến với video của tôi về Phòng chống gian lận và đạo đức. Trong video này, tôi sẽ khám phá các khía cạnh quan trọng của "phòng chống gian lận" (fraud prevention) và "những cân nhắc về mặt đạo đức" (ethical considerations) xung quanh nó. Gian lận là một vấn đề nghiêm trọng có thể gây ra "hậu quả" nghiêm trọng (consequences) đối với "cá nhân" (individuals), "tổ chức" (organizations) và "xã hội" (society) nói chung. Bằng cách hiểu tầm quan trọng của việc ngăn chặn gian lận và duy trì "các tiêu chuẩn đạo đức" (ethical standards), chúng tôi có thể hướng tới một "môi trường an toàn" (secure environment) "đáng tin cậy" hơn (trustworthy). Vì vậy, hãy cùng tìm hiểu và khám phá "các yếu tố chính" (key elements) của "phòng chống gian lận và đạo đức" (fraud prevention and ethics).
-![FRAUD PREVENTION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--1362166427-Montserrat-SemiBold-283593.jpg)
+Chào mừng bạn đến với video của tôi về Phòng chống gian lận và đạo đức. Trong video này, tôi sẽ khám phá chủ đề quan trọng về "phòng chống gian lận" (fraud prevention), tầm quan trọng của nó trong việc duy trì các hoạt động kinh doanh có đạo đức và các biện pháp mà các tổ chức có thể thực hiện để bảo vệ chống lại "các hoạt động gian lận" (fraudulent activities).
+![FRAUD PREVENTION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--15475329464-Montserrat-Black-880E4F.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-11574211671.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-17108635603.mp3" type="audio/mpeg">
 </audio>
 
 
 
 ## FRAUD
 
-Để bắt đầu, hãy định nghĩa "lừa đảo" (fraud). Gian lận đề cập đến việc cố ý lừa dối hoặc trình bày sai sự thật vì "lợi ích cá nhân" (personal gain) hoặc "gây tổn hại cho người khác" (to cause harm to others). Nó có thể có nhiều hình thức khác nhau, chẳng hạn như "gian lận tài chính" (financial fraud), "đánh cắp danh tính" (identity theft) hoặc "giao dịch nội gián" (insider trading). Tác động của gian lận có thể rất "tàn khốc" (devastating), dẫn đến "tổn thất tài chính" (financial losses), "danh tiếng bị tổn hại" (damaged reputations) và thậm chí là "hậu quả pháp lý" (legal consequences). Do đó, điều cần thiết là phải thiết lập "các biện pháp mạnh mẽ" (robust measures) để ngăn chặn gian lận xảy ra ngay từ đầu.
-![FRAUD](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-24412642199-Montserrat-ExtraBold-283593.jpg)
+Gian lận là mối lo ngại nghiêm trọng đối với các doanh nghiệp thuộc mọi quy mô và ngành nghề. Nó liên quan đến việc "lừa dối" có chủ ý (deception) hoặc "trình bày sai" (misrepresentation) vì "lợi ích cá nhân" (personal gain), gây ra "tổn thất tài chính" (financial losses) và làm tổn hại đến "danh tiếng" (reputation) của các cá nhân và các tổ chức như nhau. Do đó, việc thực hiện các biện pháp ngăn chặn "lừa đảo" (fraud) hiệu quả là điều cần thiết để duy trì "niềm tin" (trust), duy trì "tiêu chuẩn đạo đức" (ethical standards) và bảo vệ lợi ích của "các bên liên quan" (stakeholders).
+![FRAUD](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition-17795559218-Montserrat-SemiBold-9C27B0.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-13099286375.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5830664343.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## INTERNAL CONTROL SYSTEM
+## ETHICAL CULTURE
 
-Một trong những bước cơ bản trong "phòng chống gian lận" (fraud prevention) là tạo ra một "hệ thống kiểm soát nội bộ" mạnh mẽ (internal control system). Hệ thống này bao gồm các chính sách, thủ tục và giao thức được thiết kế để phát hiện và ngăn chặn "các hoạt động lừa đảo" (fraudulent activities). Bằng cách triển khai các biện pháp kiểm soát như "phân chia nhiệm vụ" (segregation of duties), "kiểm toán thường xuyên" (regular audits) và cơ chế tố giác, các tổ chức có thể giảm thiểu cơ hội xảy ra gian lận và tăng khả năng phát hiện sớm.
-![INTERNAL CONTROL SYSTEM](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--27425552196-Montserrat-ExtraBold-4A148C.jpg)
+Một trong những khía cạnh quan trọng của "phòng chống gian lận" (fraud prevention) là thiết lập một "văn hóa đạo đức" mạnh mẽ (ethical culture) trong một tổ chức. Điều này bắt đầu với giọng điệu do "quản lý cấp cao" (top management) đặt ra, nhấn mạnh tầm quan trọng của "trung thực" (honesty), "chính trực" (integrity) và "minh bạch" (transparency) trong tất cả "giao dịch kinh doanh" (business dealings). Khi nhân viên hiểu được "kỳ vọng về đạo đức" (ethical expectations) và cảm thấy được hỗ trợ trong việc báo cáo các hoạt động đáng ngờ, điều đó sẽ tạo nền tảng cho việc ngăn chặn gian lận.
+![ETHICAL CULTURE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--2604100237-Montserrat-Thin-7B1FA2.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-8059979594.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-16638153094.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## CULTURE OF ETHICS
+## INTERNAL CONTROLS
 
-Một khía cạnh quan trọng khác của "phòng chống gian lận" (fraud prevention) là thúc đẩy "văn hóa đạo đức" (culture of ethics) và "tính chính trực" (integrity) trong một tổ chức. Hành vi đạo đức phải được thấm nhuần vào "giá trị" (values) và "hành vi" (behaviors) của tất cả nhân viên, từ giám đốc điều hành cấp cao nhất đến nhân viên tuyến đầu. Bằng cách nuôi dưỡng văn hóa khuyến khích "trung thực" (honesty), "minh bạch" (transparency) và "trách nhiệm giải trình" (accountability), các tổ chức có thể tạo ra một môi trường nơi các hoạt động gian lận ít có khả năng xảy ra hơn. Điều cần thiết là cung cấp "đào tạo đạo đức" (ethics training) và "nhắc nhở thường xuyên" (regular reminders) để củng cố các tiêu chuẩn đạo đức trong toàn tổ chức.
-![CULTURE OF ETHICS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-11076963630-Montserrat-SemiBold-7B1FA2.jpg)
+"Phòng chống gian lận" hiệu quả (fraud prevention) cũng yêu cầu kiểm soát nội bộ mạnh mẽ. Những biện pháp kiểm soát này bao gồm sự phân chia nhiệm vụ, trong đó các cá nhân khác nhau chịu trách nhiệm về các giai đoạn khác nhau của một quy trình, ngăn cản một người duy nhất có toàn quyền kiểm soát. Kiểm toán thường xuyên và đánh giá độc lập giúp xác định mọi lỗ hổng hoặc điểm yếu trong các hệ thống và quy trình hiện có, cho phép khắc phục kịp thời.
+![INTERNAL CONTROLS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--41822909456-Montserrat-ExtraBold-512DA8.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-7702986670.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5447484264.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## FRAUDULENT ACTIVITIES
+
+Các chương trình đào tạo và nâng cao nhận thức đóng vai trò quan trọng trong việc "phòng chống gian lận" (fraud prevention). Bằng cách giáo dục nhân viên về các loại gian lận khác nhau, các dấu hiệu cảnh báo cần đề phòng và "cơ chế báo cáo" (reporting mechanisms), các tổ chức "trao quyền" (empower) "lực lượng lao động" (workforce) của họ trở nên "cảnh giác" " (vigilant) và "chủ động" (proactive) trong "phát hiện" (detecting) và "ngăn chặn" (preventing) "các hoạt động lừa đảo" (fraudulent activities). Đào tạo liên tục đảm bảo rằng nhân viên luôn cập nhật "xu hướng gian lận mới nổi" (emerging fraud trends) và "kỹ thuật" (techniques).
+![FRAUDULENT ACTIVITIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition-30015790316-Montserrat-ExtraBold-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-1252658253.mp3" type="audio/mpeg">
 </audio>
 
 
 
 ## TECHNOLOGY
 
-Khi nói đến "phòng chống gian lận" (fraud prevention), công nghệ đóng một vai trò quan trọng. Các tổ chức nên tận dụng những tiến bộ công nghệ để triển khai các công cụ ngăn chặn và "phát hiện gian lận" hiệu quả (fraud detection). Chúng có thể bao gồm phân tích dữ liệu, "thuật toán" dựa trên AI (algorithms) và hệ thống máy học có thể phân tích "khối lượng lớn dữ liệu" (large volumes of data) để xác định "bất thường" (anomalies) và "mẫu" (patterns ) cho thấy "hoạt động lừa đảo" (fraudulent activities). Việc áp dụng công nghệ giúp các tổ chức có thể đi trước những kẻ lừa đảo và nâng cao khả năng ngăn chặn cũng như phát hiện gian lận một cách kịp thời.
-![TECHNOLOGY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--47275503114-Montserrat-SemiBold-7B1FA2.jpg)
+Triển khai các giải pháp công nghệ mạnh mẽ là một thành phần thiết yếu khác của công tác phòng chống gian lận. Các công cụ giám sát dữ liệu và phân tích nâng cao có thể giúp xác định các mẫu và điểm bất thường có thể chỉ ra hành vi gian lận. Bằng cách tận dụng trí tuệ nhân tạo và thuật toán học máy, các tổ chức có thể nâng cao khả năng phát hiện và ứng phó với các hoạt động gian lận trong thời gian thực.
+![TECHNOLOGY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition-26890467142-Montserrat-Thin-9C27B0.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-27885984864.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-18278292477.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## INFORMATION SHARING
+## INDUSTRY ASSOCIATIONS
 
-Hợp tác và "chia sẻ thông tin" (information sharing) cũng là những thành phần chính của "phòng chống gian lận" (fraud prevention). Các tổ chức nên tích cực tham gia vào "quan hệ đối tác" (partnerships) và chia sẻ kiến ​​thức cũng như "các phương pháp thực hành tốt nhất" (best practices) với các đơn vị khác trong ngành của họ. Bằng cách cộng tác với các cơ quan thực thi pháp luật, "cơ quan quản lý" (regulatory bodies) và các tổ chức khác, họ có thể cùng nhau làm việc hướng tới một "cách tiếp cận phối hợp" và mạnh mẽ hơn (coordinated approach) để "chống gian lận" (combating fraud). Chia sẻ thông tin về "xu hướng lừa đảo mới nổi" (emerging fraud trends) và "kỹ thuật" (techniques) có thể giúp tất cả các bên đi trước những kẻ lừa đảo một bước.
-![INFORMATION SHARING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--18661174584-Montserrat-Medium-4A148C.jpg)
+Hợp tác và chia sẻ thông tin là rất quan trọng trong cuộc chiến chống "lừa đảo" (fraud). Các tổ chức có thể hưởng lợi từ việc tham gia vào "hiệp hội ngành" (industry associations) và chia sẻ "các phương pháp hay nhất" (best practices) và các chiến lược ngăn chặn gian lận. Ngoài ra, việc thiết lập mối quan hệ chặt chẽ với các cơ quan thực thi pháp luật và "cơ quan quản lý" (regulatory bodies) có thể hỗ trợ "báo cáo kịp thời" (timely reporting) và "điều tra" (investigation) về "các trường hợp gian lận tiềm ẩn" (potential fraud cases).
+![INDUSTRY ASSOCIATIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--16515119798-Montserrat-Regular-7B1FA2.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-7237189421.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## ETHICAL BEHAVIOR
-
-Cuối cùng, điều quan trọng cần nhớ là "phòng chống gian lận" (fraud prevention) không chỉ đơn thuần là "tuân thủ" (compliance) với "luật pháp và quy định" (laws and regulations). Các tổ chức nên cố gắng duy trì "tiêu chuẩn đạo đức" cao nhất (ethical standards), ngay cả khi điều đó có thể không được pháp luật bắt buộc. Hành vi đạo đức liên quan đến việc "làm điều đúng" (doing what is right), bất kể điều đó có được yêu cầu rõ ràng hay không. Bằng cách ưu tiên đạo đức, các tổ chức có thể xây dựng "niềm tin" (trust) với "các bên liên quan" (stakeholders) của họ và đóng góp vào một "môi trường kinh doanh" đạo đức hơn (business environment) nói chung.
-![ETHICAL BEHAVIOR](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-14835457948-Montserrat-Bold-512DA8.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-350974792.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-9891884217.mp3" type="audio/mpeg">
 </audio>
 
 
 
 ## FRAUD PREVENTION AND ETHICS
 
-Tóm lại, "phòng chống gian lận" (fraud prevention) và "đạo đức" (ethics) không thể tách rời trong việc tạo ra một môi trường an toàn và đáng tin cậy. Bằng cách triển khai "kiểm soát nội bộ" mạnh mẽ (internal controls), nuôi dưỡng "văn hóa đạo đức" (ethical culture), tận dụng "công nghệ" (technology), cộng tác với những người khác và duy trì "tiêu chuẩn đạo đức cao" (high ethical standards), các tổ chức có thể ngăn chặn gian lận một cách hiệu quả và bảo vệ các bên liên quan của họ. Hãy nhớ rằng, ngăn chặn gian lận không chỉ là "nghĩa vụ pháp lý" (legal obligation) mà còn là "mệnh lệnh đạo đức" (moral imperative). Tất cả chúng ta hãy cùng nhau xây dựng một thế giới nơi "sự trung thực" (honesty) và sự liêm chính chiếm ưu thế. Cảm ơn bạn đã xem video này về Phòng chống gian lận và đạo đức.
-![FRAUD PREVENTION AND ETHICS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-59000473521-Montserrat-Bold-673AB7.jpg)
+Cuối cùng, điều quan trọng cần nhớ là "phòng chống gian lận" (fraud prevention) là một "quá trình đang diễn ra" (ongoing process). Các tổ chức phải thường xuyên đánh giá lại "rủi ro gian lận" (fraud risks), điều chỉnh "chiến lược phòng ngừa" (prevention strategies) để phù hợp với "các mối đe dọa ngày càng gia tăng" (evolving threats) và luôn cập nhật về "các kế hoạch gian lận mới" (new fraud schemes). Bằng cách thúc đẩy văn hóa cải tiến liên tục và duy trì "cảnh giác" (vigilant), doanh nghiệp có thể "ngăn chặn gian lận" (deter fraud) một cách hiệu quả và duy trì các tiêu chuẩn đạo đức.
+![FRAUD PREVENTION AND ETHICS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition-1472193275-Montserrat-Regular-4A148C.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-14181158476.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-1240386293.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## INTEGRITY
+
+Tóm lại, "phòng chống gian lận" (fraud prevention) không chỉ là bảo vệ "tài sản tài chính" (financial assets); đó là việc duy trì "sự chính trực" (integrity) và "danh tiếng" (reputation) của một tổ chức. Bằng cách thiết lập "văn hóa đạo đức" (ethical culture), triển khai "kiểm soát nội bộ" mạnh mẽ (internal controls), cung cấp "đào tạo toàn diện" (comprehensive training), tận dụng "công nghệ" (technology), thúc đẩy "sự hợp tác" (collaboration) , và áp dụng "cải tiến liên tục" (continuous improvement), doanh nghiệp có thể ngăn chặn gian lận một cách hiệu quả và thúc đẩy các thực hành đạo đức. Cùng nhau, chúng ta có thể tạo ra một môi trường kinh doanh được xây dựng trên "niềm tin" (trust), "minh bạch" (transparency) và tính chính trực.
+![INTEGRITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--65862734535-Montserrat-SemiBold-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-29326270765.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## ETHICS
+
+Cảm ơn bạn đã xem video này về Phòng chống gian lận và đạo đức. Hãy nhớ rằng ngăn chặn gian lận là trách nhiệm của mọi người và bằng cách làm việc cùng nhau, chúng ta có thể xây dựng một "thế giới kinh doanh" đạo đức hơn (business world).
+![ETHICS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition-15802352454-Montserrat-Regular-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-15742153339.mp3" type="audio/mpeg">
 </audio>
 
