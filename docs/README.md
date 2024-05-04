@@ -238,6 +238,8 @@
     - [Public-Accounting.md](./Accounting/Public-Accounting.md)
     - [Social-Accounting.md](./Accounting/Social-Accounting.md)
     - [Tax-Accounting](./Accounting/Tax-Accounting)
+      - [Corporate-Tax-Accounting](./Accounting/Tax-Accounting/Corporate-Tax-Accounting)
+        - [Corporate-Tax-Planning.md](./Accounting/Tax-Accounting/Corporate-Tax-Accounting/Corporate-Tax-Planning.md)
       - [Individual-Tax-Accounting.md](./Accounting/Tax-Accounting/Individual-Tax-Accounting.md)
       - [Tax-Audits.md](./Accounting/Tax-Accounting/Tax-Audits.md)
       - [Tax-Compliance.md](./Accounting/Tax-Accounting/Tax-Compliance.md)
