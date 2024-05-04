@@ -1,111 +1,101 @@
 
 ---
 
-# Giải phóng sức mạnh của việc phân tích bảng cân đối kế toán: Hướng dẫn toàn diện để đánh giá sức khỏe và sự ổn định tài chính!
+# Giải phóng sức mạnh của việc phân tích bảng cân đối kế toán: Hướng dẫn toàn diện để đánh giá tình hình tài chính của công ty!
 
-- Published: April 24, 2024
+- Published: May 4, 2024
 - Author: Vietnamese Online Voice
 - Categories: Accounting / **Financial Statement Analysis**
-- #FinancialStatements #Assets #Liabilities #ShareholdersEquity #FinancialPosition #Investors #FinancialAnalysts #Liquidity #FinancialHealth #FinancialStability #AccountingEquation #CurrentAssets #CurrentLiabilities #Cash #AccountsReceivable #Inventory #PropertyPlantEquipment #Investments #AccountsPayable #Loans #Bonds #AccruedExpenses #FinancialRisk #DebtLevels #RetainedEarnings #CurrentRatio #DebtToEquityRatio #ReturnOnEquity #FinancialPerformance #FinancialSolvency #EquityFinancing #Profitability #NetIncome #ShareholderInvestments #FinancialManagement #BusinessEvaluation
+- #FinancialAnalysis #FinancialHealth #FinancialPosition #FinancialStatement #Assets #Liabilities #ShareholdersEquity #Liquidity #ShortTermObligations #CurrentAssets #CurrentLiabilities #Solvency #LongTermObligations #ReturnOnAssets #ReturnOnEquity #CapitalStructure #DebtToEquity #TangibleAssets #IntangibleAssets #FinancialRisk #FinancialFlexibility #FinancialManagement #InvestmentAnalysis #StakeholderDecisions #FinancialViability #AccountingEquation #FundamentalAnalysis #BusinessFinance #CompanyEvaluation #FinancialRatioAnalysis #FinancialStability #InvestorsInsights #CompanyFinancials #IntellectualProperty #PropertyPlantEquipment #Goodwill #Patents #FinancialReporting #FinancialMetrics #FinancialPerformance #FinancialStrength #FinancialRatios #ROA #ROE
 
-"Trong video này, em sẽ giới thiệu về phân tích bảng cân đối kế toán. Bằng video này, em sẽ khám phá các khái niệm và kỹ thuật cơ bản được sử dụng để phân tích bảng cân đối kế toán của một công ty. Hiểu về bảng cân đối kế toán là rất quan trọng đối với nhà đầu tư, các nhà phân tích tài chính và những người quan tâm đến việc đánh giá sức khỏe tài chính và sự ổn định của một doanh nghiệp. Vậy thì, chúng ta hãy bắt đầu! Bảng cân đối kế toán là một báo cáo tài chính cung cấp một cái nhìn tổng quan về tình hình tài chính của một công ty tại một thời điểm cụ thể. Nó bao gồm ba thành phần chính: tài sản, nợ phải trả và vốn chủ sở hữu. Bảng cân đối kế toán tuân theo nguyên tắc kế toán cơ bản, mà theo đó tài sản bằng tổng nợ phải trả cộng với vốn chủ sở hữu. Thành phần đầu tiên của bảng cân đối kế toán là tài sản. Tài sản đại diện cho tất cả những gì công ty sở hữu có giá trị. Chúng có thể bao gồm tiền mặt, tài khoản phải thu, hàng tồn kho, tài sản cố định và đầu tư. Phân tích thành phần và chất lượng của tài sản của một công ty có thể cung cấp thông tin về tính thanh khoản, hiệu suất hoạt động và tiềm năng tăng trưởng dài hạn của công ty. Các sếp có thể xem video hướng dẫn chi tiết ở phía dưới nhé."
+"Trong video này, em sẽ giới thiệu về phân tích bảng cân đối kế toán. Trong video này, em sẽ khám phá các nguyên tắc cơ bản của phân tích bảng cân đối kế toán và hiểu về tầm quan trọng của nó trong công việc Đánh giá tình hình tài chính của một công ty. Đến cuối video này, bạn sẽ hiểu cách giải thích và phân tích thông tin được trình bày trong bảng cân đối kế toán. Bảng cân đối kế toán là một báo cáo tài chính chính cung cấp một cái nhìn tổng thể về tình hình tài chính chính của một công ty tại một thời điểm cụ thể. Nó trình bày tài sản, nợ phải trả và chủ sở hữu vốn. của công ty. Bảng cân đối kế toán cơ bản kế toán: Tài sản = Nợ + vốn chủ sở hữu. Một trong những mục tiêu quan trọng của bảng cân đối kế toán là đánh giá tính toán của tài khoản. a company tính toán các tài khoản có khả năng của một công ty để đáp ứng thời hạn ngắn của dịch vụ đó. Bằng cách xem xét thành phần của tài sản ngắn hạn và nợ phải trả ngắn hạn, các nhà phân tích có thể trả tiền. xác định xem một công ty có đủ nguồn lực để đảm bảo các nhiệm vụ chính tài chính ngay lập tức hay không. Các Boss có thể xem video hướng dẫn chi tiết ở bên dưới nhé."
 
 
 ## BALANCE SHEET ANALYSIS
 
-Chào mừng bạn đến với video của tôi về "phân tích bảng cân đối kế toán" (balance sheet analysis). Trong video này, tôi sẽ khám phá các "khái niệm" cơ bản (concepts) và "kỹ thuật" (techniques) được sử dụng để phân tích bảng cân đối kế toán của công ty. Hiểu bảng cân đối kế toán là "cần thiết" (essential) đối với "nhà đầu tư" (investors), "nhà phân tích tài chính" (financial analysts) và bất kỳ ai quan tâm đến việc "đánh giá" (evaluating) "sức khỏe tài chính" (financial health) và "sự ổn định" (stability) của một "doanh nghiệp" (business). Vì vậy, hãy đi sâu vào!
-![BALANCE SHEET ANALYSIS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-3657715067-Montserrat-SemiBold-1A237E.jpg)
+Chào mừng bạn đến với video của tôi về Phân tích bảng cân đối kế toán. Trong video này, tôi sẽ khám phá các nguyên tắc cơ bản của việc phân tích bảng cân đối kế toán và hiểu tầm quan trọng của nó trong việc đánh giá tình hình tài chính của một công ty. Đến cuối video này, bạn sẽ hiểu vững chắc về cách diễn giải và phân tích thông tin được trình bày trong bảng cân đối kế toán.
+![BALANCE SHEET ANALYSIS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition-12843735192-Montserrat-ExtraBold-7B1FA2.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-23725190772.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-27503475472.mp3" type="audio/mpeg">
 </audio>
 
 
 
 ## BALANCE SHEET
 
-"Bảng cân đối kế toán" (balance sheet) là một "báo cáo tài chính" (financial statement) cung cấp ảnh chụp nhanh về tình hình tài chính của công ty tại một thời điểm cụ thể. Nó bao gồm ba thành phần chính: "tài sản" (assets), "nợ" (liabilities) và "vốn chủ sở hữu" của cổ đông (equity). Bảng cân đối kế toán tuân theo phương trình kế toán cơ bản, trong đó nêu rõ tài sản bằng nợ phải trả cộng với vốn chủ sở hữu của cổ đông.
-![BALANCE SHEET](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--13670535728-Montserrat-Regular-512DA8.jpg)
+Hãy bắt đầu bằng cách hiểu "bảng cân đối kế toán" (balance sheet) là gì. Bảng cân đối kế toán là một "báo cáo tài chính" (financial statement) cung cấp ảnh chụp nhanh về "tình hình tài chính" của công ty (financial position) tại một thời điểm cụ thể. Nó trình bày "tài sản" (assets), "nợ phải trả" (liabilities) của công ty và vốn chủ sở hữu của cổ đông. Bảng cân đối kế toán tuân theo "phương trình kế toán" cơ bản (accounting equation): Tài sản = Nợ phải trả + Vốn chủ sở hữu của cổ đông.
+![BALANCE SHEET](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--37164650017-Montserrat-Medium-1A237E.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-17069615981.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-1523605190.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## ASSETS
+## BALANCE SHEET ANALYSIS
 
-Thành phần đầu tiên của "bảng cân đối kế toán" (balance sheet) là "tài sản" (assets). Tài sản đại diện cho mọi thứ mà công ty sở hữu có giá trị. Chúng có thể bao gồm tiền mặt, tài khoản phải thu, "hàng tồn kho" (inventory), tài sản, nhà xưởng và thiết bị cũng như "khoản đầu tư" (investments). Phân tích thành phần và chất lượng của "tài sản của công ty" (company's assets) có thể cung cấp cái nhìn sâu sắc về "tính thanh khoản" (liquidity), "hiệu quả hoạt động" (operational efficiency) và tiềm năng tăng trưởng dài hạn của nó.
-![ASSETS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--25946335135-Montserrat-Regular-303F9F.jpg)
+Một trong những mục tiêu chính của "phân tích bảng cân đối kế toán" (balance sheet analysis) là đánh giá "tính thanh khoản" của công ty (liquidity). Tính thanh khoản đề cập đến khả năng đáp ứng các nghĩa vụ ngắn hạn của công ty. Bằng cách kiểm tra thành phần của "tài sản hiện tại" (current assets) và "nợ ngắn hạn" (current liabilities), các nhà phân tích có thể xác định liệu một công ty có đủ nguồn lực để trang trải các nghĩa vụ tài chính trước mắt của mình hay không.
+![BALANCE SHEET ANALYSIS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition-16605522240-Montserrat-Black-9C27B0.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-51338328537.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-22303195594.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## LIABILITIES
+## SOLVENCY
 
-Thành phần thứ hai của bảng cân đối kế toán là "nợ phải trả" (liabilities). Nợ phải trả là "nghĩa vụ và các khoản nợ" (obligations and debts) mà công ty nợ các bên bên ngoài. Chúng có thể bao gồm "các tài khoản phải trả" (accounts payable), "các khoản vay" (loans), "trái phiếu" (bonds) và "chi phí dồn tích" (accrued expenses). Phân tích các khoản nợ của công ty giúp đánh giá khả năng đáp ứng các nghĩa vụ ngắn hạn và dài hạn, đánh giá "đòn bẩy hoặc mức nợ" (leverage or debt levels) và hiểu hồ sơ rủi ro tài chính của công ty.
-![LIABILITIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-25938265238-Montserrat-ExtraBold-9C27B0.jpg)
+Một khía cạnh quan trọng khác của phân tích bảng cân đối kế toán là đánh giá "khả năng thanh toán" của công ty (solvency). Khả năng thanh toán đề cập đến khả năng tồn tại tài chính dài hạn của công ty và khả năng đáp ứng các nghĩa vụ dài hạn của công ty. Bằng cách phân tích tỷ lệ nợ dài hạn trên tổng tài sản, các nhà phân tích có thể đánh giá liệu một công ty có "sức mạnh tài chính" (financial strength) để thực hiện các cam kết dài hạn của mình hay không.
+![SOLVENCY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--1598212308-Montserrat-Black-004895.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-17844465604.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-3853608081.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## SHAREHOLDERS' EQUITY
+## PROFITABILITY
 
-Thành phần cuối cùng của bảng cân đối kế toán là vốn chủ sở hữu của cổ đông. Vốn chủ sở hữu của cổ đông thể hiện "lợi ích còn lại" (residual interest) trong "tài sản của công ty" (company's assets) sau khi trừ đi "nợ" (liabilities). Nó bao gồm "vốn ban đầu" (initial capital) do các cổ đông đầu tư và "thu nhập giữ lại" (retained earnings). Phân tích vốn chủ sở hữu của cổ đông giúp xác định "khả năng thanh toán tài chính" (financial solvency), khả năng "tạo ra lợi nhuận" của công ty (generate profits) và mức độ phụ thuộc vào nguồn tài trợ bên ngoài.
-![SHAREHOLDERS' EQUITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--3583242542-Montserrat-Thin-673AB7.jpg)
+Điều quan trọng nữa là đánh giá "hiệu quả của công ty" (company's efficiency) và lợi nhuận thông qua "phân tích bảng cân đối kế toán" (balance sheet analysis). Các tỷ lệ như "lợi nhuận trên tài sản" (return on assets) (ROA) và "lợi nhuận trên vốn chủ sở hữu" (return on equity) (ROE) có thể cung cấp cái nhìn sâu sắc về mức độ hiệu quả của một công ty "sử dụng tài sản của mình" (utilizes its assets) và "tạo ra lợi nhuận" (generates profits). Các tỷ lệ này giúp "nhà đầu tư" (investors) và "nhà phân tích" (analysts) hiểu được khả năng tạo ra lợi nhuận của công ty từ các nguồn lực mà công ty sử dụng.
+![PROFITABILITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition-1947813898-Montserrat-Bold-1A237E.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-43511903170.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-16037439504.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## DEBT-TO-EQUITY RATIO
+## BALANCE SHEET
 
-Bây giờ chúng ta đã hiểu các thành phần của bảng cân đối kế toán, hãy thảo luận về một số tỷ lệ và số liệu chính được sử dụng trong phân tích bảng cân đối kế toán. Những tỷ lệ này cung cấp những hiểu biết có giá trị về hiệu quả hoạt động và sự ổn định tài chính của công ty. Một số tỷ lệ thường được sử dụng bao gồm "tỷ lệ hiện tại" (current ratio), tỷ lệ nợ trên vốn chủ sở hữu và "lợi nhuận trên vốn chủ sở hữu" (return on equity).
-![DEBT-TO-EQUITY RATIO](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-44200507046-Montserrat-Regular-512DA8.jpg)
+Ngoài ra, "phân tích bảng cân đối kế toán" (balance sheet analysis) có thể khám phá thông tin có giá trị về "cơ cấu vốn" của công ty (capital structure). Bằng cách kiểm tra tỷ lệ nợ trên vốn chủ sở hữu, các nhà phân tích có thể xác định "rủi ro tài chính" (financial risk) liên quan đến một công ty. "Mức nợ cao" (high level of debt) có thể cho thấy rủi ro gia tăng vì nó có thể dẫn đến "các khoản thanh toán lãi" cao hơn (interest payments) và hạn chế tính linh hoạt tài chính của công ty.
+![BALANCE SHEET](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition-6140484691-Montserrat-Thin-512DA8.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-2015856515.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-35149465100.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## CURRENT RATIO
+## ASSETS COMPOSITION
 
-"Tỷ lệ hiện tại" (current ratio) so sánh "tài sản hiện tại" (current assets) của công ty với "nợ ngắn hạn" (current liabilities). Nó đo lường tính thanh khoản ngắn hạn của công ty và khả năng trang trải các nghĩa vụ ngắn hạn của công ty. Tỷ lệ hiện tại cao hơn cho thấy mức độ thanh khoản và ổn định tài chính cao hơn.
-![CURRENT RATIO](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--611888595-Montserrat-Regular-512DA8.jpg)
+Hơn nữa, việc phân tích thành phần tài sản của công ty có thể tiết lộ những hiểu biết có giá trị. Ví dụ: kiểm tra tỷ lệ "tài sản hữu hình" (tangible assets) (chẳng hạn như tài sản, nhà máy và thiết bị) so với "tài sản vô hình" (intangible assets) (chẳng hạn như "bằng sáng chế hoặc thiện chí" (patents or goodwill)) có thể đưa ra kết luận hiểu biết về khoản đầu tư của công ty vào tài sản vật chất so với "sở hữu trí tuệ" (intellectual property).
+![ASSETS COMPOSITION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition-7126245758-Montserrat-Bold-673AB7.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-30769872464.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-42453835308.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## DEBT-TO-EQUITY RATIO
+## FINANCIAL POSITION
 
-Tỷ lệ nợ trên vốn chủ sở hữu so sánh tổng nợ của công ty với vốn chủ sở hữu của cổ đông. Nó đo lường "đòn bẩy" của công ty (leverage) hoặc mức độ công ty dựa vào "tài trợ bằng nợ" (debt financing). Tỷ lệ nợ trên vốn chủ sở hữu cao hơn cho thấy "rủi ro tài chính" (financial risk) cao hơn và những khó khăn tiềm ẩn trong việc đáp ứng các nghĩa vụ nợ.
-![DEBT-TO-EQUITY RATIO](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--10925032056-Montserrat-Regular-1A237E.jpg)
+Tóm lại, "phân tích bảng cân đối" (balance sheet analysis) là một công cụ quan trọng để hiểu "sức khỏe tài chính" (financial health) và "sự ổn định" (stability) của công ty. Bằng cách kiểm tra "tính thanh khoản" (liquidity), "khả năng thanh toán" (solvency), "hiệu quả" (efficiency), "khả năng sinh lời" (profitability), "cơ cấu vốn" (capital structure) và "thành phần tài sản" (# 4902772345), các nhà phân tích có thể có được những hiểu biết có giá trị về tình hình tài chính tổng thể của công ty. Được trang bị kiến ​​thức này, "nhà đầu tư" (investors) và "các bên liên quan" (stakeholders) có thể đưa ra quyết định sáng suốt hơn về "đầu tư" (investing), "cho vay" (lending) hoặc hợp tác với một công ty.
+![FINANCIAL POSITION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--37738352940-Montserrat-Black-7B1FA2.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-926278234.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-41279112233.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## RETURN ON EQUITY
+## FINANCIAL STATEMENT ANALYSIS
 
-"Lợi nhuận trên vốn chủ sở hữu" (return on equity) (ROE) đo lường khả năng sinh lời của một công ty bằng cách so sánh "thu nhập ròng" (net income) với vốn chủ sở hữu của cổ đông. Nó cho thấy công ty sử dụng vốn chủ sở hữu hiệu quả như thế nào để tạo ra lợi nhuận. ROE cao hơn thường biểu thị "hiệu quả tài chính" (financial performance) tốt hơn và "sử dụng hiệu quả" (efficient use) các khoản đầu tư của cổ đông.
-![RETURN ON EQUITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--2149973712-Montserrat-Medium-512DA8.jpg)
+Tôi hy vọng video này đã cung cấp cho bạn cái nhìn tổng quan toàn diện về "phân tích bảng cân đối kế toán" (balance sheet analysis). Hãy nhớ rằng, việc phân tích bảng cân đối kế toán đòi hỏi sự hiểu biết thấu đáo về "các tỷ số tài chính" (financial ratios) và ý nghĩa của chúng. Hãy tiếp tục khám phá, học hỏi và thực hành các kỹ năng diễn giải bảng cân đối kế toán của bạn, vì nó sẽ nâng cao đáng kể khả năng đánh giá "hiệu quả tài chính" của công ty (financial performance). Cảm ơn bạn đã xem, và hãy theo dõi để biết thêm nhiều video hữu ích.
+![FINANCIAL STATEMENT ANALYSIS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--24726110093-Montserrat-Medium-7B1FA2.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-10598581475.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## FINANCIAL HEALTH
-
-Tóm lại, phân tích "bảng cân đối kế toán" (balance sheet) là một công cụ quan trọng để đánh giá "sức khỏe tài chính" (financial health) và "sự ổn định" (stability) của công ty. Bằng cách hiểu các thành phần của bảng cân đối kế toán và phân tích "các tỷ lệ chính" (key ratios), "nhà đầu tư" (investors) và "nhà phân tích tài chính" (financial analysts) có thể đưa ra quyết định sáng suốt về "đầu tư" (investments), đánh giá "hồ sơ rủi ro của công ty" (company's risk profile) và xác định các lĩnh vực tiềm ẩn cần quan tâm. Hãy nhớ rằng, phân tích bảng cân đối kế toán chỉ là một phần của câu đố và nó nên được sử dụng cùng với các "báo cáo tài chính" (financial statements) và "các yếu tố định tính" (qualitative factors) khác để tạo thành một cái nhìn toàn diện. Cảm ơn bạn đã xem video này về phân tích bảng cân đối kế toán.
-![FINANCIAL HEALTH](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-8701027731-Montserrat-Thin-673AB7.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-17161174682.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-32965428633.mp3" type="audio/mpeg">
 </audio>
 
