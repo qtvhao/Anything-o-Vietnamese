@@ -14,7 +14,7 @@
 ## BUDGETING FOR STUDENTS
 
 Chào mừng bạn đến với video của tôi về "ngân sách cho sinh viên" (budgeting for students)! Trong video này, tôi sẽ khám phá tầm quan trọng của việc lập ngân sách, cung cấp một số "mẹo thực tế" (practical tips) và hướng dẫn bạn quy trình quản lý tài chính hiệu quả khi còn là sinh viên. Vì vậy, hãy đi sâu vào!
-![BUDGETING FOR STUDENTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition-19052734945-Montserrat-Thin-4A148C.jpg)
+![BUDGETING FOR STUDENTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition-19052734945-Montserrat-ExtraBold-880E4F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-19577019573.mp3" type="audio/mpeg">
 </audio>
@@ -24,7 +24,7 @@ Chào mừng bạn đến với video của tôi về "ngân sách cho sinh viê
 ## BUDGETING
 
 Khi còn là sinh viên, học cách lập ngân sách là một kỹ năng quan trọng không chỉ giúp bạn quản lý chi tiêu mà còn tạo nền tảng vững chắc cho "tương lai tài chính" của bạn (financial future). Bằng cách "tạo ngân sách" (creating a budget), bạn có thể đảm bảo rằng mình có đủ tiền để trang trải "nhu cầu thiết yếu" của mình (essential needs) trong khi vẫn có chỗ cho "các hoạt động giải trí" (leisure activities).
-![BUDGETING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--15016783211-Montserrat-Bold-004895.jpg)
+![BUDGETING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--15016783211-Montserrat-Medium-673AB7.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-37158172366.mp3" type="audio/mpeg">
 </audio>
@@ -34,7 +34,7 @@ Khi còn là sinh viên, học cách lập ngân sách là một kỹ năng quan
 ## INCOME
 
 Bước đầu tiên trong việc lập ngân sách là "đánh giá" (assess) "thu nhập" (income) và "chi phí" (expenses) của bạn. Bắt đầu bằng cách "tính toán" (calculating) tổng số tiền bạn nhận được mỗi tháng, bao gồm mọi "khoản phụ cấp" (allowances), thu nhập từ công việc bán thời gian hoặc hỗ trợ tài chính. Điều này sẽ cung cấp cho bạn một bức tranh rõ ràng về số tiền có sẵn cho bạn.
-![INCOME](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition-12685069848-Montserrat-Regular-303F9F.jpg)
+![INCOME](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition-12685069848-Montserrat-Black-673AB7.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-27074506508.mp3" type="audio/mpeg">
 </audio>
@@ -44,7 +44,7 @@ Bước đầu tiên trong việc lập ngân sách là "đánh giá" (assess) "
 ## TRACK EXPENSES
 
 Tiếp theo, điều quan trọng là phải theo dõi chi phí của bạn. Ghi lại tất cả chi tiêu của bạn trong một tháng, "phân loại" (categorizing) chúng thành các nhóm"tiền thuê nhà" (rent) khác nhau như tiền thuê nhà, "tạp hóa" (groceries), "vận chuyển" (transportation) và "giải trí" (entertainment). Điều này sẽ giúp bạn hiểu "mô hình chi tiêu" (spending patterns) của mình và xác định những lĩnh vực mà bạn có thể cắt giảm nếu cần.
-![TRACK EXPENSES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--5358951978-Montserrat-ExtraBold-7B1FA2.jpg)
+![TRACK EXPENSES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--5358951978-Montserrat-SemiBold-7B1FA2.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-10949635515.mp3" type="audio/mpeg">
 </audio>
@@ -54,7 +54,7 @@ Tiếp theo, điều quan trọng là phải theo dõi chi phí của bạn. Ghi
 ## CREATING A BUDGET
 
 Khi bạn đã hiểu rõ về "thu nhập" (income) và "chi phí" (expenses) của mình, đã đến lúc tạo "kế hoạch ngân sách" (budget plan). Phân bổ một phần thu nhập nhất định của bạn cho từng "danh mục chi phí" (expense category), đảm bảo "ưu tiên" (prioritize) "nhu cầu thiết yếu" (essential needs) của bạn trước tiên. Bạn cũng nên "dành riêng" (set aside) một khoản nhỏ cho "chi phí bất ngờ" (unexpected expenses) hoặc "trường hợp khẩn cấp" (emergencies).
-![CREATING A BUDGET](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--10625371596-Montserrat-Medium-283593.jpg)
+![CREATING A BUDGET](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--10625371596-Montserrat-Black-880E4F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-35617971977.mp3" type="audio/mpeg">
 </audio>
@@ -64,7 +64,7 @@ Khi bạn đã hiểu rõ về "thu nhập" (income) và "chi phí" (expenses) c
 ## BUDGETING TECHNIQUE
 
 Một "kỹ thuật lập ngân sách" hiệu quả (budgeting technique) là quy tắc 50/30/20. Theo quy tắc này, "phân bổ" (allocate) 50% "thu nhập" (income) của bạn cho "chi phí thiết yếu" (essential expenses) như "tiền thuê nhà" (rent), "cửa hàng tạp hóa" (groceries) và "tiện ích" (utilities). Dành 30% cho "chi tiêu tùy ý" (discretionary spending), chẳng hạn như "đi ăn ngoài" (dining out) hoặc "giải trí" (entertainment). Cuối cùng, "tiết kiệm" (save) hoặc "đầu tư" (invest) 20% thu nhập của bạn cho "mục tiêu tương lai" (future goals) hoặc các trường hợp khẩn cấp.
-![BUDGETING TECHNIQUE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--6432100773-Montserrat-Black-004895.jpg)
+![BUDGETING TECHNIQUE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--6432100773-Montserrat-Thin-004895.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-4693408287.mp3" type="audio/mpeg">
 </audio>
@@ -74,7 +74,7 @@ Một "kỹ thuật lập ngân sách" hiệu quả (budgeting technique) là qu
 ## STICKING TO A BUDGET
 
 Để bám sát ngân sách của bạn, điều quan trọng là phát triển thói quen chi tiêu tốt. Tránh mua sắm bốc đồng bằng cách cho bản thân một khoảng thời gian cân bằng trước khi thực hiện bất kỳ giao dịch mua không cần thiết nào. Ngoài ra, hãy cân nhắc sử dụng tiền mặt hoặc thẻ ghi nợ thay vì thẻ tín dụng để giúp bạn duy trì trong giới hạn ngân sách của mình.
-![STICKING TO A BUDGET](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition-5174241970-Montserrat-ExtraBold-004895.jpg)
+![STICKING TO A BUDGET](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition-5174241970-Montserrat-Medium-673AB7.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-41315558155.mp3" type="audio/mpeg">
 </audio>
@@ -84,7 +84,7 @@ Một "kỹ thuật lập ngân sách" hiệu quả (budgeting technique) là qu
 ## STUDENT DISCOUNTS
 
 Một mẹo hữu ích khác là tận dụng "giảm giá dành cho sinh viên" (student discounts) và "tài nguyên miễn phí" (free resources). Nhiều doanh nghiệp đưa ra "giảm giá đặc biệt" (special discounts) cho sinh viên, chẳng hạn như giảm vé xem phim hoặc "đăng ký" phần mềm (subscriptions). Ngoài ra, hãy tận dụng các tài nguyên miễn phí có sẵn trong khuôn viên trường, chẳng hạn như "thư viện" (libraries) hoặc "trung tâm thể dục" (fitness centers), để tiết kiệm tiền cho "giải trí" (entertainment) và tập thể dục.
-![STUDENT DISCOUNTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition-10608033410-Montserrat-Bold-303F9F.jpg)
+![STUDENT DISCOUNTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition-10608033410-Montserrat-Thin-1A237E.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-22048763344.mp3" type="audio/mpeg">
 </audio>
@@ -94,7 +94,7 @@ Một mẹo hữu ích khác là tận dụng "giảm giá dành cho sinh viên"
 ## MEAL PLANNING
 
 Đừng quên sức mạnh của việc "kế hoạch bữa ăn" (meal planning) và "nấu ăn tại nhà" (cooking at home). Ăn ngoài có thể nhanh chóng "rút cạn ngân sách của bạn" (drain your budget), vì vậy hãy lên kế hoạch trước cho bữa ăn của bạn và "nấu ăn số lượng lớn" (cook in bulk) bất cứ khi nào có thể. Điều này không chỉ "tiết kiệm tiền" (saves money) mà còn cho phép bạn lựa chọn thực phẩm lành mạnh hơn.
-![MEAL PLANNING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--15397394812-Montserrat-Thin-283593.jpg)
+![MEAL PLANNING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--15397394812-Montserrat-Medium-303F9F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-27270838845.mp3" type="audio/mpeg">
 </audio>
@@ -104,7 +104,7 @@ Một mẹo hữu ích khác là tận dụng "giảm giá dành cho sinh viên"
 ## REVIEW AND ADJUST
 
 Khi bạn tiến bộ trong "hành trình học tập" (academic journey), hãy "xem xét và điều chỉnh" định kỳ (review and adjust) "ngân sách" của bạn (budget). "Chi phí" (expenses) và "thu nhập" (income) của bạn có thể thay đổi theo thời gian và điều cần thiết là đảm bảo rằng ngân sách phản ánh tình hình tài chính hiện tại của bạn. Thực hiện các điều chỉnh khi cần thiết để đi đúng hướng.
-![REVIEW AND ADJUST](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--25756125309-Montserrat-Thin-004895.jpg)
+![REVIEW AND ADJUST](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--25756125309-Montserrat-Black-283593.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-17974557728.mp3" type="audio/mpeg">
 </audio>
@@ -114,7 +114,7 @@ Khi bạn tiến bộ trong "hành trình học tập" (academic journey), hãy 
 ## SKILL
 
 Hãy nhớ rằng, "lập ngân sách" (budgeting) là một "kỹ năng" (skill) cần "thời gian" (time) và "thực hành" (practice) để "thành thạo" (master). Hãy kiên nhẫn với bản thân và đừng nản lòng nếu bạn mắc phải "sai lầm" (mistakes) trong quá trình thực hiện. Điều quan trọng là rút kinh nghiệm từ những sai lầm đó và tiếp tục nỗ lực hướng tới "mục tiêu tài chính" của bạn (financial goals).
-![SKILL](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--27391806299-Montserrat-Black-673AB7.jpg)
+![SKILL](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--27391806299-Montserrat-Bold-880E4F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-16462814746.mp3" type="audio/mpeg">
 </audio>
@@ -124,7 +124,7 @@ Hãy nhớ rằng, "lập ngân sách" (budgeting) là một "kỹ năng" (skill
 ## FINANCIALLY RESPONSIBLE
 
 Vì vậy, bạn có nó! Bằng cách làm theo những "mẹo lập ngân sách" này (budgeting tips), bạn sẽ dần dần quản lý tài chính của mình một cách hiệu quả khi còn là sinh viên. Hãy bắt đầu ngay hôm nay và bạn sẽ chuẩn bị cho mình một tương lai "có trách nhiệm về tài chính" (financially responsible). Cảm ơn bạn đã xem và cho đến lần sau, hãy cẩn thận!
-![FINANCIALLY RESPONSIBLE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition-19400343383-Montserrat-Regular-673AB7.jpg)
+![FINANCIALLY RESPONSIBLE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition-19400343383-Montserrat-Bold-880E4F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-36500524788.mp3" type="audio/mpeg">
 </audio>
