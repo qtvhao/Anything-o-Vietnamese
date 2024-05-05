@@ -210,6 +210,7 @@
     - [International-Accounting](./Accounting/International-Accounting)
       - [Foreign-Corrupt-Practices-Act](./Accounting/International-Accounting/Foreign-Corrupt-Practices-Act)
         - [Books-and-Records.md](./Accounting/International-Accounting/Foreign-Corrupt-Practices-Act/Books-and-Records.md)
+        - [Penalties-and-Enforcement.md](./Accounting/International-Accounting/Foreign-Corrupt-Practices-Act/Penalties-and-Enforcement.md)
       - [Foreign-Corrupt-Practices-Act.md](./Accounting/International-Accounting/Foreign-Corrupt-Practices-Act.md)
       - [Global-Accounting-Standards.md](./Accounting/International-Accounting/Global-Accounting-Standards.md)
       - [International-Taxation.md](./Accounting/International-Accounting/International-Taxation.md)
