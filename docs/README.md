@@ -118,6 +118,7 @@
       - [Absorption-Costing.md](./Accounting/Cost-Accounting/Absorption-Costing.md)
       - [Activity-Based-Costing.md](./Accounting/Cost-Accounting/Activity-Based-Costing.md)
       - [Cost-of-Goods-Sold.md](./Accounting/Cost-Accounting/Cost-of-Goods-Sold.md)
+      - [Job-Costing.md](./Accounting/Cost-Accounting/Job-Costing.md)
       - [Marginal-Costing.md](./Accounting/Cost-Accounting/Marginal-Costing.md)
       - [Process-Costing.md](./Accounting/Cost-Accounting/Process-Costing.md)
       - [Standard-Costing.md](./Accounting/Cost-Accounting/Standard-Costing.md)
