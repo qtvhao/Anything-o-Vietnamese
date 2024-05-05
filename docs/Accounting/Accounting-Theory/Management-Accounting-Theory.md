@@ -1,0 +1,91 @@
+
+---
+
+# Khám phá sức mạnh của lý thuyết kế toán quản trị: Từ lý thuyết đại diện đến nguyên tắc kiểm soát!
+
+- Published: May 5, 2024
+- Author: Vietnamese Online Voice
+- Categories: Accounting / **Accounting Theory**
+- #AccountingConcepts #PrinciplesOfManagementAccounting #DecisionMakingSupport #ManagementInformation #AgencyTheory #PrincipalAgentRelationship #InformationAsymmetry #PerformanceMeasurement #IncentiveSystems #Monitoring #ContingencyTheory #OneSizeFitsAll #OrganizationCharacteristics #Environment #Tasks #ResourceBasedView #CompetitiveAdvantage #BalancedScorecard #MultidimensionalPerformanceMeasurement #FinancialMetrics #NonFinancialIndicators #ControllabilityPrinciple #PerformanceEvaluation #ManagementResponsibility #Accountability #IncentiveAlignment #OrganizationalObjectives
+
+"Trong video này, tôi sẽ khám phá các khái niệm và nguyên tắc cơ bản làm nền tảng cho Lý thuyết Kế toán Quản trị. Kế toán quản trị là một nhánh của kế toán cung cấp thông tin hỗ trợ việc ra quyết định, lập kế hoạch và kiểm soát trong các tổ chức. Nó đóng một vai trò quan trọng trong việc giúp các doanh nghiệp đạt được mục tiêu của mình. Lý thuyết kế toán quản trị bao gồm nhiều khuôn khổ và mô hình khác nhau được phát triển thông qua nghiên cứu và bằng chứng thực nghiệm. Những lý thuyết này cung cấp nền tảng để hiểu cách tạo ra và sử dụng thông tin kế toán quản trị. Một lý thuyết nổi bật là Lý thuyết đại lý, tập trung vào việc giải quyết. xung đột lợi ích giữa người ủy quyền và người đại diện thông qua các cơ chế như đo lường và giám sát hiệu quả hoạt động. Các ông trùm có thể xem video hướng dẫn chi tiết ở phía dưới nhé."
+
+
+## MANAGEMENT ACCOUNTING THEORY
+
+Chào mừng bạn đến với video của tôi về Lý thuyết Kế toán Quản trị. Trong video này, tôi sẽ khám phá các khái niệm cơ bản và "nguyên tắc" (principles) tạo thành nền tảng của "lĩnh vực nghiên cứu" quan trọng này (field of study). Kế toán quản trị là một nhánh của kế toán tập trung vào việc cung cấp thông tin cho "người quản lý" (managers) trong một "tổ chức" (organization) để hỗ trợ việc ra quyết định, lập kế hoạch và kiểm soát. Nó đóng một vai trò quan trọng trong việc giúp các "doanh nghiệp" (business) đạt được "mục tiêu và mục đích" của họ (goals and objectives). Vì vậy, hãy cùng đi sâu vào thế giới "lý thuyết kế toán quản trị" (management accounting theory) và hiểu các khía cạnh chính của nó.
+![MANAGEMENT ACCOUNTING THEORY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-05/transition--3923917508-Montserrat-Black-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-68367983447.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## MANAGEMENT ACCOUNTING THEORY
+
+Để bắt đầu, lý thuyết kế toán quản trị bao gồm nhiều "khuôn khổ" (frameworks) và "mô hình" (models) khác nhau để "hướng dẫn" (guide) thực hành kế toán quản trị. Những lý thuyết này được phát triển dựa trên "nghiên cứu" (research), "bằng chứng thực nghiệm" (empirical evidence) và trí tuệ tập thể của các chuyên gia trong "lĩnh vực" (field). Chúng cung cấp "nền tảng" (foundation) để "hiểu" (understanding) cách thông tin kế toán quản trị được "tạo" (generated), "được phân tích" (analyzed) và "được sử dụng" (used) để hỗ trợ quản lý các quyết định.
+![MANAGEMENT ACCOUNTING THEORY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-05/transition-3671095456-Montserrat-Thin-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-2540571324.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## AGENCY THEORY
+
+Một trong những lý thuyết nổi bật trong kế toán quản trị là Lý thuyết đại diện. Lý thuyết này tập trung vào mối quan hệ giữa "người đứng đầu" (principals) (chẳng hạn như "cổ đông" (shareholders) và "chủ sở hữu" (owners)) và "đại lý" (agents) (chẳng hạn như "người quản lý" (managers )) trong một tổ chức. Nó xem xét cách giải quyết xung đột lợi ích phát sinh từ "sự bất cân xứng thông tin" (information asymmetry) thông qua các cơ chế khác nhau, chẳng hạn như đo lường hiệu suất, hệ thống khuyến khích và giám sát.
+![AGENCY THEORY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-05/transition--14198608513-Montserrat-Black-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-44625537997.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CONTINGENCY THEORY
+
+Một lý thuyết quan trọng khác là Lý thuyết dự phòng, trong đó nhấn mạnh rằng không có cách tiếp cận nào phù hợp cho tất cả mọi người trong kế toán quản trị. Thay vào đó, lý thuyết cho thấy rằng việc thiết kế và triển khai hệ thống kế toán quản trị phải phụ thuộc vào các đặc điểm cụ thể của tổ chức, môi trường của tổ chức và "nhiệm vụ trước mắt" (tasks at hand). Lý thuyết này thừa nhận rằng các tình huống khác nhau đòi hỏi các kỹ thuật kế toán quản trị khác nhau để đưa ra quyết định tối ưu.
+![CONTINGENCY THEORY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-05/transition-7324931734-Montserrat-Regular-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-20715709362.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## MANAGEMENT ACCOUNTING
+
+Tiếp tục, lý thuyết Chế độ xem dựa trên tài nguyên (RBV) cũng có liên quan đến "kế toán quản lý" (management accounting). Lý thuyết này tập trung vào việc sử dụng chiến lược các nguồn lực trong một "tổ chức" (organization) và cách chúng có thể tạo ra "lợi thế cạnh tranh" (competitive advantage). Từ góc độ kế toán quản trị, lý thuyết RBV nhấn mạnh việc xác định và đo lường "các nguồn lực chính" (key resources) và "khả năng" (capabilities) góp phần vào hiệu quả hoạt động và tạo ra giá trị của tổ chức.
+![MANAGEMENT ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-05/transition-31336987537-Montserrat-Medium-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-7130068437.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PERFORMANCE MEASUREMENT
+
+Một lý thuyết đã thu hút được sự chú ý đáng kể trong những năm gần đây là Thẻ điểm cân bằng. Lý thuyết này đề xuất một cách tiếp cận đa chiều để "đo lường hiệu suất" (performance measurement), vượt ra ngoài "số liệu tài chính" (financial metrics) để bao gồm các chỉ số phi tài chính. Thẻ điểm cân bằng thừa nhận rằng chỉ các thước đo tài chính thôi có thể không cung cấp cái nhìn toàn diện về hiệu quả hoạt động của tổ chức và đề xuất các thước đo kết hợp liên quan đến "sự hài lòng của khách hàng" (customer satisfaction), "quy trình nội bộ" (internal processes) cũng như học hỏi và phát triển.
+![PERFORMANCE MEASUREMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-05/transition--4814842277-Montserrat-Thin-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-15005530731.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## MANAGEMENT ACCOUNTING THEORY
+
+Cuối cùng, Nguyên tắc Kiểm soát được là một lý thuyết tập trung vào việc đánh giá và "trách nhiệm" (responsibility) của "người quản lý" (managers) đối với kết quả mà họ có thể kiểm soát. Nguyên tắc này gợi ý rằng các nhà quản lý phải chịu trách nhiệm về kết quả của "quyết định" (decisions) và hành động trong "phạm vi ảnh hưởng" của họ (sphere of influence). Từ góc độ kế toán quản trị, Nguyên tắc kiểm soát giúp thiết kế các hệ thống đánh giá hiệu suất nhằm phân bổ trách nhiệm một cách hợp lý và "khuyến khích" (incentivize) các nhà quản lý đưa ra quyết định phù hợp với mục tiêu của tổ chức.
+![MANAGEMENT ACCOUNTING THEORY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-05/transition-30669469542-Montserrat-Regular-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-6306046680.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## AGENCY THEORY
+
+Tóm lại, lý thuyết kế toán quản trị cung cấp khuôn khổ để hiểu cách sử dụng thông tin kế toán để hỗ trợ việc ra quyết định, lập kế hoạch và kiểm soát quản lý. Nó bao gồm nhiều lý thuyết khác nhau, chẳng hạn như Lý thuyết đại diện, Lý thuyết dự phòng, Quan điểm dựa trên nguồn lực, Thẻ điểm cân bằng và Nguyên tắc kiểm soát. Những lý thuyết này cung cấp những hiểu biết sâu sắc có giá trị về việc thiết kế và triển khai hệ thống kế toán quản trị, cho phép các tổ chức đưa ra quyết định sáng suốt và đạt được kết quả mong muốn. Cảm ơn các bạn đã xem video Lý thuyết kế toán quản trị.
+![AGENCY THEORY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-05/transition--26894318457-Montserrat-Thin-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-35080512564.mp3" type="audio/mpeg">
+</audio>
+
