@@ -1,91 +1,101 @@
 
 ---
 
-# Làm sáng tỏ lý thuyết kế toán thuế: Nắm vững các nguyên tắc cơ bản về sự công nhận, sự phù hợp, tính bảo thủ, nội dung hơn là hình thức và tính nhất quán
+# \'Mở khóa những bí mật của lý thuyết kế toán thuế:\' Nhận biết thu nhập chính, cơ sở tính thuế, lập kế hoạch, trốn thuế và hơn thế nữa!!
 
-- Published: April 24, 2024
+- Published: May 5, 2024
 - Author: Vietnamese Online Voice
 - Categories: Accounting / **Accounting Theory**
-- #TaxAccounting #FundamentalConcepts #PrinciplesOfTaxation #Compliance #TaxLaws #TaxRegulations #OptimizingTaxOutcomes #RecordingTransactions #TaxPurposes #TaxExpenses #MatchingPrinciple #Conservatism #SubstanceOverForm #PrincipleOfConsistency #FinancialInformation #TaxAuthorities #Stakeholders #FinancialStatements #TaxLiabilities #BusinessOperations #TaxTreatment #TaxableEvents #FinancialRecords #TaxConsequences #Profitability #FinancialPosition #Prudence #EconomicSubstance #LegalLoopholes #Comparability #Reliability #Integrity #Assessments #ComparableFinancialInformation
+- #TaxConcepts #PrinciplesOfTaxation #TaxationBasics #RecognitionOfIncomeAndExpenses #TaxBasesAndTaxRates #TemporaryDifferences #DeferredTaxLiabilities #DeferredTaxAssets #TaxPlanning #TaxAvoidance #TaxEvasion #EthicalTaxation #TaxDisclosure #TaxTransparency #TaxPolicy #TaxationObjectives #TaxationPrinciples #TaxationMethods #UnderstandingTaxLaws #ComplianceWithTaxRegulations #MinimizingTaxLiabilities #ThoroughUnderstandingOfTaxation #RealWorldTaxScenarios #TaxAuthorities #StakeholderAssessment #EconomicImpactsOfTaxation #SocialImpactsOfTaxation
 
-"Trong video này, tôi sẽ khám phá các khái niệm và nguyên tắc cơ bản làm nền tảng cho lĩnh vực kế toán thuế. Hiểu lý thuyết về kế toán thuế là rất quan trọng đối với các cá nhân và doanh nghiệp vì nó giúp đảm bảo tuân thủ luật và quy định về thuế đồng thời tối ưu hóa kết quả về thuế. Vì vậy, Hãy cùng đi sâu và làm sáng tỏ các khía cạnh chính của lý thuyết kế toán thuế Trước khi đi sâu vào lý thuyết, trước tiên chúng ta hãy làm rõ kế toán thuế đòi hỏi những gì. Kế toán thuế là ngành kế toán chuyên biệt tập trung vào việc ghi chép, phân tích và báo cáo các giao dịch tài chính cho mục đích thuế. Nó liên quan đến việc áp dụng các luật, quy định và diễn giải về thuế để xác định số thuế thích hợp phải nộp hoặc ghi nhận là tài sản hoặc nợ phải trả. Kế toán thuế đóng vai trò then chốt trong việc cung cấp thông tin tài chính chính xác và đáng tin cậy cho cơ quan thuế và các bên liên quan. khám phá một số nguyên tắc chính của lý thuyết kế toán thuế. Nguyên tắc đầu tiên là khái niệm ghi nhận. Theo nguyên tắc này, các sự kiện và giao dịch chịu thuế phải được ghi nhận trong hồ sơ tài chính khi chúng xảy ra, bất kể khi nào đến hạn nộp thuế. Nguyên tắc này đảm bảo rằng báo cáo tài chính phản ánh chính xác hậu quả về thuế của hoạt động kinh doanh. Các Boss có thể xem video hướng dẫn chi tiết ở bên dưới nhé."
+"Trong video này, tôi sẽ khám phá các khái niệm và nguyên tắc cơ bản hình thành nền tảng của lý thuyết kế toán thuế. Lý thuyết kế toán thuế là lĩnh vực nghiên cứu tập trung vào các nguyên tắc, khái niệm và thực tiễn được sử dụng trong kế toán thuế. Nó cung cấp một khuôn khổ để các doanh nghiệp và cá nhân hiểu và tuân thủ các luật và quy định về thuế. Khái niệm quan trọng đầu tiên trong lý thuyết kế toán thuế là việc ghi nhận thu nhập và chi phí một cách chính xác là rất quan trọng để xác định thu nhập chịu thuế của người nộp thuế. Lý thuyết kế toán thuế là khái niệm về căn cứ tính thuế và thuế suất giúp người nộp thuế tính toán nghĩa vụ thuế của mình một cách chính xác.
 
 
 ## TAX ACCOUNTING THEORY
 
-Chào mừng bạn đến với video của tôi về Lý thuyết kế toán thuế. Trong video này, tôi sẽ khám phá các khái niệm cơ bản và "nguyên tắc" (principles) làm nền tảng cho lĩnh vực kế toán thuế. Hiểu "lý thuyết kế toán thuế" (tax accounting theory) rất quan trọng đối với các cá nhân và doanh nghiệp vì nó giúp đảm bảo "tuân thủ" (compliance) với luật và quy định về thuế đồng thời tối ưu hóa "kết quả về thuế" (tax outcomes). Vì vậy, chúng ta hãy đi sâu vào và làm sáng tỏ các khía cạnh chính của lý thuyết kế toán thuế.
-![TAX ACCOUNTING THEORY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--13805271780-Montserrat-Black-4A148C.jpg)
+Chào mừng bạn đến với video của tôi về Lý thuyết kế toán thuế. Trong video này, tôi sẽ khám phá các "khái niệm" cơ bản (concepts) và "nguyên tắc" (principles) tạo thành nền tảng của "lý thuyết kế toán thuế" (tax accounting theory). Lý thuyết kế toán thuế là lĩnh vực nghiên cứu tập trung vào trên các nguyên tắc, khái niệm và "thực tiễn" (practices) được sử dụng trong "kế toán thuế" (accounting for taxes). Nó cung cấp một "khuôn khổ" (framework) cho "doanh nghiệp" (businesses) và "cá nhân" (individuals) để hiểu và tuân thủ "luật thuế" (tax laws) và các quy định.
+![TAX ACCOUNTING THEORY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-05/transition--4573406031-Montserrat-Thin-283593.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-23457735304.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-12646582380.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## TAX ACCOUNTING
+## INCOME RECOGNITION
 
-Trước khi đi sâu vào lý thuyết, trước tiên chúng ta hãy làm rõ "kế toán thuế" (tax accounting) đòi hỏi những gì. Kế toán thuế là ngành kế toán chuyên biệt tập trung vào việc ghi chép, phân tích và báo cáo "các giao dịch tài chính" (financial transactions) ​​cho "mục đích thuế" (tax purposes). Nó liên quan đến việc áp dụng "luật thuế" (tax laws), "quy định" (regulations) và diễn giải để "xác định" (determine) số tiền thuế thích hợp phải nộp hoặc ghi nhận là "tài sản hoặc nợ phải trả" (asset or liability) . Kế toán thuế đóng vai trò then chốt trong việc cung cấp thông tin tài chính chính xác và đáng tin cậy cho "cơ quan thuế" (tax authorities) và "các bên liên quan" (stakeholders).
-![TAX ACCOUNTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-48765710418-Montserrat-Medium-303F9F.jpg)
+Khái niệm quan trọng đầu tiên trong "lý thuyết kế toán thuế" (tax accounting theory) là sự ghi nhận "thu nhập" (income) và "chi phí" (expenses). Khi nói đến thuế, thu nhập đề cập đến bất kỳ sự gia tăng nào về "lợi ích kinh tế" (economic benefits), trong khi chi phí đề cập đến bất kỳ sự "giảm" nào (decrease). Việc ghi nhận đúng thu nhập và chi phí là rất quan trọng để xác định "thu nhập chịu thuế" (taxable income) của người nộp thuế.
+![INCOME RECOGNITION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-05/transition--14031999547-Montserrat-Medium-7B1FA2.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-20504833273.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-15126138435.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## PRINCIPLES
+## CONCEPT OF TAX BASES
 
-Bây giờ, hãy khám phá một số nguyên tắc chính của "lý thuyết kế toán thuế" (tax accounting theory). Nguyên tắc đầu tiên là khái niệm công nhận. Theo nguyên tắc này, "sự kiện chịu thuế" (taxable events) và "giao dịch" (transactions) phải được ghi nhận trong "hồ sơ tài chính" (financial records) khi chúng xảy ra, bất kể khi nào đến hạn thanh toán thuế liên quan. Nguyên tắc này đảm bảo rằng "báo cáo tài chính" (financial statements) phản ánh chính xác "hậu quả về thuế" (tax consequences) của hoạt động kinh doanh.
-![PRINCIPLES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-14877349646-Montserrat-ExtraBold-7B1FA2.jpg)
+Một khía cạnh quan trọng khác của "lý thuyết kế toán thuế" (tax accounting theory) là "khái niệm về cơ sở thuế" (concept of tax bases) và "thuế suất" (tax rates). Cơ sở tính thuế là số tiền áp dụng thuế suất để xác định "nghĩa vụ thuế" (tax liability). Hiểu cơ sở tính thuế và thuế suất giúp người nộp thuế tính toán chính xác "nghĩa vụ thuế" (tax obligations).
+![CONCEPT OF TAX BASES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-05/transition--21564397362-Montserrat-Bold-880E4F.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-12881405559.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-9454311458.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## MATCHING PRINCIPLE
+## TEMPORARY DIFFERENCES
 
-Nguyên tắc thứ hai là "nguyên tắc phù hợp" (matching principle). Nguyên tắc này nêu rõ rằng "chi phí thuế" (tax expenses) phải được ghi nhận trong cùng kỳ với "doanh thu" (revenues) mà chúng liên quan. Bằng cách đối chiếu chi phí với doanh thu mà chúng tạo ra, nguyên tắc đối sánh đảm bảo rằng "báo cáo tài chính" (financial statements) trình bày trung thực về "khả năng sinh lời" (profitability) và "nợ thuế" (tax liabilities) của một thực thể.
-![MATCHING PRINCIPLE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-3093016753-Montserrat-SemiBold-4A148C.jpg)
+Lý thuyết kế toán thuế cũng bao gồm khái niệm "sự khác biệt tạm thời" (temporary differences). Sự khác biệt tạm thời phát sinh khi có sự khác biệt giữa "cách xử lý thuế" (tax treatment) của một mặt hàng và "cách xử lý kế toán" (accounting treatment). Những khác biệt này có thể dẫn đến thuế thu nhập hoãn lại phải trả hoặc tài sản thuế thu nhập hoãn lại.
+![TEMPORARY DIFFERENCES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-05/transition--35832764330-Montserrat-Medium-9C27B0.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-1304488620.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-14462730052.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## TAX LIABILITIES
+## TAX PLANNING
 
-Một khái niệm quan trọng khác trong "lý thuyết kế toán thuế" (tax accounting theory) là nguyên tắc bảo thủ. Nguyên tắc này gợi ý rằng khi có sự không chắc chắn về "cách xử lý thuế" (tax treatment) của một "giao dịch" cụ thể (transaction), thì việc "thận trọng" (prudent) là "thận trọng" (caution) ) và ghi nhận các khoản nợ thuế tiềm ẩn. Cách tiếp cận thận trọng này nhằm tránh "sự phóng đại" (overstatement) về "tài sản" (assets) hoặc "thu nhập" (income) và cung cấp một "bức tranh chính xác" hơn (accurate picture) về tình hình tài chính của một thực thể.
-![TAX LIABILITIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-5664044497-Montserrat-Regular-673AB7.jpg)
+Tiếp theo, chúng ta có khái niệm "lập kế hoạch thuế" (tax planning). Lập kế hoạch thuế liên quan đến việc đưa ra các quyết định chiến lược để giảm thiểu nghĩa vụ thuế trong ranh giới của "luật thuế" (tax laws). Nó đòi hỏi sự hiểu biết thấu đáo về "lý thuyết kế toán thuế" (tax accounting theory) và khả năng áp dụng nó một cách hiệu quả trong các tình huống thực tế.
+![TAX PLANNING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-05/transition-25426905759-Montserrat-Medium-512DA8.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-13033852907.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-905468217.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## ECONOMIC SUBSTANCE
+## TAX AVOIDANCE
 
-Lý thuyết kế toán thuế cũng thừa nhận nguyên tắc thực chất hơn hình thức. Nguyên tắc này nhấn mạnh vào "bản chất kinh tế" (economic substance) của một giao dịch hơn là "hình thức pháp lý" của nó (legal form). Điều đó có nghĩa là kế toán thuế nên nhìn xa hơn cấu trúc pháp lý của một giao dịch và tập trung vào thực tế kinh tế cơ bản của nó khi xác định "xử lý thuế" thích hợp (tax treatment). Nguyên tắc này ngăn chặn "các âm mưu tránh thuế" (tax avoidance schemes) khai thác "lỗ hổng pháp lý" (legal loopholes) trong khi coi thường bản chất thực sự của giao dịch.
-![ECONOMIC SUBSTANCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--47386898043-Montserrat-Regular-512DA8.jpg)
+Tiếp tục, "lý thuyết kế toán thuế" (tax accounting theory) cũng đề cập đến khái niệm "tránh thuế" (tax avoidance) và "trốn thuế" (tax evasion). Trong khi tránh thuế là một hành vi hợp pháp nhằm giảm thiểu nghĩa vụ thuế, trốn thuế liên quan đến việc cố tình trốn thuế thông qua "các phương tiện bất hợp pháp" (illegal means). Hiểu được sự khác biệt giữa hai khái niệm này là điều quan trọng để các doanh nghiệp và cá nhân "tuân thủ luật thuế" (comply with tax laws) "một cách có đạo đức" (ethically).
+![TAX AVOIDANCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-05/transition--8227835055-Montserrat-SemiBold-7B1FA2.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-5243732760.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-37740408144.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## ACCOUNTING THEORY
+## TAX DISCLOSURE
 
-Cuối cùng, "lý thuyết kế toán thuế" (tax accounting theory) thừa nhận nguyên tắc nhất quán. Nguyên tắc này yêu cầu các đơn vị phải áp dụng nhất quán các phương pháp và nguyên tắc kế toán giống nhau theo thời gian, đảm bảo khả năng so sánh của thông tin tài chính. Tính nhất quán nâng cao độ tin cậy và tính trung thực của báo cáo tài chính, cho phép các bên liên quan đưa ra những so sánh và đánh giá có ý nghĩa.
-![ACCOUNTING THEORY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-4491741386-Montserrat-Bold-880E4F.jpg)
+Một lĩnh vực trọng tâm khác trong "lý thuyết kế toán thuế" (tax accounting theory) là "tiết lộ thuế" (tax disclosure). Người nộp thuế phải tiết lộ một số thông tin nhất định về "vị trí thuế" (tax positions) và "những điều không chắc chắn liên quan" (related uncertainties). Điều này đảm bảo "minh bạch" (transparency) và cho phép "cơ quan thuế" (tax authorities) và "các bên liên quan" khác (stakeholders) đánh giá sự phù hợp của các quan điểm thuế mà người nộp thuế thực hiện.
+![TAX DISCLOSURE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-05/transition--15554121726-Montserrat-Medium-4A148C.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-1143659196.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-420372305.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## FUNDAMENTAL PRINCIPLES
+## TAX POLICY
 
-Tóm lại, "lý thuyết kế toán thuế" (tax accounting theory) cung cấp một khuôn khổ để hiểu và áp dụng "các nguyên tắc cơ bản" (fundamental principles) chi phối các hoạt động kế toán thuế. Bằng cách tuân thủ các nguyên tắc này, các cá nhân và doanh nghiệp có thể điều hướng trong bối cảnh phức tạp của các quy định về thuế trong khi vẫn đảm bảo "minh bạch" (transparency), "chính xác" (accuracy) và "tuân thủ" (compliance). Tôi hy vọng video này đã làm sáng tỏ tầm quan trọng của lý thuyết kế toán thuế và vai trò của nó trong lĩnh vực kế toán rộng hơn. Cảm ơn vì đã xem.
-![FUNDAMENTAL PRINCIPLES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-12575304039-Montserrat-Black-512DA8.jpg)
+Cuối cùng, "lý thuyết kế toán thuế" (tax accounting theory) cũng khám phá khái niệm "chính sách thuế" (tax policy). Chính sách thuế đề cập đến cách tiếp cận thuế của chính phủ, bao gồm "mục tiêu" (objectives), "nguyên tắc" (principles) và "phương pháp" (methods) được sử dụng trong việc thiết kế và thực thi luật thuế. Hiểu chính sách thuế là điều cần thiết để đánh giá tác động kinh tế và xã hội của hệ thống thuế.
+![TAX POLICY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-05/transition-17041739212-Montserrat-Bold-9C27B0.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-7825365636.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-14075777515.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## COMPREHENSIVE FRAMEWORK
+
+Tóm lại, "lý thuyết kế toán thuế" (tax accounting theory) cung cấp một "khuôn khổ toàn diện" (comprehensive framework) để hiểu và áp dụng các luật và quy định về thuế. Nó bao gồm các khái niệm như "ghi nhận thu nhập" (income recognition), "cơ sở tính thuế" (tax bases) và "giá" (rates), "sự khác biệt tạm thời" (temporary differences), "lập kế hoạch thuế" (tax planning), " tránh thuế" (tax avoidance), "trốn thuế" (tax evasion), "tiết lộ thuế" (tax disclosure) và chính sách thuế. Bằng cách nghiên cứu lý thuyết kế toán thuế, các doanh nghiệp và cá nhân có thể điều hướng thế giới thuế phức tạp một cách hiệu quả hơn và đưa ra quyết định sáng suốt.
+![COMPREHENSIVE FRAMEWORK](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-05/transition--16727915336-Montserrat-Black-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5290820659.mp3" type="audio/mpeg">
 </audio>
 
