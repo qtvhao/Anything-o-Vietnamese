@@ -62,6 +62,8 @@
       - [Integrated-Audit.md](./Accounting/Assurance-Services/Integrated-Audit.md)
       - [Operational-Audit.md](./Accounting/Assurance-Services/Operational-Audit.md)
       - [Regulatory-Assurance.md](./Accounting/Assurance-Services/Regulatory-Assurance.md)
+      - [Risk-Assurance](./Accounting/Assurance-Services/Risk-Assurance)
+        - [Enterprise-Risk-Management.md](./Accounting/Assurance-Services/Risk-Assurance/Enterprise-Risk-Management.md)
       - [Risk-Assurance.md](./Accounting/Assurance-Services/Risk-Assurance.md)
       - [Tax-Assurance.md](./Accounting/Assurance-Services/Tax-Assurance.md)
     - [Assurance-Services.md](./Accounting/Assurance-Services.md)
