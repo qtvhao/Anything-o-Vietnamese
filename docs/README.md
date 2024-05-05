@@ -223,6 +223,8 @@
       - [Tax-Management.md](./Accounting/Management-Accounting/Tax-Management.md)
     - [Management-Accounting.md](./Accounting/Management-Accounting.md)
     - [Performance-Management](./Accounting/Performance-Management)
+      - [Budgeting-and-Forecasting](./Accounting/Performance-Management/Budgeting-and-Forecasting)
+        - [Long-term-Budgeting.md](./Accounting/Performance-Management/Budgeting-and-Forecasting/Long-term-Budgeting.md)
       - [Key-Performance-Indicators.md](./Accounting/Performance-Management/Key-Performance-Indicators.md)
       - [Strategy-Mapping.md](./Accounting/Performance-Management/Strategy-Mapping.md)
       - [Tax-Planning-and-Compliance.md](./Accounting/Performance-Management/Tax-Planning-and-Compliance.md)
