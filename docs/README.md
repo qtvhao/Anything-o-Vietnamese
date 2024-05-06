@@ -81,6 +81,7 @@
       - [IT-Auditing.md](./Accounting/Auditing/IT-Auditing.md)
       - [Internal-Auditing](./Accounting/Auditing/Internal-Auditing)
         - [Audit-Planning-and-Reporting.md](./Accounting/Auditing/Internal-Auditing/Audit-Planning-and-Reporting.md)
+        - [Data-Analytics-in-Auditing.md](./Accounting/Auditing/Internal-Auditing/Data-Analytics-in-Auditing.md)
       - [Operational-Auditing.md](./Accounting/Auditing/Operational-Auditing.md)
     - [Auditing.md](./Accounting/Auditing.md)
     - [Budgeting](./Accounting/Budgeting)
