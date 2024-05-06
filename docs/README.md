@@ -68,6 +68,7 @@
         - [Compliance-Risk-and-Assurance.md](./Accounting/Assurance-Services/Risk-Assurance/Compliance-Risk-and-Assurance.md)
         - [Enterprise-Risk-Management.md](./Accounting/Assurance-Services/Risk-Assurance/Enterprise-Risk-Management.md)
         - [Financial-Risk-and-Assurance.md](./Accounting/Assurance-Services/Risk-Assurance/Financial-Risk-and-Assurance.md)
+        - [Fraud-Risk-and-Assurance.md](./Accounting/Assurance-Services/Risk-Assurance/Fraud-Risk-and-Assurance.md)
         - [Internal-Audit-and-Assurance.md](./Accounting/Assurance-Services/Risk-Assurance/Internal-Audit-and-Assurance.md)
       - [Risk-Assurance.md](./Accounting/Assurance-Services/Risk-Assurance.md)
       - [Tax-Assurance.md](./Accounting/Assurance-Services/Tax-Assurance.md)
