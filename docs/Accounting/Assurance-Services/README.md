@@ -13,5 +13,6 @@
   - [Risk-Assurance](./Risk-Assurance/)
     - [Enterprise-Risk-Management.md](./Enterprise-Risk-Management.md)
     - [Financial-Risk-and-Assurance.md](./Financial-Risk-and-Assurance.md)
+    - [Internal-Audit-and-Assurance.md](./Internal-Audit-and-Assurance.md)
   - [Risk-Assurance.md](./Risk-Assurance.md)
   - [Tax-Assurance.md](./Tax-Assurance.md)
