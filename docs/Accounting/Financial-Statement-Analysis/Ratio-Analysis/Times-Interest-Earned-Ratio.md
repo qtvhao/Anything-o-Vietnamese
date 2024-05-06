@@ -14,7 +14,7 @@
 ## FINANCIAL METRIC
 
 Chào mừng bạn đến với video của tôi về Tỷ lệ thu được lãi theo thời gian. Trong video này, tôi sẽ khám phá Tỷ lệ thu được lãi theo thời gian là gì, cách tính tỷ lệ này và tại sao nó là một "chỉ số tài chính" quan trọng (financial metric) đối với cả "nhà đầu tư" (investors) và "chủ nợ" (creditors ). Vì vậy, hãy đi sâu vào!
-![FINANCIAL METRIC](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-06/transition-1204988409-Montserrat-Regular-4A148C.jpg)
+![FINANCIAL METRIC](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-06/transition-1204988409-Montserrat-Black-283593.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-41218708957.mp3" type="audio/mpeg">
 </audio>
@@ -24,7 +24,7 @@ Chào mừng bạn đến với video của tôi về Tỷ lệ thu được lã
 ## TIMES INTEREST EARNED RATIO
 
 Tỷ lệ thu được lãi theo thời gian, còn được gọi là Tỷ lệ khả năng trả lãi, là một "số liệu tài chính" (financial metric) giúp "đánh giá" (assess) "khả năng" của "công ty" (company) (ability) để đáp ứng nghĩa vụ trả lãi của mình. Nó đo lường khả năng tạo ra "thu nhập" (earnings) trước lãi vay và thuế (EBIT) của công ty so với chi phí lãi vay.
-![TIMES INTEREST EARNED RATIO](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-06/transition-8287314825-Montserrat-Thin-4A148C.jpg)
+![TIMES INTEREST EARNED RATIO](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-06/transition-8287314825-Montserrat-Thin-673AB7.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-7276767329.mp3" type="audio/mpeg">
 </audio>
@@ -34,7 +34,7 @@ Tỷ lệ thu được lãi theo thời gian, còn được gọi là Tỷ lệ 
 ## INTEREST EXPENSES
 
 Để tính Tỷ lệ lãi thu được theo thời gian, bạn chia EBIT của công ty cho "chi phí lãi vay" hàng năm (interest expenses). Công thức như sau: Tỷ lệ lãi thu được lần = EBIT / Chi phí lãi vay. Tỷ lệ kết quả cho biết số lần một công ty có thể trang trải các khoản thanh toán lãi bằng thu nhập của mình.
-![INTEREST EXPENSES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-06/transition--39277657483-Montserrat-Bold-283593.jpg)
+![INTEREST EXPENSES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-06/transition--39277657483-Montserrat-SemiBold-1A237E.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-9182754000.mp3" type="audio/mpeg">
 </audio>
@@ -44,7 +44,7 @@ Tỷ lệ thu được lãi theo thời gian, còn được gọi là Tỷ lệ 
 ## INTEREST OBLIGATIONS
 
 Tỷ lệ lãi kiếm được theo thời gian cao hơn cho thấy rằng công ty có khả năng đáp ứng "nghĩa vụ lãi suất" cao hơn (interest obligations). Nó gợi ý rằng công ty đang tạo ra đủ "thu nhập" (earnings) để thoải mái trang trải "chi phí lãi vay" (interest expenses). Mặt khác, tỷ lệ thấp hơn có thể cho thấy "rủi ro vỡ nợ" (risk of default) cao hơn đối với các khoản thanh toán lãi.
-![INTEREST OBLIGATIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-06/transition--23624480052-Montserrat-ExtraBold-1A237E.jpg)
+![INTEREST OBLIGATIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-06/transition--23624480052-Montserrat-Regular-512DA8.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-12385081741.mp3" type="audio/mpeg">
 </audio>
@@ -54,7 +54,7 @@ Tỷ lệ lãi kiếm được theo thời gian cao hơn cho thấy rằng công
 ## INVESTORS
 
 Tỷ lệ lãi kiếm được theo thời gian là một thước đo quan trọng đối với các nhà đầu tư vì nó cung cấp cái nhìn sâu sắc về "sức khỏe tài chính" của công ty (financial health) và khả năng trả nợ của công ty. Tỷ lệ cao hơn thường hàm ý "rủi ro vỡ nợ" thấp hơn (default risk), điều này có thể hấp dẫn các nhà đầu tư tiềm năng.
-![INVESTORS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-06/transition-13063874762-Montserrat-Thin-7B1FA2.jpg)
+![INVESTORS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-06/transition-13063874762-Montserrat-SemiBold-880E4F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-6553296629.mp3" type="audio/mpeg">
 </audio>
@@ -64,7 +64,7 @@ Tỷ lệ lãi kiếm được theo thời gian là một thước đo quan tr�
 ## CREDITORS
 
 Đối với "chủ nợ" (creditors), chẳng hạn như "ngân hàng" (banks) hoặc "trái chủ" (bondholders), Tỷ lệ thu được lãi theo thời gian rất quan trọng trong việc xác định "độ tin cậy tín dụng" (creditworthiness) của một công ty. Các chủ nợ muốn đảm bảo rằng công ty mà họ đang cho vay có khả năng trả "nợ" (debt) và tỷ lệ cao hơn mang lại sự yên tâm đó.
-![CREDITORS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-06/transition-30676220408-Montserrat-Black-004895.jpg)
+![CREDITORS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-06/transition-30676220408-Montserrat-Regular-880E4F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-21956468897.mp3" type="audio/mpeg">
 </audio>
@@ -74,7 +74,7 @@ Tỷ lệ lãi kiếm được theo thời gian là một thước đo quan tr�
 ## VARY ACROSS INDUSTRIES
 
 Điều quan trọng cần lưu ý là Tỷ lệ thu được lãi theo thời gian lý tưởng có thể "khác nhau giữa các ngành" (vary across industries). Một số ngành, như "tiện ích" (utilities) hoặc "viễn thông" (telecommunications), có xu hướng có dòng tiền ổn định hơn và có thể dự đoán được, cho phép có "tỷ lệ thấp hơn" (lower ratios). Các ngành khác, chẳng hạn như "công nghệ" (technology) hoặc "bán lẻ" (retail), có thể yêu cầu tỷ lệ cao hơn do tính chất không ổn định của chúng.
-![VARY ACROSS INDUSTRIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-06/transition--19863087223-Montserrat-Black-7B1FA2.jpg)
+![VARY ACROSS INDUSTRIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-06/transition--19863087223-Montserrat-Bold-303F9F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-11566991927.mp3" type="audio/mpeg">
 </audio>
@@ -84,7 +84,7 @@ Tỷ lệ lãi kiếm được theo thời gian là một thước đo quan tr�
 ## FINANCIAL HEALTH
 
 Tóm lại, Tỷ lệ thu được lãi theo thời gian là một "thước đo tài chính" có giá trị (financial metric) giúp đánh giá khả năng thực hiện nghĩa vụ thanh toán lãi của công ty. Bằng cách tính tỷ lệ này, "nhà đầu tư và chủ nợ" (investors and creditors) có thể đánh giá tình hình tài chính của công ty và đưa ra "quyết định sáng suốt" (informed decisions). Hãy nhớ rằng, "tỷ lệ cao hơn" (higher ratio) thường cho thấy tình hình tài chính lành mạnh hơn nhưng điều cần thiết là phải xem xét "các tiêu chuẩn ngành" (industry norms) và "so sánh tỷ lệ" (compare the ratio) với "đối thủ cạnh tranh". (competitors.)
-![FINANCIAL HEALTH](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-06/transition--30305469229-Montserrat-Black-880E4F.jpg)
+![FINANCIAL HEALTH](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-06/transition--30305469229-Montserrat-Regular-880E4F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-28068094857.mp3" type="audio/mpeg">
 </audio>
