@@ -66,6 +66,7 @@
       - [Regulatory-Assurance.md](./Accounting/Assurance-Services/Regulatory-Assurance.md)
       - [Risk-Assurance](./Accounting/Assurance-Services/Risk-Assurance)
         - [Enterprise-Risk-Management.md](./Accounting/Assurance-Services/Risk-Assurance/Enterprise-Risk-Management.md)
+        - [Financial-Risk-and-Assurance.md](./Accounting/Assurance-Services/Risk-Assurance/Financial-Risk-and-Assurance.md)
       - [Risk-Assurance.md](./Accounting/Assurance-Services/Risk-Assurance.md)
       - [Tax-Assurance.md](./Accounting/Assurance-Services/Tax-Assurance.md)
     - [Assurance-Services.md](./Accounting/Assurance-Services.md)
