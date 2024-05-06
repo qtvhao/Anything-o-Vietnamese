@@ -1,101 +1,121 @@
 
 ---
 
-# Tiết lộ 7 trụ cột của đạo đức kiểm toán: Chính trực, khách quan, độc lập, bảo mật, năng lực, hoài nghi và giao tiếp rõ ràng
+# Tiết lộ 7 trụ cột của đạo đức kiểm toán: Chính trực, khách quan, bảo mật, năng lực, độc lập, tuân thủ và tố cáo
 
-- Published: April 24, 2024
+- Published: May 6, 2024
 - Author: Vietnamese Online Voice
 - Categories: Accounting / **Ethics in Accounting**
-- #AuditorEthics #EthicsInAuditing #AuditEthics #Integrity #Objectivity #Independence #Confidentiality #ProfessionalCompetence #ProfessionalSkepticism #ClearCommunication #AuditPrinciples #AuditEthicalConsiderations #AuditEthicalPrinciples #AuditProfession #Transparency #Accuracy #TradeSecrets #FinancialRecords #FinancialInformation #AuditFindings #AuditOpinions #AuditRecommendations #AuditCompliance #AuditSystems #AuditProcesses #AuditProfessionals #EthicalAuditing #AuditEthicsAwareness #AuditTrust #AuditResponsibility #AuditorDuties #AuditorRoles #AuditorIntegrity #AuditorObjectivity #AuditorIndependence #AuditorConfidentiality #AuditorCompetence #AuditorSkepticism #AuditorCommunication #AuditReporting #AuditStakeholders #AuditBacklash #AuditIrregularities #AuditErrors #AuditRedFlags #AuditInconsistencies
+- #EthicsInAuditing #Integrity #Objectivity #Confidentiality #ProfessionalCompetence #Independence #Compliance #Whistleblowing #AuditorEthics #FinancialReporting #AuditingStandards #ISAs #AuditProfession #EthicalPrinciples #BusinessEthics #ProfessionalConduct #Transparency #Fairness #FraudPrevention #AuditQuality #PublicTrust #AuditIntegrity #AuditResponsibility
 
-"Trong video này, tôi sẽ khám phá vai trò quan trọng của đạo đức trong lĩnh vực kiểm toán. Kiểm toán là một nghề đòi hỏi sự chính trực, khách quan và ứng xử có đạo đức. Nó bao gồm việc kiểm tra hồ sơ, hệ thống và quy trình tài chính để đảm bảo tính chính xác, minh bạch và Hãy đi sâu vào những cân nhắc về mặt đạo đức mà kiểm toán viên phải đề cao để duy trì sự tin tưởng của công chúng. Nguyên tắc đạo đức đầu tiên mà kiểm toán viên phải tuân thủ là tính độc lập. Kiểm toán viên phải duy trì tính độc lập cả về hình thức lẫn thực tế. lợi ích có thể ảnh hưởng đến tính khách quan của họ. Tính độc lập đảm bảo rằng kiểm toán viên có thể đưa ra ý kiến ​​và khuyến nghị không thiên vị chỉ dựa trên giá trị của các phát hiện kiểm toán. Tính khách quan là một nguyên tắc đạo đức quan trọng khác trong kiểm toán. ảnh hưởng hoặc thành kiến. Họ nên dựa vào bằng chứng có thể kiểm chứng để đưa ra kết luận và khuyến nghị của mình, thay vì dựa vào ý kiến ​​hoặc sở thích cá nhân. Tính khách quan đảm bảo quá trình kiểm toán luôn công bằng và khách quan. Các Boss có thể xem video hướng dẫn chi tiết ở bên dưới nhé."
+"Trong video này, em sẽ giới thiệu về Đạo đức Kiểm toán. Trong video này, em sẽ khám phá tầm quan trọng của hành vi đạo đức trong lĩnh vực kiểm toán và cách đóng vai trò quan trọng trong công việc duy trì tính chính trực tuyến và đáng tin cậy của báo cáo tài chính Kiểm tra là một nghề nghiệp liên quan đến việc xem xét và đánh giá báo cáo tài chính và hồ sơ để đưa ra ý kiến ​​độc lập về tính chính xác và công bằng của họ Tuy nhiên, sự tin tưởng đặt vào kiểm toán dựa nhiều vào việc Tặng thủ nguyên tắc và tiêu chuẩn đạo đức. trung thực, công bằng và minh bạch trong tất cả các hoạt động chuyên nghiệp. Kiểm tra các thành viên phải duy trì tính khách quan và độc lập, đảm bảo rằng giá trị đánh giá của họ không bị ảnh hưởng bởi lợi ích hoặc năng lực từ bên ngoài. Các Boss có thể xem chi tiết video hướng dẫn ở bên dưới nhé."
 
 
 ## AUDITING ETHICS
 
-Chào mừng bạn đến với video của tôi về Đạo đức kiểm toán. Trong video này, tôi sẽ khám phá vai trò quan trọng của đạo đức trong lĩnh vực kiểm toán. Kiểm toán là một nghề đòi hỏi "tính chính trực" (integrity), "khách quan" (objectivity) và "hành vi đạo đức" (ethical conduct). Nó liên quan đến việc kiểm tra "hồ sơ tài chính" (financial records), hệ thống và quy trình để đảm bảo "tính chính xác" (accuracy), "minh bạch" (transparency) và "tuân thủ" (compliance). Hãy cùng đi sâu vào những cân nhắc về mặt đạo đức mà kiểm toán viên phải đề cao để duy trì niềm tin của công chúng.
-![AUDITING ETHICS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--12767533887-Montserrat-Medium-880E4F.jpg)
+Chào mừng bạn đến với video của tôi về Đạo đức kiểm toán. Trong video này, tôi sẽ khám phá tầm quan trọng của "hành vi đạo đức" (ethical conduct) trong "lĩnh vực kiểm toán" (field of auditing) và nó đóng vai trò quan trọng như thế nào trong việc duy trì "tính chính trực" (integrity) và "sự tín nhiệm" (credibility) của "báo cáo tài chính" (financial reporting).
+![AUDITING ETHICS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--12397544145-Montserrat-Regular-673AB7.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-48611782459.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-893271283.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## ETHICAL PRINCIPLE
+## AUDITING
 
-"Nguyên tắc đạo đức" đầu tiên (ethical principle) mà "kiểm toán viên" (auditors) phải "tuân thủ" (adhere) là "độc lập" (independence). Kiểm toán viên phải duy trì tính độc lập cả "hình thức lẫn thực tế" (appearance and fact). Điều này có nghĩa là họ không được có bất kỳ lợi ích tài chính hoặc cá nhân nào có thể ảnh hưởng đến "tính khách quan" của họ (objectivity). Tính độc lập đảm bảo rằng kiểm toán viên có thể đưa ra "ý kiến ​​không thiên vị" (unbiased opinions) và "đề xuất" (recommendations) chỉ dựa trên giá trị của các phát hiện kiểm toán.
-![ETHICAL PRINCIPLE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-3136135351-Montserrat-Medium-7B1FA2.jpg)
+Kiểm toán là một nghề liên quan đến việc kiểm tra và đánh giá "báo cáo tài chính" (financial statements) và "hồ sơ" (records) để đưa ra "ý kiến ​​độc lập" (independent opinion) về "tính chính xác và công bằng" (accuracy and fairness) của chúng. Tuy nhiên, "niềm tin" (trust) đặt vào kiểm toán viên chủ yếu dựa vào việc họ tuân thủ "các nguyên tắc đạo đức" (ethical principles) và các tiêu chuẩn.
+![AUDITING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--26638200717-Montserrat-Black-512DA8.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-39826810268.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## OBJECTIVITY
-
-Tính khách quan là một "nguyên tắc đạo đức" quan trọng khác (ethical principle) trong "kiểm toán" (auditing). Kiểm toán viên phải tiếp cận công việc của mình với tinh thần cởi mở, không chịu bất kỳ "ảnh hưởng không đáng có" nào (undue influence) hoặc "thiên vị" (bias). Họ nên dựa vào "bằng chứng có thể xác minh" (verifiable evidence) để đưa ra kết luận và khuyến nghị của mình, thay vì "ý kiến ​​cá nhân" (personal opinions) hoặc "sở thích" (preferences). Tính khách quan đảm bảo rằng quy trình kiểm tra vẫn "công bằng" (fair) và "vô tư" (impartial).
-![OBJECTIVITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-7567008212-Montserrat-Medium-9C27B0.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-33950245571.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## CONFIDENTIALITY
-
-Tính bảo mật là một khía cạnh thiết yếu của "đạo đức kiểm toán" (auditing ethics). Kiểm toán viên thường có quyền truy cập vào thông tin tài chính nhạy cảm và "bí mật thương mại" (trade secrets). Họ phải duy trì "tính bảo mật" (confidentiality) của thông tin đó và chỉ sử dụng nó cho mục đích kiểm tra. Vi phạm tính bảo mật có thể dẫn đến "hậu quả pháp lý" (legal consequences) và làm xói mòn "niềm tin" (trust) giữa kiểm toán viên và khách hàng của họ.
-![CONFIDENTIALITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--6960261589-Montserrat-SemiBold-880E4F.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-59570125146.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## PROFESSIONAL COMPETENCE
-
-Năng lực chuyên môn là một "sự cân nhắc về mặt đạo đức" (ethical consideration) quan trọng đối với "kiểm toán viên" (auditors). Họ phải có kiến ​​thức, kỹ năng và chuyên môn cần thiết để thực hiện nhiệm vụ của mình một cách hiệu quả. Kiểm toán viên phải luôn cập nhật các tiêu chuẩn, quy định kiểm toán mới nhất và "thông lệ ngành" (industry practices). Sự phát triển chuyên môn liên tục là rất quan trọng để đảm bảo kiểm toán viên có thể đưa ra ý kiến ​​kiểm toán chính xác và đáng tin cậy.
-![PROFESSIONAL COMPETENCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-20624553020-Montserrat-Thin-880E4F.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-7179529217.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## ETHICAL CONDUCT
-
-Tính chính trực là nền tảng của hành vi đạo đức trong kiểm toán. Kiểm toán viên phải trung thực, trung thực và minh bạch trong giao dịch của mình. Họ không được tham gia vào bất kỳ "hoạt động lừa đảo" nào (fraudulent activities) hoặc "trình bày sai" (misrepresentation). Kiểm toán viên phải có "can đảm" (courage) để báo cáo bất kỳ điều bất thường nào họ phát hiện trong "quy trình kiểm toán" (audit process), ngay cả khi điều đó có nghĩa là phải đối mặt với "tình huống khó khăn" (difficult situations) hoặc phản ứng dữ dội tiềm ẩn.
-![ETHICAL CONDUCT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--20119699541-Montserrat-Regular-512DA8.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-11747214975.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## PROFESSIONAL SKEPTICISM
-
-Chủ nghĩa hoài nghi nghề nghiệp là một "nguyên tắc đạo đức" khác (ethical principle) mà "kiểm toán viên" (auditors) phải tuân theo. Nó liên quan đến việc duy trì "tư duy đặt câu hỏi" (questioning mind) và thực hiện "đánh giá chuyên môn" (professional judgment) trong suốt "quy trình kiểm toán" (audit process). Kiểm toán viên nên đánh giá nghiêm túc "bằng chứng" (evidence) được trình bày, "chứng thực thông tin" (corroborate information) từ "nhiều nguồn" (multiple sources) và cảnh giác với mọi "cờ đỏ" (red flags) hoặc "sự không nhất quán" ( inconsistencies). Sự hoài nghi nghề nghiệp giúp kiểm toán viên phát hiện ra "những sai sót tiềm ẩn" (potential errors) hoặc những điều bất thường mà lẽ ra không được chú ý.
-![PROFESSIONAL SKEPTICISM](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-5068673714-Montserrat-Black-9C27B0.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-7556450259.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## AUDITORS
-
-Cuối cùng, "kiểm toán viên" (auditors) có trách nhiệm truyền đạt những phát hiện của mình một cách "chính xác và rõ ràng" (accurately and clearly). Họ nên trình bày "báo cáo kiểm toán" (audit reports) của mình theo cách "dễ hiểu" (understandable) cho "người dùng dự kiến" (intended users). Kiểm toán viên không được giữ lại hoặc thao túng thông tin để "đánh lừa các bên liên quan" (mislead stakeholders). Giao tiếp rõ ràng và minh bạch thúc đẩy "niềm tin và sự tự tin" (trust and confidence) trong quá trình kiểm toán.
-![AUDITORS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition-10067849830-Montserrat-ExtraBold-4A148C.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-40530333381.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-29842988156.mp3" type="audio/mpeg">
 </audio>
 
 
 
 ## INTEGRITY
 
-Tóm lại, "đạo đức kiểm toán" (auditing ethics) đóng một vai trò quan trọng trong việc duy trì "sự chính trực" (integrity) và "sự tín nhiệm" (credibility) của "nghề kiểm toán" (auditing profession). Độc lập, "khách quan" (objectivity), "bảo mật" (confidentiality), "năng lực chuyên môn" (professional competence), tính chính trực, "sự hoài nghi nghề nghiệp" (professional skepticism) và "giao tiếp rõ ràng" (clear communication) là các tiêu chuẩn đạo đức nguyên tắc mà kiểm toán viên phải tuân thủ. Bằng cách tuân thủ các nguyên tắc này, kiểm toán viên góp phần nâng cao độ tin cậy của thông tin tài chính, bảo vệ lợi ích của các bên liên quan và đảm bảo "niềm tin của công chúng" (public's trust) đối với nghề kiểm toán. Cảm ơn bạn đã xem video này về Đạo đức kiểm toán.
-![INTEGRITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-04-24/transition--20200125438-Montserrat-Regular-1A237E.jpg)
+Nguyên tắc đạo đức đầu tiên mà kiểm toán viên phải đề cao là "tính chính trực" (integrity). Chính trực có nghĩa là trung thực, công bằng và minh bạch trong mọi "hoạt động nghề nghiệp" (professional activities). Kiểm toán viên phải duy trì "tính khách quan" (objectivity) và "độc lập" (independence), đảm bảo rằng phán đoán của họ không bị tổn hại bởi "xung đột lợi ích" (conflicts of interest) hoặc áp lực bên ngoài.
+![INTEGRITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition-1516153132-Montserrat-Regular-9C27B0.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/audio/file-41794465138.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-7221147256.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## OBJECTIVITY
+
+Tính khách quan là một khía cạnh quan trọng khác của "đạo đức kiểm toán" (auditing ethics). Kiểm toán viên phải tiếp cận công việc của mình với "tư duy không thiên vị" (unbiased mindset), không có "lợi ích cá nhân hoặc tài chính" (financial interests) có thể ảnh hưởng đến phán đoán của họ. Tính khách quan đảm bảo rằng kiểm toán viên có thể đưa ra "đánh giá khách quan" (impartial assessment) về báo cáo tài chính mà họ kiểm tra.
+![OBJECTIVITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition-1546520065-Montserrat-Regular-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-19912589622.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CONFIDENTIALITY
+
+Tính bảo mật cũng là một vấn đề đạo đức cơ bản cần xem xét trong kiểm toán. Kiểm toán viên được giao phó các thông tin tài chính nhạy cảm và họ phải xử lý nó một cách hết sức cẩn thận. Tính bảo mật đảm bảo rằng "kiểm toán viên" (auditors) không tiết lộ bất kỳ thông tin bí mật nào mà không có "sự cho phép thích hợp" (proper authorization), bảo vệ lợi ích của "khách hàng" của họ (clients) và duy trì "niềm tin của công chúng" (public trust).
+![CONFIDENTIALITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition-10548829255-Montserrat-Medium-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-43204261697.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PROFESSIONAL COMPETENCE
+
+Năng lực chuyên môn là điều cần thiết để kiểm toán viên thực hiện "nghĩa vụ đạo đức" của mình (ethical obligations). Họ phải có "kiến thức" cần thiết (knowledge), kỹ năng và chuyên môn để thực hiện nhiệm vụ của mình một cách "hiệu quả" (effectively). Kiểm toán viên nên "liên tục cập nhật" (continuously update) kiến ​​thức của mình và luôn cập nhật về các xu hướng và sự phát triển mới nổi trong thực tiễn kiểm toán.
+![PROFESSIONAL COMPETENCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--17760659779-Montserrat-Medium-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-17604978156.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## INDEPENDENCE
+
+Tính độc lập là nền tảng của "đạo đức kiểm toán" (auditing ethics). Kiểm toán viên phải độc lập cả về bề ngoài lẫn thực tế. Điều này có nghĩa là họ không được có bất kỳ mối quan hệ tài chính hoặc cá nhân nào có thể ảnh hưởng đến khả năng đưa ra ý kiến ​​khách quan của họ. Tính độc lập giúp duy trì niềm tin của công chúng vào quá trình kiểm toán.
+![INDEPENDENCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition-7909682586-Montserrat-Regular-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-34950647925.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PROFESSIONAL STANDARDS
+
+Việc tuân thủ "các tiêu chuẩn chuyên nghiệp" (professional standards) và "các quy định" (regulations) là một "sự cân nhắc về mặt đạo đức" quan trọng khác (ethical consideration) đối với "kiểm toán viên" (auditors). Họ phải tuân thủ các tiêu chuẩn do "nghề kiểm toán" (auditing profession) đặt ra, chẳng hạn như Chuẩn mực Quốc tế về Kiểm toán (ISA) và tuân thủ "luật" (laws) và các quy định hiện hành. Điều này đảm bảo rằng các cuộc kiểm tra được tiến hành một cách "nhất quán" (consistent) và đáng tin cậy.
+![PROFESSIONAL STANDARDS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition-19292072830-Montserrat-ExtraBold-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-6183354271.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## FINANCIAL MISCONDUCT
+
+Cuối cùng, kiểm toán viên có trách nhiệm báo cáo mọi hoạt động nghi ngờ gian lận hoặc bất hợp pháp mà họ gặp phải trong quá trình làm việc. Nghĩa vụ này được gọi là nguyên tắc "thổi còi". Bằng cách báo cáo các hoạt động như vậy, kiểm toán viên góp phần phát hiện và ngăn chặn "hành vi sai trái tài chính" (financial misconduct), bảo vệ lợi ích của "các bên liên quan" (stakeholders).
+![FINANCIAL MISCONDUCT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--39356658639-Montserrat-Bold-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-17026574837.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## ETHICAL CONDUCT
+
+Tóm lại, “hành vi đạo đức” (ethical conduct) là “nền tảng” (bedrock) của “nghề kiểm toán” (auditing profession). Đề cao các nguyên tắc như "chính trực" (integrity), "khách quan" (objectivity), "bảo mật" (confidentiality), "năng lực chuyên môn" (professional competence), "độc lập" (independence) và đảm bảo tuân thủ các tiêu chuẩn rằng kiểm toán viên có thể hoàn thành vai trò của mình với tư cách là người bảo vệ báo cáo tài chính. Bằng cách tuân thủ các nguyên tắc đạo đức, kiểm toán viên đóng góp vào "sự tin cậy" (trust) và "độ tin cậy" (reliability) của "thông tin tài chính" (financial information), cuối cùng mang lại lợi ích cho "cộng đồng doanh nghiệp" (business community) và xã hội với tư cách là một trọn.
+![ETHICAL CONDUCT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--42039190003-Montserrat-Regular-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-21004520200.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## ETHICAL BEHAVIOR
+
+Cảm ơn bạn đã xem video này về Đạo đức kiểm toán. Tôi hy vọng bạn đã có được những hiểu biết sâu sắc có giá trị về "những cân nhắc về đạo đức" (ethical considerations) mà kiểm toán viên phải "ủng hộ" (uphold). Hãy nhớ rằng, "hành vi đạo đức" (ethical behavior) không chỉ là một "yêu cầu" (requirement); nó là nền tảng của một nghề kiểm toán "đáng tin cậy" (trustworthy) và "đáng tin cậy" (credible).
+![ETHICAL BEHAVIOR](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-04/transition--19304287810-Montserrat-SemiBold-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-24898467335.mp3" type="audio/mpeg">
 </audio>
 
