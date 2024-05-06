@@ -188,6 +188,7 @@
     - [Ratio-Analysis](./Ratio-Analysis/)
       - [Current-Ratio.md](./Current-Ratio.md)
       - [Debt-to-Equity-Ratio.md](./Debt-to-Equity-Ratio.md)
+      - [Quick-Ratio.md](./Quick-Ratio.md)
     - [Trend-Analysis.md](./Trend-Analysis.md)
     - [Vertical-Analysis.md](./Vertical-Analysis.md)
   - [Financial-Statement-Analysis.md](./Financial-Statement-Analysis.md)
