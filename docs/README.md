@@ -100,6 +100,7 @@
       - [Non-profit-Budgeting.md](./Accounting/Budgeting/Non-profit-Budgeting.md)
       - [Personal-Budgeting.md](./Accounting/Budgeting/Personal-Budgeting.md)
       - [Personal-budgeting](./Accounting/Budgeting/Personal-budgeting)
+        - [Income-tracking.md](./Accounting/Budgeting/Personal-budgeting/Income-tracking.md)
         - [Savings-goals.md](./Accounting/Budgeting/Personal-budgeting/Savings-goals.md)
       - [Personal-budgeting.md](./Accounting/Budgeting/Personal-budgeting.md)
     - [Budgeting.md](./Accounting/Budgeting.md)

@@ -99,6 +99,7 @@
     - [Non-profit-Budgeting.md](./Non-profit-Budgeting.md)
     - [Personal-Budgeting.md](./Personal-Budgeting.md)
     - [Personal-budgeting](./Personal-budgeting/)
+      - [Income-tracking.md](./Income-tracking.md)
       - [Savings-goals.md](./Savings-goals.md)
     - [Personal-budgeting.md](./Personal-budgeting.md)
   - [Budgeting.md](./Budgeting.md)
