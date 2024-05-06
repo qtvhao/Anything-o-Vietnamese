@@ -64,6 +64,7 @@
     - [Operational-Audit.md](./Operational-Audit.md)
     - [Regulatory-Assurance.md](./Regulatory-Assurance.md)
     - [Risk-Assurance](./Risk-Assurance/)
+      - [Compliance-Risk-and-Assurance.md](./Compliance-Risk-and-Assurance.md)
       - [Enterprise-Risk-Management.md](./Enterprise-Risk-Management.md)
       - [Financial-Risk-and-Assurance.md](./Financial-Risk-and-Assurance.md)
       - [Internal-Audit-and-Assurance.md](./Internal-Audit-and-Assurance.md)
