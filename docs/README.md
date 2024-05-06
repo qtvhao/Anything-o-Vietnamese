@@ -221,6 +221,7 @@
       - [Internal-control-assessment.md](./Accounting/Internal-Auditing/Internal-control-assessment.md)
       - [Reporting-and-communication.md](./Accounting/Internal-Auditing/Reporting-and-communication.md)
       - [Risk-assessment](./Accounting/Internal-Auditing/Risk-assessment)
+        - [Operational-Risk-Assessment.md](./Accounting/Internal-Auditing/Risk-assessment/Operational-Risk-Assessment.md)
         - [Regulatory-Risk-Assessment.md](./Accounting/Internal-Auditing/Risk-assessment/Regulatory-Risk-Assessment.md)
     - [Internal-Auditing.md](./Accounting/Internal-Auditing.md)
     - [International-Accounting](./Accounting/International-Accounting)
