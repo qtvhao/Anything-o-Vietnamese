@@ -3,7 +3,7 @@
 
 # \[Độc quyền!\] Mở khóa bí mật lập ngân sách hiệu quả cho tổ chức phi lợi nhuận: Hướng dẫn toàn diện để thành công tài chính
 
-- Published: May 6, 2024
+- Published: May 7, 2024
 - Author: Vietnamese Online Voice
 - Categories: Accounting / **Budgeting**
 - #NonProfitOrganizations #FinancialManagement #NonProfitBudgeting #FiscalSustainability #FinancialPlanning #ResourceAllocation #InformedDecisions #NonProfitMissions #CommunityService #FinancialTransparency #Accountability #FinancialGoals #FinancialHealth #DonorRelations #Fundraising #GrantWriting #FinancialRecords #BudgetMonitoring #FlexibleBudgeting #NonProfitGrowth #FinancialEvaluation #FinancialStakeholders #NonProfitBoards #NonProfitStaff #NonProfitVolunteers #ProgramFees #ProgramCosts #AdministrativeExpenses #FinancialProjections #FinancialHistory #RevenueRecords #ExpenseRecords #FinancialPrioritization #MissionAlignment #TargetAudienceNeeds #FinancialBestPractices
@@ -14,7 +14,7 @@
 ## BUDGETING FOR NON-PROFITS
 
 Chào mừng bạn đến với video của tôi về "lập ngân sách cho tổ chức phi lợi nhuận" (budgeting for non-profits). Trong video này, tôi sẽ khám phá tầm quan trọng của việc lập ngân sách cho các tổ chức phi lợi nhuận và cung cấp cho bạn các mẹo và chiến lược thiết thực để quản lý hiệu quả "nguồn tài chính" của bạn (financial resources). Lập ngân sách đóng một vai trò quan trọng trong việc đảm bảo "tính bền vững" (sustainability) và thành công của các tổ chức phi lợi nhuận, cho phép họ hoàn thành "sứ mệnh" của mình (missions) và phục vụ "cộng đồng" của họ (communities). Vì vậy, hãy cùng đi sâu và khám phá thế giới lập ngân sách cho tổ chức phi lợi nhuận.
-![BUDGETING FOR NON-PROFITS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-06/transition--9074118545-Montserrat-SemiBold-7B1FA2.jpg)
+![BUDGETING FOR NON-PROFITS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-07/transition--9074118545-Montserrat-Medium-880E4F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-43361214849.mp3" type="audio/mpeg">
 </audio>
@@ -24,7 +24,7 @@ Chào mừng bạn đến với video của tôi về "lập ngân sách cho t�
 ## BUDGETING FOR NON-PROFITS
 
 Trước khi đi sâu vào chi tiết cụ thể về "lập ngân sách" (budgeting), trước tiên chúng ta hãy hiểu tại sao nó lại quan trọng đối với các tổ chức phi lợi nhuận. Lập ngân sách giúp các tổ chức phi lợi nhuận lập kế hoạch "thu nhập và chi phí" (income and expenses), "phân bổ nguồn lực" (allocate resources) một cách hiệu quả và đưa ra "quyết định sáng suốt" (informed decisions) về "chương trình và hoạt động" (programs and operations) của họ. Nó cho phép các tổ chức đặt ra "mục tiêu tài chính" thực tế (financial goals), theo dõi "sức khỏe tài chính" (financial health) của họ và thể hiện "trách nhiệm giải trình" (accountability) với "nhà tài trợ" (donors), "nhà tài trợ" (funders ) và các bên liên quan.
-![BUDGETING FOR NON-PROFITS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-06/transition-3936224386-Montserrat-Black-512DA8.jpg)
+![BUDGETING FOR NON-PROFITS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-07/transition-3936224386-Montserrat-Bold-004895.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-12683171086.mp3" type="audio/mpeg">
 </audio>
@@ -34,7 +34,7 @@ Trước khi đi sâu vào chi tiết cụ thể về "lập ngân sách" (budge
 ## FINANCIAL INFORMATION
 
 Bước đầu tiên trong quá trình "lập ngân sách" (budgeting) cho tổ chức phi lợi nhuận là thu thập tất cả "thông tin tài chính" có liên quan (financial information). Điều này bao gồm các báo cáo tài chính, hồ sơ doanh thu và chi phí trước đây của bạn, "khoản tài trợ" (grants), "quyên góp" (donations) và bất kỳ "nguồn thu nhập" nào khác (sources of income). Bằng cách có một bức tranh rõ ràng về "lịch sử tài chính" (financial history) của tổ chức bạn, bạn có thể đưa ra những "dự đoán" chính xác hơn (projections) cho tương lai.
-![FINANCIAL INFORMATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-06/transition--36823656716-Montserrat-Black-9C27B0.jpg)
+![FINANCIAL INFORMATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-07/transition--36823656716-Montserrat-ExtraBold-303F9F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-46378061317.mp3" type="audio/mpeg">
 </audio>
@@ -44,7 +44,7 @@ Bước đầu tiên trong quá trình "lập ngân sách" (budgeting) cho tổ 
 ## BUDGETING
 
 Khi bạn đã thu thập được "thông tin tài chính" cần thiết (financial information), đã đến lúc tạo "ngân sách" (budget). Bắt đầu bằng cách xác định "nguồn thu nhập" (sources of income) của bạn, chẳng hạn như "tài trợ" (grants), "quyên góp" (donations) và "phí chương trình" (program fees). Sau đó, ước tính "chi phí" (expenses) của bạn, bao gồm "tiền lương" (salaries), "tiền thuê nhà" (rent), "tiện ích" (utilities), "chi phí chương trình" (program costs) và "chi phí hành chính" " (administrative expenses). Đảm bảo bao gồm cả "chi phí cố định" (fixed costs) và chi phí biến đổi.
-![BUDGETING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-06/transition-30540127533-Montserrat-Medium-1A237E.jpg)
+![BUDGETING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-07/transition-30540127533-Montserrat-Thin-7B1FA2.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-30878730380.mp3" type="audio/mpeg">
 </audio>
@@ -54,7 +54,7 @@ Khi bạn đã thu thập được "thông tin tài chính" cần thiết (finan
 ## ALLOCATE RESOURCES
 
 Sau khi ước tính thu nhập và "chi phí" (expenses), điều quan trọng là bạn phải ưu tiên chi tiêu. Phân bổ "tài nguyên" (resources) dựa trên "tầm quan trọng và tác động" (importance and impact) của từng chương trình hoặc hoạt động. Hãy cân nhắc sự phù hợp với sứ mệnh của tổ chức và nhu cầu của "đối tượng mục tiêu" (target audience). Bằng cách ưu tiên chi tiêu, bạn có thể đảm bảo rằng "nguồn lực hạn chế" (limited resources) của mình được sử dụng "một cách khôn ngoan và hiệu quả" (wisely and effectively).
-![ALLOCATE RESOURCES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-06/transition-22718360131-Montserrat-ExtraBold-004895.jpg)
+![ALLOCATE RESOURCES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-07/transition-22718360131-Montserrat-Black-7B1FA2.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-12243333986.mp3" type="audio/mpeg">
 </audio>
@@ -64,7 +64,7 @@ Sau khi ước tính thu nhập và "chi phí" (expenses), điều quan trọng 
 ## BUDGETING PROCESS
 
 Điều cần thiết là phải có sự tham gia của "các bên liên quan" chính (stakeholders) vào "quy trình lập ngân sách" (budgeting process). Điều này bao gồm "ban giám đốc" (board of directors), "nhân viên" (staff members) và "tình nguyện viên" (volunteers). Bằng cách bao gồm các "quan điểm" khác nhau (perspectives), bạn có thể thu thập "những hiểu biết có giá trị" (valuable insights) và đảm bảo rằng ngân sách phản ánh "tầm nhìn tập thể" (collective vision) và "ưu tiên" (priorities) của "tổ chức" của bạn (organization).
-![BUDGETING PROCESS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-06/transition-21600867402-Montserrat-Regular-4A148C.jpg)
+![BUDGETING PROCESS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-07/transition-21600867402-Montserrat-Regular-9C27B0.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-9964930525.mp3" type="audio/mpeg">
 </audio>
@@ -74,7 +74,7 @@ Sau khi ước tính thu nhập và "chi phí" (expenses), điều quan trọng 
 ## MONITORING
 
 Giám sát và "xem xét" (reviewing) ngân sách của bạn cũng quan trọng không kém việc tạo ngân sách. Thường xuyên theo dõi "thu nhập" (income) và "chi phí" (expenses), so sánh chúng với "số tiền ngân sách" (budgeted amounts) và phân tích bất kỳ "khác biệt" nào (variances). Điều này sẽ giúp bạn xác định sớm các vấn đề tiềm ẩn và thực hiện "những điều chỉnh cần thiết" (necessary adjustments) để đi đúng hướng.
-![MONITORING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-06/transition--7765051650-Montserrat-Black-673AB7.jpg)
+![MONITORING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-07/transition--7765051650-Montserrat-Thin-880E4F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-63801385566.mp3" type="audio/mpeg">
 </audio>
@@ -84,7 +84,7 @@ Giám sát và "xem xét" (reviewing) ngân sách của bạn cũng quan trọng
 ## FINANCIAL TRANSPARENCY
 
 Một khía cạnh quan trọng khác của việc lập ngân sách cho tổ chức phi lợi nhuận là duy trì "sự minh bạch tài chính" (financial transparency) và trách nhiệm giải trình. Giữ "hồ sơ chi tiết" (detailed records) về "giao dịch tài chính" (financial transactions), tuân theo "các phương pháp hay nhất" (best practices) trong "quản lý tài chính" (financial management) và chuẩn bị "chính xác và kịp thời" (accurate and timely) "báo cáo tài chính" (financial reports). Điều này không chỉ giúp bạn đưa ra "quyết định sáng suốt" (informed decisions) mà còn tạo dựng niềm tin và sự tín nhiệm với "các nhà tài trợ" (donors) và "các bên liên quan" (stakeholders) của bạn.
-![FINANCIAL TRANSPARENCY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-06/transition--6102731228-Montserrat-Bold-673AB7.jpg)
+![FINANCIAL TRANSPARENCY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-07/transition--6102731228-Montserrat-ExtraBold-283593.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-15255489737.mp3" type="audio/mpeg">
 </audio>
@@ -94,7 +94,7 @@ Một khía cạnh quan trọng khác của việc lập ngân sách cho tổ ch
 ## ONGOING PROCESS
 
 Cuối cùng, hãy nhớ rằng "lập ngân sách" (budgeting) là một "quá trình đang diễn ra" (ongoing process). Nó yêu cầu "đánh giá thường xuyên" (regular evaluation) và "thích ứng" (adaptation) với "hoàn cảnh thay đổi" (changing circumstances). Khi "tổ chức phi lợi nhuận" (non-profit) của bạn "phát triển" (grows) và "phát triển" (evolves), ngân sách của bạn sẽ phản ánh những thay đổi này. Chấp nhận "tính linh hoạt" (flexibility) và sẵn sàng sửa đổi ngân sách của bạn nếu cần.
-![ONGOING PROCESS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-06/transition--10486532422-Montserrat-Medium-303F9F.jpg)
+![ONGOING PROCESS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-07/transition--10486532422-Montserrat-Regular-9C27B0.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-46367830714.mp3" type="audio/mpeg">
 </audio>
@@ -104,7 +104,7 @@ Cuối cùng, hãy nhớ rằng "lập ngân sách" (budgeting) là một "quá 
 ## FINANCIAL STABILITY
 
 Tóm lại, "lập ngân sách" (budgeting) là một công cụ quan trọng để các tổ chức phi lợi nhuận quản lý "tài chính" (finances) một cách hiệu quả và đạt được sứ mệnh của mình. Bằng cách làm theo các bước này, bạn có thể tạo ngân sách được lên kế hoạch tốt phù hợp với "mục tiêu" của mình (goals), thu hút sự tham gia của "các bên liên quan" chính (stakeholders) và thúc đẩy tính bền vững tài chính. Hãy nhớ rằng, mỗi "đô la" (dollar) bạn tiết kiệm được thông qua "ngân sách thông minh" (smart budgeting) là một đô la khác có thể được đầu tư để tạo ra sự khác biệt trong cộng đồng mà bạn phục vụ.
-![FINANCIAL STABILITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-06/transition--50621047514-Montserrat-Medium-1A237E.jpg)
+![FINANCIAL STABILITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-07/transition--50621047514-Montserrat-Medium-9C27B0.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-24042748911.mp3" type="audio/mpeg">
 </audio>
@@ -114,7 +114,7 @@ Tóm lại, "lập ngân sách" (budgeting) là một công cụ quan trọng đ
 ## NON-PROFIT
 
 Cảm ơn bạn đã tham gia cùng tôi trong video này về lập ngân sách cho tổ chức phi lợi nhuận. Tôi hy vọng bạn thấy những hiểu biết và lời khuyên này có giá trị. Bằng cách triển khai các phương pháp lập ngân sách hiệu quả, bạn có thể nâng cao "sự ổn định tài chính" (financial stability) và tác động của "tổ chức phi lợi nhuận" của mình (non-profit organization). Chúc bạn may mắn trên "hành trình lập ngân sách" (budgeting journey) và chúc bạn tiếp tục tạo ra sự khác biệt tích cực trên thế giới.
-![NON-PROFIT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-06/transition--12496700669-Montserrat-Bold-4A148C.jpg)
+![NON-PROFIT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-07/transition--12496700669-Montserrat-Black-880E4F.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-12845891112.mp3" type="audio/mpeg">
 </audio>
