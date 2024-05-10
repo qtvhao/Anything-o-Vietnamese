@@ -138,6 +138,7 @@
       - [Auditing-Ethics.md](./Accounting/Ethics-in-Accounting/Auditing-Ethics.md)
       - [Financial-Reporting-Ethics](./Accounting/Ethics-in-Accounting/Financial-Reporting-Ethics)
         - [Conflict-of-Interest.md](./Accounting/Ethics-in-Accounting/Financial-Reporting-Ethics/Conflict-of-Interest.md)
+        - [Insider-Trading.md](./Accounting/Ethics-in-Accounting/Financial-Reporting-Ethics/Insider-Trading.md)
       - [Financial-Reporting-Ethics.md](./Accounting/Ethics-in-Accounting/Financial-Reporting-Ethics.md)
       - [Fraud-Prevention-and-Ethics.md](./Accounting/Ethics-in-Accounting/Fraud-Prevention-and-Ethics.md)
       - [Tax-Ethics.md](./Accounting/Ethics-in-Accounting/Tax-Ethics.md)
