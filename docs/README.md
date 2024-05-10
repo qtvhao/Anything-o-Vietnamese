@@ -259,6 +259,7 @@
     - [Public-Accounting](./Accounting/Public-Accounting)
       - [Advisory-Services.md](./Accounting/Public-Accounting/Advisory-Services.md)
       - [Assurance-Services](./Accounting/Public-Accounting/Assurance-Services)
+        - [Forensic-Accounting-Services.md](./Accounting/Public-Accounting/Assurance-Services/Forensic-Accounting-Services.md)
         - [IT-Assurance-Services.md](./Accounting/Public-Accounting/Assurance-Services/IT-Assurance-Services.md)
         - [Internal-Audit-Services.md](./Accounting/Public-Accounting/Assurance-Services/Internal-Audit-Services.md)
       - [Audit-and-Attestation.md](./Accounting/Public-Accounting/Audit-and-Attestation.md)
