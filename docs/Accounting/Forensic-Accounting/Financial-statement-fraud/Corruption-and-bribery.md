@@ -1,0 +1,111 @@
+
+---
+
+# Vạch trần mạng lưới lừa dối: Tham nhũng, hối lộ và tác động tàn phá của chúng đối với xã hội và nền kinh tế. Sự thối nát của tham nhũng: Khám phá tầm ảnh hưởng thâm hiểm của nó, sức mạnh hủy diệt và cách chúng ta có thể ngăn chặn nó từ túi tiền đến chính sách: Cái giá của hối lộ đối với sự công bằng, công lý và Đầu tư nhằm kiềm chế sức mạnh tham nhũng có tính ăn mòn: Tính minh bạch, trách nhiệm giải trình và hành động tập thể có thể khôi phục niềm tin và sự bình đẳng như thế nào
+
+- Published: May 11, 2024
+- Author: Vietnamese Online Voice
+- Categories: Accounting / Forensic Accounting / **Financial statement fraud**
+- #Bribery #AbuseOfPower #PersonalGain #EconomicGrowth #Governance #PublicTrust #Inequality #Injustice #IllicitPractices #Embezzlement #Fraud #Nepotism #MoneyLaundering #Politics #Business #LawEnforcement #PublicAdministration #ConsequencesOfCorruption #HinderEconomicDevelopment #DiversionOfFunds #Poverty #SocialUnrest #Fairness #Meritocracy #EthicalValues #JusticeSystem #LegalConsequences #JudicialDecisions #ForeignInvestments #BusinessRisks #DecreaseInFDI #StrengthenLegalFrameworks #PromoteTransparency #Accountability #CultureOfIntegrity #Fairness #Justice #Equality #CombatCorruption #SocietyBasedOnFairness #NoToCorruption #NoToBribery
+
+"Trong video này, tôi sẽ khám phá những tác hại của tham nhũng và hối lộ đối với xã hội, nền kinh tế và quản trị tổng thể. Tham nhũng và hối lộ là những vấn đề phổ biến có thể làm suy yếu nền tảng của một xã hội công bằng và bình đẳng. Vì vậy, hãy đi sâu vào chủ đề quan trọng này và hiểu ý nghĩa của nó. Tham nhũng, theo cách hiểu đơn giản nhất, là việc lạm dụng quyền lực được giao để thu lợi cá nhân. Nó diễn ra dưới nhiều hình thức, bao gồm hối lộ, tham ô, lừa đảo, gia đình trị và rửa tiền. Nó ảnh hưởng đến cả các quốc gia phát triển và đang phát triển, tạo ra môi trường bất bình đẳng và bất công. Hối lộ, một dạng tham nhũng, liên quan đến việc tặng, cho, nhận hoặc gạ gẫm một thứ gì đó có giá trị, chẳng hạn như tiền. hoặc quà tặng để gây ảnh hưởng đến hành động hoặc quyết định của một cá nhân ở vị trí quyền lực. Điều này có thể xảy ra trong nhiều lĩnh vực khác nhau, bao gồm chính trị, kinh doanh, thực thi pháp luật và hành chính công. Hối lộ làm tổn hại đến tính liêm chính của các tổ chức và làm suy yếu nền pháp quyền. Các Boss có thể xem video hướng dẫn chi tiết ở bên dưới nhé."
+
+
+## CORRUPTION AND BRIBERY
+
+Chào mừng bạn đến với video của tôi về Tham nhũng và Hối lộ. Trong video này, tôi sẽ khám phá "tác động tai hại" (damaging effects) của "tham nhũng và hối lộ" (corruption and bribery) đối với "xã hội" (society), "nền kinh tế" (economy) và "quản trị" tổng thể ( governance). Tham nhũng và hối lộ là những vấn đề phổ biến có thể làm xói mòn nền tảng của một "xã hội công bằng và bình đẳng" (fair and just society). Vì vậy, hãy đi sâu vào chủ đề quan trọng này và hiểu ý nghĩa của nó.
+![CORRUPTION AND BRIBERY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-11/transition--16650908562-Montserrat-Thin-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-12377161179.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CORRUPTION
+
+Tham nhũng, theo cách hiểu đơn giản nhất, là việc lạm dụng quyền lực được giao để trục lợi cá nhân. Nó có nhiều hình thức, bao gồm "hối lộ" (bribery), "tham ô" (embezzlement), "lừa đảo" (fraud), "gia đình trị" (nepotism) và "rửa tiền" (money laundering). Những hành vi tham nhũng này làm xói mòn lòng tin của công chúng, cản trở tăng trưởng kinh tế và bóp méo việc phân bổ nguồn lực. Nó ảnh hưởng đến cả các quốc gia phát triển và đang phát triển, tạo ra một môi trường "bất bình đẳng" (inequality) và bất công.
+![CORRUPTION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-11/transition--11717245641-Montserrat-Regular-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-35099685152.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## BRIBERY
+
+Hối lộ, một tập hợp con của "tham nhũng" (corruption), liên quan đến việc đề nghị, đưa, nhận hoặc gạ gẫm một thứ gì đó có giá trị, chẳng hạn như tiền hoặc quà tặng, để "tác động" (influence) đến "hành động hoặc quyết định" (# 381519928) của một cá nhân ở vị trí quyền lực. Điều này có thể xảy ra trong nhiều lĩnh vực khác nhau, bao gồm chính trị, kinh doanh, thực thi pháp luật và hành chính công. Hối lộ làm tổn hại đến tính liêm chính của các tổ chức và làm suy yếu nền pháp quyền.
+![BRIBERY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-11/transition--2007989494-Montserrat-ExtraBold-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-49914293479.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## ECONOMIC DEVELOPMENT
+
+Hậu quả của "tham nhũng" (corruption) và "hối lộ" (bribery) là rất sâu rộng. Thứ nhất, chúng cản trở "phát triển kinh tế" (economic development) bằng cách "chuyển hướng nguồn lực" (diverting resources) từ các dịch vụ công thiết yếu, chẳng hạn như chăm sóc sức khỏe, giáo dục và "cơ sở hạ tầng" (infrastructure), vào túi của các cá nhân tham nhũng. Việc chuyển hướng quỹ này kéo dài tình trạng "nghèo đói" (poverty), "bất bình đẳng" (inequality) và bất ổn xã hội.
+![ECONOMIC DEVELOPMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-11/transition-8819612808-Montserrat-Thin-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-6399969446.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## ILLICIT MEANS
+
+Thứ hai, "tham nhũng" (corruption) và "hối lộ" (bribery) làm suy yếu các nguyên tắc "công bằng" (fairness) và "bình đẳng" (equality). Khi các cá nhân có thể mua chuộc để có được vị trí hoặc đạt được kết quả thuận lợi thông qua "các phương tiện bất hợp pháp" (illicit means), điều đó sẽ làm xói mòn "chế độ nhân tài" (meritocracy) và làm giảm "cơ hội" (opportunities) cho những người "xứng đáng" (deserving ). Điều này tạo ra cảm giác "vô vọng" (hopelessness) và vỡ mộng trong người dân.
+![ILLICIT MEANS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-11/transition--32453802856-Montserrat-Black-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-256008555.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CULTURE OF DISHONESTY
+
+Thứ ba, “tham nhũng” (corruption) và “hối lộ” (bribery) làm suy yếu “kết cấu xã hội” (social fabric) của một “quốc gia” (nation). Họ duy trì "văn hóa không trung thực" (culture of dishonesty) và làm suy yếu "các giá trị đạo đức" (ethical values). Khi tham nhũng trở nên "bình thường hóa" (normalized), việc "đấu tranh" (combat) ngày càng khó khăn hơn, vì nó xâm nhập vào mọi "khía cạnh của xã hội" (aspects of society), bao gồm cả "giáo dục" (education), "chăm sóc sức khỏe". " (healthcare) và cơ quan thực thi pháp luật.
+![CULTURE OF DISHONESTY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-11/transition--10812596609-Montserrat-Black-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-34917059054.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## JUDICIAL DECISIONS
+
+Thứ tư, “tham nhũng” (corruption) và “hối lộ” (bribery) gây hậu quả nặng nề cho “hệ thống tư pháp” (justice system). Khi các cá nhân có thể hối lộ để thoát khỏi "hậu quả pháp lý" (legal consequences) hoặc gây ảnh hưởng đến "các quyết định tư pháp" (judicial decisions), điều đó sẽ làm xói mòn "niềm tin" (trust) mà mọi người dành cho hệ thống pháp luật. Điều này làm suy yếu "nguyên tắc cơ bản" (fundamental principle) rằng công lý phải mù quáng và "vô tư" (impartial).
+![JUDICIAL DECISIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-11/transition-34467862074-Montserrat-Medium-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-30470574254.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## DETRIMENTAL IMPACT
+
+Cuối cùng, "tham nhũng" (corruption) và "hối lộ" (bribery) có "tác động bất lợi" (detrimental impact) đối với "đầu tư nước ngoài" (foreign investments). Các nhà đầu tư không muốn tham gia vào "môi trường kinh doanh" (business environments) nơi tham nhũng tràn lan vì nó tạo ra "sự không chắc chắn" (uncertainty) và làm tăng "rủi ro kinh doanh" (business risks). Điều này dẫn đến đầu tư trực tiếp nước ngoài giảm, cản trở "tăng trưởng kinh tế" (economic growth) và hạn chế cơ hội việc làm.
+![DETRIMENTAL IMPACT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-11/transition--26452066057-Montserrat-Thin-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-2999093377.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## MULTI-FACETED APPROACH
+
+Điều quan trọng là phải giải quyết "tham nhũng" (corruption) và "hối lộ" (bribery) thông qua cách tiếp cận nhiều mặt. Điều này bao gồm tăng cường khuôn khổ pháp lý, "thúc đẩy tính minh bạch" (promoting transparency) và "trách nhiệm giải trình" (accountability) và thúc đẩy văn hóa liêm chính. Các chính phủ, tổ chức xã hội dân sự và cá nhân phải cùng nhau "chống tham nhũng" (combat corruption) và hối lộ và "xây dựng xã hội" (build a society) dựa trên "sự công bằng" (fairness), "công lý" (justice), và sự bình đẳng.
+![MULTI-FACETED APPROACH](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-11/transition-38813464983-Montserrat-SemiBold-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-30747260981.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## GOVERNANCE
+
+Tóm lại, "tham nhũng" (corruption) và "hối lộ" (bribery) gây ra "những mối đe dọa đáng kể đối với xã hội" (threats to society), nền kinh tế và quản trị. Chúng làm suy yếu "niềm tin" (trust), cản trở "sự phát triển" (development), duy trì "bất bình đẳng" (inequality) và làm xói mòn "các giá trị đạo đức" (ethical values). Bằng cách hiểu "hậu quả" (consequences) của tham nhũng và hối lộ, chúng ta có thể thực hiện "hành động tập thể" (collective action) để "đấu tranh" (combat) những vấn đề này và tạo ra một tương lai tốt đẹp hơn cho tất cả mọi người. Cùng nhau, chúng ta có thể xây dựng một xã hội đề cao các nguyên tắc "minh bạch" (transparency), "trách nhiệm giải trình" (accountability) và công lý. Cảm ơn bạn đã xem video này về Tham nhũng và Hối lộ.
+![GOVERNANCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-05-11/transition--21955221979-Montserrat-Thin-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-2955476426.mp3" type="audio/mpeg">
+</audio>
+

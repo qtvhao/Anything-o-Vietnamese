@@ -209,6 +209,8 @@
     - [Asset-misappropriation.md](./Asset-misappropriation.md)
     - [Bribery-and-corruption.md](./Bribery-and-corruption.md)
     - [Computer-forensic-accounting.md](./Computer-forensic-accounting.md)
+    - [Financial-statement-fraud](./Financial-statement-fraud/)
+      - [Corruption-and-bribery.md](./Corruption-and-bribery.md)
     - [Financial-statement-fraud.md](./Financial-statement-fraud.md)
     - [Procurement-fraud.md](./Procurement-fraud.md)
     - [Regulatory-compliance..md](./Regulatory-compliance..md)

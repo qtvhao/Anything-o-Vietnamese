@@ -210,6 +210,8 @@
       - [Asset-misappropriation.md](./Accounting/Forensic-Accounting/Asset-misappropriation.md)
       - [Bribery-and-corruption.md](./Accounting/Forensic-Accounting/Bribery-and-corruption.md)
       - [Computer-forensic-accounting.md](./Accounting/Forensic-Accounting/Computer-forensic-accounting.md)
+      - [Financial-statement-fraud](./Accounting/Forensic-Accounting/Financial-statement-fraud)
+        - [Corruption-and-bribery.md](./Accounting/Forensic-Accounting/Financial-statement-fraud/Corruption-and-bribery.md)
       - [Financial-statement-fraud.md](./Accounting/Forensic-Accounting/Financial-statement-fraud.md)
       - [Procurement-fraud.md](./Accounting/Forensic-Accounting/Procurement-fraud.md)
       - [Regulatory-compliance..md](./Accounting/Forensic-Accounting/Regulatory-compliance..md)
