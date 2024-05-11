@@ -198,6 +198,7 @@
       - [Ratio-Analysis](./Accounting/Financial-Statement-Analysis/Ratio-Analysis)
         - [Current-Ratio.md](./Accounting/Financial-Statement-Analysis/Ratio-Analysis/Current-Ratio.md)
         - [Debt-to-Equity-Ratio.md](./Accounting/Financial-Statement-Analysis/Ratio-Analysis/Debt-to-Equity-Ratio.md)
+        - [Earnings-Per-Share.md](./Accounting/Financial-Statement-Analysis/Ratio-Analysis/Earnings-Per-Share.md)
         - [Quick-Ratio.md](./Accounting/Financial-Statement-Analysis/Ratio-Analysis/Quick-Ratio.md)
         - [Times-Interest-Earned-Ratio.md](./Accounting/Financial-Statement-Analysis/Ratio-Analysis/Times-Interest-Earned-Ratio.md)
       - [Trend-Analysis.md](./Accounting/Financial-Statement-Analysis/Trend-Analysis.md)
