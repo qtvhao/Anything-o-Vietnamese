@@ -117,6 +117,7 @@
       - [Financial-Reporting](./Accounting/Corporate-Governance/Financial-Reporting)
         - [Financial-Analysis-and-Ratios.md](./Accounting/Corporate-Governance/Financial-Reporting/Financial-Analysis-and-Ratios.md)
       - [Fraud-Prevention.md](./Accounting/Corporate-Governance/Fraud-Prevention.md)
+      - [Internal-Controls.md](./Accounting/Corporate-Governance/Internal-Controls.md)
       - [Sarbanes-Oxley-Act.md](./Accounting/Corporate-Governance/Sarbanes-Oxley-Act.md)
       - [Shareholder-Rights.md](./Accounting/Corporate-Governance/Shareholder-Rights.md)
       - [Transparency-and-Disclosure.md](./Accounting/Corporate-Governance/Transparency-and-Disclosure.md)

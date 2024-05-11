@@ -13,6 +13,7 @@
   - [Financial-Reporting](./Financial-Reporting/)
     - [Financial-Analysis-and-Ratios.md](./Financial-Analysis-and-Ratios.md)
   - [Fraud-Prevention.md](./Fraud-Prevention.md)
+  - [Internal-Controls.md](./Internal-Controls.md)
   - [Sarbanes-Oxley-Act.md](./Sarbanes-Oxley-Act.md)
   - [Shareholder-Rights.md](./Shareholder-Rights.md)
   - [Transparency-and-Disclosure.md](./Transparency-and-Disclosure.md)
