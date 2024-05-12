@@ -4,6 +4,7 @@
 - Internal-Auditing
   - [Forensic-Audit.md](./Forensic-Audit.md)
   - [Internal-control-assessment.md](./Internal-control-assessment.md)
+  - [Performance-auditing.md](./Performance-auditing.md)
   - [Reporting-and-communication.md](./Reporting-and-communication.md)
   - [Risk-assessment](./Risk-assessment/)
     - [Operational-Risk-Assessment.md](./Operational-Risk-Assessment.md)
