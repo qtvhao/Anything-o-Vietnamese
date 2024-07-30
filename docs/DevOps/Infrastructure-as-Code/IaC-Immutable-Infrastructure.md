@@ -1,0 +1,61 @@
+
+---
+
+# Cách mạng hóa cơ sở hạ tầng của bạn: Khám phá cơ sở hạ tầng bất biến dưới dạng mã với Terraform, Ansible và Chef!
+
+- Published: July 30, 2024
+- Author: Vietnamese Online Voice
+- Categories: DevOps / **Infrastructure as Code**
+- #InfrastructureAsCode #IaC #DevOps #Terraform #Ansible #Chef #InfrastructureManagement #Automation #Standardization #Consistency #Repeatability #VersionControl #InfrastructureDeployment #InfrastructureChanges #Decommissioning #ReduceRisk #IncreaseReliability
+
+"Trong video này, chủ đề về Cơ sở hạ tầng bất biến dưới dạng Mã (IaC) được giới thiệu, nhấn mạnh cách tiếp cận của nó đối với quản lý cơ sở hạ tầng, coi cơ sở hạ tầng là bất biến. Những thay đổi được thực hiện bằng cách triển khai cơ sở hạ tầng mới và ngừng hoạt động cơ sở hạ tầng cũ, đảm bảo tính nhất quán, khả năng lặp lại và kiểm soát phiên bản. IaC là một thành phần DevOps quan trọng, tự động hóa và chuẩn hóa việc triển khai và quản lý cơ sở hạ tầng. Các lợi ích bao gồm giảm thời gian chết, cải thiện bảo mật và nâng cao khả năng thử nghiệm. Triển khai IaC bằng các công cụ như Terraform, Ansible và Chef, xác định và tự động hóa cơ sở hạ tầng dưới dạng mã."
+
+
+## IMMUTABLE
+
+Cơ sở hạ tầng bất biến dưới dạng Mã (IaC) là một phương pháp tiếp cận quản lý "cơ sở hạ tầng" (infrastructure) coi cơ sở hạ tầng như thể nó "bất biến" (immutable), nghĩa là nó không nên bị thay đổi sau khi đã được "triển khai" (deployed). Thay vào đó, bất kỳ "thay đổi" nào (changes) cần thiết đều phải được thực hiện bằng cách triển khai cơ sở hạ tầng mới và "giải thể cơ sở cũ" (decommissioning the old).
+![IMMUTABLE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-30/transition--430581701-Montserrat-ExtraBold-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-37215072886.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## INFRASTRUCTURE AS CODE
+
+IaC là thành phần chính của DevOps và giúp tự động hóa và chuẩn hóa việc triển khai và "quản lý" cơ sở hạ tầng (management). Bằng cách sử dụng "mã" (code) để "xác định" (define) và "triển khai cơ sở hạ tầng" (deploy infrastructure), các tổ chức có thể đảm bảo "tính nhất quán" (consistency), "khả năng lặp lại" (repeatability) và "kiểm soát phiên bản" (version control) trên toàn bộ môi trường của họ.
+![INFRASTRUCTURE AS CODE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-30/transition-5249142594-Montserrat-Medium-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-50531828608.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## INFRASTRUCTURE AS CODE
+
+"Cơ sở hạ tầng có thể thay đổi" (mutable infrastructure) cung cấp một số lợi ích so với cơ sở hạ tầng có thể thay đổi truyền thống, bao gồm:. Để triển khai IaC, các tổ chức có thể sử dụng các công cụ như Terraform, Ansible và Chef. Các công cụ này cho phép các nhà phát triển định nghĩa cơ sở hạ tầng dưới dạng mã và "tự động hóa" (automate) "triển khai" (deployment) và "cấu hình" (configuration) cơ sở hạ tầng.
+![INFRASTRUCTURE AS CODE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-30/transition--8327570167-Montserrat-Bold-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-19924609854.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## DEPLOY INFRASTRUCTURE
+
+Tóm lại, Immutable Infrastructure as Code là một phương pháp tiếp cận mạnh mẽ đối với quản lý "cơ sở hạ tầng" (infrastructure) có thể giúp các tổ chức cải thiện "triển khai" (deployment) và "quy trình quản lý" (management processes), "giảm rủi ro" (reduce risk) và tăng "độ tin cậy" (reliability). Bằng cách sử dụng "mã để xác định" (code to define) và triển khai cơ sở hạ tầng, các tổ chức có thể đảm bảo "tính nhất quán" (consistency), "khả năng lặp lại" (repeatability) và "kiểm soát phiên bản" (version control) trên toàn bộ môi trường của họ.
+![DEPLOY INFRASTRUCTURE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-30/transition--35938204607-Montserrat-Medium-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-37919092343.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## MANAGEMENT PROCESSES
+
+Cảm ơn bạn đã xem video này về Immutable Infrastructure as Code. Tôi hy vọng bạn thấy video này hữu ích và cung cấp nhiều thông tin. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn tìm hiểu thêm, vui lòng liên hệ với chúng tôi.
+![MANAGEMENT PROCESSES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-30/transition--4824675169-Montserrat-Medium-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-11896982122.mp3" type="audio/mpeg">
+</audio>
+

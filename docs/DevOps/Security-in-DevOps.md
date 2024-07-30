@@ -1,0 +1,61 @@
+
+---
+
+# Shift Security Left: Cuộc cách mạng DevSecOps để xây dựng các hệ thống không thể phá vỡ DevSecOps Unleashed: Giải pháp đáng ngạc nhiên cho các rủi ro bảo mật DevOps Bản thiết kế DevSecOps: Cách tích hợp bảo mật vào DevOps như một chuyên gia Bảo mật đường ống DevOps của bạn: Phương pháp tiếp cận DevSecOps để bảo mật liên tục Bí mật DevSecOps: Cách phát hiện và khắc phục các lỗ hổng bảo mật trước khi chúng ám ảnh bạn
+
+- Published: July 29, 2024
+- Author: Vietnamese Online Voice
+- Categories: **DevOps**
+- #Security #DevSecOps #ShiftLeft #SecureCoding #AutomatedSecurityTesting #ContinuousMonitoring #SQLInjection #CrossSiteScripting #ITOps #SystemDevelopment #SoftwareDevelopment #Cybersecurity #Vulnerabilities #ThreatDetection #Responsetime #Collaboration #DeploymentTimes #InfrastructureSecurity #DevelopmentProcess #SecurityRisks #Compliance #DataProtection #Privacy #RiskManagement #DevOpsLifeCycle #DevSecOpsPractices #Awareness #BestPractices #SecurityChampions #DevOpsTransformation #CultureShift #SecurityChallenges #DevOpsAdoption #DevOpsImplementation #DevOpsStrategy #ContinuousIntegration #ContinuousDeployment #ContinuousDelivery
+
+"Trong video này, diễn giả giới thiệu DevSecOps, một hoạt động tích hợp bảo mật vào quy trình DevOps. DevSecOps liên quan đến việc chuyển bảo mật sang trái hoặc kết hợp bảo mật vào giai đoạn đầu của quá trình phát triển để phát hiện và khắc phục các lỗ hổng bảo mật trước khi chúng trở thành vấn đề. Mã hóa an toàn, thử nghiệm bảo mật tự động và giám sát liên tục là những hoạt động chính. Cách tiếp cận này rất quan trọng vì DevOps, mặc dù mang lại những lợi ích như thời gian triển khai nhanh hơn và tăng cường cộng tác, nhưng có thể gây ra những rủi ro bảo mật mới."
+
+
+## DEVOPS
+
+DevOps là một tập hợp các hoạt động kết hợp "phát triển phần mềm" (software development) (Dev) và hoạt động CNTT (Ops) để rút ngắn vòng đời phát triển hệ thống. Mặc dù DevOps có nhiều lợi ích, chẳng hạn như "thời gian triển khai nhanh hơn" (faster deployment times) và "tăng cường cộng tác" (increased collaboration), nhưng nó cũng có thể gây ra những rủi ro bảo mật mới.
+![DEVOPS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition--27369875514-Montserrat-Thin-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-9104854731.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## SHIFT SECURITY LEFT
+
+Đó chính là lúc DevSecOps phát huy tác dụng. DevSecOps hay DevOps Security là hoạt động tích hợp bảo mật vào quy trình DevOps. Bằng cách "chuyển bảo mật sang trái" (shifting security left) hoặc kết hợp bảo mật vào giai đoạn đầu của quy trình phát triển, các nhóm có thể phát hiện và khắc phục các lỗ hổng bảo mật trước khi chúng trở thành vấn đề.
+![SHIFT SECURITY LEFT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition--22972196502-Montserrat-Regular-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-36488177716.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## SECURE CODING
+
+Điều này bao gồm các biện pháp như "mã hóa an toàn" (secure coding), thử nghiệm bảo mật tự động và "giám sát liên tục" (continuous monitoring). Mã hóa an toàn bao gồm việc viết mã không có lỗ hổng bảo mật, chẳng hạn như SQL injection và cross-site scripting.
+![SECURE CODING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition-12288357846-Montserrat-ExtraBold-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-36680728867.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CONTINUOUS MONITORING
+
+Kiểm tra bảo mật tự động sử dụng các công cụ để tự động "quét mã" (scan code) và "cơ sở hạ tầng" (infrastructure) để tìm lỗ hổng bảo mật. Giám sát liên tục bao gồm việc liên tục giám sát "hệ thống" (system) để tìm "các mối đe dọa bảo mật" (security threats) và phản ứng nhanh chóng khi phát hiện ra chúng.
+![CONTINUOUS MONITORING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition--7481483504-Montserrat-ExtraBold-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-1139691864.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## SECURITY IN DEVOPS
+
+Bằng cách tuân theo các thực hành này, các nhóm có thể xây dựng "hệ thống an toàn" (secure systems) có khả năng "chống lại các cuộc tấn công" (withstand attacks) và bảo vệ "dữ liệu nhạy cảm" (sensitive data).. Tóm lại, Bảo mật trong DevOps là "thiết yếu" (essential) để xây dựng các hệ thống an toàn và đáng tin cậy. Bằng cách chuyển bảo mật sang trái và kết hợp nó vào quy trình DevOps, các nhóm có thể phát hiện và khắc phục các lỗ hổng bảo mật trước khi chúng trở thành vấn đề. Cảm ơn bạn đã xem!
+![SECURITY IN DEVOPS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition-19487443912-Montserrat-ExtraBold-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-969148763.mp3" type="audio/mpeg">
+</audio>
+

@@ -1,0 +1,51 @@
+
+---
+
+# \"Cách mạng hóa quá trình phát triển phần mềm của bạn: Sức mạnh của tích hợp liên tục!\" Khám phá cách các công cụ CI hàng đầu như Jenkins, Travis CI và CircleCI giúp tiết kiệm thời gian, giảm thiểu rủi ro và đảm bảo phát hành chất lượng cao!
+
+- Published: July 29, 2024
+- Author: Vietnamese Online Voice
+- Categories: **DevOps**
+- #SoftwareDevelopment #CodeChanges #CentralRepository #AutomatedBuilds #AutomatedTests #BugDetection #EarlyDetection #HighQualitySoftware #StableDevelopment #FrequentIntegration #TeamsCollaboration #ConflictingChanges #TimeSaving #EffortSaving #ContinuousIntegrationTools #Jenkins #TravisCI #CircleCI #VersionControlSystems #Git #BuildingSoftware #TestingSoftware #DeployingSoftware
+
+"Trong video này, phần giới thiệu về Tích hợp liên tục (CI) được trình bày. CI là một hoạt động phát triển phần mềm liên quan đến việc thường xuyên hợp nhất các thay đổi mã vào một kho lưu trữ trung tâm, nơi các bản dựng và thử nghiệm tự động được thực hiện. Mục tiêu của CI là xác định và giải quyết các lỗi và sự cố sớm, giảm rủi ro tích hợp và đảm bảo phần mềm luôn ở trạng thái có thể phát hành. Tích hợp thường xuyên cho phép các nhóm nhanh chóng xác định và khắc phục sự cố, dẫn đến phần mềm chất lượng cao hơn và môi trường ổn định. CI bao gồm một số bước chính và liên quan đến các công cụ như Jenkins, Travis CI và CircleCI, có thể được tích hợp với các hệ thống kiểm soát phiên bản cho các tác vụ tự động."
+
+
+## CONTINUOUS INTEGRATION
+
+Tích hợp liên tục là một hoạt động phát triển phần mềm trong đó "các nhà phát triển" (developers) thường xuyên hợp nhất "các thay đổi mã" (code changes) của họ vào một "kho lưu trữ trung tâm" (central repository), nơi "bản dựng tự động" (automated builds) và "kiểm tra" (tests) được chạy. Mục tiêu của Tích hợp liên tục là phát hiện và giải quyết "lỗi" (bugs) và "vấn đề" (issues) "sớm" (early on) trong "quy trình phát triển" (development process), giảm nguy cơ "vấn đề tích hợp" (integration problems) và đảm bảo rằng phần mềm luôn ở "trạng thái có thể phát hành" (releasable state).
+![CONTINUOUS INTEGRATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition-13088157081-Montserrat-ExtraBold-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-13386794148.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## HIGHER QUALITY SOFTWARE
+
+Bằng cách tích hợp "thay đổi mã" (code changes) thường xuyên, các nhóm có thể nhanh chóng xác định và khắc phục mọi sự cố phát sinh, thay vì phải đợi đến khi kết thúc "chu kỳ phát triển" (development cycle) khi có thể có nhiều "thay đổi xung đột" (conflicting changes) để "điều hòa" (reconcile). Điều này không chỉ "tiết kiệm thời gian" (saves time) và "nỗ lực" (effort), mà còn dẫn đến "phần mềm chất lượng cao hơn" (higher quality software) và môi trường phát triển ổn định hơn.
+![HIGHER QUALITY SOFTWARE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition-20701938087-Montserrat-Medium-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-13034730244.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## AUTOMATED BUILDS
+
+Tích hợp liên tục bao gồm một số bước chính, bao gồm:. Các công cụ Tích hợp liên tục, chẳng hạn như Jenkins, Travis CI và CircleCI, có thể giúp các nhóm tự động hóa và hợp lý hóa quy trình CI. Các công cụ này có thể được tích hợp với "hệ thống kiểm soát phiên bản" (version control systems), chẳng hạn như Git và có thể được cấu hình để chạy nhiều tác vụ khác nhau, bao gồm xây dựng, thử nghiệm và triển khai phần mềm.
+![AUTOMATED BUILDS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition-18940450920-Montserrat-Black-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-10686031320.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## DEVELOPMENT PROCESS
+
+Bằng cách triển khai Tích hợp liên tục, các nhóm phát triển phần mềm có thể cải thiện quy trình phát triển của mình, giảm rủi ro về "vấn đề tích hợp" (integration problems) và cung cấp phần mềm chất lượng cao "nhanh hơn và hiệu quả hơn" (quickly and efficiently).
+![DEVELOPMENT PROCESS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition-9052978840-Montserrat-ExtraBold-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-16580565464.mp3" type="audio/mpeg">
+</audio>
+

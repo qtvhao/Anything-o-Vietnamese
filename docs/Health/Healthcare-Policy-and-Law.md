@@ -1,0 +1,51 @@
+
+---
+
+# Chính sách và Luật chăm sóc sức khỏe 101: Hiểu về Mạng lưới phức tạp của các Quy tắc và Quy định chi phối Hệ thống chăm sóc sức khỏe của chúng ta Giải thích về Đạo luật Bảo vệ Bệnh nhân và Chăm sóc Giá cả phải chăng: Giải mã những Thay đổi quan trọng nhất đối với Luật chăm sóc sức khỏe trong Lịch sử gần đây Điều hướng Bối cảnh Thay đổi của Chính sách và Luật chăm sóc sức khỏe: Những điều Bạn cần Biết để Luôn được Cập nhật Chăm sóc sức khỏe có Đạo đức và Công bằng cho Tất cả: Vai trò của Chính sách và Luật trong việc Định hình Hệ thống chăm sóc sức khỏe của chúng ta Bảo vệ Bệnh nhân và Thúc đẩy Chất lượng Chăm sóc: Hiểu về Mặt pháp lý của Chăm sóc sức khỏe
+
+- Published: July 29, 2024
+- Author: Vietnamese Online Voice
+- Categories: **Health**
+- #HealthcareRegulations #HealthcareEquity #PatientProtection #AffordableCareAct #PPACA #HealthcareLaw #Medicaid #HealthcareSubsidies #HealthcareMarketplaces #HealthcareReform #HealthcareRegulations #HealthcareQuality #HealthcareEthics #PatientRights
+
+"Trong video này, bài thuyết trình về các chính sách và luật chăm sóc sức khỏe được cung cấp. Các chính sách chăm sóc sức khỏe là các quy tắc và hướng dẫn nhằm đảm bảo hiệu quả, hiệu suất và công bằng trong hệ thống chăm sóc sức khỏe. Luật chăm sóc sức khỏe bao gồm các luật và quy định bảo vệ bệnh nhân, đảm bảo chất lượng chăm sóc và thúc đẩy hành vi đạo đức. Một luật chăm sóc sức khỏe quan trọng, Đạo luật Bảo vệ Bệnh nhân và Chăm sóc Giá cả phải chăng (PPACA), cũng được thảo luận, mở rộng Medicaid, cung cấp trợ cấp cho những người có thu nhập thấp để mua bảo hiểm y tế và thiết lập các thị trường bảo hiểm y tế."
+
+
+## HEALTHCARE POLICIES
+
+Trước tiên, hãy nói về khía cạnh chính sách. Chính sách chăm sóc sức khỏe là các quy tắc và hướng dẫn chi phối hệ thống chăm sóc "sức khỏe" (health). Chúng được thiết kế để đảm bảo rằng hệ thống chăm sóc sức khỏe hiệu quả, hiệu suất và công bằng.
+![HEALTHCARE POLICIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition--17882872939-Montserrat-Regular-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-13387464789.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## HEALTHCARE LAW
+
+Bây giờ, chúng ta hãy chuyển sang khía cạnh pháp lý. Luật chăm sóc sức khỏe đề cập đến các luật và "quy định" (regulations) quản lý "ngành chăm sóc sức khỏe" (healthcare industry). Các luật này được thiết kế để "bảo vệ bệnh nhân" (protect patients), đảm bảo "chăm sóc chất lượng" (quality care) và thúc đẩy hành vi đạo đức.
+![HEALTHCARE LAW](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition--625776699-Montserrat-Bold-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-32487246504.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## HEALTHCARE POLICY AND LAW
+
+Một luật chăm sóc sức khỏe quan trọng khác là Đạo luật Bảo vệ Bệnh nhân và Chăm sóc Giá cả phải chăng (PPACA). Luật này đã tạo ra những thay đổi đáng kể đối với "hệ thống chăm sóc sức khỏe" (healthcare system), bao gồm mở rộng Medicaid, cung cấp "tiền trợ cấp" (subsidies) cho những cá nhân có thu nhập thấp để mua "bảo hiểm y tế" (health insurance) và thiết lập thị trường bảo hiểm y tế.
+![HEALTHCARE POLICY AND LAW](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition--37266217231-Montserrat-Thin-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-21483431612.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CONSTANTLY EVOLVING
+
+Chính sách và "luật" chăm sóc sức khỏe (laws) rất phức tạp và "luôn thay đổi" (constantly evolving). Điều cần thiết là phải luôn cập nhật thông tin về những thay đổi này vì chúng có thể "ảnh hưởng" đáng kể (impact) đến "ngành chăm sóc sức khỏe" (healthcare industry) và "bệnh nhân" (patients) mà ngành này phục vụ.
+![CONSTANTLY EVOLVING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition--1578910473-Montserrat-Black-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-52650977999.mp3" type="audio/mpeg">
+</audio>
+

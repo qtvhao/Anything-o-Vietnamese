@@ -1,0 +1,81 @@
+
+---
+
+# \^Loại vi khuẩn phổ biến trong dạ dày này có thể gây loét và thậm chí là ung thư - Dưới đây là cách bảo vệ bản thân khỏi nhiễm trùng H. Pylori!\)
+
+- Published: July 29, 2024
+- Author: Vietnamese Online Voice
+- Categories: Gastroenterology / **Gastric diseases**
+- #Helicobacterpylori #BacteriaInfection #StomachInfection #StomachUlcers #AbdominalPain #Bloating #Nausea #StomachCancer #HealthcareProvider #Diagnosis #Antibiotics #StomachAcid #Prevention #Hygiene #WashHands #CookThoroughly #AvoidSmoking #LimitAlcohol #MedicalHashtags
+
+"Trong video này, chủ đề về nhiễm trùng Helicobacter pylori (H. pylori) được giới thiệu. H. pylori là một loại vi khuẩn có thể lây nhiễm dạ dày, ảnh hưởng đến hơn một nửa dân số toàn cầu. Vi khuẩn này có thể gây viêm, loét và các biến chứng khác bằng cách đào hang qua lớp chất nhầy bảo vệ dạ dày. Các yếu tố nguy cơ bao gồm sống trong điều kiện mất vệ sinh, tiêu thụ thực phẩm hoặc nước bị ô nhiễm và hút thuốc. Mặc dù nhiều người bị nhiễm trùng H. pylori không có triệu chứng, nhưng họ có thể bị loét dạ dày, dẫn đến đau bụng, đầy hơi và buồn nôn. Trong những trường hợp nghiêm trọng, có thể dẫn đến ung thư dạ dày. Các nhà nghiên cứu có thể xem hướng dẫn chi tiết trong video bên dưới."
+
+
+## H. PYLORI INFECTION
+
+H. pylori, hay Helicobacter pylori, là một loại vi khuẩn có thể "lây nhiễm" (infect) "dạ dày" (stomach). Người ta ước tính rằng hơn một nửa dân số thế giới bị nhiễm H. pylori, mặc dù nhiều người không "có bất kỳ triệu chứng nào" (experience any symptoms).
+![H. PYLORI INFECTION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition--8539000845-Montserrat-Black-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-9372682022.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## H. PYLORI INFECTION
+
+H. pylori có thể "lây nhiễm" (infect) dạ dày bằng cách đào hang qua "lớp nhầy" (mucus layer) bảo vệ "lớp niêm mạc dạ dày" (stomach lining). Khi đã vào bên trong, vi khuẩn có thể gây "viêm" (inflammation), "loét" (ulcers) và các "biến chứng" khác (complications).. Mặc dù bất kỳ ai cũng có thể bị nhiễm H. pylori, nhưng một số yếu tố nhất định có thể làm tăng nguy cơ của bạn. Những yếu tố này bao gồm sống trong điều kiện đông đúc hoặc mất vệ sinh, tiêu thụ thực phẩm hoặc nước bị ô nhiễm và hút thuốc.
+![H. PYLORI INFECTION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition--40209851622-Montserrat-ExtraBold-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5728152070.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## H. PYLORI INFECTION
+
+Nhiều người bị nhiễm H. pylori không gặp bất kỳ "triệu chứng" nào (symptoms). Tuy nhiên, một số người có thể bị "loét dạ dày" (stomach ulcers), có thể gây ra "đau bụng" (abdominal pain), "đầy hơi" (bloating) và "buồn nôn" (nausea). Trong những trường hợp nghiêm trọng, nhiễm H. pylori có thể dẫn đến "ung thư dạ dày" (stomach cancer).
+![H. PYLORI INFECTION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition--35185330994-Montserrat-Thin-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-13689858742.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## H. PYLORI
+
+Nếu bạn nghĩ rằng mình có thể bị nhiễm H. pylori, điều quan trọng là phải trao đổi với bác sĩ chăm sóc sức khỏe của bạn. Họ có thể thực hiện một loạt các xét nghiệm, bao gồm "xét nghiệm hơi thở" (breath test), "xét nghiệm máu" (blood test) hoặc "xét nghiệm phân" (stool test) để chẩn đoán nhiễm trùng.
+![H. PYLORI](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition--2168273467-Montserrat-Regular-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-4040889752.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## H. PYLORI
+
+Điều trị nhiễm trùng H. pylori thường bao gồm một liệu trình "kháng sinh" (antibiotics), cùng với "thuốc" (medications) để giảm "axit dạ dày" (stomach acid). Điều quan trọng là phải dùng tất cả các loại thuốc theo chỉ dẫn, ngay cả khi các triệu chứng cải thiện, để đảm bảo tình trạng nhiễm trùng được điều trị hoàn toàn.
+![H. PYLORI](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition--24338503168-Montserrat-Bold-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-11255602812.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PREVENTABLE
+
+Mặc dù nhiễm trùng H. pylori có thể nghiêm trọng, nhưng nó cũng "có thể phòng ngừa được" (preventable). Thực hành "vệ sinh tốt" (good hygiene), chẳng hạn như rửa tay thường xuyên và "nấu chín thức ăn" (cooking food thoroughly), có thể giúp giảm nguy cơ nhiễm trùng. Tránh "hút thuốc" (smoking) và hạn chế "uống rượu" (alcohol consumption) cũng có thể giúp bảo vệ dạ dày của bạn khỏi bị nhiễm trùng.
+![PREVENTABLE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition-47766423443-Montserrat-Black-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-28885837550.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## HEALTHCARE PROVIDER
+
+Cảm ơn bạn đã xem video này về nhiễm trùng H. pylori. Hãy nhớ trao đổi với "nhà cung cấp dịch vụ chăm sóc sức khỏe" (healthcare provider) nếu bạn nghĩ mình có thể bị nhiễm trùng và thực hiện các bước để bảo vệ bản thân khỏi loại vi khuẩn phổ biến này.
+![HEALTHCARE PROVIDER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition--10635887715-Montserrat-SemiBold-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-4805936597.mp3" type="audio/mpeg">
+</audio>
+

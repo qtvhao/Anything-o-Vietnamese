@@ -1,0 +1,81 @@
+
+---
+
+# \\"Cách mạng hóa cơ sở hạ tầng CNTT của bạn: Sức mạnh của cơ sở hạ tầng dưới dạng mã!\"\
+
+- Published: July 29, 2024
+- Author: Vietnamese Online Voice
+- Categories: **DevOps**
+- #IaC #ITInfrastructure #CloudComputing #DevOps #SRE #SoftwareDevelopment #Code #VersionControl #Terraform #AWSCloudFormation #AzureResourceManager #GoogleCloudDeploymentManager #InfrastructureProvisioning #ConfigurationManagement #Automation #Consistency #Reliability #Scalability #BestPractices #StateManagement #InfrastructureSecurity #Compliance #PolicyAsCode #InfrastructureCode #CloudInfrastructure #InfrastructureManagement #DevOpsTools #InfrastructureEngineering #InfrastructureAutomation #InfrastructureProfessionals #InfrastructureDevelopers #InfrastructureOperations #InfrastructureTemplates #InfrastructureDeployment #InfrastructureTesting #InfrastructureValidation
+
+"Trong video này, chủ đề Cơ sở hạ tầng dưới dạng Mã (IaC) được giới thiệu. IaC liên quan đến việc viết và quản lý cấu hình cơ sở hạ tầng bằng mã và các nguyên tắc phát triển phần mềm. Việc xác định tài nguyên cơ sở hạ tầng và các phụ thuộc trong các tệp có thể đọc được bằng máy cho phép triển khai nhanh hơn, nhất quán, giảm lỗi của con người. Video này phác thảo các biện pháp thực hành tốt nhất của IaC, bao gồm sử dụng kiểm soát phiên bản và viết mã sạch, mô-đun để có thể bảo trì và mở rộng quy mô. Các sếp có thể xem video hướng dẫn chi tiết ở phía dưới nhé."
+
+
+## INFRASTRUCTURE AS CODE
+
+Infrastructure as Code là một cách tiếp cận để quản lý cơ sở hạ tầng CNTT liên quan đến việc viết và quản lý cấu hình cơ sở hạ tầng bằng cách sử dụng mã và các nguyên tắc phát triển phần mềm. Thay vì cấu hình và cung cấp cơ sở hạ tầng theo cách thủ công, IaC cho phép bạn xác định các tài nguyên cơ sở hạ tầng và "sự phụ thuộc" của chúng (dependencies) trong một tệp có thể đọc được bằng máy. Sau đó, tệp này có thể được kiểm soát phiên bản, "kiểm tra" (tested) và "triển khai" (deployed) giống như bất kỳ mã phần mềm nào khác.
+![INFRASTRUCTURE AS CODE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition--22868753384-Montserrat-Regular-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-17618182308.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## HUMAN ERROR
+
+IaC cung cấp một số lợi ích so với quản lý "cơ sở hạ tầng" thủ công truyền thống (infrastructure). Nó cho phép "triển khai" (deployment) cơ sở hạ tầng nhanh hơn và nhất quán hơn, giảm nguy cơ "lỗi của con người" (human error) và cho phép quản lý cơ sở hạ tầng hiệu quả và đáng tin cậy hơn ở quy mô lớn.
+![HUMAN ERROR](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition--11589033574-Montserrat-Medium-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-7366099742.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## VERSION CONTROL SYSTEM
+
+Để bắt đầu với IaC, có một số "thực hành tốt nhất" (best practices) cần ghi nhớ. Đầu tiên, sử dụng "hệ thống kiểm soát phiên bản" (version control system) để quản lý mã cơ sở hạ tầng của bạn và "hợp tác" (collaborate) với "nhóm" của bạn (team). Thứ hai, viết "sạch" (clean), "mô-đun" (modular) và "mã có thể tái sử dụng" (reusable code) để làm cho cấu hình cơ sở hạ tầng của bạn "có thể bảo trì" hơn (maintainable) và có thể mở rộng quy mô.
+![VERSION CONTROL SYSTEM](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition--43021296219-Montserrat-Medium-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-8246753626.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## INFRASTRUCTURE
+
+Thứ ba, sử dụng "kiểm tra tự động" (automated testing) và "xác thực" (validation) để đảm bảo rằng "cơ sở hạ tầng" (infrastructure) của bạn được "triển khai đúng cách" (deployed correctly) và đáp ứng "thông số kỹ thuật mong muốn" (desired specifications) của bạn. Có một số công cụ IaC phổ biến, bao gồm Terraform, AWS CloudFormation, Azure Resource Manager và Google Cloud Deployment Manager. Mỗi công cụ đều có điểm mạnh và điểm yếu riêng, vì vậy điều quan trọng là phải "chọn" (choose) công cụ phù hợp nhất với nhu cầu và môi trường cơ sở hạ tầng của bạn.
+![INFRASTRUCTURE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition--50916746584-Montserrat-SemiBold-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-32711251538.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## INFRASTRUCTURE AS CODE
+
+Mặc dù IaC mang lại nhiều lợi ích, nhưng nó cũng đi kèm với một số thách thức. Một thách thức phổ biến là "quản lý trạng thái" (managing state) hoặc "trạng thái hiện tại" (current state) của cơ sở hạ tầng của bạn. Một số công cụ, như Terraform, sử dụng "tệp trạng thái riêng" (separate state file) để theo dõi thông tin này, trong khi những công cụ khác, như AWS CloudFormation, sử dụng cơ chế trạng thái tích hợp.
+![INFRASTRUCTURE AS CODE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition-5188033526-Montserrat-Regular-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-14976878480.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## INFRASTRUCTURE CODE
+
+Một thách thức khác là đảm bảo "mã cơ sở hạ tầng" (infrastructure code) của bạn an toàn và tuân thủ các chính sách và tiêu chuẩn của tổ chức bạn. Để giải quyết vấn đề này, bạn có thể sử dụng các công cụ như máy quét "bảo mật" cơ sở hạ tầng (security) và khuôn khổ chính sách dưới dạng mã để tự động kiểm tra bảo mật và thực thi "tuân thủ" (compliance).
+![INFRASTRUCTURE CODE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition-6372387132-Montserrat-Medium-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-1043802681.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## DEPLOY
+
+Tóm lại, Infrastructure as Code là một phương pháp mạnh mẽ để quản lý cơ sở hạ tầng CNTT có thể giúp bạn "triển khai" (deploy) và "quản lý cơ sở hạ tầng" (manage infrastructure)
+![DEPLOY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition-4469865915-Montserrat-Medium-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-24541140162.mp3" type="audio/mpeg">
+</audio>
+
