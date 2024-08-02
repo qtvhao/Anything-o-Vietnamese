@@ -1,0 +1,61 @@
+
+---
+
+# Tự động hóa quy trình làm việc của bạn: Hướng dẫn từng bước để thiết lập máy chủ CI với Jenkins
+
+- Published: August 2, 2024
+- Author: Vietnamese Online Voice
+- Categories: DevOps / **Continuous Integration**
+- #Jenkins #SoftwareDevelopment #DevOps #Automation #CodeQuality #StableCodebase #ErrorDetection #EarlyErrorDetection #Deployment #TravisCI #CircleCI #BuildTools #TestingFrameworks #Pipelines #JenkinsPlugins #GitHubIntegration #DockerSupport #Simplicity #Containers #ConsistentEnvironments #PerformanceReview #Optimization #BestPractices #ProjectManagement #VersionControlSystems #DevelopmentTools #SoftwareDevelopmentPipeline
+
+"Trong video này, chúng tôi giới thiệu khái niệm về máy chủ Tích hợp liên tục (CI) và ý nghĩa của nó trong phát triển phần mềm hiện đại. Chúng tôi thảo luận về các tính năng độc đáo của nhiều máy chủ CI khác nhau, bao gồm Jenkins, Travis CI, CircleCI và GitLab CI/CD. Lấy Jenkins làm ví dụ, chúng tôi trình bày các bước thiết lập và tối ưu hóa máy chủ CI. Các phương pháp hay nhất để làm việc với máy chủ CI được thảo luận, chẳng hạn như bắt đầu bằng một đường ống cơ bản và dần dần tăng thêm độ phức tạp. Các nhà nghiên cứu có thể xem hướng dẫn chi tiết bên dưới."
+
+
+## CONTINUOUS INTEGRATION
+
+Máy chủ CI là một công cụ quan trọng cho phát triển phần mềm hiện đại, vì nó cho phép các nhóm duy trì cơ sở mã ổn định, "phát hiện lỗi sớm" (catch errors early), "cải thiện chất lượng mã" (improve code quality) và "triển khai nhanh hơn" (deploy faster). Có một số máy chủ CI, bao gồm Jenkins, Travis CI, CircleCI và GitLab CI/CD, mỗi máy chủ có "tính năng độc đáo" (unique features) và "lợi ích" (benefits) riêng. Trong "hướng dẫn" này (tutorial), chúng tôi sẽ sử dụng Jenkins làm máy chủ CI mẫu của mình.
+![CONTINUOUS INTEGRATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-38318030967-Montserrat-Bold-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-9694958384.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## JENKINS
+
+Để thiết lập Jenkins, bạn sẽ cần thực hiện theo một số bước. Trước tiên, hãy tải xuống và cài đặt Jenkins trên máy tính hoặc máy chủ của bạn. Tiếp theo, hãy cấu hình Jenkins với "kho lưu trữ dự án" (project repository), "công cụ xây dựng" (build tools) và "khung thử nghiệm" (testing frameworks) của bạn. Sau đó, hãy tạo một "đường ống" (pipeline) phác thảo quy trình xây dựng, thử nghiệm và triển khai, và thêm "các plugin" (plugins) để mở rộng chức năng của Jenkins, chẳng hạn như tích hợp GitHub hoặc hỗ trợ Docker.
+![JENKINS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-20615896717-Montserrat-ExtraBold-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-15602287014.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CI SERVER
+
+Sau khi thiết lập Jenkins, hãy tối ưu hóa nó bằng cách giữ cho "pipeline" (pipeline) của bạn đơn giản, sử dụng "container" (containers) cho "môi trường nhất quán" (consistent environments) và thường xuyên xem xét "hiệu suất" (performance) và "tối ưu hóa" (optimizing) khi cần. Khi bạn làm việc với máy chủ CI của mình, có một số "thực hành tốt nhất" (best practices) cần ghi nhớ. Ví dụ, hãy bắt đầu với một pipeline cơ bản và dần dần thêm "độ phức tạp" (complexity) khi cần. Ngoài ra, hãy "tích hợp" (integrate) với các công cụ phát triển khác, chẳng hạn như phần mềm quản lý dự án hoặc "hệ thống kiểm soát phiên bản" (version control systems), để tạo ra một quy trình làm việc liền mạch.
+![CI SERVER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-42371606916-Montserrat-Bold-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-15754891349.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## SETTING UP A CI SERVER
+
+Thiết lập máy chủ CI là bước thiết yếu trong quá trình phát triển phần mềm hiện đại, cho phép bạn "tự động hóa các tác vụ" (automate tasks) và cải thiện "chất lượng mã" (code quality). Bằng cách làm theo các bước được nêu trong hướng dẫn này, bạn sẽ tiến gần đến việc tạo ra một "quy trình phát triển" mạnh mẽ (development pipeline).
+![SETTING UP A CI SERVER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-39845118927-Montserrat-Medium-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-30899006644.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CI SERVER
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy hữu ích và hiểu sâu hơn về cách thiết lập máy chủ CI bằng Jenkins. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận "thông báo" (notifications) về các video mới của chúng tôi.
+![CI SERVER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-46642464099-Montserrat-Regular-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-40051310110.mp3" type="audio/mpeg">
+</audio>
+

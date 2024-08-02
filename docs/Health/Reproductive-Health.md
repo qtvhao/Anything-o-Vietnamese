@@ -1,0 +1,51 @@
+
+---
+
+# Sức khỏe sinh sản 101: Những điều bạn cần biết
+
+- Published: August 2, 2024
+- Author: Vietnamese Online Voice
+- Categories: **Health**
+- #Wellbeing #ReproductiveSystem #Puberty #Fertility #Pregnancy #Childbirth #ReproductiveRights #PreventUnintendedPregnancies #GoodPhysicalHealth #ReduceSTIRisk #EmotionalWellbeing #KeyConcepts #BirthControl #Communication #Consent #STIs #HIV #HealthcareProvider #StayInformed #SelfCare #ReproductiveWellbeing
+
+"Trong video này, chúng tôi giới thiệu về sức khỏe sinh sản, bao gồm các chủ đề như tuổi dậy thì, khả năng sinh sản, thai kỳ, sinh con và quyền sinh sản. Sức khỏe sinh sản ảnh hưởng đến sức khỏe thể chất, cảm xúc và giảm nguy cơ mắc các bệnh lây truyền qua đường tình dục và mang thai ngoài ý muốn. Các khái niệm chính bao gồm biện pháp tránh thai, sự đồng ý, giao tiếp và các bệnh lây truyền qua đường tình dục/HIV. Ưu tiên việc tự chăm sóc, đến gặp các nhà cung cấp dịch vụ chăm sóc sức khỏe và tiếp cận các nguồn lực uy tín để hỗ trợ sức khỏe sinh sản."
+
+
+## REPRODUCTIVE HEALTH
+
+"Sức khỏe" sinh sản (health) là sức khỏe tổng thể của cá nhân liên quan đến "hệ thống sinh sản" của họ (reproductive system). Nó bao gồm một loạt các chủ đề, bao gồm "tuổi dậy thì" (puberty), "khả năng sinh sản" (fertility), "mang thai" (pregnancy), "sinh con" (childbirth) và "quyền sinh sản" (reproductive rights).
+![REPRODUCTIVE HEALTH](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--21173251308-Montserrat-Medium-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5770159506.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## REPRODUCTIVE SYSTEM
+
+Sức khỏe sinh sản tác động đến cuộc sống của chúng ta theo nhiều cách. Bằng cách chăm sóc hệ thống sinh sản, chúng ta có thể ngăn ngừa "mang thai ngoài ý muốn" (unintended pregnancies), duy trì "sức khỏe thể chất" tốt (physical health), giảm nguy cơ mắc STI và hỗ trợ sức khỏe cảm xúc.
+![REPRODUCTIVE SYSTEM](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--1238758422-Montserrat-ExtraBold-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-24362925004.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## HEALTHCARE PROVIDER
+
+Trong video này, chúng ta sẽ đề cập đến các khái niệm chính như "dậy thì" (puberty), "biện pháp tránh thai" (birth control), "sự đồng ý" (consent) và "giao tiếp" (communication), cũng như các bệnh lây truyền qua đường tình dục và HIV. Bằng cách đến gặp "nhà cung cấp dịch vụ chăm sóc sức khỏe" (healthcare provider), cập nhật thông tin từ các nguồn đáng tin cậy và ưu tiên việc tự chăm sóc, bạn có thể hỗ trợ sức khỏe sinh sản của mình.
+![HEALTHCARE PROVIDER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-16919488590-Montserrat-Black-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-1975506249.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## INFORMED
+
+Hãy trao quyền cho bản thân bằng kiến ​​thức và sự quan tâm đến "sức khỏe sinh sản" của bạn (reproductive health). Hãy luôn "cập nhật thông tin" (informed), hãy luôn "tự tin" (confident) và hãy "kiểm soát" (control) "cơ thể" tuyệt vời của bạn (body)!. Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về sức khỏe sinh sản. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận "thông báo" (notifications) về "video mới" (new videos) của chúng tôi.
+![INFORMED](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-12689766136-Montserrat-Black-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-2790860535.mp3" type="audio/mpeg">
+</audio>
+

@@ -1,0 +1,91 @@
+
+---
+
+# Các nang ẩn của bệnh viêm đại tràng Cystica Profunda: Khám phá bí ẩn Viêm đại tràng Cystica Profunda là gì? Khám phá một tình trạng bệnh hiếm gặp Độ sâu của bệnh: Tìm hiểu về bệnh viêm đại tràng Cystica Profunda U nang trong ruột kết: Giải thích về bệnh viêm đại tràng Cystica Profunda Hiếm nhưng có thật: Viêm đại tràng Cystica Profunda - Triệu chứng, chẩn đoán và điều trị Khám phá bệnh viêm đại tràng Cystica Profunda: Một tình trạng bệnh phức tạp Giải mã sự phức tạp của bệnh viêm đại tràng Cystica Profunda Quan sát kỹ hơn về bệnh viêm đại tràng Cystica Profunda: Nguyên nhân, triệu chứng và cách điều trị Viêm đại tràng Cystica Profunda: Phân biệt sự thật với hư cấu Khoa học về bệnh viêm đại tràng Cystica Profunda: Đi sâu vào tình trạng bệnh
+
+- Published: August 2, 2024
+- Author: Vietnamese Online Voice
+- Categories: DevOps / **Continuous Integration**
+- #SoftwareDeployment #DevOps #Automation #Scripts #Tools #Productivity #Downtime #WebDevelopment #MobileAppDevelopment #Jenkins #Docker #Kubernetes #ComputerScience #SoftwareDevelopment #ApplicationDeployment #AutomatedTesting #HumanError #TeamCollaboration #StandardizedProcess #ReducedDowntime #IncreasedEfficiency #ImprovedAccuracy
+
+"Trong video này, chủ đề về tự động hóa triển khai được giới thiệu. Tự động hóa triển khai là quá trình tự động hóa việc triển khai các ứng dụng phần mềm hoặc cập nhật vào môi trường sản xuất. Phát triển phần mềm truyền thống yêu cầu tải tệp thủ công, cấu hình cài đặt và thử nghiệm ứng dụng, nhưng tự động hóa triển khai sử dụng các tập lệnh và công cụ tự động cho các tác vụ này. Video này trình bày cách tự động hóa triển khai có thể tiết kiệm thời gian và giảm lỗi, khiến nó trở thành một công cụ có giá trị đối với các nhà phát triển và nhà nghiên cứu trong lĩnh vực khoa học máy tính. Các sếp có thể xem video hướng dẫn chi tiết ở phía dưới nhé."
+
+
+## DEPLOYMENT AUTOMATION
+
+Khi chúng ta tiếp tục hành trình khám phá thế giới khoa học máy tính, hôm nay chúng ta sẽ khám phá khái niệm "tự động hóa triển khai" (deployment automation). Tự động hóa triển khai là quá trình tự động hóa việc triển khai "ứng dụng phần mềm" (software applications) hoặc "bản cập nhật" (updates) vào "môi trường sản xuất" (production environment).
+![DEPLOYMENT AUTOMATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--38913019660-Montserrat-Medium-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-9285345385.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## AUTOMATED SCRIPTS
+
+Trong phát triển phần mềm truyền thống, việc triển khai một ứng dụng thường yêu cầu tải lên thủ công các tệp, "cấu hình cài đặt" (configuring settings) và "kiểm tra ứng dụng" (testing the application). Nhưng với "tự động triển khai" (deployment automation), một loạt "tập lệnh tự động" (automated scripts) và "công cụ" (tools) sẽ xử lý toàn bộ quy trình.
+![AUTOMATED SCRIPTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-3946605980-Montserrat-Regular-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-11543142518.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CHANGES TO THE CODE
+
+Hãy tưởng tượng bạn là một nhà phát triển đang làm việc trên một "dự án nhóm" (team project) và bạn đã thực hiện "thay đổi đối với mã" (changes to the code). Để triển khai "ứng dụng đã cập nhật" (updated application) lên "máy chủ" (server), bạn không muốn dành hàng giờ để tải tệp lên thủ công và "cấu hình cài đặt" (configuring settings). Đó là lúc "tự động triển khai" (deployment automation) xuất hiện.
+![CHANGES TO THE CODE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--12423680521-Montserrat-Regular-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-3944391199.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## SAVES TIME
+
+Vậy tại sao "tự động triển khai" (deployment automation) lại quan trọng đến vậy? Lợi ích thì rất rõ ràng.. Triển khai tự động có nghĩa là ứng dụng của bạn sẽ khả dụng với người dùng nhanh hơn, giảm "thời gian chết" (downtime) và tăng "năng suất" (productivity).. Tự động hóa "tiết kiệm thời gian" (saves time) và công sức, cho phép các nhà phát triển tập trung vào "viết mã" (writing code) và cải thiện ứng dụng.
+![SAVES TIME](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--15082801692-Montserrat-Regular-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-26566219103.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## HUMAN ERROR
+
+Các tập lệnh tự động làm giảm nguy cơ "lỗi của con người" (human error), đảm bảo rằng "quy trình triển khai" (deployment process) được thực hiện chính xác mọi lúc. Tự động hóa triển khai "thúc đẩy sự cộng tác" (promotes collaboration) giữa các "thành viên nhóm" (team members) bằng cách cung cấp một "quy trình chuẩn hóa" (standardized) và "có thể lặp lại" (repeatable process).
+![HUMAN ERROR](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--11946696020-Montserrat-ExtraBold-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-7225640866.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CONTINUOUS INTEGRATION
+
+Tự động hóa triển khai được sử dụng trong nhiều ngành công nghiệp khác nhau, bao gồm phát triển web, phát triển ứng dụng di động và DevOps. Một số công cụ và công nghệ phổ biến được sử dụng trong "tự động hóa triển khai" (deployment automation) bao gồm Jenkins, Docker và Kubernetes.
+![CONTINUOUS INTEGRATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-11639191460-Montserrat-Thin-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-296972915.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## DOWNTIME
+
+Tóm lại, "tự động hóa triển khai" (deployment automation) là một khía cạnh quan trọng của phát triển phần mềm hiện đại. Bằng cách tự động hóa quy trình triển khai, các nhà phát triển có thể giảm "thời gian chết" (downtime), tăng "hiệu quả" (efficiency) và cải thiện độ chính xác.
+![DOWNTIME](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--9937370699-Montserrat-Bold-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-22038646697.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## TEAM MEMBERS
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về "tự động triển khai" (deployment automation). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![TEAM MEMBERS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--13184183769-Montserrat-Regular-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-30295797906.mp3" type="audio/mpeg">
+</audio>
+

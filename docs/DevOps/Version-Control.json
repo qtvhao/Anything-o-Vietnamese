@@ -1,93 +1,74 @@
 {
-  "id": "54580070005",
+  "id": "93890783298",
   "titles": [
-    "\\Real Game-Changer: Master Version Control cho sự cộng tác hoàn hảo và quản lý nội dung số! (Từ người mới bắt đầu đến chuyên nghiệp trong 10 phút)"
+    "Các nang ẩn của bệnh viêm đại tràng Cystica Profunda: Khám phá bí ẩn Viêm đại tràng Cystica Profunda là gì? Khám phá một tình trạng bệnh hiếm gặp Độ sâu của bệnh: Tìm hiểu về bệnh viêm đại tràng Cystica Profunda U nang trong ruột kết: Giải thích về bệnh viêm đại tràng Cystica Profunda Hiếm nhưng có thật: Viêm đại tràng Cystica Profunda - Triệu chứng, chẩn đoán và điều trị Khám phá bệnh viêm đại tràng Cystica Profunda: Một tình trạng bệnh phức tạp Giải mã sự phức tạp của bệnh viêm đại tràng Cystica Profunda Quan sát kỹ hơn về bệnh viêm đại tràng Cystica Profunda: Nguyên nhân, triệu chứng và cách điều trị Viêm đại tràng Cystica Profunda: Phân biệt sự thật với hư cấu Khoa học về bệnh viêm đại tràng Cystica Profunda: Đi sâu vào tình trạng bệnh"
   ],
   "topic": "Version Control",
-  "title": "\\Real Game-Changer: Master Version Control cho sự cộng tác hoàn hảo và quản lý nội dung số! (Từ người mới bắt đầu đến chuyên nghiệp trong 10 phút)",
-  "description": "\"Trong video này, người thuyết trình giới thiệu về Kiểm soát phiên bản, tầm quan trọng và các loại của nó. Kiểm soát phiên bản là một hệ thống quản lý các thay đổi đối với nội dung kỹ thuật số, theo dõi các sửa đổi, xác định tác giả và cho phép khôi phục về các phiên bản trước đó. Nó rất cần thiết trong các dự án cộng tác, ngăn ngừa các sự cố như mất thay đổi hoặc công việc bị ghi đè. Hệ thống kiểm soát phiên bản được phân loại thành các loại tập trung và phân tán. Các hệ thống tập trung, như SVN và Perforce, sử dụng kho lưu trữ được chia sẻ, trong khi các hệ thống phân tán, như Git, cho phép các thành viên trong nhóm làm việc trên các kho lưu trữ cục bộ, sau đó đồng bộ hóa với kho lưu trữ trung tâm.\" \"Các sếp có thể xem video hướng dẫn chi tiết ở phía dưới nhé.\"",
+  "title": "Các nang ẩn của bệnh viêm đại tràng Cystica Profunda: Khám phá bí ẩn Viêm đại tràng Cystica Profunda là gì? Khám phá một tình trạng bệnh hiếm gặp Độ sâu của bệnh: Tìm hiểu về bệnh viêm đại tràng Cystica Profunda U nang trong ruột kết: Giải thích về bệnh viêm đại tràng Cystica Profunda Hiếm nhưng có thật: Viêm đại tràng Cystica Profunda - Triệu chứng, chẩn đoán và điều trị Khám phá bệnh viêm đại tràng Cystica Profunda: Một tình trạng bệnh phức tạp Giải mã sự phức tạp của bệnh viêm đại tràng Cystica Profunda Quan sát kỹ hơn về bệnh viêm đại tràng Cystica Profunda: Nguyên nhân, triệu chứng và cách điều trị Viêm đại tràng Cystica Profunda: Phân biệt sự thật với hư cấu Khoa học về bệnh viêm đại tràng Cystica Profunda: Đi sâu vào tình trạng bệnh",
+  "description": "\"Trong video này, phần giới thiệu về Kiểm soát phiên bản được trình bày. Kiểm soát phiên bản quản lý các thay đổi đối với tệp kỹ thuật số, mã và tài liệu, đóng vai trò là biên niên sử các bản chỉnh sửa và là công cụ cộng tác. Lý tưởng cho các dự án nhóm, nó ngăn ngừa mất mát hoặc ghi đè các thay đổi. Các khái niệm chính bao gồm bản ghi các thay đổi, phân biệt các bản chỉnh sửa của người dùng và khôi phục về các phiên bản trước đó. Kiểm soát phiên bản cung cấp các lợi ích như hợp lý hóa cộng tác, theo dõi lỗi và sao lưu an toàn. Các nhà nghiên cứu có thể thấy video này hữu ích trong việc quản lý và tổ chức các dự án nhóm và mã.\"",
   "author": "Vietnamese Online Voice",
-  "date": "August 1, 2024",
+  "date": "August 2, 2024",
   "content": [
     {
-      "id": "-10561504190",
+      "id": "-14347741609",
       "heading": "VERSION CONTROL",
-      "text": "Version Control là gì và tại sao bạn nên quan tâm? Nói một cách đơn giản, Version Control là một hệ thống giúp bạn \"quản lý các thay đổi\" (manage changes) đối với mã, tài liệu hoặc bất kỳ \"nội dung kỹ thuật số\" nào khác (digital content) theo thời gian. Nó theo dõi \"các sửa đổi\" (modifications), xác định ai đã thực hiện thay đổi và cho phép bạn quay lại các phiên bản trước nếu cần.",
-      "transitionImageFile": "/app/storage/images/transitions/2024-08-01/transition--10561504190-Montserrat-SemiBold-880E4F.jpg",
-      "audioFilePath": "/app/storage/audio/file-41097949691.mp3"
+      "text": "Version Control là hệ thống giúp bạn quản lý các thay đổi đối với tệp kỹ thuật số, mã, tài liệu và nhiều thứ khác theo thời gian. Giống như có một \"mạng lưới an toàn\" (safety net) để theo dõi các thay đổi, \"hợp tác\" (collaborate) với những người khác và quay lại phiên bản trước bất cứ khi nào cần.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-02/transition--14347741609-Montserrat-Medium-512DA8.jpg",
+      "audioFilePath": "/app/storage/audio/file-2853599288.mp3"
     },
     {
-      "id": "-20553250072",
-      "heading": "COLLABORATING",
-      "text": "Hãy tưởng tượng bạn đang \"hợp tác\" (collaborating) trong một dự án với nhiều \"thành viên nhóm\" (team members). Nếu không có Kiểm soát phiên bản, bạn dễ dàng mất dấu \"thay đổi\" (changes) hoặc \"ghi đè\" (overwrite) công việc của nhau. Hệ thống Kiểm soát phiên bản giúp mọi người đồng bộ và ngăn ngừa các vấn đề này bằng cách tạo \"bản ghi\" (record) của \"mọi thay đổi\" (every change).",
-      "transitionImageFile": "/app/storage/images/transitions/2024-08-01/transition--20553250072-Montserrat-Black-9C27B0.jpg",
-      "audioFilePath": "/app/storage/audio/file-25997246346.mp3"
+      "id": "-1749419001",
+      "heading": "MULTIPLE PEOPLE",
+      "text": "Hãy tưởng tượng bạn đang làm việc trên một \"dự án nhóm\" (group project) và \"nhiều người\" (multiple people) đang \"chỉnh sửa cùng một tệp\" (editing the same file). Nếu không có Kiểm soát phiên bản, bạn dễ dàng mất dấu vết \"ai đã thực hiện những thay đổi nào\" (who made what changes) và \"khi nào\" (when). Bạn có thể \"vô tình xóa\" (accidentally delete) công việc của ai đó hoặc ghi đè lên những thay đổi của họ. Kiểm soát phiên bản giải quyết vấn đề này bằng cách tạo \"bản ghi tất cả các thay đổi\" (record of all changes), do đó bạn có thể dễ dàng xem ai đã thực hiện những thay đổi nào và khi nào.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-02/transition--1749419001-Montserrat-Thin-1A237E.jpg",
+      "audioFilePath": "/app/storage/audio/file-7800694392.mp3"
     },
     {
-      "id": "30317407075",
-      "heading": "VERSION CONTROL SYSTEMS",
-      "text": "Có hai loại Hệ thống Kiểm soát Phiên bản chính: \"tập trung\" (centralized) và \"phân tán\" (distributed). Các hệ thống tập trung có một \"kho lưu trữ trung tâm\" (central repository), giống như một \"thư mục chia sẻ\" (shared folder), mà \"các thành viên nhóm\" (team members) \"kết nối\" (connect) với. Các ví dụ phổ biến bao gồm SVN (Subversion) và Perforce. Mặt khác, các hệ thống phân tán cho phép các thành viên nhóm làm việc độc lập trên \"kho lưu trữ cục bộ\" của riêng họ (local repositories), có thể được \"đồng bộ hóa\" (synchronized) với một kho lưu trữ trung tâm. Một ví dụ phổ biến về hệ thống phân tán là Git.",
-      "transitionImageFile": "/app/storage/images/transitions/2024-08-01/transition-30317407075-Montserrat-Medium-283593.jpg",
-      "audioFilePath": "/app/storage/audio/file-56601915371.mp3"
+      "id": "42041021085",
+      "heading": "RECORD OF ALL CHANGES",
+      "text": "Có một số khái niệm chính cần hiểu khi nói đến Kiểm soát phiên bản:. Sau đây là \"ví dụ đơn giản\" (simplified example) về cách Kiểm soát phiên bản hoạt động:. Có rất nhiều \"lợi ích\" (benefits) khi sử dụng Kiểm soát phiên bản, bao gồm:",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-02/transition-42041021085-Montserrat-ExtraBold-7B1FA2.jpg",
+      "audioFilePath": "/app/storage/audio/file-8109922607.mp3"
     },
     {
-      "id": "1443083758",
-      "heading": "REPOSITORY",
-      "text": "Để hiểu cách Kiểm soát phiên bản hoạt động, bạn cần biết về một số thành phần chính: \"kho lưu trữ\" (repository), là vị trí lưu trữ trung tâm cho các tệp và lịch sử của dự án; \"cam kết\" (commit), là \"ảnh chụp nhanh\" (snapshot) về các thay đổi được thực hiện đối với các tệp của bạn tại một thời điểm cụ thể; \"nhánh\" (branch), là \"phiên bản song song\" (parallel version) của kho lưu trữ cho phép bạn làm việc trên các tính năng mới hoặc sửa lỗi mà không ảnh hưởng đến \"dự án chính\" (main project); và \"hợp nhất\" (merge), kết hợp các thay đổi từ các nhánh khác nhau thành một phiên bản duy nhất, gắn kết.",
-      "transitionImageFile": "/app/storage/images/transitions/2024-08-01/transition-1443083758-Montserrat-ExtraBold-1A237E.jpg",
-      "audioFilePath": "/app/storage/audio/file-19069089162.mp3"
-    },
-    {
-      "id": "28592442166",
-      "heading": "TRACK CHANGES",
-      "text": "Bây giờ, tại sao Kiểm soát phiên bản lại cần thiết? Đầu tiên, nó giúp bạn \"theo dõi các thay đổi\" (track changes) đối với \"tệp\" của bạn (files), xem ai đã thực hiện thay đổi, những thay đổi nào đã được thực hiện và khi nào. Thứ hai, nó cho phép nhiều \"thành viên nhóm\" (team members) \"hợp tác\" (collaborate) một cách dễ dàng, đảm bảo \"quy trình làm việc\" suôn sẻ (workflow). Thứ ba, bạn có thể quay lại các phiên bản trước nếu \"có sự cố\" (something goes wrong). Và cuối cùng, nó cung cấp \"bản sao lưu\" (backup) và \"bảo mật\" (security) cho công việc của bạn.",
-      "transitionImageFile": "/app/storage/images/transitions/2024-08-01/transition-28592442166-Montserrat-Regular-4A148C.jpg",
-      "audioFilePath": "/app/storage/audio/file-15836758475.mp3"
-    },
-    {
-      "id": "7756250001",
-      "heading": "DIGITAL CONTENT",
-      "text": "Vậy là hết khóa học cấp tốc về Kiểm soát phiên bản! Hãy nhớ rằng Kiểm soát phiên bản không chỉ dành cho lập trình viên – mà còn là công cụ hữu ích cho bất kỳ ai làm việc với \"nội dung số\" (digital content). Vậy thì hãy tiếp tục, khám phá thế giới Kiểm soát phiên bản và kiểm soát \"quy trình làm việc số\" của bạn (digital workflow)!",
-      "transitionImageFile": "/app/storage/images/transitions/2024-08-01/transition-7756250001-Montserrat-Medium-512DA8.jpg",
-      "audioFilePath": "/app/storage/audio/file-3252479977.mp3"
-    },
-    {
-      "id": "6261422188",
-      "heading": "CHANGES MADE TO FILES",
-      "text": "Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video hữu ích và hiểu sâu hơn về Kiểm soát phiên bản. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.",
-      "transitionImageFile": "/app/storage/images/transitions/2024-08-01/transition-6261422188-Montserrat-Thin-880E4F.jpg",
-      "audioFilePath": "/app/storage/audio/file-17518865683.mp3"
+      "id": "-21773732723",
+      "heading": "INDUSTRIES",
+      "text": "Version Control được sử dụng trong nhiều \"ngành công nghiệp\" (industries), bao gồm:. Cảm ơn bạn đã xem video này về cách hiểu Version Control! Tôi hy vọng bạn thấy hữu ích và hiểu sâu hơn về công cụ mạnh mẽ này. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận \"thông báo\" (notifications) về \"video mới\" của chúng tôi (new videos).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-02/transition--21773732723-Montserrat-Regular-673AB7.jpg",
+      "audioFilePath": "/app/storage/audio/file-30996315314.mp3"
     }
   ],
   "categories": [
     "DevOps"
   ],
   "tags": [
-    "#DigitalContentManagement",
+    "#DigitalFilesManagement",
     "#CodeManagement",
+    "#DocumentManagement",
     "#Collaboration",
     "#TrackChanges",
-    "#PreventsOverwriting",
-    "#CentralizedSystems",
-    "#DistributedSystems",
-    "#SVN",
-    "#Subversion",
-    "#Perforce",
-    "#Git",
-    "#Repository",
-    "#Commit",
-    "#Branch",
-    "#Merge",
+    "#PreviosVersions",
+    "#GroupProject",
+    "#ChangesRecord",
+    "#SimplifiedExample",
+    "#KeyConcepts",
+    "#RecordOfAllChanges",
+    "#AccidentalDeletion",
+    "#OverwrittenChanges",
+    "#PreventsLossOfWork",
     "#CollaborativeWork",
-    "#SmoothWorkflow",
-    "#Backup",
-    "#Security",
-    "#DigitalWorkflow",
-    "#Programmers",
-    "#DigitalContentCreators",
-    "#TrackingChanges",
-    "#MultipleTeamMembers",
-    "#RevertToPreviousVersions"
+    "#NumerousBenefits",
+    "#CodeDocuments",
+    "#TimeManagement",
+    "#EfficientWorkflow",
+    "#ConflictResolution",
+    "#SoftwareDevelopment",
+    "#OpenSourceProjects",
+    "#DataIntegrity",
+    "#ChangeManagement",
+    "#HistoricalRecord",
+    "#BackupAndRecovery",
+    "#ImprovedProductivity"
   ],
   "comments": []
 }

@@ -1,0 +1,71 @@
+
+---
+
+# Các nang ẩn của bệnh viêm đại tràng Cystica Profunda: Khám phá bí ẩn Viêm đại tràng Cystica Profunda là gì? Khám phá một tình trạng bệnh hiếm gặp Độ sâu của bệnh: Tìm hiểu về bệnh viêm đại tràng Cystica Profunda U nang trong ruột kết: Giải thích về bệnh viêm đại tràng Cystica Profunda Hiếm nhưng có thật: Viêm đại tràng Cystica Profunda - Triệu chứng, chẩn đoán và điều trị Khám phá bệnh viêm đại tràng Cystica Profunda: Một tình trạng bệnh phức tạp Giải mã sự phức tạp của bệnh viêm đại tràng Cystica Profunda Quan sát kỹ hơn về bệnh viêm đại tràng Cystica Profunda: Nguyên nhân, triệu chứng và cách điều trị Viêm đại tràng Cystica Profunda: Phân biệt sự thật với hư cấu Khoa học về bệnh viêm đại tràng Cystica Profunda: Đi sâu vào tình trạng bệnh
+
+- Published: August 2, 2024
+- Author: Vietnamese Online Voice
+- Categories: **Gastroenterology**
+- #Pancreas #HealthScience #ExocrineFunction #EndocrineFunction #Pancreatitis #PancreaticCancer #DiabetesMellitus #CysticFibrosis #PancreaticNeuroendocrineTumors #RiskFactors #Smoking #Obesity #Diabetes #FamilyHistory #Age #Symptoms #AbdominalPain #Nausea #Vomiting #WeightLoss #Fatigue #BloodSugarFluctuations #Diagnosis #BloodTests #ImagingTests #Endoscopy #Treatment #Medications #Surgery #EnzymeReplacementTherapy #LifestyleChanges #HealthyLifestyle #BalancedDiet #RegularExercise #Tobacco #Alcohol #HealthcareProvider #StayInformed #HealthyChoices
+
+"Trong video lớp khoa học sức khỏe này, chúng ta sẽ thảo luận về các bệnh về tuyến tụy. Tuyến tụy, một cơ quan quan trọng nằm sau dạ dày, có chức năng ngoại tiết và nội tiết, sản xuất các enzyme tiêu hóa và hormone như insulin. Các bệnh về tuyến tụy phổ biến bao gồm viêm tụy, ung thư tuyến tụy, đái tháo đường, xơ nang và khối u thần kinh nội tiết tuyến tụy. Các yếu tố nguy cơ bao gồm hút thuốc, béo phì, tiểu đường, tiền sử gia đình và tuổi tác. Các triệu chứng khác nhau nhưng có thể bao gồm đau bụng, buồn nôn, nôn, sụt cân, mệt mỏi và lượng đường trong máu dao động. Hãy tham khảo ý kiến ​​bác sĩ nếu gặp các triệu chứng."
+
+
+## EXOCRINE
+
+Chào mừng đến với lớp khoa học sức khỏe của chúng tôi, nơi chúng ta sẽ thảo luận về "bệnh tuyến tụy" (pancreatic diseases) ngày hôm nay. Chúng ta hãy bắt đầu bằng cách tìm hiểu chức năng của tuyến tụy. Tuyến tụy là một cơ quan quan trọng nằm sau dạ dày, có cả chức năng "ngoại tiết" (exocrine) và "nội tiết" (endocrine). Tuyến tụy sản xuất "enzym tiêu hóa" (digestive enzymes) và "hormone" (hormones) như "insulin" (insulin) để điều chỉnh "lượng đường trong máu" (blood sugar levels).
+![EXOCRINE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-39989265742-Montserrat-Bold-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5671373969.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PANCREATIC DISEASES
+
+Có một số "bệnh tuyến tụy" phổ biến (pancreatic diseases), bao gồm "viêm tụy" (pancreatitis), "ung thư tuyến tụy" (pancreatic cancer), "đái tháo đường" (diabetes mellitus), "xơ nang" (cystic fibrosis) và khối u thần kinh nội tiết tuyến tụy. Trong khi một số nguyên nhân chưa được biết, một số "yếu tố nguy cơ" (risk factors) có thể làm tăng khả năng phát triển các bệnh tuyến tụy. Những yếu tố này bao gồm "hút thuốc" (smoking), "béo phì" (obesity), tiểu đường, tiền sử gia đình và tuổi tác.
+![PANCREATIC DISEASES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-17448787481-Montserrat-SemiBold-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-29769122678.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PANCREATIC DISEASE
+
+Các triệu chứng của "bệnh tuyến tụy" (pancreatic diseases) có thể khác nhau, nhưng các dấu hiệu phổ biến bao gồm "đau bụng" (abdominal pain), "buồn nôn" (nausea), "nôn" (vomiting), "giảm cân" (weight loss), "mệt mỏi" (fatigue) và lượng đường trong máu dao động. Nếu bạn gặp các triệu chứng này, hãy tham khảo ý kiến ​​bác sĩ. Họ có thể thực hiện "xét nghiệm máu" (blood tests), "xét nghiệm hình ảnh" (imaging tests) hoặc nội soi để chẩn đoán tình trạng bệnh.
+![PANCREATIC DISEASE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-19263255461-Montserrat-SemiBold-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-13857386344.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## TREATMENT OPTIONS
+
+Các lựa chọn điều trị phụ thuộc vào "bệnh tuyến tụy" cụ thể (pancreatic disease), với "thuốc" (medications), "phẫu thuật" (surgery), liệu pháp thay thế enzyme và "thay đổi lối sống" (lifestyle changes) là các giải pháp phổ biến. Điều cần thiết là phải thực hiện "các bước chủ động" (proactive steps) để bảo vệ "sức khỏe tuyến tụy" của bạn (pancreatic health). Áp dụng các lựa chọn lối sống lành mạnh như "chế độ ăn uống cân bằng" (balanced diet), "tập thể dục thường xuyên" (regular exercise) và tránh "thuốc lá" (tobacco) và uống quá nhiều rượu.
+![TREATMENT OPTIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-4054129774-Montserrat-ExtraBold-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-13196490509.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PANCREATIC HEALTH
+
+Hãy nhớ rằng, cơ thể chúng ta hoạt động tốt nhất khi chúng ta chăm sóc nó. Hãy cập nhật thông tin và đưa ra những lựa chọn lành mạnh. Để biết thêm thông tin về "bệnh tuyến tụy" (pancreatic diseases), hãy tham khảo "nhà cung cấp dịch vụ chăm sóc sức khỏe" của bạn (healthcare provider) hoặc liên hệ với "nhóm khoa học sức khỏe" của chúng tôi (health science team). Hãy khỏe mạnh và hẹn gặp lại bạn vào lần sau!
+![PANCREATIC HEALTH](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--1658550864-Montserrat-Thin-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-51253851646.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PANCREATIC DISEASES
+
+Cảm ơn bạn đã xem video này về "bệnh tuyến tụy" (pancreatic diseases). Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về tình trạng bệnh. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![PANCREATIC DISEASES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--12450830776-Montserrat-Medium-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-16196627879.mp3" type="audio/mpeg">
+</audio>
+

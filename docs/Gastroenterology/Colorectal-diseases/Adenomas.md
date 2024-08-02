@@ -1,0 +1,51 @@
+
+---
+
+# Hiểu về u tuyến: Nguyên nhân, triệu chứng và phương pháp điều trị
+
+- Published: August 2, 2024
+- Author: Vietnamese Online Voice
+- Categories: Gastroenterology / **Colorectal diseases**
+- #ColonHealth #RectumHealth #Colonoscopy #GrowthRemoval #ColonCancerPrevention #ColonCancerRisk #ColonPolyp #ColonPolyps #ColonicAdenoma #AdenomaTypes #TubularAdenoma #VillousAdenoma #TubulovillousAdenoma #ColonAdenomaSymptoms #AbdominalPain #BowelChanges #Bleeding #ColonAdenomaRiskFactors #Age #FamilyHistory #Diet #Smoking #PhysicalInactivity #ColonSurgery #ColonHealthAwareness #Gastroenterology #HealthEducation #MedicalVideos
+
+"Trong video này, diễn giả giới thiệu về U tuyến, các loại, triệu chứng và rủi ro của chúng. U tuyến là các khối u không phải ung thư ở niêm mạc đại tràng hoặc trực tràng nhưng có thể phát triển thành ung thư nếu không được điều trị. Chúng có thể là dạng ống, dạng nhung mao hoặc dạng ống nhung mao, mỗi loại có những rủi ro khác nhau. Tuổi tác, tiền sử gia đình, chế độ ăn uống, hút thuốc và ít vận động có thể làm tăng nguy cơ mắc U tuyến. Các triệu chứng bao gồm chảy máu, đau bụng và thay đổi trong nhu động ruột. Nội soi đại tràng rất quan trọng trong việc phát hiện và loại bỏ. Các khối u lớn hơn có thể cần phẫu thuật. Các nhà nghiên cứu có thể xem hướng dẫn chi tiết bên dưới."
+
+
+## ADENOMAS
+
+U tuyến là khối u có thể xuất hiện ở "lớp lót" (lining) của "đại tràng" (colon) hoặc "trực tràng" (rectum). Về bản chất, chúng không phải là ung thư, tuy nhiên, chúng có thể "phát triển thành ung thư" (develop into cancer) nếu không được điều trị. Trong video này, tôi sẽ khám phá các loại, "triệu chứng" (symptoms) và "rủi ro" (risks) của U tuyến. Tôi cũng sẽ thảo luận về "các lựa chọn điều trị" (treatment options) và các chiến lược phòng ngừa.
+![ADENOMAS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-4788886504-Montserrat-Thin-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-20256494511.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## TUBULOVILLOUS ADENOMAS
+
+U tuyến có thể có nhiều hình dạng và kích thước khác nhau, chẳng hạn như "hình ống" (tubular), "hình nhung mao" (villous) hoặc "u tuyến hình nhung mao" (tubulovillous adenomas). Mỗi loại có "rủi ro" (risks) và "tính phức tạp" (complexities) khác nhau. Tuổi tác, "tiền sử gia đình" (family history), "chế độ ăn" (diet), "hút thuốc" (smoking) và tình trạng ít vận động có thể làm tăng nguy cơ phát triển các khối u này.
+![TUBULOVILLOUS ADENOMAS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--22720919031-Montserrat-Thin-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-14707799240.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## COLONOSCOPIES
+
+U tuyến thường "không có triệu chứng" (symptomless) nhưng có thể biểu hiện "chảy máu" (bleeding), "đau bụng" (abdominal pain) hoặc thay đổi "đi tiêu" (bowel movements). Nội soi đại tràng là chìa khóa để phát hiện "u tuyến" (adenomas). Trong quá trình "thủ thuật" (procedure), nếu phát hiện u tuyến, thường có thể "cắt bỏ" (removed). Trong một số trường hợp, cần phải "phẫu thuật" (surgery) để cắt bỏ "các khối u lớn hơn" (larger growths).
+![COLONOSCOPIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-14203656135-Montserrat-Bold-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-30645309094.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## HEALTHY LIFESTYLE
+
+Mặc dù chúng ta không thể ngăn ngừa hoàn toàn "u tuyến" (adenomas), nhưng "lối sống lành mạnh" (healthy lifestyle) có thể giúp chúng ta giảm thiểu rủi ro. Vì vậy, hãy thực hiện "phương pháp chủ động" (proactive approach) đối với sức khỏe của chúng ta và khuyến khích những người khác làm như vậy. Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy nó hữu ích và hiểu sâu hơn về u tuyến. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận "thông báo" (notifications) về "video mới" (new videos) của chúng tôi. Hẹn gặp lại lần sau!
+![HEALTHY LIFESTYLE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--57623219076-Montserrat-Medium-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-51253398917.mp3" type="audio/mpeg">
+</audio>
+
