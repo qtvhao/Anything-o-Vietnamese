@@ -1,0 +1,51 @@
+
+---
+
+# Tiết lộ đại dịch tiềm ẩn: Rối loạn lo âu ảnh hưởng đến 18% người Mỹ! Rối loạn lo âu tổng quát: Cuộc đấu tranh vô hình của sự lo lắng và lo âu quá mức Rối loạn lo âu xã hội: Vượt qua nỗi sợ bị phán xét, từ chối và xấu hổ Rối loạn lo âu chia ly: Thoát khỏi nỗi sợ mất đi những người thân yêu Hiểu về rối loạn lo âu: Cuộc đấu tranh sức khỏe tâm thần phổ biến nhất ở Hoa Kỳ
+
+- Published: July 31, 2024
+- Author: Vietnamese Online Voice
+- Categories: Health / **Mental Health**
+- #MentalHealth #GeneralizedAnxietyDisorder #GAD #AnxietyStatistics #SocialAnxietyDisorder #SocialPhobia #MentalHealthAwareness #AnxietyManagement #MentalHealthMatters #StigmaFree #BreakTheStigma #AnxietyHelp #AnxietySupport #MentalHealthReform #AnxietyAndDepressionAssociationOfAmerica #ExcessiveWorry #Restlessness #Fatigue #DifficultyConcentrating #Irritability #MuscleTension #SleepDisturbances #SocialSituations #Fear #Judgment #Rejection #Embarrassment
+
+"Trong video này, trọng tâm là giới thiệu về các rối loạn lo âu, đặc biệt là Rối loạn lo âu tổng quát (GAD) và Rối loạn lo âu xã hội. GAD được đặc trưng bởi sự lo lắng và lo lắng quá mức về các vấn đề hàng ngày, ảnh hưởng đến 18% người lớn ở Hoa Kỳ. Các triệu chứng bao gồm bồn chồn, mệt mỏi, khó tập trung, cáu kỉnh, căng cơ và rối loạn giấc ngủ. Rối loạn lo âu xã hội được biểu hiện bằng nỗi sợ hãi và lo lắng trong các tình huống xã hội, có khả năng dẫn đến việc tránh nói trước công chúng, gặp gỡ những người mới hoặc tham dự các sự kiện xã hội. Xem hướng dẫn chi tiết bên dưới để biết thêm thông tin."
+
+
+## ANXIETY DISORDERS
+
+Bạn có biết rằng "rối loạn lo âu" (anxiety disorders) là "rối loạn sức khỏe tâm thần" phổ biến nhất (mental health disorder) tại Hoa Kỳ không? Theo Hiệp hội lo âu và trầm cảm Hoa Kỳ, hơn 40 triệu người lớn tại Hoa Kỳ mắc phải một số dạng rối loạn lo âu. Con số này chiếm khoảng 18% "dân số" (population)!
+![ANXIETY DISORDERS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-31/transition-36516909486-Montserrat-Regular-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-35384259977.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## EXCESSIVE WORRY
+
+Rối loạn lo âu tổng quát, hay GAD, được đặc trưng bởi "lo lắng quá mức" (excessive worry) và "lo lắng" (anxiety) về "những thứ hàng ngày" (everyday things). Những người mắc GAD có thể lo lắng về "sức khỏe" (health), "tài chính" (finances), "công việc" (work) hoặc "gia đình" (family) của họ, ngay cả khi không có lý do rõ ràng nào để lo lắng. Các triệu chứng của GAD bao gồm "bồn chồn" (restlessness), "mệt mỏi" (fatigue), khó tập trung, "cáu kỉnh" (irritability), "căng cơ" (muscle tension) và rối loạn giấc ngủ.
+![EXCESSIVE WORRY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-31/transition--5782385867-Montserrat-Black-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-17236371703.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## SOCIAL ANXIETY DISORDER
+
+"Rối loạn lo âu" xã hội (anxiety disorder), còn được gọi là ám ảnh sợ xã hội, là một loại rối loạn lo âu được đặc trưng bởi "sợ hãi quá mức" (excessive fear) và lo lắng trong "các tình huống xã hội" (social situations). Những người mắc "rối loạn lo âu xã hội" (social anxiety disorder) có thể "sợ" (afraid) "nói trước công chúng" (speaking in public), "gặp gỡ những người mới" (meeting new people) hoặc tham dự "các sự kiện xã hội" (social events). Họ có thể "lo lắng" (worry) về việc bị "phán xét" (judged), "bị từ chối" (rejected) hoặc xấu hổ.
+![SOCIAL ANXIETY DISORDER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-31/transition-433889922-Montserrat-SemiBold-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-45205004599.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## ANXIETY DISORDER
+
+Rối loạn lo âu chia ly (anxiety disorder) là một loại rối loạn lo âu được đặc trưng bởi "nỗi sợ hãi" quá mức (fear) và lo lắng về việc bị chia ly
+![ANXIETY DISORDER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-31/transition--41012437305-Montserrat-Black-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-16622699895.mp3" type="audio/mpeg">
+</audio>
+

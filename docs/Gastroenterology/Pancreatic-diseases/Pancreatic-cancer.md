@@ -1,0 +1,51 @@
+
+---
+
+# Khám phá kẻ giết người ẩn giấu: Làm sáng tỏ các yếu tố nguy cơ, chẩn đoán và phòng ngừa ung thư tuyến tụy
+
+- Published: July 31, 2024
+- Author: Vietnamese Online Voice
+- Categories: Gastroenterology / **Pancreatic diseases**
+- #Pancreas #CancerAwareness #DigestiveSystem #Enzymes #Hormones #Insulin #Glucagon #RiskFactors #Smoking #Obesity #Diabetes #Pancreatitis #FamilyHistory #Diagnosis #CTScans #MRIScans #Ultrasounds #Biopsies #CancerStage #HealthAwareness #CancerPrevention #GlandularSystem #Oncology #MedicalResearch #CancerFighters #CancerSurvivors
+
+"Trong video này, chúng tôi cung cấp phần giới thiệu chi tiết về tuyến tụy và ung thư tuyến tụy. Tuyến tụy, một tuyến nằm sau dạ dày, đóng vai trò quan trọng trong hệ tiêu hóa bằng cách giải phóng các enzyme phân hủy thức ăn và các hormone điều chỉnh lượng đường trong máu. Nguyên nhân gây ung thư tuyến tụy vẫn chưa được hiểu rõ, nhưng một số yếu tố nguy cơ đã được xác định, bao gồm hút thuốc, béo phì, tiểu đường, viêm tụy mãn tính và tiền sử gia đình mắc bệnh. Chẩn đoán có thể khó khăn do vị trí của tuyến tụy và thiếu các triệu chứng ban đầu cụ thể. Các xét nghiệm hình ảnh và sinh thiết thường được sử dụng để chẩn đoán và phân loại. Các nhà nghiên cứu có thể xem hướng dẫn chi tiết trong phần mô tả video."
+
+
+## PANCREAS
+
+"Tuyến tụy" (pancreas) là một "tuyến" (gland) nằm sau dạ dày, đóng vai trò quan trọng trong "hệ tiêu hóa" (digestive system). Tuyến tụy giải phóng "enzyme" (enzymes) giúp "phân hủy thức ăn" (break down food), cũng như "hormone" (hormones) điều chỉnh "lượng đường trong máu" (blood sugar levels), chẳng hạn như "insulin" (insulin) và "glucagon" (glucagon).
+![PANCREAS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-31/transition-8871208308-Montserrat-Medium-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-13485359844.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PANCREATIC CANCER
+
+Nguyên nhân chính xác của "ung thư tuyến tụy" (pancreatic cancer) vẫn chưa được biết, nhưng có một số "yếu tố nguy cơ" (risk factors) làm tăng khả năng phát triển bệnh. Những yếu tố này bao gồm "hút thuốc" (smoking), "béo phì" (obesity), "tiểu đường" (diabetes), "viêm tụy mãn tính" (chronic pancreatitis) và tiền sử gia đình mắc bệnh ung thư tuyến tụy.
+![PANCREATIC CANCER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-31/transition-16634956759-Montserrat-Medium-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-16273918382.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## BIOPSIES
+
+Chẩn đoán "ung thư tuyến tụy" (pancreatic cancer) có thể là một thách thức do vị trí của tuyến tụy và thiếu các triệu chứng cụ thể trong giai đoạn đầu. Các xét nghiệm hình ảnh, chẳng hạn như chụp CT, chụp MRI và "siêu âm" (ultrasounds), thường được sử dụng để chẩn đoán bệnh. Sinh thiết cũng có thể được thực hiện để xác nhận chẩn đoán và xác định "giai đoạn ung thư" (stage of the cancer).
+![BIOPSIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-31/transition--6856781019-Montserrat-Medium-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-38117624151.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## LIFESTYLE CHANGES
+
+Phòng ngừa "ung thư tuyến tụy" (pancreatic cancer) bao gồm việc thực hiện "thay đổi lối sống" (lifestyle changes) để giảm
+![LIFESTYLE CHANGES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-31/transition-14548026336-Montserrat-SemiBold-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-13220684358.mp3" type="audio/mpeg">
+</audio>
+

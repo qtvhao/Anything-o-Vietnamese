@@ -1,0 +1,91 @@
+
+---
+
+# Mở khóa phản hồi nhanh hơn, cải thiện chất lượng và giảm nỗ lực thủ công với máy chủ CI được cấu hình tốt: Hướng dẫn từng bước dành cho nhà phát triển phần mềm
+
+- Published: August 1, 2024
+- Author: Vietnamese Online Voice
+- Categories: DevOps / Continuous Integration / **Setting up a CI server**
+- #CICD #CIserver #softwaredevelopment #automation #build #test #deploy #codequality #reliability #errorfree #stability #fasterfeedback #improvedquality #reducedmanualeffort #Jenkins #TravisCI #CircleCI #CIenvironment #dependencies #tools #versioncontrol #Git #buildtools #testframeworks #buildjobs #branches #environments #workflows #buildtriggers #webhooks #deployment #artifactrepositories #monitoring #maintenance #configuration #devops #programming #coding #automatedtesting #deployments #reliablecode #toolschain
+
+"Trong video này, diễn giả giới thiệu về cấu hình máy chủ Tích hợp liên tục (CI), nhấn mạnh tầm quan trọng của nó trong phát triển phần mềm. Máy chủ CI tự động hóa việc xây dựng, thử nghiệm và triển khai các ứng dụng phần mềm, đảm bảo tính ổn định, độ tin cậy của mã và chức năng không có lỗi. Lợi ích của việc cấu hình máy chủ CI bao gồm phản hồi nhanh hơn, chất lượng được cải thiện và giảm bớt công sức thủ công. Video phác thảo bảy bước thực tế để cấu hình máy chủ CI, bắt đầu bằng việc lựa chọn một công cụ CI, chẳng hạn như Jenkins, Travis CI, CircleCI hoặc GitLab CI/CD, phù hợp với nhu cầu của dự án."
+
+
+## CI SERVER
+
+Trước khi đi sâu vào các bước thực tế để cấu hình máy chủ CI, hãy để tôi giải thích tại sao nó lại quan trọng trong phát triển phần mềm. Nói một cách đơn giản, máy chủ CI là một công cụ tự động hóa quy trình xây dựng, thử nghiệm và triển khai "ứng dụng phần mềm" của bạn (software application), đảm bảo "tính ổn định của mã" (code stability), "độ tin cậy" (reliability) và chức năng không có lỗi.
+![CI SERVER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-01/transition--35855054971-Montserrat-ExtraBold-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-24020950387.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CONFIGURING A CI SERVER
+
+Bây giờ, bạn có thể tự hỏi tại sao bạn nên quan tâm đến việc "cấu hình" (configuring) một máy chủ CI. Vâng, có một số "lợi ích" (benefits) khi sử dụng máy chủ CI được cấu hình tốt, chẳng hạn như "phản hồi nhanh hơn" (faster feedback), "chất lượng được cải thiện" (improved quality) và "giảm nỗ lực thủ công" (reduced manual effort). Bằng cách "tự động hóa" (automating) "xây dựng" (build), "kiểm tra" (test) và "quy trình triển khai" (deployment processes), bạn có thể tập trung vào "viết mã" (writing code) và "cung cấp giá trị" (delivering value) cho người dùng của mình.
+![CONFIGURING A CI SERVER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-01/transition-1169043234-Montserrat-Medium-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-10957531270.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CI TOOL
+
+Trong video này, tôi sẽ chỉ cho bạn cách "cấu hình" (configure) máy chủ CI theo bảy bước dễ dàng. Hãy bắt đầu!. Bước đầu tiên là chọn một công cụ CI. Có nhiều công cụ có sẵn trên thị trường, chẳng hạn như Jenkins, Travis CI, CircleCI và GitLab CI/CD. Hãy đảm bảo chọn một công cụ đáp ứng nhu cầu cụ thể của dự án bạn.
+![CI TOOL](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-01/transition--46315106018-Montserrat-Thin-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-21583047569.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## SETTING UP A CI SERVER
+
+Bước thứ hai là thiết lập môi trường CI của bạn. Bạn có thể lưu trữ máy chủ CI của mình tại chỗ hoặc "trên đám mây" (in the cloud). Chỉ cần đảm bảo rằng nó có tất cả các "phụ thuộc" (dependencies) và "công cụ" (tools) cần thiết mà "dự án" (project) của bạn yêu cầu. Bước thứ ba là cấu hình quy trình xây dựng của bạn. Bạn có thể liên kết máy chủ CI của mình với "hệ thống kiểm soát phiên bản" (version control system), chẳng hạn như Git, và thiết lập "công cụ xây dựng" (build tools) và "khung thử nghiệm" (test frameworks) để "biên dịch" (compile) và "gói" (package) mã của bạn và chạy các bài kiểm tra tự động.
+![SETTING UP A CI SERVER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-01/transition--65245310872-Montserrat-SemiBold-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-47178079723.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## BUILD JOBS
+
+Bước thứ tư là xác định "công việc xây dựng" của bạn (build jobs). Bạn có thể tạo nhiều công việc xây dựng để thích ứng với các nhánh, môi trường hoặc "quy trình làm việc" khác nhau (workflows). Ví dụ, bạn có thể tạo một công việc để chạy "kiểm tra đơn vị" của mình (unit tests), một công việc khác để biên dịch mã của bạn và một công việc khác để triển khai mã của bạn đến "sản xuất" (production).
+![BUILD JOBS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-01/transition-4994391001-Montserrat-Black-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-1377230798.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## DEPLOYMENT PROCESSES
+
+Bước thứ năm là cấu hình các trình kích hoạt. Có thể khởi tạo bản dựng bằng cách cấu hình các trình kích hoạt như "thăm dò" (polling) hệ thống quản lý kiểm soát nguồn của bạn để thay đổi hoặc thiết lập "webhooks" (webhooks).. Bước thứ sáu là cấu hình "triển khai" (deployment). Bạn có thể xác định quy trình triển khai của mình bằng cách thiết lập "kho lưu trữ hiện vật" (artifact repositories) và viết "tập lệnh triển khai" (deployment scripts) để lưu trữ các hiện vật đã xây dựng của bạn và triển khai chúng vào môi trường sản xuất hoặc dàn dựng.
+![DEPLOYMENT PROCESSES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-01/transition-14084373180-Montserrat-Thin-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-37237859412.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CONFIGURING A CI SERVER
+
+Bước cuối cùng là "theo dõi" (monitor) và "duy trì" (maintain) máy chủ CI của bạn thường xuyên. Theo dõi thường xuyên có thể giúp đảm bảo "quy trình xây dựng" (build process) của bạn vẫn hiệu quả và hiệu suất. Vậy là xong! Bạn đã xem hết video. Xin chúc mừng vì đã cấu hình máy chủ CI của bạn! Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về cách cấu hình máy chủ CI.
+![CONFIGURING A CI SERVER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-01/transition--24994348642-Montserrat-Medium-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-29017458064.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CI SERVER
+
+Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký "kênh" của chúng tôi (channel) để nhận "thông báo" (notifications) về "video mới" của chúng tôi (new videos).. Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thích tìm hiểu về "cấu hình" (configuring) máy chủ CI. Chúc bạn một ngày tuyệt vời và "viết mã vui vẻ" (happy coding)!
+![CI SERVER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-01/transition--20436083458-Montserrat-Black-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-11737380890.mp3" type="audio/mpeg">
+</audio>
+

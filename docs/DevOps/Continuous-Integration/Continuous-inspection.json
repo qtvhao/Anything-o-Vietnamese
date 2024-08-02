@@ -1,0 +1,88 @@
+{
+  "id": "-57848393647",
+  "titles": [
+    "Cách mạng hóa quá trình phát triển phần mềm của bạn bằng cách kiểm tra liên tục: Phát hiện vấn đề sớm, tiết kiệm thời gian và tài nguyên!"
+  ],
+  "topic": "Continuous inspection",
+  "title": "Cách mạng hóa quá trình phát triển phần mềm của bạn bằng cách kiểm tra liên tục: Phát hiện vấn đề sớm, tiết kiệm thời gian và tài nguyên!",
+  "description": "\"Trong video này, diễn giả giới thiệu về kiểm tra liên tục, một quy trình tự động kiểm tra mã và các hiện vật khác trong suốt vòng đời phát triển phần mềm. Là một phần quan trọng của chiến lược đảm bảo chất lượng toàn diện, kiểm tra liên tục phát hiện và giải quyết các vấn đề sớm, giảm thiểu rủi ro lỗi đến giai đoạn sản xuất. Điều này giúp tiết kiệm thời gian và tài nguyên bằng cách ngăn ngừa các bản sửa lỗi tốn kém và mất thời gian. Các phương pháp triển khai bao gồm phân tích mã tĩnh, phân tích động và đánh giá mã, có thể được tích hợp vào quy trình phát triển để nhà phát triển phản hồi theo thời gian thực.\"",
+  "author": "Vietnamese Online Voice",
+  "date": "July 30, 2024",
+  "content": [
+    {
+      "id": "-3121862334",
+      "heading": "CONTINUOUS INSPECTION",
+      "text": "Kiểm tra liên tục là quá trình tự động kiểm tra mã và các \"hiện vật\" khác (artifacts) trong suốt vòng đời phát triển phần mềm. Đây là thành phần quan trọng của chiến lược đảm bảo chất lượng toàn diện.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-07-30/transition--3121862334-Montserrat-ExtraBold-283593.jpg",
+      "audioFilePath": "/app/storage/audio/file-9563959305.mp3"
+    },
+    {
+      "id": "-7300666073",
+      "heading": "DEVELOPMENT PROCESS",
+      "text": "Kiểm tra liên tục giúp xác định và giải quyết \"các vấn đề\" (issues) ngay từ đầu \"quy trình phát triển\" (development process), giảm nguy cơ \"khuyết tật\" (defects) và các \"vấn đề\" khác (problems) đưa vào \"sản xuất\" (production). Điều này có thể \"tiết kiệm thời gian và tài nguyên\" (save time and resources) bằng cách ngăn ngừa nhu cầu sửa chữa tốn kém và mất thời gian sau này.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-07-30/transition--7300666073-Montserrat-Black-7B1FA2.jpg",
+      "audioFilePath": "/app/storage/audio/file-28518848721.mp3"
+    },
+    {
+      "id": "-14738261388",
+      "heading": "DEVELOPMENT PIPELINE",
+      "text": "Kiểm tra liên tục có thể được triển khai bằng nhiều công cụ và kỹ thuật khác nhau, chẳng hạn như \"phân tích mã tĩnh\" (static code analysis), \"phân tích động\" (dynamic analysis) và \"xem xét mã\" (code review). Các công cụ này có thể được tích hợp vào \"luồng phát triển\" (development pipeline) để cung cấp phản hồi theo thời gian thực cho các nhà phát triển.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-07-30/transition--14738261388-Montserrat-Thin-512DA8.jpg",
+      "audioFilePath": "/app/storage/audio/file-32056851634.mp3"
+    },
+    {
+      "id": "26640864456",
+      "heading": "STATIC CODE ANALYSIS",
+      "text": "Phân tích mã tĩnh là quá trình kiểm tra mã mà không thực thi mã. Điều này có thể giúp xác định các vấn đề như lỗ hổng bảo mật, vi phạm tiêu chuẩn mã hóa và \"điểm nghẽn hiệu suất\" tiềm ẩn (performance bottlenecks).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-07-30/transition-26640864456-Montserrat-Medium-283593.jpg",
+      "audioFilePath": "/app/storage/audio/file-2788782508.mp3"
+    },
+    {
+      "id": "32500912882",
+      "heading": "DYNAMIC ANALYSIS",
+      "text": "Phân tích động là quá trình kiểm tra mã trong khi nó đang \"thực thi\" (executing). Điều này có thể giúp xác định các vấn đề như \"rò rỉ bộ nhớ\" (memory leaks), \"vấn đề đồng thời\" (concurrency problems) và các \"lỗi thời gian chạy\" khác (runtime errors).. Đánh giá mã là quá trình \"kiểm tra mã thủ công\" (manually examining code) để xác định các vấn đề và đảm bảo rằng mã đáp ứng \"các tiêu chuẩn nhất định\" (certain standards). Điều này có thể được thực hiện thủ công bởi một nhóm các nhà phát triển hoặc sử dụng các công cụ tự động.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-07-30/transition-32500912882-Montserrat-SemiBold-004895.jpg",
+      "audioFilePath": "/app/storage/audio/file-28082862103.mp3"
+    },
+    {
+      "id": "-50319500840",
+      "heading": "ONGOING PROCESS",
+      "text": "Kiểm tra liên tục là một \"quy trình đang diễn ra\" (ongoing process) và điều quan trọng là phải thường xuyên \"xem xét và cập nhật\" (review and update) các quy tắc và tiêu chí kiểm tra để đảm bảo rằng chúng \"có liên quan và hiệu quả\" (relevant and effective). Tóm lại, \"kiểm tra liên tục\" (continuous inspection) là một \"phần thiết yếu\" (essential part) của quy trình phát triển phần mềm mạnh mẽ. Bằng cách tự động kiểm tra mã và các \"thành phần\" khác (artifacts) trong suốt \"vòng đời\" (lifecycle), tính năng này giúp xác định và giải quyết các vấn đề \"sớm\" (early), giảm nguy cơ \"lỗi\" (defects) và các \"vấn đề\" khác (problems) đưa vào \"sản xuất\" (production).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-07-30/transition--50319500840-Montserrat-Black-880E4F.jpg",
+      "audioFilePath": "/app/storage/audio/file-21149803738.mp3"
+    },
+    {
+      "id": "-488715294",
+      "heading": "INFORMATIVE",
+      "text": "Cảm ơn bạn đã xem video này về \"kiểm tra liên tục\" (continuous inspection). Tôi hy vọng bạn thấy nó \"có thông tin\" (informative) và hữu ích. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn \"tìm hiểu thêm\" (learn more), vui lòng đừng \"ngần ngại\" (hesitate) \"liên hệ\" (reach out).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-07-30/transition--488715294-Montserrat-Black-512DA8.jpg",
+      "audioFilePath": "/app/storage/audio/file-804584222.mp3"
+    }
+  ],
+  "categories": [
+    "DevOps",
+    "Continuous Integration"
+  ],
+  "tags": [
+    "#SoftwareDevelopment",
+    "#QualityAssurance",
+    "#CodeAnalysis",
+    "#StaticCodeAnalysis",
+    "#DynamicAnalysis",
+    "#CodeReview",
+    "#DevOps",
+    "#AutomatedTesting",
+    "#SecurityVulnerabilities",
+    "#CodingStandards",
+    "#PerformanceOptimization",
+    "#RuntimeErrors",
+    "#ConcurrencyProblems",
+    "#SoftwareDevelopmentLifecycle",
+    "#RealtimeFeedback",
+    "#CostSaving",
+    "#PreventiveMaintenance",
+    "#RobustSoftwareDevelopment",
+    "#ContinuousImprovement"
+  ],
+  "comments": []
+}

@@ -1,0 +1,81 @@
+
+---
+
+# Vạch trần kẻ giết người thầm lặng: Ung thư túi mật - Triệu chứng, nguyên nhân và cách phát hiện sớm để cứu sống!
+
+- Published: July 31, 2024
+- Author: Vietnamese Online Voice
+- Categories: Gastroenterology / **Biliary tract diseases**
+- #Cancer #CancerAwareness #Health #DigestiveSystem #Bile #Liver #SmallIntestine #RareCancer #AggressiveCancer #PoorPrognosis #RiskFactors #Gallstones #ChronicInflammation #Age #Gender #GeneticConditions #AbdominalPain #Jaundice #Nausea #Vomiting #UnexplainedWeightLoss #MedicalAttention #Diagnosis #ImagingTests #Ultrasound #CTScan #MRIScan #Biopsy #Treatment #Surgery #RadiationTherapy #Chemotherapy
+
+"Trong video này, chúng tôi cung cấp phần giới thiệu chi tiết về túi mật và ung thư túi mật. Túi mật là một cơ quan nhỏ nằm dưới gan, có chức năng lưu trữ và cô đặc mật. Ung thư túi mật, mặc dù hiếm gặp, thường hung dữ và có tiên lượng xấu do phát hiện muộn. Các yếu tố nguy cơ bao gồm sỏi mật, viêm mãn tính, tuổi tác, giới tính và các tình trạng di truyền. Các nhà nghiên cứu có thể xem hướng dẫn chi tiết trong video đính kèm bên dưới."
+
+
+## GALLBLADDER
+
+"Túi mật" (gallbladder) là một "cơ quan nhỏ hình quả lê" (small pear-shaped organ) nằm dưới "gan" (liver). Chức năng chính của nó là lưu trữ và cô đặc "mật" (bile), một "dịch tiêu hóa" (digestive fluid) "do gan sản xuất" (produced by the liver) và giải phóng nó vào "ruột non" (small intestine) để giúp phân hủy chất béo.
+![GALLBLADDER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-31/transition--16856897149-Montserrat-Thin-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-4741295320.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## GALLBLADDER CANCER
+
+Ung thư túi mật là một "loại ung thư" (type of cancer) bắt đầu ở "túi mật" (gallbladder). Loại này tương đối "hiếm" (rare), chiếm khoảng 1% trong số tất cả các loại ung thư ở Hoa Kỳ. Tuy nhiên, loại này "thường hung dữ" (often aggressive) và có "tiên lượng xấu" (poor prognosis) do "vị trí" (location) và thực tế là nó thường "không được phát hiện" (not detected) cho đến khi nó đạt đến giai đoạn tiến triển.
+![GALLBLADDER CANCER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-31/transition--9845403131-Montserrat-Black-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-1516096583.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## GALLSTONES
+
+Nguyên nhân chính xác của "ung thư túi mật" (gallbladder cancer) vẫn chưa được biết, nhưng có một số "yếu tố nguy cơ" (risk factors) có thể làm tăng khả năng mắc bệnh của một người. Những yếu tố này bao gồm "sỏi mật" (gallstones), "viêm mãn tính" (chronic inflammation) của túi mật, "tuổi" (age), "giới tính" (gender) và một số "bệnh di truyền" di truyền (genetic conditions).
+![GALLSTONES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-31/transition--30028031856-Montserrat-Thin-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-33097057359.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## GALLBLADDER CANCER
+
+Các triệu chứng của "ung thư túi mật" (gallbladder cancer) có thể mơ hồ và tương tự như các triệu chứng của các tình trạng khác, chẳng hạn như sỏi mật. Chúng có thể bao gồm "đau bụng" (abdominal pain), "vàng da" (jaundice), "buồn nôn" (nausea), "nôn mửa" (vomiting) và "giảm cân không rõ nguyên nhân" (unexplained weight loss). Nếu bạn gặp bất kỳ triệu chứng nào trong số này, điều quan trọng là phải tìm kiếm "chăm sóc y tế" (medical attention) ngay lập tức.
+![GALLBLADDER CANCER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-31/transition-2493688927-Montserrat-Regular-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-43611790753.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## GALLBLADDER CANCER
+
+Chẩn đoán "ung thư túi mật" (gallbladder cancer) có thể là một thách thức do vị trí của cơ quan này và thực tế là các triệu chứng thường không xuất hiện cho đến khi ung thư tiến triển. Các xét nghiệm hình ảnh, chẳng hạn như siêu âm, CT hoặc MRI, có thể được sử dụng để phát hiện khối u hoặc bất thường trong túi mật. "Sinh thiết" (biopsy), trong đó một mẫu mô nhỏ được lấy ra và kiểm tra dưới kính hiển vi, cũng có thể được thực hiện để xác nhận chẩn đoán.
+![GALLBLADDER CANCER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-31/transition-21595070879-Montserrat-Regular-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-23351784029.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## GALLBLADDER CANCER
+
+Điều trị "ung thư túi mật" (gallbladder cancer) phụ thuộc vào "giai đoạn" (stage) và "vị trí" (location) của ung thư, cũng như sức khỏe tổng thể của bệnh nhân. Phẫu thuật cắt bỏ túi mật và "các mô xung quanh" (surrounding tissues) có thể được thực hiện đối với ung thư giai đoạn đầu. Xạ trị, "hóa trị" (chemotherapy) hoặc kết hợp cả hai có thể được sử dụng để điều trị ung thư tiến triển.
+![GALLBLADDER CANCER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-31/transition-8355702299-Montserrat-Medium-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-2683072493.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## GALLBLADDER CANCER
+
+Ngăn ngừa
+![GALLBLADDER CANCER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-31/transition-4250370535-Montserrat-Bold-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-2993023074.mp3" type="audio/mpeg">
+</audio>
+

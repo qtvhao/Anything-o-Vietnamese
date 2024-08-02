@@ -1,0 +1,66 @@
+{
+  "id": "54689689833",
+  "titles": [
+    "Cách mạng hóa việc phát hành phần mềm của bạn: Làm chủ tự động hóa triển khai với Jenkins, Travis CI và CircleCI"
+  ],
+  "topic": "Deployment automation",
+  "title": "Cách mạng hóa việc phát hành phần mềm của bạn: Làm chủ tự động hóa triển khai với Jenkins, Travis CI và CircleCI",
+  "description": "\"Trong video này, chủ đề về tự động hóa triển khai được giới thiệu. Nó bao gồm quá trình tự động hóa các tác vụ liên quan đến việc triển khai ứng dụng phần mềm hoặc hệ thống vào môi trường sản xuất, bao gồm xây dựng, thử nghiệm và chuyển sang môi trường trực tiếp. Tự động hóa triển khai nâng cao tính nhất quán, độ tin cậy và khắc phục sự cố bằng cách tuân theo các bước chuẩn hóa, giảm thiểu lỗi của con người. Nó cũng giảm áp lực cho các nhóm phát triển bằng cách tự động hóa các triển khai thủ công có rủi ro cao, áp lực cao. Các nhà nghiên cứu có thể xem hướng dẫn chi tiết trong video.\"",
+  "author": "Vietnamese Online Voice",
+  "date": "July 30, 2024",
+  "content": [
+    {
+      "id": "-24963485548",
+      "heading": "DEPLOYMENT AUTOMATION",
+      "text": "Tự động hóa triển khai là quá trình tự động hóa các tác vụ liên quan đến việc triển khai \"ứng dụng phần mềm\" (software application) hoặc hệ thống vào \"môi trường sản xuất\" (production environment). Điều này có thể bao gồm các tác vụ như xây dựng ứng dụng, \"kiểm tra\" (testing) và di chuyển ứng dụng đến \"môi trường trực tiếp\" (live environment).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-07-30/transition--24963485548-Montserrat-Bold-004895.jpg",
+      "audioFilePath": "/app/storage/audio/file-18846968491.mp3"
+    },
+    {
+      "id": "23225714359",
+      "heading": "AUTOMATING THE PROCESS",
+      "text": "Tự động hóa triển khai cũng có thể giúp cải thiện tính nhất quán và độ tin cậy của các lần triển khai. Bằng cách tự động hóa quy trình, các nhóm có thể đảm bảo rằng các bước giống nhau được thực hiện mọi lúc, giảm nguy cơ lỗi của con người. Điều này cũng có thể giúp đảm bảo rằng ứng dụng được triển khai theo cùng một cách mọi lúc, giúp dễ dàng hơn trong việc \"khắc phục sự cố\" (troubleshoot issues) và \"hoàn tác các thay đổi\" (roll back changes) nếu cần.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-07-30/transition-23225714359-Montserrat-ExtraBold-4A148C.jpg",
+      "audioFilePath": "/app/storage/audio/file-2961485489.mp3"
+    },
+    {
+      "id": "-10997658416",
+      "heading": "HIGH PRESSURE",
+      "text": "Một lợi ích khác của \"tự động hóa triển khai\" (deployment automation) là nó có thể giúp giảm bớt căng thẳng và áp lực cho các nhóm phát triển. Triển khai thủ công có thể là một quá trình áp lực cao, rủi ro cao, với khả năng mọi thứ có thể diễn ra sai ở bất kỳ bước nào. Tự động hóa quy trình có thể giúp giảm bớt áp lực này, cho phép các nhóm tập trung vào các khía cạnh khác của quy trình phát triển.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-07-30/transition--10997658416-Montserrat-Bold-9C27B0.jpg",
+      "audioFilePath": "/app/storage/audio/file-3383904646.mp3"
+    },
+    {
+      "id": "-13532739618",
+      "heading": "DEVELOPMENT PIPELINE",
+      "text": "Có nhiều công cụ và công nghệ khác nhau có sẵn cho \"tự động hóa triển khai\" (deployment automation), bao gồm Jenkins, Travis CI và CircleCI. Các công cụ này có thể được tích hợp vào \"luồng phát triển\" (development pipeline), cho phép các nhóm tự động hóa các quy trình xây dựng, thử nghiệm và triển khai.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-07-30/transition--13532739618-Montserrat-SemiBold-4A148C.jpg",
+      "audioFilePath": "/app/storage/audio/file-26244962371.mp3"
+    }
+  ],
+  "categories": [
+    "DevOps",
+    "Continuous Integration"
+  ],
+  "tags": [
+    "#SoftwareDeployment",
+    "#Automation",
+    "#DevOps",
+    "#ContinuousDelivery",
+    "#ContinuousIntegration",
+    "#ProductionEnvironment",
+    "#ApplicationDeployment",
+    "#DeploymentProcess",
+    "#Consistency",
+    "#Reliability",
+    "#ReducingHumanError",
+    "#Troubleshooting",
+    "#RollbackChanges",
+    "#StressReduction",
+    "#HighPressure",
+    "#HighStakes",
+    "#DevelopmentTeams",
+    "#ContinuousDeployment"
+  ],
+  "comments": []
+}
