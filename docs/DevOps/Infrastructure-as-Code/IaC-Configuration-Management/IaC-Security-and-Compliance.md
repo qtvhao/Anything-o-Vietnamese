@@ -1,0 +1,71 @@
+
+---
+
+# Khóa IaC của bạn: Những điều cần thiết về bảo mật và tuân thủ Bảo mật đám mây của bạn: Các biện pháp thực hành tốt nhất về bảo mật và tuân thủ IaC
+
+- Published: August 2, 2024
+- Author: Vietnamese Online Voice
+- Categories: DevOps / Infrastructure as Code / **IaC Configuration Management**
+- #InfrastructureAsCode #Cybersecurity #Security #Compliance #Terraform #AWSCloudFormation #AzureResourceManager #SecurityVulnerabilities #Misconfigurations #UnauthorizedAccess #DataBreaches #RegulatoryRequirements #HIPAA #GDPR #SOC2 #SecureCredentialsManagement #AccessControls #IaCCodeMonitoring #SecureIaCTemplates #SecurityRisks #IaCCompliance #CodeAudit #SecurityVulnerabilities #CybersecurityAwareness #DevSecOps #Infosec #CloudSecurity #SecurityBestPractices #RiskManagement
+
+"Trong video này, diễn giả giới thiệu về Cơ sở hạ tầng dưới dạng Mã (IaC) và cách quản lý cấu hình cơ sở hạ tầng thông qua mã bằng các công cụ như Terraform, AWS CloudFormation và Azure Resource Manager. Video nêu bật tầm quan trọng của bảo mật IaC do các lỗ hổng bảo mật tiềm ẩn và cấu hình sai có thể dẫn đến truy cập trái phép, vi phạm dữ liệu và các vấn đề về tuân thủ. Các biện pháp thực hành tốt nhất để đảm bảo bảo mật IaC được thảo luận, bao gồm quản lý thông tin xác thực an toàn, triển khai kiểm soát truy cập, giám sát thường xuyên và sử dụng các mẫu IaC an toàn. Các CISO và nhóm nghiên cứu có thể xem video để biết hướng dẫn chi tiết."
+
+
+## IAC CONFIGURATION MANAGEMENT
+
+Cơ sở hạ tầng dưới dạng Mã (IaC) là một hoạt động cho phép "nhà phát triển" (developers) "quản lý" (manage) "cơ sở hạ tầng" (infrastructure) "cấu hình" (configuration) thông qua mã. Các công cụ như Terraform, AWS CloudFormation và Azure Resource Manager cho phép nhà phát triển xác định cấu hình cơ sở hạ tầng theo định dạng mà con người có thể đọc được.
+![IAC CONFIGURATION MANAGEMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--58877849357-Montserrat-Black-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-24050841688.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## IAC SECURITY
+
+Nhưng tại sao bảo mật IaC lại quan trọng? Giống như bất kỳ mã nào, IaC có thể có lỗ hổng bảo mật và "cấu hình sai" (misconfigurations). Nếu không được quản lý đúng cách, rủi ro bảo mật IaC có thể dẫn đến "truy cập trái phép" (unauthorized access), "vi phạm dữ liệu" (data breaches) và "vấn đề tuân thủ" (compliance issues).
+![IAC SECURITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-28280839519-Montserrat-Bold-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-27095455152.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## IAC SECURITY
+
+Trong video này, tôi cũng sẽ thảo luận về các biện pháp thực hành tốt nhất để đảm bảo an ninh IaC. Một số biện pháp thực hành tốt nhất bao gồm quản lý thông tin xác thực an toàn, triển khai "kiểm soát truy cập" (access controls), giám sát mã IaC "thường xuyên" (regularly) và sử dụng các mẫu IaC an toàn.
+![IAC SECURITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--4617149202-Montserrat-Black-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-6892900684.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## IAC SECURITY AND COMPLIANCE
+
+Tuân thủ là một khía cạnh quan trọng khác của bảo mật IaC. Các tổ chức phải đảm bảo rằng cấu hình IaC của họ đáp ứng "các yêu cầu theo quy định" (regulatory requirements), chẳng hạn như HIPAA, PCI-DSS, GDPR và SOC 2.. Để đảm bảo "tuân thủ" IaC (compliance), các tổ chức phải hiểu các yêu cầu theo quy định, triển khai cấu hình IaC tuân thủ và "giám sát" (monitor) và "kiểm toán" (audit) mã IaC thường xuyên.
+![IAC SECURITY AND COMPLIANCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--9348271037-Montserrat-SemiBold-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-52073943677.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## IAC SECURITY
+
+Trong video này, chúng ta cũng sẽ nói về một số "rủi ro bảo mật" phổ biến (security risks) liên quan đến IaC và cách triển khai quản lý thông tin xác thực an toàn và giám sát mã IaC để tìm lỗ hổng bảo mật. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về các biện pháp thực hành tốt nhất về bảo mật và tuân thủ IaC. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, vui lòng để lại bình luận bên dưới.
+![IAC SECURITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-33158695956-Montserrat-SemiBold-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-16958625432.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## INFRASTRUCTURE
+
+Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về video mới. Cảm ơn bạn đã xem!
+![INFRASTRUCTURE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-3089967266-Montserrat-Thin-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-12291663534.mp3" type="audio/mpeg">
+</audio>
+

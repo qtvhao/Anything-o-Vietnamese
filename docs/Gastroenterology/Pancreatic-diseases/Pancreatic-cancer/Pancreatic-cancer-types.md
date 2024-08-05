@@ -1,0 +1,51 @@
+
+---
+
+# Ung thư tuyến tụy 101: Hướng dẫn về các loại khác nhau
+
+- Published: August 2, 2024
+- Author: Vietnamese Online Voice
+- Categories: Gastroenterology / Pancreatic diseases / **Pancreatic cancer**
+- #CancerAwareness #CancerResearch #PancreaticCancerTypes #AbnormalCells #Tumor #ChallengingDisease #MucinousCysticNeoplasms #IntraductalPapillaryMucinousNeoplasms #SolidPseudopapillaryNeoplasms #RareCancers #CancerTreatment #EffectiveTreatmentStrategies #CancerEducation #HealthAwareness #LatestDevelopmentsInCancerResearch
+
+"Trong video này, chúng tôi giới thiệu về ung thư tuyến tụy, các loại ung thư và các đặc điểm phân biệt của chúng. Ung thư tuyến tụy được đặc trưng bởi sự phát triển không kiểm soát của các tế bào bất thường trong tuyến tụy, có khả năng xâm lấn các mô và cơ quan lân cận. Các loại chính là ung thư tuyến tụy ngoại tiết, ung thư tuyến tụy nội tiết và khối u thần kinh nội tiết tuyến tụy. Các dạng hiếm gặp bao gồm khối u nang nhầy, khối u nhầy nhú trong ống và khối u giả nhú rắn. Việc tìm hiểu kiến ​​thức về các loại ung thư tuyến tụy là rất quan trọng để phát triển các chiến lược điều trị hiệu quả. Các nhà nghiên cứu được khuyến khích xem hướng dẫn chi tiết trong video bên dưới."
+
+
+## PANCREATIC CANCER
+
+Trước khi bắt đầu, chúng ta hãy nhanh chóng xem lại "ung thư tuyến tụy" (pancreatic cancer) là gì. Ung thư tuyến tụy xảy ra khi "các tế bào bất thường" (abnormal cells) trong "tuyến tụy" (pancreas) phát triển và nhân lên không kiểm soát được, tạo thành "khối u" (tumor). Những "tế bào ung thư" này (cancer cells) có thể xâm lấn các mô và cơ quan xung quanh, khiến nó trở thành một căn bệnh khó điều trị.
+![PANCREATIC CANCER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-18713148239-Montserrat-Regular-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-37534381391.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PANCREATIC CANCER TYPES
+
+Có một số loại "ung thư tuyến tụy" (pancreatic cancer), mỗi loại có những đặc điểm riêng biệt. Sau đây là các "loại chính" (main types):. Ngoài các loại chính này, còn có một số "dạng hiếm" (rare forms) của ung thư tuyến tụy, chẳng hạn như u nang nhầy, u nhầy nhú trong ống và u giả nhú đặc.
+![PANCREATIC CANCER TYPES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--29802838700-Montserrat-Thin-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-28387590810.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## DIFFERENT TYPES
+
+Tóm lại, "ung thư tuyến tụy" (pancreatic cancer) là một căn bệnh phức tạp với một số "loại khác nhau" (different types). Hiểu được các loại này là rất quan trọng để phát triển "chiến lược điều trị" hiệu quả (treatment strategies). Là sinh viên, điều cần thiết là phải luôn "cập nhật" (informed) về "những phát triển mới nhất" (latest developments) trong "nghiên cứu ung thư" (cancer research) và phương pháp điều trị.
+![DIFFERENT TYPES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--12957248928-Montserrat-SemiBold-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5475208448.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## INFORMED
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video hữu ích và hiểu sâu hơn về các "loại ung thư tuyến tụy" khác nhau (pancreatic cancer types). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![INFORMED](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-21749148874-Montserrat-Black-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-24112406160.mp3" type="audio/mpeg">
+</audio>
+

@@ -1,0 +1,76 @@
+{
+  "id": "56567461948",
+  "titles": [
+    "Vòng phản hồi: Khai thác sức mạnh của việc đánh giá và giám sát liên tục"
+  ],
+  "topic": "Monitoring and Feedback Loops",
+  "title": "Vòng phản hồi: Khai thác sức mạnh của việc đánh giá và giám sát liên tục",
+  "description": "\"Trong video này, chủ đề thảo luận là việc triển khai các vòng lặp giám sát và phản hồi trong lớp học để nâng cao việc học của học sinh. Giám sát bao gồm việc quan sát, thu thập và phân tích dữ liệu của học sinh để xác định khoảng cách và điều chỉnh hướng dẫn. Các vòng lặp phản hồi, được kết nối với giám sát, cung cấp phản hồi thường xuyên, có thể thực hiện được cho học sinh, khuyến khích sự phản ánh và điều chỉnh. Video trình bày các chiến lược như đánh giá hình thành, tự đánh giá của học sinh, phản hồi bằng lời nói, nhật ký phản ánh và phản hồi được tăng cường công nghệ. Các nhà nghiên cứu có thể hưởng lợi từ những hiểu biết thực tế được cung cấp trong video này.\"",
+  "author": "Vietnamese Online Voice",
+  "date": "August 4, 2024",
+  "content": [
+    {
+      "id": "12912543665",
+      "heading": "MONITORING",
+      "text": "Giám sát là quá trình liên tục quan sát, thu thập và phân tích dữ liệu về việc học và hiệu suất của học sinh. Nó giúp \"giáo viên\" (teachers) xác định \"khoảng cách\" (gaps), \"điều chỉnh hướng dẫn\" (adjust instruction) và tăng cường động lực của học sinh.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-04/transition-12912543665-Montserrat-Regular-7B1FA2.jpg",
+      "audioFilePath": "/app/storage/audio/file-36239617258.mp3"
+    },
+    {
+      "id": "17750499367",
+      "heading": "FEEDBACK LOOPS",
+      "text": "Vòng phản hồi liên quan đến việc cung cấp cho học sinh phản hồi thường xuyên, có thể thực hiện được, khuyến khích phản ánh và điều chỉnh. Chúng rất quan trọng đối với \"cải tiến liên tục\" (continuous improvement) và học tập tốt hơn. Giám sát và \"vòng phản hồi\" (feedback loops) được \"kết nối\" (interconnected). \"Giám sát\" hiệu quả (monitoring) đặt nền tảng cho \"phản hồi có ý nghĩa\" (meaningful feedback), cung cấp năng lượng cho vòng phản hồi.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-04/transition-17750499367-Montserrat-Thin-283593.jpg",
+      "audioFilePath": "/app/storage/audio/file-1618190743.mp3"
+    },
+    {
+      "id": "22378950967",
+      "heading": "FORMATIVE ASSESSMENTS",
+      "text": "Sau đây là một số chiến lược thực tế để triển khai vòng giám sát và phản hồi trong lớp học: \"Đánh giá hình thành\" thường xuyên (formative assessments), \"học sinh tự đánh giá\" (student self-assessment), \"phản hồi bằng lời\" (verbal feedback), \"ghi nhật ký phản ánh\" (reflective journaling) và phản hồi được hỗ trợ bởi công nghệ.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-04/transition-22378950967-Montserrat-Regular-303F9F.jpg",
+      "audioFilePath": "/app/storage/audio/file-14147050506.mp3"
+    },
+    {
+      "id": "-7006744416",
+      "heading": "MONITORING AND FEEDBACK LOOPS",
+      "text": "Tóm lại, \"giám sát\" (monitoring) và \"vòng phản hồi\" (feedback loops) là điều cần thiết để tạo ra một môi trường học tập hỗ trợ. Hãy trao quyền cho học sinh của chúng ta để họ tự chịu trách nhiệm về việc học của mình, phản ánh về tiến trình của mình và thực hiện \"những cải tiến có ý nghĩa\" (meaningful improvements). Hãy nuôi dưỡng một nền văn hóa phát triển và thành công liên tục.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-04/transition--7006744416-Montserrat-Thin-512DA8.jpg",
+      "audioFilePath": "/app/storage/audio/file-38366002643.mp3"
+    },
+    {
+      "id": "8381461989",
+      "heading": "MEANINGFUL FEEDBACK",
+      "text": "Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video hữu ích và hiểu sâu hơn về các khái niệm. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-04/transition-8381461989-Montserrat-ExtraBold-1A237E.jpg",
+      "audioFilePath": "/app/storage/audio/file-11451193653.mp3"
+    }
+  ],
+  "categories": [
+    "DevOps",
+    "Continuous Deployment"
+  ],
+  "tags": [
+    "#FeedbackLoops",
+    "#StudentLearning",
+    "#TeacherSupport",
+    "#DataAnalysis",
+    "#InstructionAdjustment",
+    "#StudentMotivation",
+    "#ContinuousImprovement",
+    "#BetterLearning",
+    "#Interconnected",
+    "#FormativeAssessments",
+    "#StudentSelfAssessment",
+    "#VerbalFeedback",
+    "#ReflectiveJournaling",
+    "#TechEnhancedFeedback",
+    "#SupportiveLearningEnvironment",
+    "#StudentEmpowerment",
+    "#LearningReflection",
+    "#MeaningfulImprovements",
+    "#CultureOfGrowth",
+    "#ClassroomStrategy",
+    "#EducationSuccess"
+  ],
+  "comments": []
+}

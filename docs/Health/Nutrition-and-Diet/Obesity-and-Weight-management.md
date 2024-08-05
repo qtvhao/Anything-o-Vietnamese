@@ -1,0 +1,61 @@
+
+---
+
+# Hướng dẫn nhiếp ảnh cơ bản dành cho người mới bắt đầu: Mẹo và thủ thuật hàng đầu để có những bức ảnh tuyệt đẹp
+
+- Published: August 5, 2024
+- Author: Vietnamese Online Voice
+- Categories: Health / **Nutrition and Diet**
+- #WeightManagement #WorldHealthOrganization #BMI #BodyMassIndex #HealthProblems #Type2Diabetes #HeartDisease #Cancer #JointIssues #PoorDiet #PhysicalInactivity #GeneticFactors #SocioeconomicFactors #HealthyFood #SafeEnvironments #BalancedDiet #WholeFoods #StayingHydrated #PhysicalActivity #RegularExercise #Sleep #RealisticGoals #HealthcareExperts #RegisteredDietitians #HealthyLifestyle #HealthAndWellbeing
+
+"Trong video này, chúng tôi sẽ giới thiệu về chủ đề béo phì, một tình trạng bệnh lý nghiêm trọng liên quan đến lượng mỡ cơ thể quá mức. Tổ chức Y tế Thế giới (WHO) phân loại một cá nhân có Chỉ số khối cơ thể (BMI) từ 30 trở lên là béo phì, được tính bằng cách chia cân nặng tính bằng kilôgam cho chiều cao tính bằng mét vuông. Béo phì có thể dẫn đến nhiều vấn đề sức khỏe khác nhau, chẳng hạn như bệnh tiểu đường loại 2, bệnh tim, một số bệnh ung thư và các vấn đề về khớp. Các nguyên nhân phổ biến bao gồm chế độ ăn uống kém, hoạt động thể chất không đủ, yếu tố di truyền và các yếu tố kinh tế xã hội như khả năng tiếp cận thực phẩm và không gian an toàn. Kiểm soát tình trạng béo phì đòi hỏi một cách tiếp cận toàn diện, bao gồm chế độ ăn uống cân bằng, hoạt động thể chất, ngủ đủ giấc, mục tiêu thực tế và sự hỗ trợ chuyên nghiệp từ các chuyên gia chăm sóc sức khỏe và chuyên gia dinh dưỡng."
+
+
+## OBESITY
+
+Béo phì là một tình trạng y khoa nghiêm trọng trong đó một người có lượng mỡ cơ thể dư thừa. Tổ chức Y tế Thế giới (WHO) "phân loại" (classifies) một người có Chỉ số khối cơ thể (BMI) từ 30 trở lên là béo phì. Tính BMI bằng cách chia cân nặng của bạn tính bằng "kilôgam" (kilograms) cho chiều cao tính bằng "mét vuông" (meters squared).
+![OBESITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition--26999357539-Montserrat-Regular-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-11566027086.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## HEALTH PROBLEMS
+
+Béo phì có thể dẫn đến nhiều "vấn đề sức khỏe" (health problems), chẳng hạn như "bệnh tiểu đường loại 2" (type 2 diabetes), "bệnh tim" (heart disease), một số "ung thư" (cancer) và "vấn đề về khớp" (joint issues). Một số nguyên nhân phổ biến nhất gây ra "béo phì" (obesity) bao gồm "chế độ ăn uống kém" (poor diet), hoạt động thể chất không đầy đủ, "yếu tố di truyền" (genetic factors) và "yếu tố kinh tế xã hội" (socioeconomic factors) chẳng hạn như "tiếp cận thực phẩm lành mạnh" (access to healthy food) và môi trường an toàn.
+![HEALTH PROBLEMS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition--17547971667-Montserrat-ExtraBold-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-17746727505.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## COMPREHENSIVE APPROACH
+
+Điều cần thiết là phải có "phương pháp tiếp cận toàn diện" (comprehensive approach) để "quản lý tình trạng béo phì" (managing obesity). Một số "chiến lược hiệu quả" (effective strategies) bao gồm ăn "chế độ ăn cân bằng" (balanced diet), tập trung vào thực phẩm nguyên chất, chưa qua chế biến; "duy trì đủ nước" (staying hydrated); tham gia hoạt động thể chất thường xuyên; "ngủ đủ giấc" (getting enough sleep), đặt mục tiêu ngủ 7-9 tiếng mỗi đêm; đặt mục tiêu giảm cân thực tế; và tìm kiếm "sự hỗ trợ chuyên nghiệp" (professional support) từ "chuyên gia chăm sóc sức khỏe" (healthcare experts) và chuyên gia dinh dưỡng đã đăng ký.
+![COMPREHENSIVE APPROACH](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition--645057569-Montserrat-SemiBold-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-4505317890.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## OBESITY AND WEIGHT MANAGEMENT
+
+Hãy nhớ rằng, duy trì cân nặng khỏe mạnh không chỉ là ăn kiêng hay tập thể dục; mà là áp dụng các thói quen lối sống lành mạnh lâu dài. Bằng cách hiểu được các rủi ro và nguyên nhân gây béo phì và thực hiện các chiến lược này, chúng ta có thể kiểm soát cân nặng và cải thiện sức khỏe tổng thể cũng như tinh thần.
+![OBESITY AND WEIGHT MANAGEMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition-7455570209-Montserrat-Medium-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-37389852320.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## OBESITY AND WEIGHT MANAGEMENT
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về "béo phì" (obesity) và các chiến lược quản lý cân nặng. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![OBESITY AND WEIGHT MANAGEMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition--8948877545-Montserrat-Thin-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-4236975708.mp3" type="audio/mpeg">
+</audio>
+

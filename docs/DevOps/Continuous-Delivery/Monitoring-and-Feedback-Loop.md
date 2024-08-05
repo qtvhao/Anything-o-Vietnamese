@@ -1,0 +1,81 @@
+
+---
+
+# Đóng vòng lặp: Cách giám sát và phản hồi có thể chuyển đổi việc học của học sinh
+
+- Published: August 4, 2024
+- Author: Vietnamese Online Voice
+- Categories: DevOps / **Continuous Delivery**
+- #Feedback #LearningCycle #StudentProgress #TeacherAssessment #IdentifyStruggles #AdjustInstruction #LearningGoals #EffectiveFeedback #Specific #Timely #Constructive #FocusedOnLearning #FeedbackLoop #ContinuousImprovement #StudentOwnership #ExtraSupport #Reflection #InstructionAdjustment #LearningEnvironment #ImproveLearning #Achievement #Education #TeachingTools #Pedagogy #EducationSystem #StudentSuccess #Elearners #OnlineLearning #Educators #LifelongLearning #Growthmindset
+
+"Trong video này, chúng tôi sẽ thảo luận về tầm quan trọng của việc giám sát và vòng phản hồi trong việc tạo ra một chu trình học tập hiệu quả. Giám sát, một quá trình liên tục quan sát và đánh giá tiến trình của học sinh, giúp giáo viên xác định những lĩnh vực mà học sinh có thể gặp khó khăn và điều chỉnh hướng dẫn cho phù hợp. Phản hồi, thông tin cung cấp cho học sinh về thành tích của các em, phải cụ thể, kịp thời, mang tính xây dựng và tập trung vào việc học. Vòng phản hồi bao gồm giáo viên cung cấp phản hồi, học sinh điều chỉnh việc học của mình và giáo viên theo dõi kết quả, tạo ra một chu trình cải thiện liên tục."
+
+
+## MONITORING
+
+Chào mừng bạn đến với video của tôi về "vòng lặp giám sát và phản hồi" (monitoring and feedback loop). Trong video này, tôi sẽ khám phá tầm quan trọng của việc giám sát và phản hồi trong việc tạo ra một chu kỳ học tập hiệu quả. Giám sát đề cập đến quá trình liên tục quan sát và đánh giá tiến trình của học sinh hướng tới "mục tiêu học tập" (learning goals). Giám sát hiệu quả giúp giáo viên xác định các lĩnh vực mà học sinh có thể đang gặp khó khăn và cung cấp cơ hội để "điều chỉnh hướng dẫn" (adjust instruction) để đáp ứng nhu cầu của tất cả người học.
+![MONITORING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-04/transition-16564759281-Montserrat-Bold-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-34301670568.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## FEEDBACK
+
+Ngược lại, phản hồi là thông tin cung cấp cho học sinh về "hiệu suất hoặc tiến độ" của họ (performance or progress). "Phản hồi" tốt (feedback) phải cụ thể, kịp thời, mang tính xây dựng và tập trung vào "việc học" (learning). Phản hồi cung cấp cho học sinh "hướng dẫn" (guidance) về cách cải thiện sự hiểu biết và kỹ năng của họ.
+![FEEDBACK](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-04/transition-44129475005-Montserrat-Medium-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-24490973524.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## FEEDBACK LOOP
+
+"Vòng phản hồi" (feedback loop) là quá trình giáo viên cung cấp phản hồi cho học sinh, sau đó học sinh sử dụng phản hồi đó để điều chỉnh việc học của mình và giáo viên "theo dõi" (monitor) kết quả của những điều chỉnh đó. Điều này tạo ra một chu kỳ cải tiến liên tục, khi học sinh nhận được phản hồi, phản ánh về việc học của mình và "thực hiện thay đổi" (make changes) để cải thiện hiệu suất của mình.
+![FEEDBACK LOOP](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-04/transition--51214524987-Montserrat-Bold-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-27338847129.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## MONITORING AND FEEDBACK LOOP
+
+Vòng lặp theo dõi và phản hồi rất cần thiết cho sự thành công của học sinh vì nó giúp học sinh tự chịu trách nhiệm về việc học của mình, xác định những lĩnh vực mà học sinh cần hỗ trợ thêm, khuyến khích học sinh suy ngẫm về việc học của chính mình, cho phép giáo viên "điều chỉnh hướng dẫn" (adjust instruction) để đáp ứng nhu cầu của tất cả người học và cải thiện "động lực" (student motivation) và sự tham gia của học sinh.
+![MONITORING AND FEEDBACK LOOP](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-04/transition-27121716964-Montserrat-Medium-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-12749765456.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## FEEDBACK SPECIFIC
+
+Để thực hiện vòng lặp theo dõi và phản hồi hiệu quả, giáo viên nên làm cho phản hồi trở nên "cụ thể" (feedback specific) và "có thể thực hiện được" (actionable), sử dụng nhiều phương pháp phản hồi khác nhau, "thu hút học sinh" (involve students) vào quá trình phản hồi, theo dõi "tiến độ thường xuyên" (progress regularly) và "khép vòng lặp" (close the loop) bằng cách sử dụng phản hồi để "cung cấp thông tin cho hướng dẫn" (inform instruction) và điều chỉnh môi trường học tập.
+![FEEDBACK SPECIFIC](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-04/transition--32600362781-Montserrat-Black-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-14902664947.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CONTINUOUS IMPROVEMENT
+
+Tóm lại, vòng lặp giám sát và phản hồi là một công cụ mạnh mẽ để cải thiện việc học và thành tích của học sinh. Bằng cách thường xuyên giám sát "tiến trình của học sinh" (student progress) và cung cấp "phản hồi mang tính xây dựng" (constructive feedback), giáo viên có thể tạo ra một chu kỳ "cải tiến liên tục" (continuous improvement) giúp học sinh đạt được tiềm năng đầy đủ của mình.
+![CONTINUOUS IMPROVEMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-04/transition-3597793943-Montserrat-Regular-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-10779099274.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## MONITOR
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy nó hữu ích và hiểu sâu hơn về vòng lặp giám sát và phản hồi. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về "video mới" của chúng tôi (new videos).
+![MONITOR](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-04/transition-17969601022-Montserrat-Regular-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-15838445542.mp3" type="audio/mpeg">
+</audio>
+

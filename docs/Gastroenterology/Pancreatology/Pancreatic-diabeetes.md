@@ -1,0 +1,71 @@
+
+---
+
+# Giải thích về bệnh tiểu đường tuyến tụy: Nguyên nhân, triệu chứng và cách điều trị
+
+- Published: August 5, 2024
+- Author: Vietnamese Online Voice
+- Categories: Gastroenterology / **Pancreatology**
+- #Diabetes #Insulin #MetabolicDisorders #Type1Diabetes #Type2Diabetes #Pancreas #Hormone #BloodSugar #Glucose #AutoimmuneResponse #Obesity #PhysicalInactivity #PoorDiet #Age #Ethnicity #FamilyHistory #Symptoms #Thirst #Hunger #FrequentUrination #Fatigue #BlurredVision #SlowHealing #Tingling #Numbness #Management #Diet #Exercise #Medications #Monitoring #HealthyHabits #LongTermComplications #Education
+
+"Trong video này, chủ đề về bệnh tiểu đường tuyến tụy được giới thiệu. Bệnh tiểu đường tuyến tụy là một nhóm các rối loạn chuyển hóa do tuyến tụy không có khả năng sản xuất đủ insulin hoặc cơ thể không có khả năng sử dụng insulin hiệu quả. Insulin, một loại hormone do tuyến tụy sản xuất, điều chỉnh lượng đường trong máu và cho phép glucose đi vào các tế bào. Hai loại chính của bệnh tiểu đường tuyến tụy là loại 1, do phản ứng tự miễn dịch gây ra và loại 2, đặc trưng bởi tình trạng kháng insulin. Các triệu chứng có thể bao gồm khát nước và đói nhiều hơn, đi tiểu thường xuyên, mệt mỏi, mờ mắt, vết cắt và vết thương chậm lành, và ngứa ran hoặc tê ở tay và chân." Các sếp có thể xem video hướng dẫn chi tiết ở phía dưới nhé.
+
+
+## PANCREATIC DIABETES
+
+Tiểu đường tuyến tụy là một nhóm "rối loạn chuyển hóa" (metabolic disorders) xảy ra khi "tuyến tụy" (pancreas) không thể sản xuất đủ "insulin" (insulin) hoặc cơ thể không thể sử dụng insulin hiệu quả. Insulin là một "hormone" (hormone) do tuyến tụy sản xuất, có tác dụng điều chỉnh "lượng đường trong máu" (blood sugar levels) và cho phép "glucose" (glucose) đi vào tế bào.
+![PANCREATIC DIABETES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition--2225907363-Montserrat-Black-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-1247417966.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## TYPE 1 DIABETES
+
+Có hai loại chính của "bệnh tiểu đường tuyến tụy" (pancreatic diabetes): "bệnh tiểu đường loại 1" (type 1 diabetes), xảy ra khi tuyến tụy không thể sản xuất insulin do "phản ứng tự miễn dịch" (autoimmune response), và "bệnh tiểu đường loại 2" (type 2 diabetes), phổ biến hơn và xảy ra khi cơ thể không thể sử dụng insulin hiệu quả.
+![TYPE 1 DIABETES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition-14898549977-Montserrat-Black-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-47740566936.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PANCREATIC DIABETES
+
+"Triệu chứng" (symptoms) của "bệnh tiểu đường tuyến tụy" (pancreatic diabetes) có thể khác nhau tùy theo từng cá nhân, nhưng các dấu hiệu phổ biến bao gồm khát nước và đói nhiều hơn, "đi tiểu thường xuyên" (frequent urination), "mệt mỏi" (fatigue), "mờ mắt" (blurred vision), vết cắt và vết thương chậm lành, và ngứa ran hoặc tê ở tay và chân.
+![PANCREATIC DIABETES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition--6571395279-Montserrat-Bold-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-10542759842.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## RISK FACTORS
+
+Trong khi nguyên nhân chính xác của "bệnh tiểu đường tuyến tụy" (pancreatic diabetes) vẫn chưa được hiểu đầy đủ, một số "yếu tố nguy cơ" (risk factors) có thể làm tăng khả năng mắc bệnh này, chẳng hạn như "tiền sử gia đình" (family history), "béo phì" (obesity), "lười vận động" (physical inactivity), "chế độ ăn uống kém" (poor diet), "tuổi tác" (age) và "dân tộc" (ethnicity).
+![RISK FACTORS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition-13893287208-Montserrat-SemiBold-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5774764433.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PANCREATIC DIABETES
+
+Mặc dù "không có cách chữa trị" (no cure) cho "bệnh tiểu đường tuyến tụy" (pancreatic diabetes), tình trạng này có thể được "kiểm soát" (managed) bằng cách kết hợp "chế độ ăn" (diet), "tập thể dục" (exercise), "thuốc" (medications) và "theo dõi" (monitoring).. Việc hiểu được "nguyên nhân" (causes), "triệu chứng" (symptoms) và "chiến lược quản lý" (management strategies) là rất quan trọng để kiểm soát bệnh tiểu đường tuyến tụy và ngăn ngừa các biến chứng lâu dài. Là giáo viên của bạn, tôi khuyến khích bạn đóng vai trò tích cực trong việc tìm hiểu về bệnh tiểu đường tuyến tụy và thúc đẩy các thói quen lành mạnh trong cuộc sống hàng ngày của bạn.
+![PANCREATIC DIABETES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition--5075169541-Montserrat-Regular-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-6669992431.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PANCREATIC DIABETES
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về "bệnh tiểu đường tuyến tụy" (pancreatic diabetes). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![PANCREATIC DIABETES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition-19538034048-Montserrat-Black-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-21211705881.mp3" type="audio/mpeg">
+</audio>
+

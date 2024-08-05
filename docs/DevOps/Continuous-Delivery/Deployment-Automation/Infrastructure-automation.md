@@ -1,0 +1,71 @@
+
+---
+
+# Tự động hóa cơ sở hạ tầng 101: Tinh giản hoạt động CNTT của bạn
+
+- Published: August 2, 2024
+- Author: Vietnamese Online Voice
+- Categories: DevOps / Continuous Delivery / **Deployment Automation**
+- #ITinfrastructure #automation #serverprovisioning #networkconfiguration #storagemanagement #increasedefficiency #strategictasks #reliability #humanerror #fasterdeployment #costsavings #scalability #specializedsoftware #Ansible #Puppet #Chef #ITteam #ecommerceplatform #devops #sysadmin #cloudcomputing #infrastructureascode #bestpractices #versioncontrol #monitoringsystems #testingautomation #automationtools #IToperations
+
+"Trong video này, chủ đề tự động hóa cơ sở hạ tầng được giới thiệu. Nó đề cập đến việc sử dụng phần mềm và công cụ để tự động hóa việc quản lý và triển khai cơ sở hạ tầng CNTT của một tổ chức, bao gồm các tác vụ như cung cấp máy chủ, cấu hình mạng và quản lý lưu trữ. Lợi ích của tự động hóa cơ sở hạ tầng bao gồm hiệu quả tăng lên, độ tin cậy được cải thiện, triển khai nhanh hơn, tiết kiệm chi phí và khả năng mở rộng. Quy trình này thường bao gồm việc sử dụng các công cụ phần mềm chuyên dụng, chẳng hạn như Ansible, Puppet hoặc Chef, để xác định cấu hình cơ sở hạ tầng và tự động hóa các tác vụ thông qua các tập lệnh hoặc sổ tay hướng dẫn. Các nhà nghiên cứu có thể xem hướng dẫn chi tiết trong video."
+
+
+## INFRASTRUCTURE AUTOMATION
+
+Vậy "tự động hóa cơ sở hạ tầng" (infrastructure automation) chính xác là gì? Nói một cách đơn giản, nó đề cập đến việc sử dụng "phần mềm" (software) và "công cụ" (tools) để tự động hóa "quản lý" (management) và "triển khai" (deployment) cơ sở hạ tầng CNTT của một tổ chức. Điều này bao gồm các tác vụ như "cung cấp máy chủ" (server provisioning), "cấu hình mạng" (network configuration) và quản lý lưu trữ.
+![INFRASTRUCTURE AUTOMATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-5544421790-Montserrat-Bold-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-14810035393.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## MANUAL, REPETITIVE TASKS
+
+Tại sao phải tự động hóa cơ sở hạ tầng? Có rất nhiều lợi ích. Trước hết là tăng hiệu quả. Tự động hóa cho phép các nhóm CNTT tập trung vào nhiều "nhiệm vụ chiến lược" hơn (strategic tasks), thay vì dành thời gian cho các nhiệm vụ thủ công, lặp đi lặp lại. Nó cũng cải thiện "độ tin cậy" (reliability), vì các hệ thống tự động ít bị "lỗi của con người" hơn (human error). Triển khai nhanh hơn, "tiết kiệm chi phí" (cost savings) và khả năng mở rộng là những lợi ích đáng kể khác.
+![MANUAL, REPETITIVE TASKS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-3355832306-Montserrat-Regular-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-12519109954.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## IT TEAMS
+
+Nhưng tự động hóa cơ sở hạ tầng hoạt động như thế nào? Thông thường, nó liên quan đến việc sử dụng các công cụ phần mềm chuyên dụng, chẳng hạn như Ansible, Puppet hoặc Chef. Các công cụ này cho phép nhóm CNTT xác định cấu hình cơ sở hạ tầng và tự động hóa các tác vụ thông qua một bộ "tập lệnh" (scripts) hoặc sổ tay hướng dẫn.
+![IT TEAMS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-3739441600-Montserrat-Thin-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-4271695476.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## IT TEAM
+
+Hãy xem một ví dụ thực tế. Giả sử một công ty cần "triển khai" (deploy) một nền tảng thương mại điện tử mới. Theo truyền thống, điều này sẽ yêu cầu thiết lập thủ công "máy chủ" (servers), "mạng" (networks) và lưu trữ. Với tự động hóa cơ sở hạ tầng, nhóm CNTT có thể xác định cấu hình cơ sở hạ tầng cần thiết và tạo "tập lệnh" (script) để tự động hóa quy trình triển khai.
+![IT TEAM](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--25092118884-Montserrat-Black-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-2641590234.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PILOT PROJECT
+
+Đối với những người muốn triển khai tự động hóa cơ sở hạ tầng, chúng tôi khuyên bạn nên bắt đầu nhỏ với một "dự án thí điểm" (pilot project) để "kiểm tra các công cụ tự động hóa" (test automation tools) và "quy trình" (processes). Xác định "mục tiêu rõ ràng" (clear goals), sử dụng "kiểm soát phiên bản" (version control) và "giám sát liên tục" (continuously monitoring) và thử nghiệm các hệ thống tự động là những biện pháp tốt nhất cần ghi nhớ.
+![PILOT PROJECT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-2873857987-Montserrat-Regular-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-15584777937.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## DEPLOYMENT AUTOMATION
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về tự động hóa cơ sở hạ tầng. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên "đăng ký" (subscribe) kênh của chúng tôi để nhận "thông báo" (notifications) về "video mới" (new videos) của chúng tôi.
+![DEPLOYMENT AUTOMATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-5117524679-Montserrat-SemiBold-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-29320119233.mp3" type="audio/mpeg">
+</audio>
+

@@ -1,0 +1,74 @@
+{
+  "id": "-97841507587",
+  "titles": [
+    "Load Testing là gì? Hướng dẫn cho người mới bắt đầu về kiểm tra hiệu suất"
+  ],
+  "topic": "Load Testing",
+  "title": "Load Testing là gì? Hướng dẫn cho người mới bắt đầu về kiểm tra hiệu suất",
+  "description": "\"Trong video này, chủ đề Kiểm thử tải được giới thiệu, một loại Kiểm thử hiệu suất mô phỏng tải người dùng nặng trên hệ thống, ứng dụng hoặc trang web để đánh giá hiệu suất khi chịu áp lực. Mục tiêu Kiểm thử tải bao gồm đánh giá khả năng mở rộng, hiệu suất, độ tin cậy và xác định các điểm nghẽn. Tầm quan trọng của nó nằm ở việc ngăn ngừa sự cố hệ thống trong thời gian lưu lượng truy cập cao điểm, do đó bảo toàn doanh thu, danh tiếng và lòng tin của khách hàng. Video phác thảo quy trình thực hiện Kiểm thử tải, nhấn mạnh các biện pháp thực hành tốt nhất như dữ liệu kiểm tra thực tế và tăng tải dần dần. Những thách thức phổ biến bao gồm mô phỏng chính xác và diễn giải kết quả.\" Các sếp có thể xem video hướng dẫn chi tiết ở phía dưới nhé.",
+  "author": "Vietnamese Online Voice",
+  "date": "August 2, 2024",
+  "content": [
+    {
+      "id": "6462497061",
+      "heading": "LOAD TESTING",
+      "text": "Bạn đã bao giờ tự hỏi tại sao một số \"trang web\" (website) \"sập\" (crash) khi lưu lượng truy cập lớn hoặc chậm như rùa bò trong \"giờ cao điểm\" (peak hours) chưa? Đó chính là lúc Kiểm thử tải phát huy tác dụng!. Kiểm thử tải là một loại Kiểm thử hiệu suất mô phỏng \"tải người dùng nặng\" (heavy user loads) trên \"hệ thống\" (system), \"ứng dụng\" (application) hoặc trang web để đo hiệu suất của trang web đó khi \"chịu áp lực\" (stress).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-02/transition-6462497061-Montserrat-Medium-004895.jpg",
+      "audioFilePath": "/app/storage/audio/file-17890433713.mp3"
+    },
+    {
+      "id": "-15685700122",
+      "heading": "LOAD TESTING",
+      "text": "Mục tiêu của Load Testing bao gồm từ \"kiểm tra khả năng mở rộng\" (testing scalability), hiệu suất và \"độ tin cậy\" (reliability) đến xác định \"điểm nghẽn\" (bottlenecks) và \"khu vực cần cải thiện\" (areas for improvement). Tại sao Load Testing lại quan trọng, bạn hỏi? Hãy tưởng tượng một trang thương mại điện tử phổ biến bị sập vào một ngày bán hàng lớn. Không chỉ là \"mất doanh thu\" (loss of revenue), mà còn làm tổn hại đến danh tiếng và lòng tin của khách hàng.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-02/transition--15685700122-Montserrat-Black-880E4F.jpg",
+      "audioFilePath": "/app/storage/audio/file-23156562406.mp3"
+    },
+    {
+      "id": "12794510989",
+      "heading": "SCALABILITY",
+      "text": "Kiểm thử tải ngăn ngừa những tình huống như vậy bằng cách đảm bảo hệ thống của bạn có thể xử lý \"lưu lượng\" dự kiến ​​(traffic), cải thiện đáng kể \"khả năng mở rộng\" (scalability), \"độ tin cậy\" (reliability) và \"hiệu suất\" (performance).. Sau đây là cách chúng tôi tiến hành Kiểm thử tải:. Một số biện pháp thực hành tốt nhất bao gồm sử dụng \"dữ liệu kiểm tra thực tế\" (realistic test data) và tăng dần tải. Những thách thức phổ biến? \"Mô phỏng\" chính xác (simulation) và diễn giải kết quả.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-02/transition-12794510989-Montserrat-Medium-4A148C.jpg",
+      "audioFilePath": "/app/storage/audio/file-26479428796.mp3"
+    },
+    {
+      "id": "-15518578825",
+      "heading": "MAKING IT STRONGER",
+      "text": "Load Testing không phải là \"phá vỡ một hệ thống\" (breaking a system) mà là \"làm cho nó mạnh hơn\" (making it stronger). Hãy tiếp tục và tải hệ thống của bạn lên để thành công!. Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy nó hữu ích và hiểu sâu hơn về Load Testing. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận \"thông báo\" (notifications) về các video mới của chúng tôi. Chúc bạn Load Testing vui vẻ!",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-02/transition--15518578825-Montserrat-Thin-4A148C.jpg",
+      "audioFilePath": "/app/storage/audio/file-5439978778.mp3"
+    }
+  ],
+  "categories": [
+    "DevOps",
+    "Automated Testing",
+    "Performance Testing"
+  ],
+  "tags": [
+    "#PerformanceTesting",
+    "#Websites",
+    "#HeavyTraffic",
+    "#PeakHours",
+    "#Scalability",
+    "#Reliability",
+    "#Performance",
+    "#Bottlenecks",
+    "#Improvement",
+    "#Ecommerce",
+    "#BigSalesDay",
+    "#Revenue",
+    "#Reputation",
+    "#Trust",
+    "#Customers",
+    "#Testing",
+    "#Application",
+    "#System",
+    "#StressTesting",
+    "#TestData",
+    "#GraduallyIncreasingLoad",
+    "#Simulation",
+    "#TestInterpretation",
+    "#Challenges",
+    "#BestPractices"
+  ],
+  "comments": []
+}

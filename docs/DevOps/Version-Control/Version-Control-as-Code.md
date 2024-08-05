@@ -1,0 +1,81 @@
+
+---
+
+# Kiểm soát phiên bản dưới dạng mã: Tăng tốc quy trình phát triển của bạn
+
+- Published: August 5, 2024
+- Author: Vietnamese Online Voice
+- Categories: DevOps / **Version Control**
+- #VCaC #CodeManagement #Collaboration #DevOps #GitOps #Terraform #AWSCloudFormation #InfrastructureAsCode #IaC #YAML #JSON #CodeFiles #Automation #BestPractices #CollaborationTools #DevWorkflow #Efficiency #VersionControl #ConfigurationManagement #Coding #Development #Productivity #SoftwareDevelopment #TechTips #TechTutorial #Programming #CodingLife #CodingCommunity #TechEnthusiast #TechTrends #CodeChanges #TrackChanges #CodeCollaboration #ErrorReduction #ToolIntegration #CodeIntegration #CodeReview #Testing #Deployment #CodingLife #TechGuru
+
+"Trong video này, người thuyết trình giới thiệu Kiểm soát phiên bản dưới dạng Mã (VCaC), một phương pháp coi cấu hình kiểm soát phiên bản dưới dạng mã. VCaC cho phép quản lý phiên bản của cấu hình kiểm soát phiên bản, tích hợp với các công cụ Cơ sở hạ tầng dưới dạng Mã, tự động hóa tác vụ và cấu hình cộng tác. Bằng cách xác định cấu hình kiểm soát phiên bản bằng các tệp mã có thể đọc được bằng con người, VCaC mang lại những lợi ích bao gồm theo dõi các thay đổi đối với thiết lập kiểm soát phiên bản, đơn giản hóa việc quản lý môi trường phát triển, tự động hóa tác vụ và thúc đẩy cộng tác."
+
+
+## VERSION CONTROL AS CODE
+
+Là nhà phát triển phần mềm, tất cả chúng ta đều biết những khó khăn trong việc quản lý các thay đổi mã và cộng tác với các thành viên trong nhóm. Rất may, "hệ thống kiểm soát phiên bản" truyền thống (version control systems) đã đến giải cứu, cho phép chúng ta quản lý các thay đổi và "cộng tác" (collaborate) dễ dàng hơn. Nhưng nếu chúng ta có thể đưa quy trình kiểm soát phiên bản của mình lên một tầm cao mới thì sao? Giới thiệu Kiểm soát phiên bản dưới dạng Mã.
+![VERSION CONTROL AS CODE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition-18399732380-Montserrat-Thin-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-9912949248.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CODE FILES
+
+Version Control as Code là một phương pháp xử lý cấu hình kiểm soát phiên bản như mã. Thay vì sử dụng "giao diện đồ họa" (graphical interfaces) hoặc các công cụ dòng lệnh để "quản lý" (manage) "hệ thống kiểm soát phiên bản" (version control system) của bạn, bạn "xác định" (define) cấu hình kiểm soát phiên bản của bạn bằng cách sử dụng "tệp mã" có thể đọc được bằng con người (code files).
+![CODE FILES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition-28404625075-Montserrat-SemiBold-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-25938705461.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## VERSION CONTROL AS CODE
+
+Lợi ích của việc áp dụng cách tiếp cận này là gì?. Đầu tiên, VCaC cho phép bạn "kiểm soát phiên bản" (version control) "cấu hình" kiểm soát phiên bản (configurations) của chính bạn, cho phép bạn "theo dõi các thay đổi" (track changes) đối với thiết lập kiểm soát phiên bản của bạn. Thứ hai, VCaC tích hợp tốt với các công cụ cơ sở hạ tầng dưới dạng mã (IaC), giúp bạn quản lý môi trường phát triển dễ dàng hơn. Thứ ba, VCaC có thể giúp "tự động hóa" (automate) "các tác vụ kiểm soát phiên bản" (version control tasks) bằng cách sử dụng cùng các công cụ và "ngôn ngữ kịch bản" (scripting languages) mà bạn sử dụng để "triển khai" (deployment) và "kiểm tra" (testing). Cuối cùng, cấu hình VCaC có thể được "chia sẻ" (shared) và được "các thành viên trong nhóm" (team members) xem xét, thúc đẩy "sự cộng tác" (collaboration) và giảm lỗi.
+![VERSION CONTROL AS CODE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition-4022993181-Montserrat-SemiBold-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-2455326621.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## GITOPS
+
+Vậy, chúng ta có thể sử dụng công cụ nào để áp dụng Kiểm soát phiên bản dưới dạng Mã?. Có một số công cụ khả dụng, bao gồm GitOps và các công cụ cơ sở hạ tầng dưới dạng mã như Terraform và AWS CloudFormation. Ngoài ra, nhiều hệ thống kiểm soát phiên bản cho phép bạn xác định "cấu hình" (configuration) bằng cách sử dụng các tệp YAML hoặc JSON, có thể được kiểm soát phiên bản như mã.
+![GITOPS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition-7395216266-Montserrat-SemiBold-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-34060809143.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## VERSION CONTROL TASKS
+
+Để tận dụng tối đa Kiểm soát phiên bản dưới dạng Mã, chúng tôi khuyên bạn nên làm theo các biện pháp tốt nhất như tích hợp cấu hình kiểm soát phiên bản với "mã cơ sở hạ tầng" (infrastructure code), lưu trữ cấu hình trong "tệp kiểm soát phiên bản" (version control files), tự động hóa các tác vụ kiểm soát phiên bản và xem xét cũng như kiểm tra các thay đổi.
+![VERSION CONTROL TASKS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition--29321105745-Montserrat-Thin-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-38090164583.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## COLLABORATION
+
+Bằng cách áp dụng Kiểm soát phiên bản dưới dạng Mã, bạn có thể tăng "sự cộng tác" (collaboration), "tự động hóa" (automation) và "hiệu quả" (efficiency) trong "quy trình phát triển" (development workflow) của mình. Với "công cụ" phù hợp (tools) và "thực hành tốt nhất" (best practices), bạn có thể mở khóa toàn bộ tiềm năng của Kiểm soát phiên bản dưới dạng Mã.
+![COLLABORATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition-68158089500-Montserrat-Regular-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-27125912399.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## VERSION CONTROL
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về Kiểm soát phiên bản dưới dạng Mã. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi. Hẹn gặp lại các bạn vào lần sau, chúc các bạn viết mã vui vẻ!
+![VERSION CONTROL](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition-24339945418-Montserrat-Regular-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-11030448540.mp3" type="audio/mpeg">
+</audio>
+

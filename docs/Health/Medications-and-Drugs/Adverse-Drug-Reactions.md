@@ -1,0 +1,71 @@
+
+---
+
+# Cảnh báo về an toàn thuốc: Hiểu và phòng ngừa phản ứng có hại của thuốc (ADR)
+
+- Published: August 4, 2024
+- Author: Vietnamese Online Voice
+- Categories: Health / **Medications and Drugs**
+- #ADRs #MedicationSideEffects #MedicationSafety #Pharmacovigilance #Healthcare #PatientSafety #YellowCardScheme #MedicationInteractions #SafeMedicationUse #HealthcareProviders #Pharmacists #GeneticPredisposition #DoseFactors #PreexistingConditions #AllergicReactions #MildSymptoms #LifeThreateningConditions #Hospitalization #LongTermDamage #Disability #Death #MedicationInstructions #ReportADRs #MedicationManagement #HealthAwareness #StudentRole #MedicationEducation #HealthcareSystem #ConsequencesOfADRs #HandlingADRs #MedicationComplications #PatientResponsibility #HealthcareAdvice #TakeControlOfYourHealth
+
+"Trong video này, chủ đề về Phản ứng có hại của thuốc (ADR) được giới thiệu, bao gồm các yếu tố góp phần gây ra chúng và các triệu chứng phổ biến. ADR có thể từ nhẹ đến nặng, bao gồm phản vệ hoặc suy nội tạng, và có thể dẫn đến nhập viện, tổn thương lâu dài hoặc tử vong. Báo cáo ADR cho các nhà cung cấp dịch vụ chăm sóc sức khỏe là rất quan trọng để quản lý và báo cáo đúng cách cho các cơ quan có thẩm quyền. Các hệ thống báo cáo đã được thiết lập, chẳng hạn như Chương trình Thẻ vàng của Vương quốc Anh, tồn tại ở nhiều quốc gia. Các sếp có thể xem video hướng dẫn chi tiết ở phía dưới nhé."
+
+
+## ADVERSE DRUG REACTIONS
+
+Phản ứng có hại của thuốc, hay ADR, là những tác dụng không mong muốn hoặc có hại mà bệnh nhân gặp phải sau khi dùng thuốc. ADR có thể dao động từ "triệu chứng nhẹ" (mild symptoms) như "buồn nôn" (nausea) hoặc "đau đầu" (headache) đến các tình trạng đe dọa tính mạng như "sốc phản vệ" (anaphylaxis) hoặc suy nội tạng.
+![ADVERSE DRUG REACTIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-04/transition--13984858821-Montserrat-Thin-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-7076362434.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## GENETIC PREDISPOSITION
+
+Có nhiều yếu tố khác nhau có thể góp phần gây ra ADR. Bao gồm "khuynh hướng di truyền" (genetic predisposition), các yếu tố liên quan đến liều dùng, tương tác với các thuốc khác, tình trạng bệnh lý có từ trước và "phản ứng dị ứng" (allergic reactions). Một số triệu chứng phổ biến của ADR bao gồm "buồn nôn và nôn" (nausea and vomiting), tiêu chảy hoặc táo bón, "đau đầu hoặc chóng mặt" (headache or dizziness), "phát ban hoặc ngứa da" (skin rash or itching) và sưng hoặc khó thở.
+![GENETIC PREDISPOSITION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-04/transition-18818491144-Montserrat-ExtraBold-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-4670553043.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## ADVERSE DRUG REACTIONS
+
+ADR có thể gây ra hậu quả nghiêm trọng, bao gồm "nhập viện" (hospitalization), tổn thương lâu dài và thậm chí là "tàn tật" (disability) hoặc "tử vong" (death). Đó là lý do tại sao việc báo cáo bất kỳ ADR nào cho "nhà cung cấp dịch vụ chăm sóc sức khỏe" (healthcare provider) hoặc "dược sĩ" (pharmacist) là điều cần thiết, để họ có thể hướng dẫn cách "xử lý phản ứng" (manage the reaction) và "báo cáo sự cố" (report the incident) cho "các cơ quan có thẩm quyền" (relevant authorities). Ở nhiều quốc gia, có các hệ thống được thiết lập để báo cáo ADR, chẳng hạn như Chương trình Thẻ vàng ở Anh.
+![ADVERSE DRUG REACTIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-04/transition--21148499622-Montserrat-ExtraBold-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-33596020399.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## SAFE MEDICATION USE
+
+Là sinh viên, bạn có thể đóng vai trò quan trọng trong việc thúc đẩy "sử dụng thuốc an toàn" (safe medication use) và giảm nguy cơ ADR. Luôn tuân thủ "hướng dẫn" (instructions) khi dùng thuốc, đặt "câu hỏi" (questions) nếu bạn có bất kỳ "mối quan tâm" (concerns) hoặc câu hỏi nào về thuốc của mình, báo cáo ADR cho "nhà cung cấp dịch vụ chăm sóc sức khỏe" (healthcare provider) hoặc "dược sĩ" (pharmacist) và lưu ý đến các tương tác thuốc.
+![SAFE MEDICATION USE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-04/transition-20336218500-Montserrat-Medium-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-19559979089.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## HEALTHCARE PROVIDER
+
+Tóm lại, Phản ứng có hại của thuốc là mối quan tâm đáng kể trong "hệ thống chăm sóc sức khỏe" (healthcare system). Bằng cách hiểu được nguyên nhân, "triệu chứng" (symptoms) và "hậu quả" (consequences) của ADR, tất cả chúng ta đều có thể đóng vai trò trong việc thúc đẩy "sử dụng thuốc an toàn" (safe medication use) và giảm nguy cơ xảy ra các phản ứng này. Vì vậy, hãy luôn tuân theo lời khuyên của "nhà cung cấp dịch vụ chăm sóc sức khỏe" (healthcare provider) và "báo cáo" (report) bất kỳ ADR nào mà bạn "gặp phải" (experience). Sức khỏe của bạn nằm trong tay bạn.
+![HEALTHCARE PROVIDER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-04/transition--10761765743-Montserrat-ExtraBold-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-20603082201.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## MANAGE THE REACTION
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về Phản ứng có hại của thuốc. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận "thông báo" (notifications) về "video mới" của chúng tôi (new videos).
+![MANAGE THE REACTION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-04/transition-17377621257-Montserrat-Black-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-4662341427.mp3" type="audio/mpeg">
+</audio>
+

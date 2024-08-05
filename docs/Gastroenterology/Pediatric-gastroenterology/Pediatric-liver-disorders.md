@@ -1,0 +1,61 @@
+
+---
+
+# Rối loạn gan ở trẻ em: Nguyên nhân, triệu chứng và phương pháp điều trị Bệnh gan ở trẻ em: Những điều bạn cần biết - Nguyên nhân, triệu chứng và phương pháp điều trị
+
+- Published: August 5, 2024
+- Author: Vietnamese Online Voice
+- Categories: Gastroenterology / **Pediatric gastroenterology**
+- #ChildrensHealth #LiverHealth #ResponsibleParenting #ChildCare #HealthEducation #BiliaryAtresia #NeonatalJaundice #AcuteLiverFailure #ChronicActiveHepatitis #NonAlcoholicFattyLiverDisease #NAFLD #GeneticFactors #EnvironmentalFactors #LifestyleFactors #HealthyDiet #Obesity #ChildHealth #PediatricHealth #MedicalAwareness #ChildCare #HealthyLiving #RegularMonitoring #PediatricTreatment #LiverFunction #ChildHealthMatters
+
+"Trong video này, chúng tôi giới thiệu về Rối loạn gan ở trẻ em, một chủ đề quan trọng ảnh hưởng đến trẻ em trên toàn cầu. Gan, cơ quan quan trọng để lọc chất thải, sản xuất mật và dự trữ năng lượng, có thể phát triển các tình trạng như Atresia đường mật, Vàng da sơ sinh, Suy gan cấp tính, Viêm gan mạn tính hoạt động và Bệnh gan nhiễm mỡ không do rượu. Rối loạn gan ở trẻ em có thể là kết quả của các yếu tố di truyền, môi trường hoặc lối sống, bao gồm tiền sử gia đình, nhiễm trùng, chế độ ăn uống kém, béo phì và độc tố môi trường. Người lớn quan tâm có thể được hưởng lợi từ việc hiểu các tình trạng này để đảm bảo sức khỏe cho trẻ em."
+
+
+## PEDIATRIC LIVER DISORDERS
+
+Con cái chúng ta là tương lai của chúng ta, và với tư cách là cha mẹ, người giám hộ và nhà giáo dục có trách nhiệm, chúng ta phải đảm bảo rằng chúng lớn lên khỏe mạnh. Hôm nay, chúng ta sẽ khám phá một chủ đề quan trọng ảnh hưởng đến trẻ em trên toàn thế giới: Rối loạn gan ở trẻ em.
+![PEDIATRIC LIVER DISORDERS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition-10727260128-Montserrat-Medium-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-10928663586.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## BILIARY ATRESIA
+
+Rối loạn "gan" ở trẻ em (liver) đề cập đến các tình trạng khác nhau "ảnh hưởng" (affect) đến gan ở "trẻ em" (children). Gan thực hiện "các chức năng thiết yếu" (essential functions), bao gồm "lọc chất thải" (filtering waste), "sản xuất mật" (producing bile) và "lưu trữ năng lượng" (storing energy). Một số rối loạn gan phổ biến ở trẻ em bao gồm Atresia đường mật, Vàng da sơ sinh, Suy gan cấp tính, Viêm gan mạn tính hoạt động và Bệnh gan nhiễm mỡ không do rượu (NAFLD).
+![BILIARY ATRESIA](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition-897521418-Montserrat-ExtraBold-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-39733511151.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PEDIATRIC GASTROENTEROLOGY
+
+Rối loạn gan ở trẻ em có thể do "di truyền" (genetic), môi trường hoặc "yếu tố lối sống" (lifestyle factors). Các yếu tố nguy cơ phổ biến bao gồm "tiền sử gia đình" (family history), "nhiễm trùng" (infections), "chế độ ăn uống kém" (poor diet), "béo phì" (obesity) và tiếp xúc với độc tố môi trường.
+![PEDIATRIC GASTROENTEROLOGY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition--38110561576-Montserrat-ExtraBold-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5955859468.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## DIAGNOSIS
+
+Các triệu chứng có thể bao gồm "vàng da" (jaundice), "mệt mỏi" (fatigue), "chán ăn" (loss of appetite), "sưng bụng" (abdominal swelling) và "nôn" (vomiting). Chẩn đoán thường bao gồm "khám sức khỏe" (physical examinations), "xét nghiệm trong phòng thí nghiệm" (laboratory tests) và "nghiên cứu hình ảnh" (imaging studies). Các lựa chọn điều trị cho các rối loạn gan ở trẻ em phụ thuộc vào tình trạng, mức độ nghiêm trọng và "nguyên nhân cơ bản" (underlying cause). Những biện pháp này có thể bao gồm "thuốc" (medications), "phẫu thuật" (surgery), "thay đổi lối sống" (lifestyle changes) hoặc theo dõi thường xuyên.
+![DIAGNOSIS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition--18957473352-Montserrat-Thin-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-16114634220.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## EARLY DIAGNOSIS
+
+Hãy nhớ rằng, "chẩn đoán sớm" (early diagnosis) và "điều trị kịp thời" (timely treatment) là rất quan trọng. Là cha mẹ, người giám hộ và nhà giáo dục, chúng ta phải cùng nhau "thúc đẩy thói quen lành mạnh" (promote healthy habits) và nhận biết các dấu hiệu sớm của bệnh gan. Cùng nhau, chúng ta có thể tạo ra một tương lai khỏe mạnh hơn cho con em mình. Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về các rối loạn gan ở trẻ em. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận "thông báo" (notifications) về "video mới" (new videos) của chúng tôi.
+![EARLY DIAGNOSIS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition-2555518399-Montserrat-SemiBold-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-64839231511.mp3" type="audio/mpeg">
+</audio>
+

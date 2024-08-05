@@ -1,61 +1,71 @@
 
 ---
 
-# Tiết lộ những nguy cơ tiềm ẩn của bệnh Celiac: Các triệu chứng không thể bỏ qua mà bạn phải biết! Bạn nghĩ mình không dung nạp Gluten? Các triệu chứng gây sốc của bệnh Celiac mà bạn không thể bỏ qua! Bệnh Celiac bị phơi bày: Các triệu chứng đáng ngạc nhiên mà bạn cần nhận biết ngay hôm nay! Thế giới bí mật của bệnh Celiac: Các triệu chứng phổ biến nhưng bị bỏ qua được tiết lộ! Gluten có đang hủy hoại sức khỏe của bạn không? Tìm hiểu các dấu hiệu cảnh báo của bệnh Celiac! Cuộc khủng hoảng bệnh Celiac: Tại sao bạn không thể bỏ qua những triệu chứng này nữa! Dịch bệnh thầm lặng: Giải mã các triệu chứng của bệnh Celiac để có cuộc sống khỏe mạnh hơn! Hướng dẫn tối ưu về các triệu chứng của bệnh Celiac: Phân biệt huyền thoại với thực tế! Bệnh Celiac bị phát hiện: Các triệu chứng thiết yếu mà bạn cần biết để bảo vệ sức khỏe của mình! Dịch bệnh tiềm ẩn: Tại sao mọi người nên biết về các triệu chứng của bệnh Celiac! Chiến dịch nâng cao nhận thức về bệnh Celiac: Phơi bày các triệu chứng vì một tương lai không có Gluten!
+# Tôi có bị bệnh Celiac không? Các triệu chứng phổ biến và dấu hiệu cảnh báo
 
-- Published: July 29, 2024
+- Published: August 4, 2024
 - Author: Vietnamese Online Voice
 - Categories: Gastroenterology / **Celiac disease**
-- #AutoimmuneDisorder #GlutenIntolerance #SmallIntestine #Symptoms #AutoimmuneReaction #Gluten #Wheat #Barley #Rye #Malabsorption #Diarrhea #Fatigue #WeightLoss #Anemia #SkinRash #DermatitisHerpetiformis #Children #PediatricCeliacDisease #GlutenFreeDiet #HealthyLife #Malnutrition #Osteoporosis #Infertility #Cancer #ProperDiagnosis #HealthcareProfessional #SeriousHealthComplications #ImportantNutrients #PreventingAbsorption #ChallengingCondition #SeriousCondition #IntestinalDamage
+- #GlutenFree #AutoimmuneDisorder #SmallIntestine #Gluten #Wheat #Barley #Rye #Diarrhea #AbdominalPain #Bloating #Gas #WeightLoss #Fatigue #JointPain #Rashes #Anemia #SkinItching #BrainFog #Confusion #NutrientDeficiencies #Osteoporosis #Depression #Parents #Children #HealthcareProfessional #Diagnosis #Treatment #BloodTest #IntestinalBiopsy #GlutenFreeDiet #StrictDiet #Students #Health #Informed #Impacts #Anxiety #GrowthIssues #Isolation #EmotionalImpacts #SocialImpacts
 
-"Trong video này, chúng tôi sẽ giới thiệu về bệnh celiac, một rối loạn tự miễn dịch nghiêm trọng ảnh hưởng đến ruột non. Gluten, một loại protein trong lúa mì, lúa mạch và lúa mạch đen, kích hoạt rối loạn này, khiến hệ thống miễn dịch tấn công niêm mạc ruột non và ngăn cản quá trình hấp thụ chất dinh dưỡng. Các triệu chứng có thể nghiêm trọng hoặc không nghiêm trọng, bao gồm tiêu chảy, mệt mỏi và sụt cân. Trẻ em có thể gặp các triệu chứng khác. Tuy nhiên, các triệu chứng này có thể liên quan đến các tình trạng khác, cần phải tham khảo ý kiến ​​bác sĩ để chẩn đoán chính xác. Các chuyên gia chăm sóc sức khỏe có thể thực hiện các xét nghiệm để xác nhận bệnh celiac. Video này cung cấp hướng dẫn chi tiết cho người giám sát."
+"Trong video này, chúng tôi sẽ giới thiệu về Bệnh Celiac, một rối loạn tự miễn dịch phổ biến ảnh hưởng đến hàng triệu người trên toàn thế giới. Gluten, một loại protein trong lúa mì, lúa mạch và lúa mạch đen, gây ra phản ứng của hệ thống miễn dịch và tổn thương ruột non khi tiêu thụ. Các triệu chứng không chỉ giới hạn ở các vấn đề tiêu hóa mà còn bao gồm tình trạng sụt cân, mệt mỏi, đau khớp, phát ban, thiếu máu và ngứa da. Các biến chứng nghiêm trọng hơn bao gồm loãng xương hoặc trầm cảm. Các tác động về mặt cảm xúc và xã hội cũng ảnh hưởng đáng kể đến những người mắc Bệnh Celiac. Cha mẹ phải hiểu các triệu chứng này để chăm sóc đúng cách. Tìm hiểu thêm trong hướng dẫn chi tiết bên dưới."
 
 
-## CELIAC DISEASE
+## AUTOIMMUNE DISORDER
 
-Bệnh celiac là một "rối loạn tự miễn dịch" nghiêm trọng (autoimmune disorder) ảnh hưởng đến "ruột non" (small intestine). Bệnh này được kích hoạt bởi việc tiêu thụ "gluten" (gluten), một loại protein có trong lúa mì, lúa mạch và lúa mạch đen. Khi một người mắc "bệnh celiac" (celiac disease) ăn gluten, "hệ thống miễn dịch" (immune system) của họ sẽ phản ứng bằng cách tấn công "lớp lót" (lining) của ruột non, dẫn đến "tổn thương" (damage) và ngăn chặn "sự hấp thụ" (absorption) các "chất dinh dưỡng" quan trọng (nutrients).
-![CELIAC DISEASE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition-22362634782-Montserrat-Bold-303F9F.jpg)
+Bệnh Celiac là một "rối loạn tự miễn dịch" phổ biến (autoimmune disorder) ảnh hưởng đến hàng triệu người trên toàn thế giới, khiến cơ thể họ khó "xử lý gluten" (process gluten)—một loại protein có trong lúa mì, lúa mạch và lúa mạch đen. Khi một người mắc bệnh Celiac "tiêu thụ gluten" (consumes gluten), "hệ thống miễn dịch của họ sẽ phản ứng" (immune system reacts) và gây tổn thương ruột non, dẫn đến nhiều "triệu chứng" (symptoms) và "biến chứng" (complications).
+![AUTOIMMUNE DISORDER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-04/transition-8735908378-Montserrat-Regular-512DA8.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-39783361483.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## SYMPTOMS OF CELIAC DISEASE
-
-Các triệu chứng của "bệnh celiac" (celiac disease) có thể "khác nhau rất nhiều" (vary widely) từ "người này sang người khác" (person to person), khiến cho việc chẩn đoán trở nên khó khăn. Một số người có thể gặp "các triệu chứng nghiêm trọng" (severe symptoms), trong khi những người khác có thể có "các triệu chứng nhẹ hơn" (milder symptoms) hoặc "không có triệu chứng nào cả" (none at all). Tuy nhiên, "các triệu chứng phổ biến nhất" (most common symptoms) của bệnh celiac "bao gồm" (include):
-![SYMPTOMS OF CELIAC DISEASE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition--16667828772-Montserrat-Thin-303F9F.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-39168332733.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-37428416340.mp3" type="audio/mpeg">
 </audio>
 
 
 
 ## SYMPTOMS
 
-Trẻ em mắc "bệnh celiac" (celiac disease) cũng có thể "trải nghiệm" (experience) "triệu chứng" (symptoms) như:. Điều quan trọng cần lưu ý là các triệu chứng này cũng có thể liên quan đến các tình trạng khác, vì vậy, điều cần thiết là phải tham khảo ý kiến ​​của chuyên gia chăm sóc sức khỏe nếu bạn đang gặp phải bất kỳ triệu chứng nào trong số đó. "Nhà cung cấp dịch vụ chăm sóc sức khỏe" (healthcare provider) có thể thực hiện "xét nghiệm" (tests) để xác định xem bệnh celiac có phải là nguyên nhân gây ra các triệu chứng của bạn hay không.
-![SYMPTOMS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition-17005832058-Montserrat-SemiBold-512DA8.jpg)
+Các triệu chứng phổ biến bao gồm các vấn đề về tiêu hóa, chẳng hạn như "tiêu chảy" (diarrhea), "đau bụng" (abdominal pain), "đầy hơi" (bloating) và "đầy hơi" (gas). Cũng như "giảm cân" (weight loss), "mệt mỏi" (fatigue), "đau khớp" (joint pain), "phát ban" (rashes), "thiếu máu" (anemia) và "ngứa da" (skin itching). Một số người thậm chí có thể bị "sương mù não" (brain fog) hoặc "lú lẫn" (confusion), và theo thời gian, "thiếu hụt chất dinh dưỡng" (nutrient deficiencies) có thể dẫn đến các biến chứng nghiêm trọng hơn như "loãng xương" (osteoporosis) hoặc trầm cảm.
+![SYMPTOMS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-04/transition-402116450-Montserrat-Medium-303F9F.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-1040899908.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-40309411472.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## EMOTIONAL IMPACTS
+
+Đối với cha mẹ, việc hiểu những "triệu chứng" này (symptoms) có thể rất quan trọng để đảm bảo rằng con bạn nhận được sự chăm sóc và điều trị phù hợp.. Giống như "tảng băng trôi" này (iceberg), các triệu chứng có thể nhìn thấy chỉ là một phần của câu đố. Các "tác động xã hội" và cảm xúc (social impacts), chẳng hạn như "lo lắng" (anxiety), "trầm cảm" (depression), "vấn đề về tăng trưởng" (growth issues) và "cô lập" (isolation), có thể gây gánh nặng cho những người mắc Bệnh Celiac.
+![EMOTIONAL IMPACTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-04/transition-38020345622-Montserrat-Regular-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-10269365546.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CELIAC DISEASE
+
+Nếu bạn đang gặp phải bất kỳ "triệu chứng" nào trong số này (symptoms) hoặc lo ngại về Bệnh Celiac, điều cần thiết là phải tham khảo ý kiến ​​của chuyên gia chăm sóc sức khỏe để "chẩn đoán" (diagnose) và bắt đầu "điều trị" (treatment). "Xét nghiệm máu" (blood test) và/hoặc "sinh thiết ruột" (intestinal biopsy) có thể xác nhận chẩn đoán.
+![CELIAC DISEASE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-04/transition-18586732719-Montserrat-SemiBold-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-10268387569.mp3" type="audio/mpeg">
 </audio>
 
 
 
 ## GLUTEN-FREE DIET
 
-Nếu không được điều trị, "bệnh celiac" (celiac disease) có thể dẫn đến các biến chứng sức khỏe nghiêm trọng, chẳng hạn như "suy dinh dưỡng" (malnutrition), "loãng xương" (osteoporosis), "vô sinh" (infertility) và thậm chí là "một số loại ung thư" (certain types of cancer). Tuy nhiên, với "chẩn đoán đúng" (proper diagnosis) và chế độ ăn không chứa gluten, hầu hết những người mắc bệnh celiac có thể kiểm soát các triệu chứng của mình và có cuộc sống khỏe mạnh.
-![GLUTEN-FREE DIET](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition-4553854237-Montserrat-ExtraBold-004895.jpg)
+Phương pháp điều trị duy nhất đã được chứng minh cho bệnh Celiac là chế độ ăn kiêng "không chứa gluten" nghiêm ngặt, suốt đời (gluten-free diet). Bằng cách tránh gluten trong bữa ăn, bạn có thể giảm "triệu chứng" (symptoms) và "biến chứng" (complications).. Hãy khỏe mạnh và hiểu biết, các bạn sinh viên!
+![GLUTEN-FREE DIET](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-04/transition--23341664971-Montserrat-Medium-880E4F.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-8281324827.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5030830856.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## AUTOIMMUNE DISORDER
+## CELIAC DISEASE
 
-Trong "kết luận" (conclusion), "bệnh celiac" (celiac disease) là một
-![AUTOIMMUNE DISORDER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-07-29/transition--11439605183-Montserrat-ExtraBold-1A237E.jpg)
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video hữu ích và hiểu sâu hơn về Bệnh Celiac và các triệu chứng của bệnh. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![CELIAC DISEASE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-04/transition--19555166061-Montserrat-ExtraBold-283593.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-4628742645.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-32480036991.mp3" type="audio/mpeg">
 </audio>
 

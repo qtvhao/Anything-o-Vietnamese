@@ -1,0 +1,81 @@
+
+---
+
+# Bí mật nhỏ bẩn thỉu của ngành chăm sóc sức khỏe: Vạch trần gian lận và lạm dụng
+
+- Published: August 2, 2024
+- Author: Vietnamese Online Voice
+- Categories: Health / Healthcare Policy and Law / **Healthcare Regulation**
+- #HealthcareAbuse #FraudPrevention #HealthcareConsequences #BillingFraud #UnnecessaryServices #Upcoding #Kickbacks #IdentityTheft #HealthcareQuality #TrustInHealthcare #ResponsibleCitizens #HealthcareConsumers #PreventHealthcareFraud #DetectHealthcareFraud #CompromisedHealthcare #NavigatingHealthcare #HealthcareDeception #Misrepresentation #UnauthorizedBenefits #IllegalActivities #HealthcarePrograms #FalseClaims #ReducedAccessToCare #ErodingTrust #HealthcareServices #HealthcareIntegrity #HealthcareEducation #QuestionsHealthcare #ThoughtsOnHealthcare #SubscriptionNotifications #NewVideos
+
+"Trong video này, trọng tâm là gian lận và lạm dụng chăm sóc sức khỏe, một vấn đề quan trọng trong lĩnh vực chăm sóc sức khỏe. Gian lận chăm sóc sức khỏe là hành vi lừa dối cố ý để có được các khoản trợ cấp hoặc thanh toán trái phép, bao gồm các khiếu nại sai sự thật, hối lộ và các hoạt động bất hợp pháp khác. Các loại gian lận và lạm dụng bao gồm các dịch vụ không cần thiết, mã hóa nâng cấp, hối lộ, trộm cắp danh tính và các phương pháp điều trị không cần thiết. Hậu quả là rất nghiêm trọng, dẫn đến căng thẳng về tài chính, giảm khả năng tiếp cận dịch vụ chăm sóc, chất lượng bị ảnh hưởng và làm xói mòn lòng tin. Các biện pháp phòng ngừa có thể giúp chống lại vấn đề này. Các nhà nghiên cứu có thể xem hướng dẫn chi tiết trong video."
+
+
+## HEALTHCARE FRAUD
+
+Khi chúng ta điều hướng thế giới phức tạp của chăm sóc sức khỏe, điều quan trọng là phải giải quyết một vấn đề quan trọng: "gian lận và lạm dụng chăm sóc sức khỏe" (healthcare fraud and abuse). Trong video này, chúng ta sẽ khám phá các loại gian lận chăm sóc sức khỏe, "hậu quả" của chúng (consequences) và những gì chúng ta có thể làm để "ngăn chặn" (prevent) chúng.
+![HEALTHCARE FRAUD](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-2435109441-Montserrat-Thin-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-19841027359.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## HEALTHCARE FRAUD AND ABUSE
+
+Gian lận và "lạm dụng" trong chăm sóc sức khỏe (abuse) đề cập đến "lừa dối cố ý" (intentional deception) hoặc "trình bày sai sự thật" (misrepresentation) về "sự thật" (facts) để có được "lợi ích trái phép" (unauthorized benefits) hoặc "thanh toán" (payments) từ "các chương trình chăm sóc sức khỏe" (healthcare programs). Điều này có thể liên quan đến "khiếu nại sai" (false claims), "tiền hoa hồng" (kickbacks) và các "hoạt động bất hợp pháp" khác (illegal activities) ảnh hưởng đến các nguồn lực chăm sóc sức khỏe.
+![HEALTHCARE FRAUD AND ABUSE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--19088296604-Montserrat-SemiBold-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-39575884174.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## ABUSE
+
+Có một số loại gian lận và lạm dụng trong chăm sóc sức khỏe, bao gồm lập hóa đơn cho các dịch vụ không cần thiết, "ghi mã" (upcoding), "hối lộ" (kickbacks), "trộm cắp danh tính" (identity theft) và chỉ định các phương pháp điều trị không cần thiết. Gian lận và lạm dụng trong chăm sóc sức khỏe gây ra hậu quả nghiêm trọng: "gánh nặng tài chính" (financial strain), "giảm khả năng tiếp cận dịch vụ chăm sóc" (reduced access to care), chất lượng chăm sóc sức khỏe bị ảnh hưởng và làm xói mòn lòng tin vào hệ thống chăm sóc sức khỏe của chúng ta.
+![ABUSE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--14741122150-Montserrat-ExtraBold-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-29219253661.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PREVENT
+
+Để "ngăn chặn" (prevent) "gian lận chăm sóc sức khỏe" (healthcare fraud) và "lạm dụng" (abuse):. Là công dân có trách nhiệm và "người tiêu dùng chăm sóc sức khỏe" (healthcare consumers), bạn có thể đóng vai trò quan trọng trong việc ngăn chặn "gian lận và lạm dụng" chăm sóc sức khỏe (fraud and abuse):. Gian lận và lạm dụng chăm sóc sức khỏe "làm tổn hại" (compromise) "chất lượng" (quality) và "khả năng tiếp cận" (accessibility) của "dịch vụ chăm sóc sức khỏe" (healthcare services). Bằng cách hiểu các loại gian lận chăm sóc sức khỏe, "hậu quả" của chúng (consequences) và thực hiện các bước để ngăn ngừa và "phát hiện" (detect) chúng, chúng ta có thể "đảm bảo" (ensure) rằng mọi người đều nhận được sự chăm sóc mà họ cần.
+![PREVENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-25976922124-Montserrat-Thin-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-19764016948.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## HEALTHCARE PROVIDERS
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video hữu ích và hiểu sâu hơn về "gian lận chăm sóc sức khỏe" (healthcare fraud) và "lạm dụng" (abuse). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![HEALTHCARE PROVIDERS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-5887118283-Montserrat-Black-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-7545656844.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CONTRIBUTE
+
+Một số loại gian lận và lạm dụng chăm sóc sức khỏe phổ biến là gì?. "Nhà cung cấp dịch vụ chăm sóc sức khỏe" (healthcare providers) có thể "góp phần" (contribute) vào gian lận và lạm dụng chăm sóc sức khỏe như thế nào?. Cá nhân có thể làm gì để "ngăn chặn" (prevent) và "phát hiện" (detect) gian lận và lạm dụng chăm sóc sức khỏe?
+![CONTRIBUTE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-11971396956-Montserrat-ExtraBold-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-3075549624.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## HEALTHCARE FRAUD AND ABUSE
+
+Tại sao việc "báo cáo" (report) "hoạt động đáng ngờ" (suspicious activity) liên quan đến gian lận và lạm dụng chăm sóc sức khỏe lại là điều cần thiết?. Nghiên cứu và lập danh sách các tổ chức địa phương và quốc gia hoạt động để ngăn ngừa và phát hiện gian lận và lạm dụng chăm sóc sức khỏe. Chia sẻ những phát hiện của bạn và thảo luận về tầm quan trọng của công việc của họ trong việc "bảo vệ" (protecting) "hệ thống chăm sóc sức khỏe" của chúng ta (healthcare system).
+![HEALTHCARE FRAUD AND ABUSE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-40723914449-Montserrat-Black-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-7757615052.mp3" type="audio/mpeg">
+</audio>
+

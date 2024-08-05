@@ -1,0 +1,61 @@
+
+---
+
+# Giải thích về máy tính không máy chủ: Cách thức hoạt động và lý do bạn cần nó Mở khóa sức mạnh của máy tính không máy chủ: Hướng dẫn dành cho người mới bắt đầu Máy tính không máy chủ 101: Giới thiệu toàn diện Tại sao máy tính không máy chủ là tương lai: Lợi ích và trường hợp sử dụng
+
+- Published: August 5, 2024
+- Author: Vietnamese Online Voice
+- Categories: DevOps / **Cloud Computing**
+- #CloudTechnology #CloudComputing #NoServers #Developers #Coding #CloudProviders #Infrastructure #CostSavings #Scalability #Security #FasterDeployment #RealWorldApplications #ImageProcessing #Chatbots #IoTApplications #ColdStart #VendorLockIn #Debugging #Monitoring #CloudBenefits #CloudChallenges #CloudGrowth #CloudTrends #CloudAdoption #CloudInnovation
+
+"Trong video này, diễn giả giới thiệu về Serverless Computing, lợi ích của nó và các ví dụ thực tế. Serverless Computing là một phương pháp tiếp cận công nghệ đám mây, trong đó các nhà phát triển viết và triển khai mã mà không cần quản lý cơ sở hạ tầng. Nó cung cấp khả năng tiết kiệm chi phí, khả năng mở rộng, bảo mật được cải thiện và triển khai nhanh hơn. Các ví dụ về cách sử dụng của nó bao gồm xử lý hình ảnh, chatbot và các ứng dụng IoT. Tuy nhiên, cần cân nhắc đến các thách thức như khởi động nguội, khóa nhà cung cấp và gỡ lỗi và giám sát. Các nhà nghiên cứu có thể xem hướng dẫn video chi tiết bên dưới."
+
+
+## SERVERLESS COMPUTING
+
+Chào mừng đến với video của tôi về Máy tính không máy chủ! Trong video này, tôi sẽ khám phá "máy tính không máy chủ" (serverless computing) là gì, "lợi ích" của nó (benefits) và một số ví dụ thực tế về cách sử dụng của nó. Máy tính không máy chủ là một cách tiếp cận mới mạnh mẽ đối với "công nghệ đám mây" (cloud technology). Với máy tính không máy chủ, "các nhà phát triển" (developers) có thể viết và triển khai mã mà không cần lo lắng về cơ sở hạ tầng cơ bản. Các mô hình "máy tính đám mây" truyền thống (cloud computing) yêu cầu người dùng "cung cấp" (provision) và "quản lý máy chủ" (manage servers) để "chạy ứng dụng của họ" (run their applications), điều này có thể tốn thời gian và "tốn kém" (costly). Tuy nhiên, với điện toán không máy chủ, "nhà cung cấp dịch vụ đám mây" (cloud providers) sẽ quản lý máy chủ, mở rộng quy mô và "bảo trì" (maintenance), giúp các nhà phát triển có thời gian tập trung vào việc viết mã và xây dựng ứng dụng.
+![SERVERLESS COMPUTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition--13099393230-Montserrat-SemiBold-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-25511936560.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## COST SAVINGS
+
+Máy tính không máy chủ cung cấp một số lợi ích. Đầu tiên, nó cung cấp "tiết kiệm chi phí" (cost savings), vì "người dùng" (users) chỉ trả tiền cho "tài nguyên" (resources) mà họ sử dụng. Thứ hai, nó cho phép tăng "khả năng mở rộng" (scalability), vì "ứng dụng" (application) có thể "mở rộng" (scale) tự động mà không cần "can thiệp thủ công" (manual intervention). Thứ ba, nó cải thiện "bảo mật" (security), vì "nhà cung cấp đám mây" (cloud provider) chịu trách nhiệm "quản lý" (managing) "máy chủ" (servers). Cuối cùng, nó cho phép "triển khai nhanh hơn" (faster deployment), vì người dùng có thể triển khai "mã" (code) một cách nhanh chóng và dễ dàng mà không cần lo lắng về "cung cấp máy chủ" (provisioning servers) hoặc cấu hình cơ sở hạ tầng.
+![COST SAVINGS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition--15290753421-Montserrat-Thin-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-34194892320.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## REAL-WORLD APPLICATIONS
+
+Máy tính không máy chủ đã được sử dụng trong các ứng dụng thực tế, chẳng hạn như "xử lý hình ảnh" (image processing), "chatbot" (chatbots) và các ứng dụng IoT. Tuy nhiên, có một số "thách thức" (challenges) và "hạn chế" (limitations) cần cân nhắc. Khởi động nguội, khóa nhà cung cấp và "gỡ lỗi" (debugging) và giám sát là một số mối quan tâm chính mà các nhà phát triển cần lưu ý.
+![REAL-WORLD APPLICATIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition-15032349021-Montserrat-Bold-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-12420888779.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## BENEFITS FOR DEVELOPERS
+
+Tóm lại, "máy tính không máy chủ" (serverless computing) là một sự phát triển thú vị trong "công nghệ đám mây" (cloud technology) mang lại nhiều "lợi ích cho nhà phát triển" (benefits for developers) và "tổ chức" (organizations). Mặc dù không phải không có "thách thức" (challenges) và "hạn chế" (limitations), máy tính không máy chủ được thiết lập để tiếp tục "phát triển phổ biến" (growing in popularity) khi ngày càng nhiều tổ chức áp dụng mô hình này.
+![BENEFITS FOR DEVELOPERS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition--22446814842-Montserrat-Bold-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-20454113246.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## NOTIFICATIONS
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về "máy tính không máy chủ" (serverless computing). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận "thông báo" (notifications) về "video mới" của chúng tôi (new videos).
+![NOTIFICATIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition-18985521033-Montserrat-Bold-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-17210115781.mp3" type="audio/mpeg">
+</audio>
+

@@ -1,0 +1,51 @@
+
+---
+
+# Phòng thủ kỹ thuật số: Chiến lược để duy trì an toàn và tuân thủ
+
+- Published: August 5, 2024
+- Author: Vietnamese Online Voice
+- Categories: DevOps / **Cloud Computing**
+- #Compliance #DigitalInformation #Systems #Networks #UnauthorizedAccess #DataProtection #Cyberbullying #OnlineHarassment #FinancialInformation #AcademicIntegrity #BusinessReputation #BestPractices #SecurityCompliance #StrongPasswords #SoftwareUpdates #Links #Attachments #TwoFactorAuthentication #IncidentReporting #DigitalCommunity #DigitalSafety #ResponsibleUse #DataSecurity #OnlineSafety #CyberSecurity #Regulations #Laws #IndustryStandards #DigitalResponsibility
+
+"Trong video này, chủ đề được đề cập là bảo mật và tuân thủ trong bối cảnh kỹ thuật số. Bảo mật liên quan đến việc bảo vệ thông tin kỹ thuật số, hệ thống và mạng khỏi truy cập trái phép, trong khi tuân thủ yêu cầu tuân thủ luật pháp, quy định và tiêu chuẩn ngành quản lý việc sử dụng tài nguyên kỹ thuật số. Các khía cạnh chính của bảo mật và tuân thủ bao gồm bảo vệ dữ liệu cá nhân, ngăn chặn bắt nạt trên mạng, bảo vệ thông tin tài chính, duy trì tính toàn vẹn trong học thuật và bảo vệ danh tiếng doanh nghiệp. Các biện pháp thực hành tốt nhất bao gồm sử dụng mật khẩu mạnh, cập nhật phần mềm, thận trọng với các liên kết và tệp đính kèm, sử dụng xác thực hai yếu tố và báo cáo sự cố. Bảo mật và tuân thủ là trách nhiệm chung để tạo ra một cộng đồng kỹ thuật số an toàn hơn."
+
+
+## SECURITY
+
+Bảo mật đề cập đến các biện pháp được thực hiện để bảo vệ "thông tin kỹ thuật số" (digital information), hệ thống và "mạng" (networks) khỏi "truy cập trái phép" (unauthorized access), "sử dụng" (use), "tiết lộ" (disclosure), "gián đoạn" (disruption), "sửa đổi" (modification) hoặc "phá hủy" (destruction). Tuân thủ đề cập đến việc tuân thủ "luật" (laws), "quy định" (regulations) và "tiêu chuẩn ngành" (industry standards) quản lý việc sử dụng thông tin và hệ thống kỹ thuật số. Nói cách khác, bạn cần tuân thủ các quy tắc và hướng dẫn để đảm bảo rằng bạn đang sử dụng "tài nguyên số" (digital resources) "có trách nhiệm" (responsibly) và tuân thủ pháp luật.
+![SECURITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition-4509710528-Montserrat-Thin-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-32766022885.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## SECURITY AND COMPLIANCE
+
+Trong "bối cảnh kỹ thuật số" ngày nay (digital landscape), có nhiều rủi ro và mối đe dọa đối với "bảo mật và tuân thủ" của chúng tôi (security and compliance). Bảo vệ "dữ liệu cá nhân" (personal data), ngăn chặn "bắt nạt trên mạng" (cyberbullying) và "quấy rối trực tuyến" (online harassment), bảo vệ "thông tin tài chính" (financial information), duy trì "tính toàn vẹn học thuật" (academic integrity) và bảo vệ danh tiếng của doanh nghiệp và tổ chức đều là những khía cạnh quan trọng của bảo mật và tuân thủ.
+![SECURITY AND COMPLIANCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition-23359075094-Montserrat-Medium-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-74748127010.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## BEST PRACTICES
+
+Sau đây là một số "thực hành tốt nhất" (best practices) về "bảo mật" (security) và "tuân thủ" (compliance): sử dụng "mật khẩu mạnh" (strong passwords), cập nhật phần mềm thường xuyên, thận trọng với "liên kết và tệp đính kèm" (links and attachments), sử dụng xác thực hai yếu tố và báo cáo "sự cố" (incidents). Hãy nhớ rằng, bảo mật và tuân thủ là "trách nhiệm" của mọi người (responsibility) và bằng cách hợp tác với nhau, chúng ta có thể tạo ra một "cộng đồng số" an toàn và có trách nhiệm hơn (digital community).
+![BEST PRACTICES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition--19186119919-Montserrat-Thin-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-28289985115.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## COMPLIANCE
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về "bảo mật" (security) và "tuân thủ" (compliance). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận "thông báo" (notifications) về "video mới" của chúng tôi (new videos).
+![COMPLIANCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition--12422324821-Montserrat-Black-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-30300193514.mp3" type="audio/mpeg">
+</audio>
+

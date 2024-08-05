@@ -1,0 +1,81 @@
+
+---
+
+# Hiểu về bệnh sỏi mật: Nguyên nhân, triệu chứng và cách điều trị
+
+- Published: August 2, 2024
+- Author: Vietnamese Online Voice
+- Categories: Gastroenterology / **Biliary tract diseases**
+- #Gallstones #Gallbladder #CholesterolStones #PigmentStones #AbdominalPain #NauseaAndVomiting #FeverAndChills #Jaundice #BileDuctInflammation #Pancreatitis #Ultrasounds #CTScans #MRIs #GallbladderRemoval #DissolveCholesterolStones #SymptomManagement #HealthAndWellbeing #RecognizeSymptoms #RiskFactors #PreventGallstones #DigestiveHealth #OrganHealth #MedicalCondition #GallbladderStones #ImagingProcedures #TreatmentOptions #Complications #BodyAwareness
+
+"Trong video này, chúng tôi thảo luận về sỏi mật, tác động của chúng lên túi mật và các phương pháp điều trị tiềm năng. Sỏi mật là những chất lắng đọng cứng trong túi mật, được phân loại thành sỏi cholesterol và sỏi sắc tố. Sỏi mật, hay sỏi mật, có thể là kết quả của các yếu tố như tiền sử gia đình, béo phì, lối sống ít vận động, chế độ ăn nhiều chất béo/cholesterol và tình trạng gan/máu. Các nhà nghiên cứu có thể tham khảo video để biết giải thích chi tiết về các triệu chứng, nguyên nhân và phương pháp điều trị."
+
+
+## GALLSTONES
+
+Túi mật, một cơ quan nhỏ nhưng quan trọng nằm ẩn dưới gan, âm thầm lưu trữ và giải phóng "mật" (bile) để hỗ trợ "tiêu hóa" (digestion). Tuy nhiên, "sỏi mật" (gallstones) có thể phá vỡ đáng kể quá trình hài hòa này và dẫn đến nhiều "biến chứng" khác nhau (complications) nếu không được kiểm soát. Trong video này, chúng ta sẽ thảo luận về các loại sỏi mật khác nhau, triệu chứng, nguyên nhân và phương pháp điều trị tiềm năng.
+![GALLSTONES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--13467602127-Montserrat-Thin-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-10576047516.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CHOLELITHIASIS
+
+Sỏi mật là những chất lắng đọng nhỏ, cứng phát triển bên trong "túi mật" của bạn (gallbladder). Chúng có thể là "cholesterol" (cholesterol) hoặc "sỏi sắc tố" (pigment stones), mỗi loại có "thành phần" riêng (composition) và "màu sắc" (colors). Sỏi mật, hay "sỏi mật" (gallstones), có thể biểu hiện dưới hai dạng chính: "sỏi cholesterol" (cholesterol stones) và sỏi sắc tố.
+![CHOLELITHIASIS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-12470293291-Montserrat-ExtraBold-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-29050716806.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## RISK FACTORS
+
+Nhiều yếu tố ảnh hưởng đến khả năng phát triển "sỏi mật" (gallstones) của một cá nhân, chẳng hạn như tiền sử gia đình mắc sỏi mật, "béo phì" (obesity), "lối sống ít vận động" (sedentary lifestyle), chế độ ăn nhiều chất béo và cholesterol, và các tình trạng bệnh lý ảnh hưởng đến gan hoặc máu.
+![RISK FACTORS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-31509543361-Montserrat-Thin-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-18063007524.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## SYMPTOMS
+
+Điều cần thiết là phải nhận thức được các triệu chứng phổ biến liên quan đến "sỏi mật" (gallstones), bao gồm "đau bụng" (abdominal pain), "buồn nôn" (nausea) và "nôn" (vomiting), "sốt" (fever) và "ớn lạnh" (chills), và "vàng da" (jaundice) ("vàng da" (yellowing of the skin)). Nếu không được điều trị, sỏi mật có thể gây ra các biến chứng bổ sung như "viêm ống mật" (bile duct inflammation) hoặc "viêm tụy" (pancreatitis).
+![SYMPTOMS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-5460077186-Montserrat-ExtraBold-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-24410146532.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## IMAGING PROCEDURES
+
+Khi chẩn đoán "sỏi mật" (gallstones), bác sĩ thường dựa vào "các thủ thuật hình ảnh" (imaging procedures) như "siêu âm" (ultrasounds), chụp CT hoặc MRI để hình dung "túi mật" (gallbladder) và xác định bất kỳ "tắc nghẽn" tiềm ẩn nào (blockages). Các lựa chọn điều trị sỏi mật thường bao gồm phương pháp "chờ đợi và xem xét" bảo tồn, "phẫu thuật cắt bỏ" (surgical removal) túi mật hoặc thuốc để hòa tan sỏi cholesterol hoặc kiểm soát "các triệu chứng" liên quan (symptoms).
+![IMAGING PROCEDURES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--23432799707-Montserrat-Black-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-34721027198.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## COMPLICATIONS
+
+Trên bề mặt, "sỏi mật" (gallstones) có vẻ như là một sự bất tiện nhỏ, nhưng việc nhận ra "triệu chứng" (symptoms) và hiểu được những tác động lâu dài của chúng có thể cải thiện đáng kể sức khỏe tổng thể và hạnh phúc của một người. Hãy dành thời gian để hiểu cơ thể của bạn, hiểu "các yếu tố rủi ro" (risk factors) của bạn và giải quyết các triệu chứng kịp thời để giúp tránh các "biến chứng" (complications) do sỏi mật gây ra.
+![COMPLICATIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-1095828910-Montserrat-Regular-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-23146675535.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## GALLBLADDER
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về "sỏi mật" (gallstones). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi. Chúc bạn học tập vui vẻ!
+![GALLBLADDER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-51864560372-Montserrat-Bold-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-23126669234.mp3" type="audio/mpeg">
+</audio>
+

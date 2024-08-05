@@ -1,0 +1,61 @@
+
+---
+
+# Hiểu về Rối loạn lưỡng cực: Triệu chứng, Nguyên nhân và Điều trị
+
+- Published: August 2, 2024
+- Author: Vietnamese Online Voice
+- Categories: Health / Mental Health / **Mood Disorders**
+- #MentalHealthAwareness #ManicEpisode #DepressiveEpisode #IncreasedEnergy #ImpulsiveBehavior #Irritability #PoorJudgment #LowMood #LossOfInterest #ChangesInAppetite #Fatigue #DifficultyConcentrating #GeneticFactors #EnvironmentalFactors #BrainChemistry #Treatable #Medications #MoodStabilizers #Antipsychotics #Therapy #SelfCare #SupportNetwork #NAMIHotline #SAMHSAService #MentalHealth #StigmaFree #MentalIllness #HelpIsAvailable #ReachOut #ManageSymptoms #ImproveQualityOfLife
+
+"Trong video này, chủ đề về Rối loạn lưỡng cực được giới thiệu, nêu bật sự khác biệt giữa các cơn hưng cảm và trầm cảm. Các cơn hưng cảm có thể bao gồm tăng năng lượng, hành vi bốc đồng và cáu kỉnh, trong khi các cơn trầm cảm có thể bao gồm tâm trạng chán nản, mất hứng thú và khó tập trung. Nghiên cứu chỉ ra rằng Rối loạn lưỡng cực có thể bị ảnh hưởng bởi các yếu tố di truyền, môi trường và hóa học não. Các lựa chọn điều trị bao gồm thuốc, liệu pháp và thay đổi lối sống. Kiểm soát Rối loạn lưỡng cực bao gồm việc tuân thủ dùng thuốc, thực hành tự chăm sóc và theo dõi tâm trạng. Mạng lưới hỗ trợ rất quan trọng đối với những người mắc Rối loạn lưỡng cực. Hướng dẫn video chi tiết hơn có sẵn bên dưới."
+
+
+## MANIC EPISODE
+
+Trong "giai đoạn hưng cảm" (manic episode), một người có thể trải qua tình trạng tăng năng lượng và hoạt động, "hành vi bốc đồng" (impulsive behavior), "cáu kỉnh" (irritability) và "phán đoán kém" (poor judgment). Tuy nhiên, trong "giai đoạn trầm cảm" (depressive episode), một người có thể trải qua "tâm trạng chán nản" (low mood), mất hứng thú với các hoạt động, "thay đổi cảm giác thèm ăn" (changes in appetite), "mệt mỏi" (fatigue) và khó tập trung.
+![MANIC EPISODE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-20240914966-Montserrat-Thin-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-13244311912.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## BIPOLAR DISORDER
+
+Mặc dù nguyên nhân chính xác của Rối loạn lưỡng cực vẫn chưa được biết, nhưng nghiên cứu cho thấy rằng nó có liên quan đến sự kết hợp của "di truyền" (genetic), "môi trường" (environmental) và "các yếu tố hóa học não" (brain chemistry factors).. Rối loạn lưỡng cực "có thể điều trị được" (treatable) bằng sự kết hợp của "thuốc" (medications), "liệu pháp" (therapy) và thay đổi lối sống. Thuốc, chẳng hạn như "thuốc ổn định tâm trạng" (mood stabilizers) và "thuốc chống loạn thần" (antipsychotics), có thể giúp kiểm soát "các triệu chứng" (symptoms), trong khi liệu pháp có thể giúp mọi người đối phó với tình trạng của họ.
+![BIPOLAR DISORDER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-24716287555-Montserrat-Black-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-1674282284.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## BIPOLAR DISORDER
+
+Sống chung với Rối loạn lưỡng cực có thể là một thách thức, nhưng có những cách để "kiểm soát các triệu chứng" (manage symptoms) và cải thiện "chất lượng cuộc sống" (quality of life). Hãy giữ liên lạc với "mạng lưới hỗ trợ" của bạn (support network), tuân thủ "chế độ dùng thuốc" (medication regimens), thực hành tự chăm sóc và theo dõi tâm trạng của bạn.
+![BIPOLAR DISORDER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-18929298137-Montserrat-Black-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-36200615267.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## MOOD DISORDERS
+
+Nếu bạn hoặc người quen của bạn đang phải vật lộn với chứng Rối loạn Lưỡng cực, vui lòng liên hệ với Đường dây nóng của Liên minh Quốc gia về Bệnh tâm thần (NAMI) theo số 1-800-950-NAMI (6264) hoặc Đường dây trợ giúp của Cơ quan Quản lý Dịch vụ Sức khỏe Tâm thần và Lạm dụng Chất gây nghiện (SAMHSA) theo số 1-800-662-HELP (4357).
+![MOOD DISORDERS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-3422864242-Montserrat-SemiBold-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-22791630050.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## MOOD DISORDERS
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![MOOD DISORDERS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-11563940368-Montserrat-Thin-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-11815029014.mp3" type="audio/mpeg">
+</audio>
+

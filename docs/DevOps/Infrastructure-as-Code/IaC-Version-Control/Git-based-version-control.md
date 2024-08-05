@@ -1,0 +1,71 @@
+
+---
+
+# Làm chủ Git: Hướng dẫn từng bước về Kiểm soát phiên bản
+
+- Published: August 2, 2024
+- Author: Vietnamese Online Voice
+- Categories: DevOps / Infrastructure as Code / **IaC Version Control**
+- #VersionControl #CodeManagement #Collaboration #SoftwareDevelopment #Linux #LinusTorvalds #Repository #Commit #Branch #Merge #Push #Pull #GitTerminology #Codebase #GitWorkflow #Forking #PullRequests #CleanCode #OrganizedCodebase #CodeCollaboration #DistributedVersionControl #TrackChanges #GoToStandard #GitTutorial #GitLearning #GitEssentials #GitPractice #ComplexProjects
+
+"Trong video này, phần giới thiệu về Git, một hệ thống kiểm soát phiên bản được sử dụng rộng rãi, được trình bày. Git, do Linus Torvalds phát triển, tạo điều kiện quản lý các thay đổi trong cơ sở dữ liệu mã cộng tác. Các thuật ngữ chính bao gồm kho lưu trữ, cam kết, nhánh, hợp nhất, đẩy và kéo. Video bao gồm quy trình làm việc của Git từ khi khởi tạo kho lưu trữ Git đến đẩy các thay đổi vào kho lưu trữ từ xa, cung cấp cho các nhà nghiên cứu sự hiểu biết toàn diện về Git."
+
+
+## GIT
+
+Thông thường, bạn sẽ thấy mình đang làm việc trên các dự án nhóm hoặc "hợp tác" (collaborating) với các đồng nghiệp về "bài tập mã hóa" (coding assignments). Nhưng "quản lý các thay đổi" (managing changes) đối với "cơ sở mã" của bạn (codebase) có thể là một nhiệm vụ khó khăn. Hãy sử dụng Git – một công cụ mạnh mẽ giúp bạn theo dõi các thay đổi và duy trì cơ sở mã sạch sẽ và có tổ chức.
+![GIT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--42349999542-Montserrat-Medium-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-21978862074.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## VERSION CONTROL
+
+Git là một hệ thống "kiểm soát phiên bản" phân tán (version control) được phát triển bởi người tạo ra hạt nhân Linux, Linus Torvalds. Nó cho phép bạn theo dõi các thay đổi đối với mã của mình theo thời gian và đã trở thành tiêu chuẩn để kiểm soát phiên bản trong phát triển phần mềm.
+![VERSION CONTROL](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-5560832444-Montserrat-SemiBold-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-10473711206.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## GIT TERMINOLOGY
+
+Trước khi đi sâu hơn, chúng ta hãy tìm hiểu một số thuật ngữ Git thiết yếu, chẳng hạn như "repository" (repository), "commit" (commit), "branch" (branch), "merge" (merge), "push" (push) và "pull" (pull). Sau khi nắm được những kiến ​​thức cơ bản, chúng ta sẽ tìm hiểu quy trình làm việc của Git, từ việc khởi tạo kho lưu trữ Git đến việc đẩy các thay đổi lên kho lưu trữ từ xa.
+![GIT TERMINOLOGY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--10966055070-Montserrat-Bold-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-20407458634.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## COLLABORATION
+
+Một trong những lợi thế quan trọng nhất của Git là khả năng tạo điều kiện thuận lợi cho "sự hợp tác" (collaboration). Hãy cùng khám phá một số cách bạn có thể làm việc với người khác bằng Git, chẳng hạn như "phân nhánh kho lưu trữ" (forking a repository) và mở "yêu cầu kéo" (pull requests).
+![COLLABORATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-28020631073-Montserrat-SemiBold-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-54498939578.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## GIT-BASED VERSION CONTROL
+
+Kiểm soát phiên bản dựa trên Git là một công cụ mạnh mẽ giúp bạn quản lý các thay đổi đối với cơ sở mã của mình, "hợp tác với những người khác" (collaborate with others) và duy trì cơ sở mã sạch sẽ và có tổ chức. Với sự hiểu biết và thực hành đúng đắn, bạn sẽ có thể xử lý ngay cả những dự án phức tạp nhất.
+![GIT-BASED VERSION CONTROL](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--1836113705-Montserrat-Thin-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-12627198116.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## MANAGING CHANGES
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy hữu ích và hiểu sâu hơn về kiểm soát phiên bản dựa trên Git. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về "video mới" của chúng tôi (new videos).
+![MANAGING CHANGES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-33718875612-Montserrat-Bold-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-1750702773.mp3" type="audio/mpeg">
+</audio>
+

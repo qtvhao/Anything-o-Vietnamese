@@ -1,0 +1,114 @@
+{
+  "id": "4255102176",
+  "titles": [
+    "Kiến trúc Microservices: Một cái nhìn sâu sắc Kiến trúc Microservices: Lợi ích, Thách thức và Thực hành tốt nhất cho Phát triển phần mềm có khả năng mở rộng"
+  ],
+  "topic": "Microservices Architecture",
+  "title": "Kiến trúc Microservices: Một cái nhìn sâu sắc Kiến trúc Microservices: Lợi ích, Thách thức và Thực hành tốt nhất cho Phát triển phần mềm có khả năng mở rộng",
+  "description": "\"Trong video này, diễn giả giới thiệu kiến ​​trúc microservices, một phương pháp tiếp cận hiện đại để xây dựng các ứng dụng phần mềm phức tạp. Kiến trúc microservices liên quan đến việc cấu trúc một ứng dụng như một tập hợp các dịch vụ nhỏ, độc lập, mỗi dịch vụ có khả năng kinh doanh cụ thể và các quy trình phát triển, thử nghiệm và triển khai tự chủ. Các dịch vụ giao tiếp thông qua các giao thức nhẹ và API, cho phép khả năng mở rộng, tính linh hoạt và cải thiện khả năng phục hồi của ứng dụng. Các nhà nghiên cứu có thể xem hướng dẫn chi tiết trong video bên dưới.\"",
+  "author": "Vietnamese Online Voice",
+  "date": "August 5, 2024",
+  "content": [
+    {
+      "id": "9245674611",
+      "heading": "MICROSERVICES ARCHITECTURE",
+      "text": "Trong thế giới công nghệ ngày nay, các ứng dụng phần mềm ngày càng trở nên phức tạp. Do đó, \"kiến trúc đơn khối\" truyền thống (monolithic architecture) đang trở nên kém hiệu quả hơn. Kiến trúc vi dịch vụ là một cách tiếp cận mới để xây dựng các ứng dụng phần mềm đã trở nên phổ biến trong những năm gần đây.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-05/transition-9245674611-Montserrat-Bold-512DA8.jpg",
+      "audioFilePath": "/app/storage/audio/file-45772676352.mp3"
+    },
+    {
+      "id": "22902350560",
+      "heading": "BUSINESS CAPABILITY",
+      "text": "Vậy, kiến ​​trúc microservices chính xác là gì? Đó là một kỹ thuật phát triển phần mềm cấu trúc một ứng dụng như một tập hợp các dịch vụ nhỏ, độc lập. Mỗi dịch vụ chịu trách nhiệm cho một \"khả năng kinh doanh\" cụ thể (business capability) và có thể được phát triển, thử nghiệm và triển khai độc lập với các dịch vụ khác. Các dịch vụ này giao tiếp với nhau bằng \"giao thức nhẹ\" (lightweight protocols) và API.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-05/transition-22902350560-Montserrat-Black-7B1FA2.jpg",
+      "audioFilePath": "/app/storage/audio/file-15743750319.mp3"
+    },
+    {
+      "id": "-69733116283",
+      "heading": "SCALABILITY",
+      "text": "Có nhiều lợi ích khi sử dụng kiến ​​trúc microservices. Ví dụ, nó cho phép \"khả năng mở rộng\" lớn hơn (scalability), vì \"các dịch vụ riêng lẻ\" (individual services) có thể được mở rộng độc lập để đáp ứng \"nhu cầu thay đổi\" (changing demands). Nó cũng cung cấp \"tính linh hoạt\" lớn hơn (flexibility), vì các nhà phát triển có thể chọn ngôn ngữ lập trình, khuôn khổ và \"cơ sở dữ liệu\" tốt nhất (database) cho từng dịch vụ. Ngoài ra, kiến ​​trúc microservices có thể cải thiện \"khả năng phục hồi\" (resilience) của một \"ứng dụng\" (application), vì nếu một dịch vụ gặp \"sự cố\" (issues), nó sẽ không làm sập \"toàn bộ ứng dụng\" (entire application).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-05/transition--69733116283-Montserrat-Medium-283593.jpg",
+      "audioFilePath": "/app/storage/audio/file-11653082161.mp3"
+    },
+    {
+      "id": "-10266820770",
+      "heading": "MANAGING COMPLEXITY",
+      "text": "Tuy nhiên, cũng có những thách thức khi triển khai kiến ​​trúc microservices. Ví dụ, việc quản lý tính phức tạp của nhiều dịch vụ có thể là một thách thức. Cũng có thể có \"chi phí truyền thông\" (communication overhead), vì nhiều dịch vụ sẽ cần phải giao tiếp với nhau. Quản lý các giao dịch trên nhiều dịch vụ có thể là một thách thức và việc thử nghiệm các dịch vụ riêng lẻ một cách riêng biệt có thể khó khăn.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-05/transition--10266820770-Montserrat-Regular-303F9F.jpg",
+      "audioFilePath": "/app/storage/audio/file-39737753929.mp3"
+    },
+    {
+      "id": "1388315163",
+      "heading": "LOOSE COUPLING",
+      "text": "Một số đặc điểm chính của kiến ​​trúc \"dịch vụ\" siêu nhỏ (services) bao gồm \"liên kết lỏng lẻo\" (loose coupling), trong đó các dịch vụ được thiết kế để độc lập và liên kết lỏng lẻo, cho phép \"linh hoạt hơn\" (greater flexibility) và \"khả năng mở rộng\" (scalability). Mỗi dịch vụ chịu trách nhiệm cho \"hành vi\" (behavior) và khả năng ra quyết định của riêng mình, và các dịch vụ được tổ chức xung quanh \"khả năng kinh doanh\" cụ thể (business capabilities). API đóng vai trò quan trọng trong việc xác định giao diện và hành vi của từng dịch vụ.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-05/transition-1388315163-Montserrat-ExtraBold-7B1FA2.jpg",
+      "audioFilePath": "/app/storage/audio/file-3407869884.mp3"
+    },
+    {
+      "id": "-16529117224",
+      "heading": "SERVICES INDEPENDENTLY",
+      "text": "Vậy, một số ứng dụng thực tế của kiến ​​trúc vi dịch vụ là gì? Ví dụ, Netflix sử dụng kiến ​​trúc vi dịch vụ để cung cấp năng lượng cho \"dịch vụ phát trực tuyến\" (streaming service) của mình, cho phép \"các nhóm khác nhau\" (different teams) \"phát triển và triển khai\" (develop and deploy) \"dịch vụ độc lập\" (services independently). Amazon sử dụng kiến ​​trúc vi dịch vụ để cung cấp năng lượng cho \"nền tảng bán lẻ\" (retail platform) của mình, cho phép \"khả năng mở rộng\" (scalability) và tính linh hoạt cao hơn.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-05/transition--16529117224-Montserrat-Regular-673AB7.jpg",
+      "audioFilePath": "/app/storage/audio/file-15041386560.mp3"
+    },
+    {
+      "id": "-29820529395",
+      "heading": "FLEXIBILITY",
+      "text": "Tóm lại, kiến ​​trúc vi dịch vụ là một phương pháp tiếp cận mạnh mẽ để xây dựng các ứng dụng phần mềm mang lại nhiều lợi ích, bao gồm \"khả năng mở rộng\" (scalability), \"tính linh hoạt\" (flexibility) và \"khả năng phục hồi\" (resilience). Tuy nhiên, nó cũng đặt ra những thách thức, chẳng hạn như \"tính phức tạp\" (complexity), \"chi phí truyền thông\" (communication overhead) và \"khó khăn trong thử nghiệm\" (testing difficulties). Là \"nhà phát triển phần mềm\" (software developers), điều cần thiết là phải hiểu các nguyên tắc của kiến ​​trúc vi dịch vụ và cân nhắc cẩn thận những ưu và nhược điểm khi quyết định có nên áp dụng phương pháp tiếp cận này hay không.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-05/transition--29820529395-Montserrat-Regular-004895.jpg",
+      "audioFilePath": "/app/storage/audio/file-47873663426.mp3"
+    },
+    {
+      "id": "-1377196858",
+      "heading": "INDIVIDUAL SERVICES",
+      "text": "Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về kiến ​​trúc microservices. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận \"thông báo\" (notifications) về \"video mới\" của chúng tôi (new videos).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-05/transition--1377196858-Montserrat-Thin-283593.jpg",
+      "audioFilePath": "/app/storage/audio/file-32944274918.mp3"
+    }
+  ],
+  "categories": [
+    "DevOps",
+    "Cloud Computing"
+  ],
+  "tags": [
+    "#SoftwareDevelopment",
+    "#Technology",
+    "#ApplicationDesign",
+    "#Scalability",
+    "#Flexibility",
+    "#Resilience",
+    "#MonolithicArchitecture",
+    "#IndependentServices",
+    "#MicroservicesBenefits",
+    "#MicroservicesChallenges",
+    "#LooseCoupling",
+    "#APIs",
+    "#Netflix",
+    "#Amazon",
+    "#ServiceOrganization",
+    "#BusinessCapabilities",
+    "#CommunicationProtocols",
+    "#ServiceDecisionMaking",
+    "#MicroservicesAdoption",
+    "#SoftwareDevelopers",
+    "#ProgrammingLanguages",
+    "#TestingMicroservices",
+    "#ComplexityManagement",
+    "#DevOps",
+    "#MicroservicesBestPractices",
+    "#CloudComputing",
+    "#DigitalTransformation",
+    "#SoftwareModernization",
+    "#ServiceMesh",
+    "#DistributedSystems",
+    "#AgileMethodologies",
+    "#Containers",
+    "#Kubernetes",
+    "#Docker",
+    "#ServiceDiscovery",
+    "#LoadBalancing",
+    "#ContinuousIntegration",
+    "#ContinuousDelivery"
+  ],
+  "comments": []
+}

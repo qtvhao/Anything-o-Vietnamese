@@ -1,0 +1,101 @@
+
+---
+
+# Tiêm chủng cho trẻ em: Tại sao chúng quan trọng và những điều bạn cần biết
+
+- Published: August 2, 2024
+- Author: Vietnamese Online Voice
+- Categories: Health / Preventive Care / **Vaccinations**
+- #ChildhoodVaccinations #ChildHealth #Immunizations #VaccineFacts #AutismMyth #VaccineSafety #NaturalImmunity #VaccineEffectiveness #HealthyChildren #WHO #CDC #AAP #PublicHealth #Diphtheria #Tetanus #Pertussis #HaemophilusInfluenzaeTypeb #HepatitisB #HumanPapillomavirus #Influenza #MeningococcalConjugate #Measles #Mumps #Rubella #PneumococcalConjugate #Polio #Rotavirus #Varicella #VaccineSchedule #MythBusting #ImmunizationAlliance #VaccinesWork #HealthProtection #CommunityImmunity #VaccineMyths #VaccineScience #Parenting #ChildCare #Education #KidsHealth #PediatricHealth #SafetyFirst
+
+"Trong video này, diễn giả giới thiệu vai trò của vắc-xin trong việc duy trì sức khỏe và sự an toàn của trẻ em. Vắc-xin đưa vào cơ thể một loại vi-rút hoặc vi khuẩn vô hại, kích thích hệ thống miễn dịch sản xuất kháng thể, do đó bảo vệ sức khỏe của cả cá nhân và cộng đồng. Tổ chức Y tế Thế giới (WHO) và Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC) khuyến nghị lịch tiêm chủng cho trẻ em từ khi sinh ra đến 18 tuổi, bao gồm bảo vệ chống lại các bệnh như bạch hầu, uốn ván, ho gà, Haemophilus influenzae týp b, viêm gan B, vi-rút papilloma ở người, cúm, liên hợp não mô cầu, sởi, quai bị, rubella, liên hợp phế cầu khuẩn, bại liệt, rotavirus và thủy đậu."
+
+
+## VACCINATIONS
+
+Là một giáo viên và nhà giáo dục, tôi đã tận mắt chứng kiến ​​tầm quan trọng của việc giữ cho trẻ em khỏe mạnh và an toàn. Tiêm chủng hoạt động bằng cách đưa một phần nhỏ, vô hại của vi-rút hoặc "vi khuẩn" (bacteria) vào cơ thể, kích thích "hệ thống miễn dịch" (immune system) sản xuất "kháng thể" (antibodies).
+![VACCINATIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--658418884-Montserrat-Thin-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-1793733780.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## VACCINATING CHILDREN
+
+Bằng cách "tiêm chủng cho trẻ em" (vaccinating children), chúng ta không chỉ bảo vệ "sức khỏe cá nhân" (individual health) của các em mà còn bảo vệ sức khỏe của những người xung quanh, bao gồm "thành viên gia đình" (family members), "bạn bè" (friends) và "thành viên cộng đồng" (community members) những người có thể "dễ bị tổn thương" hơn (vulnerable) trước bệnh tật nghiêm trọng.
+![VACCINATING CHILDREN](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--3302575475-Montserrat-ExtraBold-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-14502282513.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## BIRTH TO AGE 18
+
+Tổ chức Y tế Thế giới (WHO) và Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC) khuyến nghị một "lịch trình" (schedule) "tiêm chủng" (vaccinations) cho trẻ em từ "khi mới sinh đến 18 tuổi" (birth to age 18). Lịch trình bao gồm các loại vắc-xin phòng ngừa các bệnh nghiêm trọng như "bạch hầu" (diphtheria), "uốn ván" (tetanus), "ho gà" (pertussis), "viêm màng não mủ" (influenza)e loại b, viêm gan B, "vi-rút papilloma ở người" (human papillomavirus), cúm, "liên hợp não mô cầu" (meningococcal conjugate), "bệnh sởi" (measles), "quai bị" (mumps), "rubella" (rubella), "phế cầu khuẩn liên hợp" (pneumococcal conjugate), "bại liệt" (polio), "rotavirus" (rotavirus) và thủy đậu.
+![BIRTH TO AGE 18](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-53397468881-Montserrat-Regular-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-8078145772.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CHILDHOOD VACCINATIONS
+
+Bất chấp bằng chứng áp đảo ủng hộ "tính an toàn" (safety) và "hiệu quả" (effectiveness) của "vắc-xin" (vaccines), vẫn còn nhiều "lầm tưởng" phổ biến (misconceptions) về "tiêm chủng cho trẻ em" (childhood vaccinations). Sau đây là một số "huyền thoại" (myths) và sự thật vạch trần chúng:
+![CHILDHOOD VACCINATIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--7134854026-Montserrat-ExtraBold-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-9734068356.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## VACCINES CAUSE AUTISM
+
+Huyền thoại: Vắc-xin gây ra chứng tự kỷ. Sự thật: Không có "bằng chứng khoa học" nào (scientific evidence) để hỗ trợ cho tuyên bố rằng "vắc-xin gây ra chứng tự kỷ" (vaccines cause autism). Huyền thoại: Vắc-xin không an toàn. Sự thật: Vắc-xin trải qua quá trình thử nghiệm và đánh giá nghiêm ngặt trước khi được "cấp phép sử dụng" (licensed for use). Tác dụng phụ nghiêm trọng từ vắc-xin là "cực kỳ hiếm" (extremely rare).
+![VACCINES CAUSE AUTISM](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-4245296207-Montserrat-SemiBold-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-25371862235.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## NATURAL IMMUNITY
+
+Huyền thoại: Miễn dịch tự nhiên tốt hơn miễn dịch do vắc-xin tạo ra. Sự thật: Mặc dù đúng là "miễn dịch tự nhiên" (natural immunity) có thể cung cấp khả năng bảo vệ lâu dài chống lại một số bệnh nhất định, nhưng nó thường phải trả giá rất đắt, bao gồm "bệnh nặng" (serious illness), "nhập viện" (hospitalization), và thậm chí là "tử vong" (death).
+![NATURAL IMMUNITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--8654979622-Montserrat-Regular-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-17008285688.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## SERIOUS ILLNESSES
+
+Tiêm chủng cho trẻ em là một phần quan trọng trong việc bảo vệ sức khỏe và hạnh phúc của trẻ em chúng ta. Bằng cách tuân thủ lịch tiêm chủng được khuyến nghị và giải quyết những "quan niệm sai lầm" phổ biến (misconceptions), chúng ta có thể cùng nhau bảo vệ trẻ em khỏi những căn bệnh nghiêm trọng.
+![SERIOUS ILLNESSES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--5272097959-Montserrat-Regular-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-16175431179.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## VACCINES
+
+Để biết thêm tài nguyên và thông tin về tiêm chủng cho trẻ em, hãy truy cập trang web "vắc-xin" của Tổ chức Y tế Thế giới (vaccines), trang web của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh và trang web của Viện Hàn lâm Nhi khoa Hoa Kỳ.
+![VACCINES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-10237897583-Montserrat-ExtraBold-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5525289944.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CHILDHOOD VACCINATIONS
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về tầm quan trọng của "tiêm chủng cho trẻ em" (childhood vaccinations). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận "thông báo" (notifications) về "video mới" của chúng tôi (new videos).
+![CHILDHOOD VACCINATIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-32061120157-Montserrat-Bold-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-12251795658.mp3" type="audio/mpeg">
+</audio>
+

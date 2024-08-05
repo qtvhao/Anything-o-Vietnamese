@@ -1,0 +1,71 @@
+
+---
+
+# Bắt đầu với Git: Hướng dẫn từng bước về cài đặt, cấu hình và thiết lập kho lưu trữ
+
+- Published: August 2, 2024
+- Author: Vietnamese Online Voice
+- Categories: DevOps / Version Control / **Git**
+- #GitSetup #VersionControl #CommandLine #Windows #macOS #Linux #GitInstallation #GitConfiguration #LocalRepository #RemoteRepository #GitHub #GitLab #Bitbucket #Collaboration #CodeManagement #GitTutorial #GitBasics #GitVersion #TextEditor #Terminal #PracticeGit #GitInit #Coding #Programming #OpenSource #Developers #TechTutorial #ProgrammingTutorial #CodingTutorial #SoftwareDevelopment #VersionControlSystem #GitWorkflow #GitCommand #GitProject
+
+"Trong video này, hãy tìm hiểu cách thiết lập và cấu hình Git trên máy tính của bạn. Chúng tôi thảo luận về những lợi ích khi sử dụng Git, tạo kho lưu trữ cục bộ và từ xa trên các nền tảng như GitHub, GitLab hoặc Bitbucket. Video hướng đến các nhà nghiên cứu có hiểu biết cơ bản về giao diện dòng lệnh và trình soạn thảo văn bản. Quá trình cài đặt dành cho người dùng Windows, macOS và Linux được trình bày. Git được cấu hình bằng các lệnh để thay thế 'Tên của bạn' và 'your\_email@example.com' bằng các chi tiết thực tế. Để biết hướng dẫn chi tiết, hãy xem video."
+
+
+## SETTING UP GIT
+
+Trong video này, tôi sẽ hướng dẫn bạn quy trình thiết lập Git trên máy tính của bạn và "cấu hình" (configuring) để sử dụng. Chúng tôi cũng sẽ đề cập đến những lợi ích của việc sử dụng Git, tạo kho lưu trữ Git cục bộ và thiết lập "kho lưu trữ từ xa" (remote repository) trên nền tảng như GitHub, GitLab hoặc Bitbucket.
+![SETTING UP GIT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-14537763319-Montserrat-Bold-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-2867747003.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## GIT
+
+Để bắt đầu, bạn sẽ cần một máy tính có kết nối internet, hiểu biết cơ bản về giao diện dòng lệnh và "trình soạn thảo văn bản" (text editor) tùy theo lựa chọn của bạn. Chúng ta hãy bắt đầu với quá trình cài đặt. Đối với người dùng Windows, hãy tải xuống trình cài đặt Git từ trang web chính thức của Git và làm theo hướng dẫn cài đặt. Đối với người dùng macOS, hãy mở ứng dụng Terminal và nhập git --version. Nếu Git chưa được cài đặt, bạn sẽ được nhắc cài đặt. Làm theo hướng dẫn cài đặt để cài đặt Git trên máy tính của bạn. Đối với người dùng Linux, hãy mở ứng dụng Terminal và nhập sudo apt-get "install git" (install git) hoặc "sudo yum install git" (sudo yum install git).
+![GIT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--5814553907-Montserrat-Thin-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-4425139069.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CONFIGURING
+
+Sau khi Git được cài đặt, bạn sẽ cần "cấu hình" (configure) để sử dụng trên máy tính của mình. Mở ứng dụng Terminal và nhập "lệnh" sau (commands):. Thay thế "Tên của bạn" và "your\_email@example.com" bằng "tên" thực tế của bạn (name) và "địa chỉ email" (email address).
+![CONFIGURING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--20190692844-Montserrat-Medium-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-27509474694.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## LOCAL GIT REPOSITORY
+
+Sau khi cấu hình Git, bạn có thể tạo kho lưu trữ Git cục bộ bằng cách điều hướng đến thư mục nơi bạn muốn lưu trữ các tệp dự án của mình và nhập lệnh sau: "git init" (git init).. Nếu bạn muốn "hợp tác" (collaborate) với những người khác trong dự án của mình hoặc lưu trữ các tệp dự án của mình trên "máy chủ từ xa" (remote server), bạn sẽ cần tạo kho lưu trữ Git trên một nền tảng như GitHub, GitLab hoặc Bitbucket. Làm theo hướng dẫn trên nền tảng đã chọn để tạo kho lưu trữ mới.
+![LOCAL GIT REPOSITORY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-11499218123-Montserrat-Bold-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-23663771659.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## SET UP GIT
+
+Vậy là xong! Bạn đã thiết lập thành công Git trên máy tính của mình. Sau khi cài đặt và cấu hình Git, giờ đây bạn có thể bắt đầu quản lý mã của mình và cộng tác với những người khác. Hãy nhớ thực hành sử dụng Git bằng cách tạo "kho lưu trữ mới" (new repository) và thực hiện một số thay đổi cho mã của bạn. Trong video tiếp theo, chúng tôi sẽ đề cập đến những điều cơ bản về việc sử dụng Git để quản lý mã của bạn.
+![SET UP GIT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--15956291789-Montserrat-Thin-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-13674925979.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## COMMENTS
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video hữu ích và hiểu sâu hơn về cách thiết lập Git. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi. Hẹn gặp lại các bạn vào lần sau, chúc các bạn lập trình vui vẻ!
+![COMMENTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--4147540120-Montserrat-Black-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-51808373769.mp3" type="audio/mpeg">
+</audio>
+

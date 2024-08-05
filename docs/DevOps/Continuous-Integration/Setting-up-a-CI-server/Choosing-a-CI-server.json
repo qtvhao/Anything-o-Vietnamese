@@ -1,0 +1,72 @@
+{
+  "id": "6541819960",
+  "titles": [
+    "CI Server Showdown: Đánh giá các lựa chọn của bạn"
+  ],
+  "topic": "Choosing a CI server",
+  "title": "CI Server Showdown: Đánh giá các lựa chọn của bạn",
+  "description": "\"Trong video này, người thuyết trình giới thiệu các máy chủ Tích hợp liên tục (CI) và vai trò của chúng trong phát triển phần mềm. Các máy chủ CI, chẳng hạn như Jenkins, Travis CI, CircleCI, GitLab CI/CD và TeamCity, tự động hóa việc xây dựng, thử nghiệm và xác minh các thay đổi mã, đảm bảo chất lượng mã và hợp lý hóa quá trình phát triển. Khi lựa chọn máy chủ CI, hãy cân nhắc đến tính dễ sử dụng, khả năng mở rộng, tích hợp, bảo mật, khả năng tùy chỉnh và hỗ trợ. Điều quan trọng là phải nghiên cứu, so sánh và thử các tùy chọn, đồng thời tham khảo ý kiến ​​của các thành viên trong nhóm trước khi đưa ra quyết định. Bằng cách đánh giá cẩn thận các tùy chọn máy chủ CI, các nhóm có thể cải thiện quy trình phát triển và giảm lỗi.\"",
+  "author": "Vietnamese Online Voice",
+  "date": "August 2, 2024",
+  "content": [
+    {
+      "id": "26196772095",
+      "heading": "CONTINUOUS INTEGRATION",
+      "text": "Trong \"phát triển phần mềm\" (software development), Tích hợp liên tục đóng vai trò quan trọng trong việc duy trì \"chất lượng mã\" (code quality) và hợp lý hóa quy trình phát triển. Máy chủ CI \"tự động hóa\" (automates) việc xây dựng, thử nghiệm và xác minh \"thay đổi mã\" (code changes), biến nó thành \"thành phần chính\" (key component) của CI. Tuy nhiên, việc chọn \"thành phần phù hợp\" (right one) cho \"nhóm\" của bạn (team) không phải lúc nào cũng là một nhiệm vụ đơn giản.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-02/transition-26196772095-Montserrat-Bold-004895.jpg",
+      "audioFilePath": "/app/storage/audio/file-26953438786.mp3"
+    },
+    {
+      "id": "-18248367128",
+      "heading": "CHOOSING A CI SERVER",
+      "text": "Khi lựa chọn máy chủ CI, hãy cân nhắc các yếu tố như \"dễ sử dụng\" (ease of use), \"khả năng mở rộng\" (scalability), \"tích hợp\" (integration), \"bảo mật\" (security), \"khả năng tùy chỉnh\" (customizability) và \"hỗ trợ\" (support). Các tùy chọn máy chủ CI phổ biến bao gồm Jenkins, Travis CI, CircleCI, GitLab CI/CD và TeamCity. Điều quan trọng là phải đánh giá từng tùy chọn dựa trên \"nhu cầu cụ thể của nhóm\" (team's specific needs) và các yêu cầu.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-02/transition--18248367128-Montserrat-Thin-673AB7.jpg",
+      "audioFilePath": "/app/storage/audio/file-33289583047.mp3"
+    },
+    {
+      "id": "-20545897632",
+      "heading": "CONTINUOUS INTEGRATION",
+      "text": "Để đảm bảo bạn đưa ra quyết định tốt nhất, hãy nghiên cứu và so sánh các tùy chọn, \"thử trước khi mua\" (try before you buy) và tham khảo ý kiến ​​các thành viên trong nhóm của bạn. Bằng cách cân nhắc các yếu tố này và khám phá các tùy chọn khả dụng, bạn có thể chọn máy chủ CI giúp hợp lý hóa \"quy trình phát triển\" (development workflow) và cải thiện \"chất lượng mã\" (code quality), \"giảm lỗi\" (reducing errors) trong quá trình này.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-02/transition--20545897632-Montserrat-Black-1A237E.jpg",
+      "audioFilePath": "/app/storage/audio/file-14276909599.mp3"
+    },
+    {
+      "id": "3661230932",
+      "heading": "CI SERVER",
+      "text": "Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video hữu ích và hiểu sâu hơn về tầm quan trọng của việc lựa chọn máy chủ CI phù hợp cho nhóm của bạn. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-02/transition-3661230932-Montserrat-Thin-7B1FA2.jpg",
+      "audioFilePath": "/app/storage/audio/file-22530124128.mp3"
+    }
+  ],
+  "categories": [
+    "DevOps",
+    "Continuous Integration",
+    "Setting up a CI server"
+  ],
+  "tags": [
+    "#CIServer",
+    "#SoftwareDevelopment",
+    "#CodeQuality",
+    "#DevOps",
+    "#Automation",
+    "#Jenkins",
+    "#TravisCI",
+    "#CircleCI",
+    "#TeamCity",
+    "#EaseOfUse",
+    "#Scalability",
+    "#Integration",
+    "#Security",
+    "#Customizability",
+    "#Support",
+    "#CodeTesting",
+    "#Verification",
+    "#StreamlinedWorkflow",
+    "#ImprovedCodeQuality",
+    "#ReducingErrors",
+    "#Research",
+    "#CompareOptions",
+    "#ConsultTeamMembers"
+  ],
+  "comments": []
+}

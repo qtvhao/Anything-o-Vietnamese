@@ -1,0 +1,136 @@
+{
+  "id": "-35527671602",
+  "titles": [
+    "Chuyển sang trái: Tích hợp bảo mật vào quy trình DevOps của bạn"
+  ],
+  "topic": "DevOps Security Practices",
+  "title": "Chuyển sang trái: Tích hợp bảo mật vào quy trình DevOps của bạn",
+  "description": "\"Trong video này, trọng tâm là tầm quan trọng của các hoạt động bảo mật DevOps đối với các tổ chức. DevOps, sự kết hợp giữa phát triển phần mềm và vận hành, nâng cao tốc độ, chất lượng và độ tin cậy của các bản phát hành phần mềm bằng cách thúc đẩy sự hợp tác giữa các nhà phát triển, kỹ sư đảm bảo chất lượng và nhóm vận hành. Tuy nhiên, bảo mật không thể bị bỏ qua trong quy trình DevOps. Trong kỷ nguyên tích hợp và triển khai liên tục (CI/CD) hiện nay, bảo mật phải là một phần không thể thiếu của DevOps. Các hoạt động DevOps an toàn đảm bảo tốc độ, chất lượng và độ tin cậy của các bản phát hành phần mềm mà không ảnh hưởng đến bảo mật.\" \"Các sếp có thể xem video hướng dẫn chi tiết ở phía dưới nhé.\"",
+  "author": "Vietnamese Online Voice",
+  "date": "August 4, 2024",
+  "content": [
+    {
+      "id": "-664157055",
+      "heading": "DEVOPS SECURITY PRACTICES",
+      "text": "Hôm nay, chúng ta sẽ khám phá thế giới thực hành bảo mật DevOps và tìm hiểu lý do tại sao việc \"tích hợp bảo mật\" (integrate security) vào quy trình DevOps lại rất quan trọng đối với các tổ chức để đảm bảo tốc độ, chất lượng và độ tin cậy của \"bản phát hành phần mềm\" (software releases).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-04/transition--664157055-Montserrat-SemiBold-880E4F.jpg",
+      "audioFilePath": "/app/storage/audio/file-19150947225.mp3"
+    },
+    {
+      "id": "-16771928888",
+      "heading": "DEVOPS",
+      "text": "Vậy, DevOps là gì? DevOps là một tập hợp các hoạt động kết hợp \"phát triển phần mềm\" (software development) và \"hoạt động\" (operations) để cải thiện tốc độ, chất lượng và độ tin cậy của các bản phát hành phần mềm. Tất cả là về việc phá vỡ \"các silo\" (silos) và thúc đẩy \"sự hợp tác\" (collaboration) giữa các nhà phát triển, kỹ sư đảm bảo chất lượng và nhóm hoạt động để \"cung cấp phần mềm\" (deliver software) \"nhanh hơn\" (faster) và \"hiệu quả hơn\" (more efficiently).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-04/transition--16771928888-Montserrat-Medium-4A148C.jpg",
+      "audioFilePath": "/app/storage/audio/file-16666826200.mp3"
+    },
+    {
+      "id": "16745796199",
+      "heading": "SECURITY IN DEVOPS",
+      "text": "Bây giờ chúng ta đã hiểu khái niệm DevOps, hãy nói về bảo mật trong DevOps. Khi \"phát triển phần mềm\" (software development) ngày càng trở nên nhanh chóng và thường xuyên hơn, bảo mật đôi khi có thể bị xếp sau. Tuy nhiên, đây là một công thức cho thảm họa. Bảo mật không còn là một thực thể riêng biệt có thể được bổ sung vào cuối quá trình phát triển. Trong thế giới \"tích hợp liên tục\" (continuous integration) và \"triển khai liên tục\" (continuous deployment) (CI/CD) ngày nay, bảo mật phải là một phần không thể thiếu của quy trình DevOps.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-04/transition-16745796199-Montserrat-Bold-7B1FA2.jpg",
+      "audioFilePath": "/app/storage/audio/file-11582974734.mp3"
+    },
+    {
+      "id": "-56497675875",
+      "heading": "SECURITY INTEGRATION",
+      "text": "Vậy, một số thực hành bảo mật DevOps thiết yếu mà các tổ chức nên áp dụng là gì? Thực hành quan trọng đầu tiên và quan trọng nhất là \"chuyển sang trái\" (shift left). Bảo mật nên được tích hợp vào \"quy trình phát triển\" (development process) ngay từ đầu. Điều này có nghĩa là liên quan đến \"chuyên gia bảo mật\" (security experts) trong \"giai đoạn thiết kế\" (design phase), tiến hành \"đánh giá mã\" thường xuyên (code reviews) và sử dụng các thực hành mã hóa an toàn.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-04/transition--56497675875-Montserrat-Thin-1A237E.jpg",
+      "audioFilePath": "/app/storage/audio/file-1243256182.mp3"
+    },
+    {
+      "id": "-7586171222",
+      "heading": "STATIC CODE ANALYSIS",
+      "text": "Thực hành thứ hai là tự động hóa thử nghiệm bảo mật. Thử nghiệm bảo mật tự động phải là một phần của quy trình CI/CD. Điều này bao gồm \"phân tích mã tĩnh\" (static code analysis), quét lỗ hổng động và \"thử nghiệm thâm nhập\" (penetration testing).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-04/transition--7586171222-Montserrat-Thin-4A148C.jpg",
+      "audioFilePath": "/app/storage/audio/file-23431088883.mp3"
+    },
+    {
+      "id": "18400842373",
+      "heading": "MONITORING AND LOGGING",
+      "text": "Thực hành thứ ba là giám sát và ghi nhật ký. Nhật ký và giám sát rất quan trọng để phát hiện \"sự cố bảo mật\" (security incidents) và \"bất thường\" (anomalies). Đảm bảo rằng \"công cụ giám sát\" (monitoring tools) của bạn được tích hợp với hệ thống quản lý sự kiện và thông tin bảo mật (SIEM) của bạn.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-04/transition-18400842373-Montserrat-Thin-283593.jpg",
+      "audioFilePath": "/app/storage/audio/file-19180999007.mp3"
+    },
+    {
+      "id": "11663055424",
+      "heading": "CONTAINER SECURITY",
+      "text": "Thực hành thứ tư là \"bảo mật container\" (container security). Với việc sử dụng ngày càng nhiều \"container\" (containers) trong DevOps, bảo mật container là rất quan trọng. Đảm bảo rằng container được quét để tìm \"lỗ hổng\" (vulnerabilities) và quyền truy cập bị hạn chế khi sử dụng các nền tảng container hóa như Docker.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-04/transition-11663055424-Montserrat-Black-4A148C.jpg",
+      "audioFilePath": "/app/storage/audio/file-15659644784.mp3"
+    },
+    {
+      "id": "10806742981",
+      "heading": "SECRET MANAGEMENT",
+      "text": "Thực hành thứ năm là \"quản lý bí mật\" (secret management). Dữ liệu nhạy cảm, chẳng hạn như khóa API và \"mật khẩu\" (passwords), phải được lưu trữ an toàn bằng các công cụ quản lý bí mật như HashiCorp's Vault hoặc Google Cloud Secret Manager. Thực hành thứ sáu là \"tuân thủ liên tục\" (continuous compliance). Đảm bảo rằng đường ống DevOps của bạn \"tuân thủ\" (compliant) với \"quy định bảo mật\" có liên quan (security regulations), chẳng hạn như GDPR, HIPAA và SOC 2.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-04/transition-10806742981-Montserrat-Medium-283593.jpg",
+      "audioFilePath": "/app/storage/audio/file-3234496213.mp3"
+    },
+    {
+      "id": "42738166801",
+      "heading": "SECURITY TRAINING",
+      "text": "Thực hành cuối cùng là \"đào tạo bảo mật\" (security training). Các nhà phát triển, \"nhóm vận hành\" (ops teams) và \"chuyên gia bảo mật\" (security experts) nên tham gia đào tạo bảo mật thường xuyên để cập nhật \"các mối đe dọa mới nhất\" (latest threats) và \"thực hành tốt nhất\" (best practices). Một số công ty đáng chú ý đã triển khai thành công các thực hành bảo mật DevOps, bao gồm Netflix và Amazon Web Services (AWS). Netflix sử dụng phương pháp \"bảo mật dưới dạng mã\", trong đó bảo mật được tích hợp vào quy trình CI/CD của họ thông qua \"kiểm tra tự động\" (automated testing) và \"giám sát\" (monitoring). Amazon Web Services (AWS) sử dụng \"tự động hóa\" (automation) để quét \"lỗ hổng\" (vulnerabilities) và \"cấu hình sai\" (misconfigurations) trong cơ sở hạ tầng đám mây của họ.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-04/transition-42738166801-Montserrat-Bold-004895.jpg",
+      "audioFilePath": "/app/storage/audio/file-8900774019.mp3"
+    },
+    {
+      "id": "-18129713954",
+      "heading": "DEVOPS PIPELINE",
+      "text": "Tóm lại, các biện pháp bảo mật DevOps rất quan trọng để bảo vệ \"ứng dụng phần mềm\" (software applications) khỏi \"các mối đe dọa hiện đại\" (modern threats). Bằng cách tích hợp bảo mật vào mọi giai đoạn của quy trình DevOps, các tổ chức có thể đảm bảo tốc độ, chất lượng và độ tin cậy của các bản phát hành phần mềm của họ. Là những chuyên gia CNTT tương lai, điều cần thiết là bạn phải hiểu tầm quan trọng của bảo mật DevOps và áp dụng \"các biện pháp thực hành tốt nhất\" (best practices) để luôn dẫn đầu.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-04/transition--18129713954-Montserrat-Medium-9C27B0.jpg",
+      "audioFilePath": "/app/storage/audio/file-11826207326.mp3"
+    },
+    {
+      "id": "8121376916",
+      "heading": "DEVOPS SECURITY PRACTICES",
+      "text": "Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video hữu ích và hiểu sâu hơn về tầm quan trọng của các hoạt động bảo mật DevOps. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-04/transition-8121376916-Montserrat-SemiBold-880E4F.jpg",
+      "audioFilePath": "/app/storage/audio/file-22419914203.mp3"
+    }
+  ],
+  "categories": [
+    "DevOps",
+    "Security in DevOps",
+    "Supply Chain Security"
+  ],
+  "tags": [
+    "#DevOpsSecurity",
+    "#SecurityPractices",
+    "#SoftwareRelease",
+    "#DevOpsPipeline",
+    "#SpeedQualityReliability",
+    "#SoftwareDevelopment",
+    "#Operations",
+    "#Collaboration",
+    "#BreakingSilos",
+    "#ContinuousIntegration",
+    "#ContinuousDeployment",
+    "#ShiftLeft",
+    "#SecureCodingPractices",
+    "#CodeReviews",
+    "#AutomatedSecurityTesting",
+    "#StaticCodeAnalysis",
+    "#DynamicVulnerabilityScanning",
+    "#PenetrationTesting",
+    "#Monitoring",
+    "#Logging",
+    "#ContainerSecurity",
+    "#Docker",
+    "#SecretManagement",
+    "#HashiCorp",
+    "#GoogleCloud",
+    "#ContinuousCompliance",
+    "#GDPR",
+    "#HIPAA",
+    "#SOC2",
+    "#SecurityTraining",
+    "#Netflix",
+    "#AmazonWebServices",
+    "#AWS",
+    "#SecurityasaCode",
+    "#CloudInfrastructure",
+    "#ModernThreats",
+    "#FutureITProfessionals",
+    "#BestPractices"
+  ],
+  "comments": []
+}

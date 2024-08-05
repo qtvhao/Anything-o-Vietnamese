@@ -1,0 +1,61 @@
+
+---
+
+# Mở khóa sự linh hoạt của bạn: Hướng dẫn cho người mới bắt đầu về bài tập kéo giãn tĩnh
+
+- Published: August 2, 2024
+- Author: Vietnamese Online Voice
+- Categories: Health / Fitness and Exercise / **Flexibility & Balance**
+- #stretchingexercise #flexibility #preventinjuries #improveperformance #reducemusclesoreness #warmup #lightcardio #dynamicstretching #bloodflow #hamstrings #quadriceps #hipflexors #lowerback #standinghamstringstretch #quadstretch #comfortablerange #nomusclepain #efficientmovement #reducelesoreness #bestperformance
+
+"Video này giới thiệu về động tác kéo giãn tĩnh, một bài tập liên quan đến việc giữ tư thế kéo giãn trong một khoảng thời gian. Thực hành thường xuyên giúp tăng tính linh hoạt, ngăn ngừa chấn thương, cải thiện hiệu suất và giảm đau nhức cơ. Bắt đầu bằng bài tập tim mạch nhẹ hoặc kéo giãn động để lưu thông máu trong cơ. Tập trung vào các nhóm cơ chính, giữ mỗi động tác kéo giãn trong 15-30 giây. Ví dụ bao gồm động tác kéo giãn gân kheo khi đứng (hai chân rộng bằng vai, cúi về phía trước ở hông) và động tác kéo giãn cơ tứ đầu (đứng một tay dựa vào tường, nhấc một chân ra sau, nắm lấy mắt cá chân bằng tay). Các nhà nghiên cứu có thể xem hướng dẫn chi tiết bên dưới."
+
+
+## STATIC STRETCHING
+
+Kéo giãn tĩnh là một loại bài tập kéo giãn liên quan đến việc "giữ tư thế kéo giãn" (holding a stretch) trong một "khoảng thời gian" (period of time). Với việc luyện tập thường xuyên, bạn có thể tận hưởng "sự linh hoạt tăng lên" (increased flexibility), "ngăn ngừa chấn thương" (prevent injuries), "cải thiện hiệu suất" (improve performance) và thậm chí giảm đau nhức cơ.
+![STATIC STRETCHING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--18166229321-Montserrat-Bold-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-8290308687.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## DYNAMIC STRETCHING
+
+Để bắt đầu, hãy khởi động bằng một số bài tập "tim mạch" nhẹ (cardio) hoặc "kéo giãn động" (dynamic stretching) để tăng lưu lượng máu đến các cơ. Tập trung vào "các nhóm cơ chính" (major muscle groups) như "gân kheo" (hamstrings), "cơ tứ đầu" (quadriceps), "cơ gấp hông" (hip flexors) và "lưng dưới" (lower back), và giữ nguyên mỗi động tác kéo giãn trong 15-30 giây.
+![DYNAMIC STRETCHING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--1416255984-Montserrat-Black-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-18525431147.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## HAMSTRING STRETCH
+
+Để thực hiện động tác "kéo giãn gân kheo" khi đứng (hamstring stretch), đứng với hai chân rộng bằng vai, sau đó "cúi người về phía trước" (bend forward) ở "hông" (hips) để kéo giãn phần sau của chân. Sau đây là một ví dụ về động tác "kéo giãn cơ tứ đầu" (quad stretch), động tác này nhắm vào phần trước của chân. Đứng với một tay dựa vào tường, nhấc một "chân ra sau" (leg behind you) và nắm lấy "mắt cá chân" bằng tay (ankle with your hand) để kéo giãn.
+![HAMSTRING STRETCH](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-36209327714-Montserrat-Bold-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-4518124481.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## DAILY ROUTINE
+
+Đừng ép bản thân quá sức – điều cần thiết là phải kéo giãn trong "phạm vi thoải mái" (comfortable range) và tránh cảm thấy đau hoặc khó chịu. Bằng cách kết hợp "kéo giãn tĩnh" (static stretching) vào "thói quen hàng ngày" (daily routine), bạn sẽ có thể di chuyển hiệu quả hơn, giảm "đau nhức cơ" (muscle soreness) và đạt hiệu suất tốt nhất.
+![DAILY ROUTINE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-37498425541-Montserrat-Black-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-19579280983.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PREVENT INJURIES
+
+Vì vậy, hãy dành vài phút mỗi ngày để giãn cơ và tận hưởng "lợi ích" (benefits) của "bài tập giãn cơ tĩnh" (static stretching)!
+![PREVENT INJURIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--350592044-Montserrat-Regular-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-8589541857.mp3" type="audio/mpeg">
+</audio>
+

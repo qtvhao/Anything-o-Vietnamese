@@ -1,0 +1,71 @@
+
+---
+
+# Phá vỡ sự im lặng: Đối phó với chứng trầm cảm và lo âu
+
+- Published: August 2, 2024
+- Author: Vietnamese Online Voice
+- Categories: Health / Geriatric Health / **Mental Health and Aging**
+- #Anxiety #MentalHealth #MentalHealthAwareness #Sadness #Hopelessness #LossOfInterest #Wellbeing #MentalHealthCondition #PersistentFeelings #EmotionalState #PhysicalSymptoms #ChangesInAppetite #SleepPatterns #EnergyLevels #Challenges #StayFocused #Motivated #Engaged #DailyActivities #Relationships #Worry #Nervousness #Fear #PersistentWorry #Restlessness #Irritability #DifficultySleeping #Concentrating #CopingStrategies #TalkToSomeone #TrustedFriend #FamilyMember #Teacher #Exercise #Endorphins #RelaxationTechniques #Meditation #DeepBreathing #Sleep #SchoolCounselors #NationalHelplines #MentalHealthProfessional #Treatable #ReachOut #Support #WellbeingPriority #MentalHealthIssues
+
+"Trong video này, tôi sẽ giới thiệu về chứng trầm cảm và lo âu, bao gồm các triệu chứng và tác động của chúng đến sức khỏe tinh thần và thể chất. Trầm cảm là tình trạng sức khỏe tinh thần đặc trưng bởi nỗi buồn dai dẳng và mất hứng thú với các hoạt động, trong khi lo âu là cảm giác lo lắng hoặc sợ hãi dai dẳng và áp đảo. Cả hai đều có thể ảnh hưởng đến các hoạt động và mối quan hệ hàng ngày. Các chiến lược đối phó hiệu quả bao gồm nói chuyện với ai đó, tập thể dục, thực hành các kỹ thuật thư giãn và đảm bảo ngủ đủ giấc. Các nhà nghiên cứu có thể xem hướng dẫn chi tiết bên dưới."
+
+
+## DEPRESSION
+
+Trầm cảm là một tình trạng sức khỏe tâm thần đặc trưng bởi cảm giác buồn bã, tuyệt vọng dai dẳng và mất hứng thú với các hoạt động từng mang lại niềm vui. Trầm cảm không chỉ là tâm trạng xấu tạm thời – mà là trạng thái cảm xúc dai dẳng có thể ảnh hưởng đến sức khỏe tổng thể của bạn. Nó cũng có thể biểu hiện về mặt thể chất, chẳng hạn như thay đổi về cảm giác thèm ăn, thói quen ngủ hoặc mức năng lượng. Nó có thể khiến bạn khó tập trung, có động lực và tham gia vào các hoạt động và mối quan hệ hàng ngày.
+![DEPRESSION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-9325726188-Montserrat-Regular-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-69023682808.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## ANXIETY
+
+Ngược lại, lo âu là cảm giác lo lắng, căng thẳng hoặc sợ hãi dai dẳng và quá mức. Nó có thể gây ra "các triệu chứng về thể chất" (physical symptoms) như "nhịp tim nhanh" (rapid heartbeat), "đổ mồ hôi" (sweating) hoặc "run rẩy" (trembling). Lo âu cũng có thể gây ra các triệu chứng như lo lắng hoặc sợ hãi dai dẳng, "bồn chồn" (restlessness), "cáu kỉnh" (irritability), "khó ngủ" (difficulty sleeping) hoặc "tập trung" (concentrating).
+![ANXIETY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-7579715590-Montserrat-SemiBold-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-7060447845.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## DEPRESSION AND ANXIETY
+
+Kiểm soát "trầm cảm" (depression) và "lo lắng" (anxiety) có vẻ khó khăn, nhưng có nhiều cách hiệu quả để "đối phó" (cope) với chúng. Sau đây là một số "chiến lược" (strategies) có thể giúp ích: Nói chuyện với ai đó - chia sẻ cảm xúc của bạn với một người bạn đáng tin cậy, thành viên gia đình hoặc giáo viên. Tập thể dục thường xuyên để giải phóng "endorphin" (endorphins), thực hành "các kỹ thuật thư giãn" (relaxation techniques) như "thiền" (meditation) và "hít thở sâu" (deep breathing), và đảm bảo ngủ đủ giấc mỗi đêm.
+![DEPRESSION AND ANXIETY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-727760503-Montserrat-Bold-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5558161116.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## MENTAL HEALTH
+
+Hãy nhớ rằng, bạn không đơn độc và có sự trợ giúp. "Cố vấn" của trường (counselors) và "đường dây trợ giúp quốc gia" (national helplines) là những nguồn lực mà học sinh có thể tìm đến để được "hỗ trợ" (support). Nếu các triệu chứng của bạn vẫn tiếp diễn hoặc trở nên tồi tệ hơn, hãy cân nhắc tìm kiếm sự trợ giúp từ một chuyên gia "sức khỏe tâm thần" (mental health).
+![MENTAL HEALTH](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--28393963463-Montserrat-ExtraBold-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-42358513458.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## MENTAL HEALTH ISSUES
+
+Trầm cảm và "lo lắng" (anxiety) là những "vấn đề sức khỏe tâm thần" nghiêm trọng (mental health issues), nhưng chúng "có thể điều trị được" (treatable). Hãy tìm đến người mà bạn tin tưởng nếu bạn đang "vật lộn" (struggling). "Sức khỏe" của bạn (well-being) là ưu tiên hàng đầu của chúng tôi và chúng tôi ở đây để "hỗ trợ" (support) bạn trong mọi bước đi.
+![MENTAL HEALTH ISSUES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-49964120825-Montserrat-Regular-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-2309594140.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## MENTAL HEALTH AND AGING
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về "trầm cảm" (depression) và "lo lắng" (anxiety). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![MENTAL HEALTH AND AGING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--2490133866-Montserrat-ExtraBold-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-13547097891.mp3" type="audio/mpeg">
+</audio>
+

@@ -1,0 +1,83 @@
+{
+  "id": "-136685340837",
+  "titles": [
+    "Mở khóa hiệu quả: Hiểu về công cụ xây dựng trong phát triển phần mềm"
+  ],
+  "topic": "Build tools",
+  "title": "Mở khóa hiệu quả: Hiểu về công cụ xây dựng trong phát triển phần mềm",
+  "description": "\"Video này giới thiệu nhiều công cụ xây dựng khác nhau, chức năng của chúng và vai trò của chúng trong tự động hóa xây dựng. Các công cụ phổ biến như Apache Ant, Maven và Gradle được thảo luận, nêu bật những lợi thế trong phát triển phần mềm. Lợi ích của các công cụ xây dựng bao gồm hiệu quả tăng lên, tính nhất quán, triển khai nhanh hơn và cộng tác. Hoạt ảnh và hình ảnh minh họa cách các công cụ xây dựng chuyển đổi các đoạn mã thành các ứng dụng phần mềm hoàn chỉnh. Video này nhằm mục đích cung cấp hiểu biết toàn diện về tác động của tự động hóa xây dựng đối với phát triển phần mềm.\"",
+  "author": "Vietnamese Online Voice",
+  "date": "August 2, 2024",
+  "content": [
+    {
+      "id": "-23808097118",
+      "heading": "BUILD TOOLS",
+      "text": "Trong video này, tôi sẽ khám phá các loại \"công cụ xây dựng\" khác nhau (build tools), các chức năng cụ thể của chúng và cách chúng hoạt động cùng nhau trong quy trình \"tự động hóa xây dựng\" (build automation). Tôi cũng sẽ nêu bật các công cụ xây dựng phổ biến như Apache Ant, Apache Maven và Gradle, cùng với các công cụ khác và thảo luận về các lợi thế của chúng trong \"phát triển phần mềm\" (software development).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-02/transition--23808097118-Montserrat-Black-4A148C.jpg",
+      "audioFilePath": "/app/storage/audio/file-4775603359.mp3"
+    },
+    {
+      "id": "-24576826238",
+      "heading": "INCREASED EFFICIENCY",
+      "text": "Bằng cách khai thác sức mạnh của \"công cụ xây dựng\" (build tools), \"nhà phát triển\" (developers) có thể tận hưởng nhiều lợi ích, chẳng hạn như \"hiệu quả tăng lên\" (increased efficiency), \"tính nhất quán\" được cải thiện (consistency), \"triển khai nhanh hơn\" (faster deployment) và \"hợp tác tốt hơn\" (better collaboration). Các công cụ này giúp hợp lý hóa quy trình phát triển, \"giảm lỗi\" (reduce errors) và cuối cùng tạo ra các sản phẩm phần mềm chất lượng tốt hơn cho người dùng cuối.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-02/transition--24576826238-Montserrat-Regular-7B1FA2.jpg",
+      "audioFilePath": "/app/storage/audio/file-37775075345.mp3"
+    },
+    {
+      "id": "-31071987419",
+      "heading": "BUILD AUTOMATION",
+      "text": "Trong suốt video này, tôi sẽ hướng dẫn bạn qua các hình ảnh động và hình ảnh hấp dẫn để giúp minh họa cách \"công cụ xây dựng\" (build tools) phát huy tác dụng kỳ diệu của chúng, biến \"đoạn mã\" (code snippets) thành \"ứng dụng phần mềm\" hoàn chỉnh (software application). Mục tiêu của tôi là cung cấp cho bạn hiểu biết toàn diện về \"tự động hóa xây dựng\" (build automation) và cách nó ảnh hưởng đến bối cảnh phát triển phần mềm.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-02/transition--31071987419-Montserrat-Black-9C27B0.jpg",
+      "audioFilePath": "/app/storage/audio/file-8626579416.mp3"
+    },
+    {
+      "id": "36566224110",
+      "heading": "SOFTWARE DEVELOPER",
+      "text": "Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy hữu ích và hiểu sâu hơn về \"công cụ xây dựng\" (build tools) trong \"tự động hóa xây dựng\" (build automation). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận \"thông báo\" (notifications) về các video và \"nội dung\" mới của chúng tôi (content). Hãy sẵn sàng khám phá thế giới hấp dẫn của tự động hóa xây dựng, tìm hiểu về công cụ xây dựng và trở thành một \"nhà phát triển phần mềm\" có kỹ năng và hiểu biết hơn (software developer). Hãy cùng khám phá!",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-02/transition-36566224110-Montserrat-SemiBold-9C27B0.jpg",
+      "audioFilePath": "/app/storage/audio/file-8362133558.mp3"
+    }
+  ],
+  "categories": [
+    "DevOps",
+    "Continuous Integration",
+    "Build automation"
+  ],
+  "tags": [
+    "#buildautomation",
+    "#softwaredevelopment",
+    "#ApacheAnt",
+    "#ApacheMaven",
+    "#Gradle",
+    "#codebuild",
+    "#efficiency",
+    "#consistency",
+    "#fasterdeployment",
+    "#collaboration",
+    "#streamline",
+    "#reduceerrors",
+    "#qualitysoftware",
+    "#animations",
+    "#visuals",
+    "#codedevelopment",
+    "#softwareengineering",
+    "#devops",
+    "#programming",
+    "#techtrends",
+    "#automation",
+    "#tools",
+    "#coding",
+    "#developers",
+    "#snippets",
+    "#completesoftware",
+    "#endusers",
+    "#influence",
+    "#landscape",
+    "#softwareengineer",
+    "#programminglanguage",
+    "#buildprocess",
+    "#softwarelifecycle",
+    "#softwareapplication"
+  ],
+  "comments": []
+}
