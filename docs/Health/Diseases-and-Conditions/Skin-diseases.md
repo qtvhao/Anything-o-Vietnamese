@@ -1,51 +1,71 @@
 
 ---
 
-# Các nang ẩn của bệnh viêm đại tràng Cystica Profunda: Khám phá bí ẩn Viêm đại tràng Cystica Profunda là gì? Khám phá một tình trạng bệnh hiếm gặp Độ sâu của bệnh: Tìm hiểu về bệnh viêm đại tràng Cystica Profunda U nang trong ruột kết: Giải thích về bệnh viêm đại tràng Cystica Profunda Hiếm nhưng có thật: Viêm đại tràng Cystica Profunda - Triệu chứng, chẩn đoán và điều trị Khám phá bệnh viêm đại tràng Cystica Profunda: Một tình trạng bệnh phức tạp Giải mã sự phức tạp của bệnh viêm đại tràng Cystica Profunda Quan sát kỹ hơn về bệnh viêm đại tràng Cystica Profunda: Nguyên nhân, triệu chứng và cách điều trị Viêm đại tràng Cystica Profunda: Phân biệt sự thật với hư cấu Khoa học về bệnh viêm đại tràng Cystica Profunda: Đi sâu vào tình trạng bệnh
+# Giải mã tình trạng da: Khám phá mụn trứng cá, bệnh vẩy nến, bệnh chàm và nhiều bệnh khác
 
-- Published: August 2, 2024
+- Published: August 6, 2024
 - Author: Vietnamese Online Voice
 - Categories: Health / **Diseases and Conditions**
-- #DermatologicalDisorders #Acne #Eczema #Psoriasis #SkinCancer #Vitiligo #SkinHealth #Genetics #EnvironmentalFactors #Infections #LifestyleChoices #Redness #Inflammation #Itching #Burning #Dryness #Diagnosis #PhysicalExamination #MedicalHistory #LaboratoryTests #Treatment #TopicalCreams #OralMedications #Phototherapy #Surgery #Prevention #Sunscreen #ProtectiveClothing #GoodHygiene #BalancedDiet #StressManagement #SkinCare
+- #DermatologicalDisorders #Acne #Psoriasis #Eczema #AtopicDermatitis #GeneticFactors #EnvironmentalFactors #LifestyleChoices #BacterialInfection #SkinConditions #Inflammation #Blackheads #Whiteheads #Pimples #ChronicAutoimmuneDisease #ThickScalyPatches #JointPain #Allergies #EnvironmentalTriggers #Redness #Itching #Blistering #Scarring #HairLoss #NailChanges #SkinThickening #Scaling #MedicalHistory #PhysicalExamination #SkinTests #PatchTests #PrickTests #Biopsies #TopicalCreams #OralMedications #LifestyleChanges #SurgicalProcedures #SkinProtection #SunProtection #GoodHygiene #HealthyLifestyle #DermatologistCheckups #SkinCareAwareness
 
-"Trong video này, bài thuyết trình tập trung vào các bệnh ngoài da khác nhau và nguyên nhân, yếu tố nguy cơ, triệu chứng, chẩn đoán, điều trị và phòng ngừa. Các bệnh ngoài da phổ biến được thảo luận bao gồm mụn trứng cá, bệnh chàm, bệnh vẩy nến, ung thư da và bệnh bạch biến. Nguyên nhân có thể từ khuynh hướng di truyền đến các yếu tố môi trường và lựa chọn lối sống. Các triệu chứng khác nhau nhưng có thể bao gồm mẩn đỏ, viêm, ngứa và bỏng. Chẩn đoán thường bao gồm khám sức khỏe, tiền sử bệnh và xét nghiệm. Các lựa chọn điều trị bao gồm kem bôi ngoài da, thuốc uống, liệu pháp quang học và phẫu thuật. Các biện pháp phòng ngừa nhấn mạnh vào việc sử dụng kem chống nắng, quần áo bảo hộ, duy trì vệ sinh tốt, ăn uống cân bằng và kiểm soát căng thẳng."
+"Trong video này, diễn giả thảo luận về các bệnh về da, các loại bệnh, nguyên nhân, triệu chứng và phương pháp điều trị. Các tình trạng da, còn được gọi là rối loạn da liễu, ảnh hưởng đến da, tóc hoặc móng và có thể do các yếu tố di truyền, môi trường hoặc lối sống gây ra. Các bệnh về da phổ biến bao gồm mụn trứng cá, bệnh vẩy nến và bệnh chàm. Mụn trứng cá là một bệnh nhiễm trùng do vi khuẩn gây viêm và mụn nhọt, trong khi bệnh vẩy nến là một bệnh tự miễn mãn tính với các mảng dày, có vảy. Bệnh chàm hoặc viêm da dị ứng, dẫn đến da khô, ngứa và viêm. Các bệnh về da có thể bắt nguồn từ di truyền, các yếu tố môi trường, nhiễm trùng, dị ứng và lối sống."
 
 
 ## SKIN DISEASES
 
-Các bệnh về da, hay rối loạn da liễu, có thể do nhiều yếu tố gây ra như "khuynh hướng di truyền" (genetic predisposition), "yếu tố môi trường" (environmental factors), "nhiễm trùng" (infections) và "lối sống" (lifestyle choices). Sau đây là một số "bệnh về da" phổ biến nhất (skin diseases): "mụn trứng cá" (acne), "chàm" (eczema), "bệnh vẩy nến" (psoriasis), "ung thư da" (skin cancer) và bệnh bạch biến.
-![SKIN DISEASES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--20238186404-Montserrat-SemiBold-673AB7.jpg)
+Chào mừng bạn đến với video của tôi về "bệnh ngoài da" (skin diseases). Trong video này, chúng ta sẽ khám phá các loại, nguyên nhân, "triệu chứng" (symptoms) và "phương pháp điều trị" (treatment options) cho nhiều tình trạng da khác nhau. Vậy, chúng ta hãy bắt đầu nhé!. Bệnh ngoài da, còn được gọi là rối loạn da liễu, là những tình trạng ảnh hưởng đến da, tóc hoặc móng. Chúng do các yếu tố di truyền, môi trường hoặc lối sống gây ra.
+![SKIN DISEASES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition-3850491507-Montserrat-ExtraBold-283593.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-4143726624.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-26041203337.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## ENVIRONMENTAL FACTORS
+## ACNE
 
-Nguyên nhân và yếu tố nguy cơ gây bệnh ngoài da bao gồm di truyền, yếu tố môi trường, nhiễm trùng và lối sống. Các triệu chứng bệnh ngoài da có thể khác nhau, nhưng các dấu hiệu phổ biến bao gồm đỏ, viêm, ngứa, bỏng, khô, v.v. Chẩn đoán thường bao gồm khám sức khỏe, tiền sử bệnh và xét nghiệm.
-![ENVIRONMENTAL FACTORS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-17602173292-Montserrat-Regular-673AB7.jpg)
+Hãy cùng thảo luận về một số tình trạng "da" phổ biến (skin). Mụn trứng cá là một "nhiễm trùng do vi khuẩn" (bacterial infection) gây ra "viêm" (inflammation), "mụn đầu đen" (blackheads), "mụn đầu trắng" (whiteheads) và "mụn nhọt" (pimples). Bệnh vẩy nến là một bệnh tự miễn mãn tính đặc trưng bởi các mảng dày, có vảy trên da, đôi khi kèm theo "đau khớp" (joint pain) và viêm. Bệnh chàm, hay còn gọi là "viêm da dị ứng" (atopic dermatitis), khiến da "khô" (dry), "ngứa" (itchy) và "viêm" (inflamed), thường do "dị ứng" (allergies) hoặc các yếu tố môi trường gây ra.
+![ACNE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition-551770444-Montserrat-Black-1A237E.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-35445494783.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-34222746232.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## PREVENTION
+## ALLERGIES
 
-Phương pháp điều trị "bệnh ngoài da" (skin diseases) khác nhau tùy thuộc vào "tình trạng" (condition) và "mức độ nghiêm trọng" (severity), nhưng các phương pháp điều trị phổ biến bao gồm "kem bôi ngoài da" (topical creams), "thuốc uống" (oral medications), "liệu pháp quang học" (phototherapy) và "phẫu thuật" (surgery). Phòng ngừa là chìa khóa để duy trì "làn da khỏe mạnh" (healthy skin). Thoa "kem chống nắng" (sunscreen), "quần áo bảo hộ" (protective clothing), giữ gìn "vệ sinh" tốt (hygiene), ăn "chế độ ăn cân bằng" (balanced diet) và kiểm soát "căng thẳng" (stress).
-![PREVENTION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-38157099169-Montserrat-SemiBold-4A148C.jpg)
+Bệnh ngoài da có thể do di truyền, yếu tố môi trường, nhiễm trùng, dị ứng và lối sống. Ví dụ, tiền sử gia đình có thể đóng vai trò quan trọng trong một số tình trạng, trong khi tiếp xúc với ánh nắng mặt trời và thời tiết lạnh có thể dẫn đến những tình trạng khác.
+![ALLERGIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition--1674187780-Montserrat-Thin-512DA8.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-12109818759.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-10880051192.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## HEALTHY SKIN
+## SYMPTOMS
 
-Một làn da khỏe mạnh phản ánh sức khỏe và trạng thái khỏe mạnh tổng thể. Hãy chăm sóc làn da của bạn, và nó sẽ chăm sóc bạn!. Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy nó hữu ích và hiểu sâu hơn về "bệnh ngoài da" (skin diseases). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi!
-![HEALTHY SKIN](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--27447306752-Montserrat-Regular-283593.jpg)
+Các triệu chứng của "bệnh ngoài da" (skin diseases) bao gồm "mẩn đỏ" (redness), "ngứa" (itching), "viêm" (inflammation), "phồng rộp" (blistering), "sẹo" (scarring), "rụng tóc" (hair loss), "thay đổi móng tay" (nail changes), và "da dày lên" (skin thickening) và "bong tróc" (scaling). Chẩn đoán được thực hiện thông qua "tiền sử bệnh" (medical history), "khám sức khỏe" (physical examination) và "xét nghiệm da" (skin tests) như "xét nghiệm vá" (patch tests), "xét nghiệm chích" (prick tests) hoặc sinh thiết.
+![SYMPTOMS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition--17713938923-Montserrat-Black-004895.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-6630328502.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-7568483845.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## TREATMENT OPTIONS
+
+Các phương pháp điều trị có thể bao gồm "kem bôi ngoài da" (topical creams) và "thuốc mỡ" (ointments), "thuốc uống" (oral medications), "thay đổi lối sống" (lifestyle changes) và trong một số trường hợp, "thủ thuật phẫu thuật" (surgical procedures).. Để ngăn ngừa "bệnh ngoài da" (skin diseases), hãy nhớ bảo vệ da khỏi ánh nắng mặt trời, thực hành "vệ sinh tốt" (good hygiene), duy trì "lối sống lành mạnh" (healthy lifestyle) và khám sức khỏe định kỳ với "bác sĩ da liễu" (dermatologist).
+![TREATMENT OPTIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition-8249392068-Montserrat-Medium-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-61413699473.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## SKIN
+
+Hãy nhớ rằng, một làn da khỏe mạnh phản ánh sức khỏe tổng thể. Hãy chăm sóc làn da và bản thân bạn. Cảm ơn bạn đã tham gia cùng chúng tôi hôm nay và hãy theo dõi để biết thêm "mẹo về sức khỏe" (health tips)!. Người dẫn chuyện: Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy nó hữu ích và hiểu sâu hơn về "bệnh ngoài da" (skin diseases). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![SKIN](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition-34567222061-Montserrat-Regular-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-15537784541.mp3" type="audio/mpeg">
 </audio>
 
