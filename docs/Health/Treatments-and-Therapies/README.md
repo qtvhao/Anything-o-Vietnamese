@@ -17,6 +17,8 @@
     - [Musculoskeletal-physiotherapy.md](./Musculoskeletal-physiotherapy.md)
   - [Physiotherapy.md](./Physiotherapy.md)
   - [Psychological-Therapy.md](./Psychological-Therapy.md)
+  - [Psychotherapy.md](./Psychotherapy.md)
+  - [Radiotherapy.md](./Radiotherapy.md)
   - [Rehabilitation.md](./Rehabilitation.md)
   - [Speech-Therapy.md](./Speech-Therapy.md)
   - [Surgery.md](./Surgery.md)

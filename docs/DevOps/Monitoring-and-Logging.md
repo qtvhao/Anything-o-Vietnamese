@@ -1,61 +1,91 @@
 
 ---
 
-# Các nang ẩn của bệnh viêm đại tràng Cystica Profunda: Khám phá bí ẩn Viêm đại tràng Cystica Profunda là gì? Khám phá một tình trạng bệnh hiếm gặp Độ sâu của bệnh: Tìm hiểu về bệnh viêm đại tràng Cystica Profunda U nang trong ruột kết: Giải thích về bệnh viêm đại tràng Cystica Profunda Hiếm nhưng có thật: Viêm đại tràng Cystica Profunda - Triệu chứng, chẩn đoán và điều trị Khám phá bệnh viêm đại tràng Cystica Profunda: Một tình trạng bệnh phức tạp Giải mã sự phức tạp của bệnh viêm đại tràng Cystica Profunda Quan sát kỹ hơn về bệnh viêm đại tràng Cystica Profunda: Nguyên nhân, triệu chứng và cách điều trị Viêm đại tràng Cystica Profunda: Phân biệt sự thật với hư cấu Khoa học về bệnh viêm đại tràng Cystica Profunda: Đi sâu vào tình trạng bệnh
+# Mở khóa sức mạnh của việc giám sát và ghi nhật ký: Các phương pháp hay nhất và lợi ích
 
-- Published: August 2, 2024
+- Published: August 7, 2024
 - Author: Vietnamese Online Voice
 - Categories: **DevOps**
-- #SystemAdministration #SystemPerformance #SystemHealth #SystemSecurity #RealTimeMonitoring #CPUUsage #NetworkTraffic #AnomalyDetection #CorrectiveAction #SystemLogs #Troubleshooting #Debugging #Auditing #SecurityThreatDetection #PerformanceOptimization #ErrorDetection #DataLossPrevention #ProactiveMaintenance #DataAnalysis #LogAnalysis #SystemBehavior #EventRecording #ComplementaryProcesses #SystemParameters #PreventiveMaintenance #SystemIntegrity #ReliabilityEngineering #ITOperations #CloudMonitoring #ApplicationPerformance #DevOps #LogManagement #EventManagement #SystemDiagnostics #OperationalExcellence #SystemOptimization #SystemTuning #SystemHygiene
+- #ITSystems #Technology #PerformanceAnalysis #CPUUsage #MemoryConsumption #DiskSpace #NetworkTraffic #ProactiveProblemSolving #SystemOptimization #RegulatoryCompliance #Logging #EventRecording #Troubleshooting #SystemBehaviorAnalysis #AuditingCompliance #SecurityIncidents #UnauthorizedAccess #DataBreaches #SystemMonitoring #ApplicationMonitoring #NetworkMonitoring #SecurityLogging #ErrorLogging #CentralizedMonitoring #AlertsNotifications #RegularLogReview #LoggingBestPractices #FinanceIT #HealthcareIT #FinancialRegulations #HealthcareRegulations #HIPAA #PCICompliance
 
-"Trong video này, phần giới thiệu về giám sát và ghi nhật ký được cung cấp. Giám sát là việc quan sát và theo dõi thời gian thực hiệu suất, tình trạng và hành vi của hệ thống máy tính, mạng và ứng dụng. Ghi nhật ký là việc ghi lại các sự kiện của hệ thống hoặc ứng dụng, cung cấp hồ sơ theo trình tự thời gian về hoạt động của hệ thống, hữu ích cho việc khắc phục sự cố và kiểm toán. Cùng nhau, chúng đảm bảo tính bảo mật của hệ thống, tối ưu hóa hiệu suất và bảo trì chủ động. Các nhà nghiên cứu có thể xem hướng dẫn video chi tiết bên dưới."
+"Trong video này, chúng tôi sẽ thảo luận về tầm quan trọng của việc giám sát và ghi nhật ký đối với các hệ thống CNTT. Giám sát bao gồm việc quan sát và phân tích hiệu suất, hành vi và tình trạng của hệ thống, bao gồm các số liệu như mức sử dụng CPU và lưu lượng mạng. Điều này giúp xác định các vấn đề tiềm ẩn, tối ưu hóa hiệu suất và đảm bảo tuân thủ quy định. Ghi nhật ký ghi lại các sự kiện, giao dịch và lỗi, cung cấp thông tin chi tiết để khắc phục sự cố, phân tích xu hướng và đáp ứng các yêu cầu kiểm toán. Các nhà nghiên cứu có thể hưởng lợi từ việc hiểu các quy trình này để cải thiện việc quản lý hệ thống và giải quyết vấn đề."
+
+
+## MONITORING AND LOGGING
+
+Trong video này, tôi sẽ khám phá tầm quan trọng của "giám sát và ghi nhật ký" (monitoring and logging) đối với hệ thống CNTT của bạn và cách chúng có thể giúp bạn xác định và giải quyết vấn đề nhanh chóng. Như chúng ta đều biết, "công nghệ" (technology) đóng vai trò quan trọng trong "cuộc sống hàng ngày" của chúng ta (daily lives).
+![MONITORING AND LOGGING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-07/transition--3358952343-Montserrat-Regular-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-34982436888.mp3" type="audio/mpeg">
+</audio>
+
 
 
 ## MONITORING
 
-"Giám sát và ghi nhật ký" (monitoring and logging) là gì? Chúng hoạt động cùng nhau như thế nào để giữ cho hệ thống của chúng ta chạy trơn tru? Hãy cùng tìm hiểu!. Giám sát là quá trình chủ động quan sát và theo dõi hiệu suất, tình trạng và hành vi của hệ thống máy tính, mạng và ứng dụng theo thời gian thực. Các công cụ giám sát thu thập dữ liệu về nhiều "tham số hệ thống" (system parameters), chẳng hạn như mức sử dụng CPU và "lưu lượng mạng" (network traffic), để xác định các vấn đề tiềm ẩn trước khi chúng trở thành vấn đề lớn. Chúng có thể cảnh báo "quản trị viên hệ thống" (system administrators) về "bất thường" (anomalies), cho phép họ thực hiện "hành động khắc phục" (corrective action) trước khi "hệ thống gặp sự cố" (system crashes) hoặc trở nên "bị xâm phạm" (compromised).
-![MONITORING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-18567725894-Montserrat-ExtraBold-004895.jpg)
+Giám sát đề cập đến quá trình liên tục quan sát và phân tích hiệu suất, hành vi và tình trạng của hệ thống. Nó bao gồm việc theo dõi nhiều số liệu khác nhau, chẳng hạn như mức sử dụng CPU, "mức tiêu thụ bộ nhớ" (memory consumption), "dung lượng đĩa" (disk space) và "lưu lượng mạng" (network traffic), để nêu tên một số. Giám sát giúp chúng tôi xác định "các vấn đề tiềm ẩn" (potential issues) trước khi chúng trở thành "vấn đề lớn" (major problems), tối ưu hóa hiệu suất hệ thống và "sử dụng tài nguyên" (resource utilization) và đảm bảo "tuân thủ" (compliance) với các yêu cầu theo quy định.
+![MONITORING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-07/transition--42789825911-Montserrat-Thin-673AB7.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-61719970398.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-33631120406.mp3" type="audio/mpeg">
 </audio>
 
 
 
 ## LOGGING
 
-Mặt khác, ghi nhật ký là quá trình ghi lại các sự kiện xảy ra trong "hệ thống hoặc ứng dụng" (system or application). Nhật ký cung cấp "bản ghi theo trình tự thời gian" (chronological record) về "hoạt động của hệ thống" (system activity), bao gồm "lỗi và cảnh báo" (errors and warnings). Chúng hữu ích cho "khắc phục sự cố" (troubleshooting), "gỡ lỗi" (debugging) và "mục đích kiểm tra" (auditing purposes). Phân tích nhật ký có thể giúp quản trị viên hệ thống phát hiện "mối đe dọa bảo mật" (security threats), tối ưu hóa hiệu suất và khắc phục sự cố.
-![LOGGING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-18931769422-Montserrat-SemiBold-880E4F.jpg)
+Ghi nhật ký là quá trình ghi lại các sự kiện, giao dịch và lỗi xảy ra trong một "hệ thống" (system). Nhật ký cung cấp một tài khoản chi tiết về những gì đã xảy ra, khi nào xảy ra và ai đã tham gia. Ghi nhật ký giúp chúng tôi khắc phục sự cố và chẩn đoán vấn đề, "phân tích hành vi hệ thống" (analyze system behavior) và "xác định xu hướng" (identify trends) và đáp ứng các yêu cầu kiểm toán và tuân thủ.
+![LOGGING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-07/transition-11391021215-Montserrat-SemiBold-9C27B0.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-30994663443.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-36165680015.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## SYSTEM ADMINISTRATION
+## IT SYSTEMS
 
-Giám sát và ghi nhật ký là các thành phần quan trọng của "quản trị hệ thống" (system administration) vì một số lý do. Chúng cho phép "bảo trì chủ động" (proactive maintenance), "bảo mật hệ thống" (system security) và tối ưu hóa hiệu suất, giúp phát hiện sớm "lỗi" (errors), ngăn ngừa "mất dữ liệu" (data loss) và giảm thiểu "tác động đến người dùng" (impact on users).
-![SYSTEM ADMINISTRATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--13220934598-Montserrat-SemiBold-4A148C.jpg)
+Giám sát và "ghi nhật ký" (logging) là điều cần thiết để duy trì tình trạng và bảo mật của hệ thống CNTT. Chúng cung cấp khả năng giải quyết vấn đề chủ động, cho phép chúng tôi xác định "các vấn đề tiềm ẩn" (potential issues) trước khi chúng trở thành vấn đề lớn, giảm "thời gian chết" (downtime) và giảm thiểu "tác động đến người dùng" (impact on users). Ghi nhật ký cũng giúp phát hiện và phản hồi "sự cố bảo mật" (security incidents), chẳng hạn như "truy cập trái phép" (unauthorized access) hoặc "vi phạm dữ liệu" (data breaches). Tuân thủ các yêu cầu theo quy định là một khía cạnh quan trọng khác của "giám sát" (monitoring) và ghi nhật ký.
+![IT SYSTEMS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-07/transition--21085335138-Montserrat-Regular-673AB7.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-8420026461.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5003281430.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## SECURITY LOGGING
+
+Có một số loại giám sát và ghi nhật ký, bao gồm "giám sát hệ thống" (system monitoring), "giám sát ứng dụng" (application monitoring), "giám sát mạng" (network monitoring), "ghi nhật ký bảo mật" (security logging) và "ghi nhật ký lỗi" (error logging). Mỗi loại giám sát và ghi nhật ký cung cấp thông tin chi tiết có giá trị về hiệu suất, hành vi và bảo mật của hệ thống.
+![SECURITY LOGGING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-07/transition--19485743637-Montserrat-ExtraBold-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-19664481720.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CENTRALIZED MONITORING
+
+Để tận dụng tối đa việc giám sát và ghi nhật ký, hãy làm theo các biện pháp tốt nhất sau: Triển khai hệ thống "giám sát tập trung" (centralized monitoring) và ghi nhật ký, thiết lập cảnh báo và thông báo, thường xuyên "xem lại nhật ký" (review logs) và "số liệu" (metrics) và đảm bảo tính năng ghi nhật ký được bật.
+![CENTRALIZED MONITORING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-07/transition-28570183795-Montserrat-Medium-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-19003484198.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## POTENTIAL ISSUES
+
+Kiểm tra kiến ​​thức của bạn bằng những câu hỏi sau:. 1. Mục đích chính của "giám sát" (monitoring) trong hệ thống CNTT là gì?. 1. Xác định "các vấn đề tiềm ẩn" (potential issues) trước khi chúng trở thành "vấn đề lớn" (major problems).. Bài tập về nhà: Nghiên cứu và viết một "bài luận ngắn" (short essay) về "tầm quan trọng" (importance) của "giám sát và ghi nhật ký" (monitoring and logging) trong một "ngành cụ thể" (specific industry), chẳng hạn như "tài chính" (finance) hoặc "chăm sóc sức khỏe" (healthcare). Đảm bảo đưa vào các ví dụ về cách giám sát và ghi nhật ký có thể giúp ngăn ngừa "sự cố bảo mật" (security incidents) và đảm bảo "tuân thủ" (compliance) các yêu cầu theo quy định.
+![POTENTIAL ISSUES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-07/transition-10304574399-Montserrat-ExtraBold-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-66483659864.mp3" type="audio/mpeg">
 </audio>
 
 
 
 ## MONITORING AND LOGGING
 
-Giám sát và "ghi nhật ký" (logging) là các quy trình bổ sung hoạt động cùng nhau để cung cấp cái nhìn toàn diện về "hiệu suất hệ thống" (system performance) và bảo mật. Các công cụ giám sát thu thập "dữ liệu" (data) về hiệu suất hệ thống, trong khi các cơ chế ghi nhật ký ghi lại "sự kiện" (events) và "lỗi" (errors). Sau đó, các công cụ phân tích nhật ký sẽ kiểm tra nhật ký để xác định "mẫu" (patterns) và khắc phục sự cố.
-![MONITORING AND LOGGING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--24089065783-Montserrat-Medium-880E4F.jpg)
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về tầm quan trọng của "giám sát" (monitoring) và "ghi nhật ký" (logging). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận "thông báo" (notifications) về các video mới của chúng tôi.
+![MONITORING AND LOGGING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-07/transition-43918440685-Montserrat-Black-004895.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-2311112508.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## SYSTEM ACTIVITY
-
-Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về "giám sát" (monitoring) và "ghi nhật ký" (logging). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận "thông báo" (notifications) về các video mới của chúng tôi.
-![SYSTEM ACTIVITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition--2587430139-Montserrat-Thin-283593.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-37541041708.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-56187888220.mp3" type="audio/mpeg">
 </audio>
 

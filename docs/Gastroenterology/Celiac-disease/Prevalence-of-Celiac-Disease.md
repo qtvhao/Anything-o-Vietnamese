@@ -1,0 +1,51 @@
+
+---
+
+# Bệnh Celiac 101: Triệu chứng, Chẩn đoán và Điều trị
+
+- Published: August 8, 2024
+- Author: Vietnamese Online Voice
+- Categories: Gastroenterology / **Celiac disease**
+- #AutoimmuneDisorder #GlutenFree #SmallIntestine #Malabsorption #ChronicIllness #Diarrhea #AbdominalPain #Fatigue #WeightLoss #Nausea #Vomiting #ItchySkinRashes #Diagnosis #Treatment #GlutenFreeDiet #Awareness #Education #Misunderstood #Misdiagnosed #Health #Wellness #Nutrition #SupportGroups #MealPlanning #LocalResources #Class #Homework #Complications #LongTermHealth
+
+"Trong video này, diễn giả giới thiệu về bệnh celiac, một rối loạn tự miễn dịch mãn tính ảnh hưởng đến hàng triệu người trên toàn thế giới. Gluten, một loại protein trong lúa mì, lúa mạch và lúa mạch đen, kích hoạt phản ứng của cơ thể, làm hỏng niêm mạc ruột non và gây ra tình trạng kém hấp thu. Các triệu chứng khác nhau nhưng có thể bao gồm tiêu chảy, đau bụng, mệt mỏi và phát ban. Chẩn đoán bao gồm xét nghiệm máu, sinh thiết ruột và xét nghiệm di truyền. Phương pháp điều trị duy nhất là chế độ ăn không chứa gluten nghiêm ngặt. Video này nhằm mục đích nâng cao nhận thức và hiểu biết về bệnh celiac, các triệu chứng và cách kiểm soát bệnh. Học sinh được giao nhiệm vụ nghiên cứu các nhóm hỗ trợ bệnh celiac tại địa phương và các nguồn lực lập kế hoạch bữa ăn không chứa gluten."
+
+
+## CELIAC DISEASE
+
+Bệnh Celiac là một rối loạn tự miễn dịch mãn tính ảnh hưởng đến hàng triệu người trên toàn thế giới. Bệnh xảy ra khi cơ thể phản ứng với "gluten" (gluten), một loại protein có trong lúa mì, lúa mạch và lúa mạch đen. "Phản ứng" này (reaction) làm hỏng niêm mạc của "ruột non" (small intestine), dẫn đến "hút kém" (malabsorption) "các chất dinh dưỡng thiết yếu" (essential nutrients). Bệnh Celiac có thể biểu hiện theo nhiều cách khác nhau và một số người có thể không gặp bất kỳ triệu chứng nào. Tuy nhiên, "các triệu chứng phổ biến bao gồm" (common symptoms include) "tiêu chảy" (diarrhea), "đau bụng" (abdominal pain), "mệt mỏi" (fatigue), "sụt cân" (weight loss), "buồn nôn" (nausea) và "nôn mửa" (vomiting), và phát ban ngứa trên da.
+![CELIAC DISEASE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-08/transition-20066904791-Montserrat-Medium-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-14104693888.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## DIAGNOSIS
+
+Chẩn đoán và "điều trị" (treatment) "bệnh celiac" (celiac disease) có thể "thách thức" (challenging). Bác sĩ có thể thực hiện một loạt các xét nghiệm, bao gồm "xét nghiệm máu" (blood tests), "sinh thiết ruột" (intestinal biopsy) và "xét nghiệm di truyền" (genetic testing). Phương pháp điều trị duy nhất cho bệnh celiac là chế độ ăn không chứa gluten nghiêm ngặt, có thể giúp kiểm soát tình trạng bệnh và ngăn ngừa các biến chứng lâu dài.
+![DIAGNOSIS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-08/transition--14297472726-Montserrat-Black-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-3578786506.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## COMMON SYMPTOMS
+
+Bệnh celiac thường bị "hiểu lầm" (misunderstood) hoặc "chẩn đoán sai" (misdiagnosed), có thể dẫn đến "điều trị chậm trễ" (delayed treatment) và "tăng nguy cơ" (increased risk) của "biến chứng" (complications). Điều cần thiết là "nâng cao nhận thức" (raise awareness) và "giáo dục" (educate) mọi người về "tình trạng" (condition), "triệu chứng" (symptoms) và "các lựa chọn điều trị" (treatment options). Trong lớp học, chúng ta sẽ thảo luận về "các triệu chứng phổ biến" (common symptoms) và "các lựa chọn chẩn đoán" (diagnosis options) cho "bệnh celiac" (celiac disease). Về bài tập về nhà, chúng ta sẽ nghiên cứu "các nguồn lực địa phương" (local resources) cho các nhóm hỗ trợ bệnh celiac và lập kế hoạch bữa ăn không chứa gluten.
+![COMMON SYMPTOMS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-08/transition-29355445497-Montserrat-ExtraBold-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-23781532279.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PREVALENCE OF CELIAC DISEASE
+
+Cảm ơn bạn đã xem video này về "bệnh celiac" (celiac disease). Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![PREVALENCE OF CELIAC DISEASE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-08/transition-4063672684-Montserrat-Medium-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-2868302673.mp3" type="audio/mpeg">
+</audio>
+

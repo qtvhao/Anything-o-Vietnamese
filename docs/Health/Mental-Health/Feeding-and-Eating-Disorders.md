@@ -1,0 +1,61 @@
+
+---
+
+# Phá vỡ chu kỳ: Hiểu và vượt qua các rối loạn ăn uống và ăn uống Ngoài đĩa thức ăn: Điều hướng các rối loạn ăn uống và ăn uống trong thế giới hiện đại
+
+- Published: August 6, 2024
+- Author: Vietnamese Online Voice
+- Categories: Health / **Mental Health**
+- #EatingDisorders #AnorexiaNervosa #BulimiaNervosa #BingeEatingDisorder #SelectiveEatingDisorder #ARFID #BodyImage #NutritionalDeficiencies #HealthyEating #MentalHealth #Stigma #MultidisciplinaryTeam #NEDA #EDC #APA #Help #Intervention #Treatment #Prevention #Society #Wellness #PositiveBodyImage #EmotionalSupport #MentalHealthAwareness
+
+"Trong video này, chủ đề về rối loạn ăn uống và nuôi dưỡng được giới thiệu, một chủ đề quan trọng nhưng thường bị bỏ qua trong xã hội ngày nay. Những rối loạn này được đặc trưng bởi thói quen ăn uống bất thường, thiếu hụt dinh dưỡng và đau khổ về thể chất và cảm xúc. Các rối loạn ăn uống và nuôi dưỡng phổ biến bao gồm chán ăn tâm thần, ăn vô độ, rối loạn ăn uống vô độ, rối loạn ăn uống có chọn lọc và rối loạn ăn uống hạn chế/tránh né (ARFID). Việc nhận biết các dấu hiệu và triệu chứng, chẳng hạn như thay đổi thói quen ăn uống hoặc cân nặng, mối quan tâm về hình ảnh cơ thể và ăn uống bí mật, là rất quan trọng. Can thiệp và điều trị sớm từ một nhóm đa ngành, bao gồm các chuyên gia y tế, nhà trị liệu và chuyên gia dinh dưỡng đã đăng ký, là điều cần thiết để giải quyết các rối loạn này."
+
+
+## FEEDING AND EATING DISORDERS
+
+Trong xã hội ngày nay, chúng ta thường tập trung vào sức khỏe và thể chất, nhưng có một chủ đề cũng quan trọng không kém và thường bị bỏ qua: "rối loạn ăn uống" (feeding and eating disorders).. Rối loạn ăn uống là một nhóm các tình trạng đặc trưng bởi thói quen ăn uống bất thường, thiếu hụt dinh dưỡng và đau khổ về thể chất và cảm xúc. Các rối loạn ăn uống phổ biến nhất là "chán ăn tâm thần" (anorexia nervosa), "chứng cuồng ăn" (bulimia nervosa), "rối loạn ăn uống vô độ" (binge eating disorder), rối loạn ăn uống có chọn lọc và rối loạn ăn uống tránh né/hạn chế (ARFID).
+![FEEDING AND EATING DISORDERS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition-6192644747-Montserrat-Regular-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-27197515172.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## BODY IMAGE CONCERNS
+
+Việc xác định các dấu hiệu và triệu chứng của rối loạn ăn uống và ăn uống là rất quan trọng. Hãy chú ý đến những thay đổi trong thói quen ăn uống hoặc cảm giác thèm ăn, giảm hoặc tăng cân, "mối quan tâm về hình ảnh cơ thể" (body image concerns), bận tâm đến thức ăn, cân nặng hoặc tập thể dục và ăn uống bí mật.
+![BODY IMAGE CONCERNS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition--27443065848-Montserrat-Medium-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5033916451.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## EARLY INTERVENTION
+
+Can thiệp sớm và "điều trị" (treatment) là điều cần thiết để giải quyết các rối loạn ăn uống và ăn uống. Một "nhóm đa ngành" (multidisciplinary team), bao gồm "chuyên gia y tế" (medical professionals), "chuyên gia trị liệu" (therapists) và "chuyên gia dinh dưỡng đã đăng ký" (registered dietitians), có thể cung cấp "hỗ trợ" cần thiết (support).
+![EARLY INTERVENTION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition--422851329-Montserrat-Regular-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-6444670884.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## HEALTHY EATING HABITS
+
+Phòng ngừa rối loạn ăn uống và ăn uống bao gồm việc nuôi dưỡng "hình ảnh cơ thể tích cực" (positive body image), khuyến khích "thói quen ăn uống lành mạnh" (healthy eating habits), cung cấp "hỗ trợ về mặt cảm xúc" (emotional support) và giảm kỳ thị xung quanh sức khỏe tâm thần. Nếu bạn hoặc người quen của bạn đang phải vật lộn với chứng rối loạn ăn uống hoặc ăn uống, đừng ngần ngại tìm kiếm sự giúp đỡ. Các nguồn lực như Đường dây nóng của Hiệp hội Rối loạn Ăn uống Quốc gia (NEDA), Liên minh Rối loạn Ăn uống (EDC) và Hiệp hội Tâm lý Hoa Kỳ (APA) có thể cung cấp hỗ trợ và thông tin.
+![HEALTHY EATING HABITS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition--20663394240-Montserrat-Medium-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-46237493168.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## SUPPORT
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về các rối loạn ăn uống và ăn uống. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi. Cùng nhau, chúng ta có thể tạo ra một môi trường thúc đẩy thói quen ăn uống lành mạnh, tôn trọng "sự khác biệt của cá nhân" (individual differences) và hỗ trợ những người đang chiến đấu với các rối loạn ăn uống và ăn uống.
+![SUPPORT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition--10502993213-Montserrat-SemiBold-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-2431574756.mp3" type="audio/mpeg">
+</audio>
+

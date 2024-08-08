@@ -10,3 +10,4 @@
   - [Pancreatic-cancer](./Pancreatic-cancer/)
     - [Pancreatic-cancer-types.md](./Pancreatic-cancer-types.md)
   - [Pancreatic-cancer.md](./Pancreatic-cancer.md)
+  - [Pancreatic-inflammation.md](./Pancreatic-inflammation.md)

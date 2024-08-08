@@ -1,0 +1,71 @@
+
+---
+
+# Sự thật về khối u tuyến tụy: Triệu chứng, chẩn đoán và phương pháp điều trị
+
+- Published: August 6, 2024
+- Author: Vietnamese Online Voice
+- Categories: Gastroenterology / **Pancreatology**
+- #PancreaticMasses #Pancreas #DigestiveSystem #Enzymes #Hormones #Insulin #Glucagon #BloodSugar #PancreaticCancer #PancreaticNeuroendocrineTumors #IntraductalPapillaryMucinousNeoplasms #SolidPseudopapillaryTumors #AbdominalPain #WeightLoss #Fatigue #LossOfAppetite #Nausea #Vomiting #Jaundice #DarkUrine #PaleStools #DiagnosticTests #ImagingTests #BloodTests #Biopsy #EndoscopicUltrasound #Treatment #Surgery #Chemotherapy #RadiationTherapy #PalliativeCare #Health #Prevention #MedicalAttention #ConditionManagement
+
+"Trong video này, chúng tôi cung cấp phần giới thiệu chi tiết về khối u và khối u tuyến tụy. Tuyến tụy, một cơ quan quan trọng nằm ở bụng, sản xuất ra các enzyme tiêu hóa và hormone, bao gồm insulin và glucagon. Khối u tuyến tụy có thể lành tính hoặc ác tính, với các loại bao gồm Ung thư tuyến tụy, Khối u thần kinh nội tiết tuyến tụy, Khối u nhầy nhú trong ống và Khối u giả nhú đặc. Các triệu chứng, chẳng hạn như đau bụng và vàng da, chỉ có thể xuất hiện khi khối u đã phát triển đáng kể. Các nhà nghiên cứu có thể xem hướng dẫn video chi tiết bên dưới để biết thêm thông tin."
+
+
+## PANCREAS
+
+Chúng ta hãy bắt đầu bằng một bài đánh giá ngắn gọn về "tuyến tụy" (pancreas) và các chức năng của nó. Tuyến tụy là một cơ quan quan trọng nằm ở bụng, phía sau dạ dày. Nó đóng vai trò quan trọng trong "hệ tiêu hóa" của chúng ta (digestive system) bằng cách sản xuất "enzym tiêu hóa" (digestive enzymes) và "hormone" (hormones), chẳng hạn như "insulin" (insulin) và "glucagon" (glucagon), giúp điều chỉnh "lượng đường trong máu" (blood sugar levels).
+![PANCREAS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition--17436379585-Montserrat-Regular-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-1351582887.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PANCREATIC TUMORS AND MASSES
+
+Khối u hoặc khối u tuyến tụy là sự phát triển bất thường của các tế bào trong "tuyến tụy" (pancreas). Những khối u này có thể không phải là ung thư, "lành tính" (benign) hoặc là ung thư, ác tính. Các loại bao gồm Ung thư tuyến tụy, U thần kinh nội tiết tuyến tụy, Tân sinh nhầy nhú trong ống tụy và U giả nhú đặc.
+![PANCREATIC TUMORS AND MASSES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition--8005386063-Montserrat-Black-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5184124021.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PANCREATIC TUMORS
+
+Các triệu chứng của "khối u tụy" (pancreatic tumors) và khối u có thể không đặc hiệu và chỉ có thể xuất hiện khi khối u đã phát triển đáng kể. Các triệu chứng phổ biến bao gồm "đau bụng" (abdominal pain) hoặc "khó chịu" (discomfort), "giảm cân" (weight loss), "mệt mỏi" (fatigue), "chán ăn" (loss of appetite), "buồn nôn" (nausea) và "nôn" (vomiting), "vàng da" (jaundice), "nước tiểu sẫm màu" (dark urine) và phân nhạt màu hoặc nhờn.
+![PANCREATIC TUMORS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition-9911762029-Montserrat-Bold-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-43462270689.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PANCREATIC TUMORS
+
+Nếu bác sĩ nghi ngờ bạn có "khối u tụy" (pancreatic tumor) hoặc "khối u" (mass), họ có thể đề nghị một loạt "xét nghiệm chẩn đoán" (diagnostic tests), chẳng hạn như "xét nghiệm hình ảnh" (imaging tests), "xét nghiệm máu" (blood tests), "sinh thiết" (biopsy) hoặc "siêu âm nội soi" (endoscopic ultrasound). Phương pháp điều trị khối u và khối u tụy phụ thuộc vào "loại" (type), "kích thước" (size) và "vị trí" (location) của khối u, cũng như "sức khỏe tổng thể" (overall health) của bệnh nhân. Có thể cân nhắc các "phương án điều trị" sau đây (treatment options): "phẫu thuật" (surgery), "hóa trị" (chemotherapy), "xạ trị" (radiation therapy) và "chăm sóc giảm nhẹ" (palliative care).
+![PANCREATIC TUMORS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition--7675264428-Montserrat-SemiBold-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-32706584401.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PANCREATIC TUMOR
+
+Tóm lại, khối u và khối u tuyến tụy là những tình trạng phức tạp cần được chăm sóc y tế kịp thời. Bằng cách hiểu các triệu chứng, chẩn đoán và các phương án điều trị, chúng ta có thể quản lý và ngăn ngừa các tình trạng này tốt hơn.
+![PANCREATIC TUMOR](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition-761214016-Montserrat-Bold-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-18775811716.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PANCREATIC TUMORS AND MASSES
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![PANCREATIC TUMORS AND MASSES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition-11563940368-Montserrat-Black-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-11815029014.mp3" type="audio/mpeg">
+</audio>
+

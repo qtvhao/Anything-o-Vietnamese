@@ -1,0 +1,51 @@
+
+---
+
+# Những nguy cơ tiềm ẩn của Quyền khuyết tật: Khám phá khía cạnh bị bỏ qua của Nhận thức về khả năng tiếp cận
+
+- Published: August 8, 2024
+- Author: Vietnamese Online Voice
+- Categories: Gastroenterology / **Peptic ulcer disease**
+- #PepticUlcerDisease #RiskFactor #HeavyDrinking #GastricMucosa #HelicobacterPylori #DigestiveHealth #MucousLining #AcidProduction #ImpairedHealing #StressAnxiety #HealthcareProvider #FamilyHistory #DigestiveHealthConcerns
+
+"Video này giới thiệu vai trò của rượu trong bệnh loét dạ dày tá tràng. Uống nhiều rượu trong thời gian dài có thể làm tăng nguy cơ bằng cách làm tổn thương niêm mạc, tăng sản xuất axit và làm chậm quá trình lành vết thương. Rượu trực tiếp làm tổn thương niêm mạc dạ dày, làm tăng nguy cơ nhiễm vi khuẩn Helicobacter pylori và làm trầm trọng thêm tình trạng căng thẳng và lo lắng. Những người có tiền sử gia đình mắc bệnh loét dạ dày tá tràng hoặc các vấn đề về sức khỏe tiêu hóa nên thảo luận về việc uống rượu với các nhà cung cấp dịch vụ chăm sóc sức khỏe. Xem hướng dẫn chi tiết trong video bên dưới."
+
+
+## ALCOHOL
+
+Rượu là một "yếu tố nguy cơ" nổi tiếng (risk factor) đối với "bệnh loét dạ dày tá tràng" (peptic ulcer disease). Nghiên cứu đã chỉ ra rằng việc tiêu thụ "rượu" nhiều và kéo dài (alcohol) có thể làm tăng nguy cơ phát triển loét dạ dày tá tràng bằng cách làm hỏng "lớp niêm mạc" (mucous lining), tăng "sản xuất axit" (acid production) và "làm suy yếu quá trình chữa lành" (impairing healing).
+![ALCOHOL](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-08/transition--34726562242-Montserrat-SemiBold-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-974297159.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## ALCOHOL
+
+Rượu có thể góp phần gây ra "bệnh loét dạ dày tá tràng" (peptic ulcer disease) theo nhiều cách, chẳng hạn như gây tổn thương trực tiếp đến "niêm mạc dạ dày" (gastric mucosa), làm tăng nguy cơ "nhiễm trùng" vi khuẩn Helicobacter pylori (infection) và "làm trầm trọng thêm" (exacerbating) "căng thẳng" (stress) và lo lắng.
+![ALCOHOL](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-08/transition--31190008490-Montserrat-Black-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-23620565424.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## ALCOHOL CONSUMPTION
+
+Bạn cũng cần trao đổi với "nhà cung cấp dịch vụ chăm sóc sức khỏe" (healthcare provider) về "lượng rượu tiêu thụ" (alcohol consumption) và nguy cơ mắc "bệnh loét dạ dày tá tràng" (peptic ulcer disease) của bạn, đặc biệt nếu bạn có "tiền sử gia đình" (family history) mắc bệnh loét dạ dày tá tràng hoặc các vấn đề về sức khỏe tiêu hóa khác.
+![ALCOHOL CONSUMPTION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-08/transition-3781689423-Montserrat-ExtraBold-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-28781936728.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## DRINKING IN MODERATION
+
+Bằng cách "uống có chừng mực" (drinking in moderation), lựa chọn sáng suốt, ăn "chế độ ăn cân bằng" (balanced diet) và "quản lý căng thẳng" (managing stress), bạn có thể giúp bảo vệ sức khỏe tiêu hóa của mình. Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video hữu ích và hiểu sâu hơn về vai trò của rượu trong "bệnh loét dạ dày tá tràng" (peptic ulcer disease). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![DRINKING IN MODERATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-08/transition--20431885723-Montserrat-Black-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-12908610933.mp3" type="audio/mpeg">
+</audio>
+

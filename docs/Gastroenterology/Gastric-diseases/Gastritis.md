@@ -1,50 +1,60 @@
 
 ---
 
-# Hiểu về bệnh viêm dạ dày: Nguyên nhân, triệu chứng và phương pháp điều trị
+# Viêm dạ dày 101: Hiểu về nguyên nhân, triệu chứng và phương pháp điều trị
 
-- Published: August 2, 2024
+- Published: August 7, 2024
 - Author: Vietnamese Online Voice
 - Categories: Gastroenterology / **Gastric diseases**
-- #StomachLiningInflammation #AcuteGastritis #ChronicGastritis #HPyloriBacteria #NSAIDs #ExcessiveAlcohol #Stress #Allergies #AbdominalPain #NauseaAndVomiting #BloatingAndGas #LossOfAppetite #BlackTarryStools #Endoscopy #BloodTests #StoolTests #Antibiotics #AcidReducingMedications #Antacids #LifestyleChanges #PreventGastritis #BalancedDiet #TriggerFoods #StressManagement #GoodHygiene
+- #StomachLining #HelicobacterPylori #NSAIDs #AlcoholConsumption #Stress #PoorDiet #AbdominalPain #Nausea #Vomiting #LossOfAppetite #Bloating #Gas #Indigestion #Ulcers #Scarring #StomachCancer #Antacids #H2Blockers #PPIs #Antibiotics #LifestyleChanges #Diet #NSAIDFree #StressManagement #CheckUps #GastritisPrevention #HealthyStomach #GastrointestinalDisorder #Complications #Medications #TreatmentOptions #GastritisAwareness #PreventGastritis #GastritisSymptoms #GastritisCauses #StomachHealth #GutHealth #Inflammation #GastricMucosa #GastricJuice #MucosalBarrier #Gastroenterology #StomachDoctor #GastritisTips #GastricAcid #ProperDiet #Hpylori #BacterialInfection #GastricUlcers #StomachBacteria #ChronicGastritis #AcuteGastritis
 
-"Trong video này, chủ đề về viêm dạ dày, tình trạng viêm niêm mạc dạ dày, được giới thiệu. Các nguyên nhân có thể bao gồm vi khuẩn H. pylori, NSAID, rượu, căng thẳng và dị ứng. Các triệu chứng khác nhau, nhưng các triệu chứng phổ biến là đau bụng, buồn nôn, đầy hơi, chán ăn và phân đen. Viêm dạ dày được phân loại là cấp tính hoặc mãn tính. Chẩn đoán bao gồm nội soi, xét nghiệm máu và xét nghiệm phân, với các lựa chọn điều trị bao gồm kháng sinh, thuốc giảm axit, thuốc kháng axit và thay đổi lối sống. Để ngăn ngừa viêm dạ dày, hãy ăn một chế độ ăn uống cân bằng, tránh các thực phẩm gây kích ứng, kiểm soát căng thẳng và duy trì vệ sinh tốt. Bạn có thể tìm thấy thêm thông tin chi tiết trong video."
+"Trong video này, chúng ta sẽ thảo luận về viêm dạ dày, nguyên nhân, triệu chứng và phương pháp điều trị. Viêm dạ dày là tình trạng viêm niêm mạc dạ dày, do các yếu tố như nhiễm trùng H. pylori, NSAID, rượu, căng thẳng và chế độ ăn uống kém. Các triệu chứng bao gồm đau bụng, buồn nôn, nôn và chán ăn. Nếu không được điều trị, viêm dạ dày có thể dẫn đến các biến chứng như loét và ung thư dạ dày. May mắn thay, viêm dạ dày có thể được kiểm soát thông qua thay đổi lối sống và dùng thuốc, bao gồm thuốc kháng axit, thuốc chẹn H2, PPI, kháng sinh và chế độ ăn uống cân bằng."
 
 
 ## GASTRITIS
 
-Viêm dạ dày là tình trạng viêm niêm mạc dạ dày, có thể là "cấp tính hoặc mãn tính" (acute or chronic). Tình trạng viêm này có thể do nhiều yếu tố gây ra, chẳng hạn như vi khuẩn H. pylori, NSAID, uống quá nhiều rượu, "căng thẳng" (stress) và "dị ứng" (allergies).
-![GASTRITIS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-7352843211-Montserrat-Thin-673AB7.jpg)
+Chào mừng bạn đến với video của tôi về "viêm dạ dày" (gastritis): viêm dạ dày là gì, nguyên nhân, triệu chứng và phương pháp điều trị. Trong video này, tôi sẽ khám phá các khía cạnh khác nhau của chứng rối loạn tiêu hóa phổ biến này và cung cấp cho bạn các mẹo thực tế để "phòng ngừa" (prevent) và "quản lý" (manage) nó.
+![GASTRITIS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-07/transition--772816364-Montserrat-Regular-512DA8.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-3247657322.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-15571546529.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## ACUTE GASTRITIS
+## STOMACH LINING
 
-Các triệu chứng của "viêm dạ dày" (gastritis) có thể khác nhau tùy từng người, nhưng các dấu hiệu phổ biến bao gồm "đau bụng" (abdominal pain), "buồn nôn" (nausea) và "nôn" (vomiting), "đầy hơi" (bloating) và đầy hơi, "chán ăn" (loss of appetite) và "phân đen, hắc ín" (black, tarry stools). Viêm dạ dày thường được chia thành hai loại: "viêm dạ dày cấp tính" (acute gastritis) và viêm dạ dày mãn tính.
-![ACUTE GASTRITIS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-3826041116-Montserrat-SemiBold-4A148C.jpg)
+Viêm dạ dày là tình trạng "viêm" (inflammation) của "lớp niêm mạc dạ dày" (stomach lining), do nhiều yếu tố gây ra như nhiễm vi khuẩn Helicobacter pylori, sử dụng NSAID trong thời gian dài, uống quá nhiều rượu, căng thẳng và chế độ ăn uống kém. Các triệu chứng của "khí" (gas)tritis bao gồm "đau bụng" (abdominal pain), "buồn nôn" (nausea), "nôn" (vomiting), "chán ăn" (loss of appetite), "chướng bụng" (bloating), khí và "khó tiêu" (indigestion). Viêm dạ dày cấp tính hoặc mãn tính, nếu không được điều trị, có thể dẫn đến "biến chứng" (complications) như "loét" (ulcers), "sẹo" (scarring), và thậm chí là "ung thư dạ dày" (stomach cancer).
+![STOMACH LINING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-07/transition-11147549167-Montserrat-Medium-512DA8.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-10189608515.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-13459349788.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## ENDOSCOPY
+## MEDICATIONS
 
-Chẩn đoán viêm dạ dày thường bao gồm "nội soi" (endoscopy), "xét nghiệm máu" (blood tests) và "xét nghiệm phân" (stool tests). Điều trị viêm dạ dày tập trung vào "kháng sinh" (antibiotics), thuốc giảm axit, "thuốc kháng axit" (antacids) và thay đổi lối sống. Để ngăn ngừa viêm dạ dày, hãy làm theo các mẹo sau: ăn "chế độ ăn cân bằng" (balanced diet), tránh "thực phẩm kích hoạt" (trigger foods), kiểm soát căng thẳng và thực hành vệ sinh tốt.
-![ENDOSCOPY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-10095796464-Montserrat-ExtraBold-303F9F.jpg)
+May mắn thay, "viêm dạ dày" (gastritis) có thể được điều trị bằng cách kết hợp "thay đổi lối sống" (lifestyle changes) và "thuốc" (medications). Các lựa chọn điều trị bao gồm "thuốc kháng axit" (antacids), thuốc chẹn histamine-2 (H2), thuốc ức chế bơm proton (PPI), "kháng sinh" (antibiotics) (nếu viêm dạ dày do H. pylori gây ra) và thay đổi lối sống như tránh dùng NSAID, "giảm căng thẳng" (reducing stress) và ăn chế độ ăn cân bằng.
+![MEDICATIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-07/transition--3657136012-Montserrat-ExtraBold-303F9F.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-37201575376.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-4826101313.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## H. PYLORI BACTERIA
+## HEALTHY DIET
+
+Phòng ngừa "viêm dạ dày" (gastritis) là điều cần thiết để duy trì "dạ dày" khỏe mạnh (stomach) và ngăn ngừa "biến chứng" (complications). Các mẹo phòng ngừa bao gồm ăn "chế độ ăn lành mạnh" (healthy diet), tránh dùng NSAID, hạn chế "uống rượu" (alcohol consumption), "quản lý căng thẳng" (managing stress) và kiểm tra sức khỏe định kỳ. Bằng cách làm theo các mẹo này, bạn có thể giảm đáng kể nguy cơ mắc bệnh viêm dạ dày.
+![HEALTHY DIET](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-07/transition-7658273012-Montserrat-Thin-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-345029286.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## GASTRIC DISEASES
 
 Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video hữu ích và hiểu sâu hơn về "viêm dạ dày" (gastritis). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
-![H. PYLORI BACTERIA](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-02/transition-11835737791-Montserrat-Medium-1A237E.jpg)
+![GASTRIC DISEASES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-07/transition-11835737791-Montserrat-ExtraBold-4A148C.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-26719703522.mp3" type="audio/mpeg">
 </audio>

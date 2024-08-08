@@ -1,0 +1,76 @@
+{
+  "id": "-95710563322",
+  "titles": [
+    "Kiểm tra thông minh hơn, không phải khó hơn: Phương pháp kiểm tra liên tục Kiểm tra liên tục 101: Hướng dẫn cho người mới bắt đầu để đánh giá tốt hơn Cách mạng hóa lớp học của bạn: Hướng dẫn kiểm tra liên tục"
+  ],
+  "topic": "Continuous testing",
+  "title": "Kiểm tra thông minh hơn, không phải khó hơn: Phương pháp kiểm tra liên tục Kiểm tra liên tục 101: Hướng dẫn cho người mới bắt đầu để đánh giá tốt hơn Cách mạng hóa lớp học của bạn: Hướng dẫn kiểm tra liên tục",
+  "description": "\"Trong video này, chủ đề về kiểm tra liên tục được giới thiệu, một phương pháp liên quan đến việc đánh giá thường xuyên, liên tục về việc học của học sinh. Kiểm tra liên tục cải thiện sự tham gia, tăng cường phản hồi, xác định sớm các khoảng cách học tập, giảm căng thẳng và cung cấp đánh giá chính xác. Để triển khai kiểm tra liên tục, giáo viên có thể sử dụng các nền tảng kỹ thuật số, tạo tiêu chí, giảm thiểu rủi ro cho các đánh giá, cung cấp phản hồi có thể thực hiện được và giao tiếp với phụ huynh. Phương pháp này cung cấp bức tranh toàn cảnh về sự hiểu biết của học sinh, khiến nó trở thành một công cụ đánh giá hiệu quả.\"",
+  "author": "Vietnamese Online Voice",
+  "date": "August 7, 2024",
+  "content": [
+    {
+      "id": "-1368335216",
+      "heading": "CONTINUOUS TESTING",
+      "text": "Kiểm tra liên tục là một cách tiếp cận \"đánh giá\" (assessment) bao gồm các đánh giá thường xuyên, liên tục về \"việc học của học sinh\" (student learning) trong suốt \"quá trình học\" (learning process). Đây không phải là sự kiện một lần, mà là một loạt các đánh giá nhỏ, thường xuyên cung cấp \"bức tranh toàn diện\" (comprehensive picture) về sự hiểu biết của học sinh.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-07/transition--1368335216-Montserrat-Regular-004895.jpg",
+      "audioFilePath": "/app/storage/audio/file-8995455783.mp3"
+    },
+    {
+      "id": "9971162023",
+      "heading": "STUDENT ENGAGEMENT",
+      "text": "Vậy, tại sao \"kiểm tra liên tục\" (continuous testing) lại hiệu quả đến vậy? Nó cải thiện \"sự tham gia của học sinh\" (student engagement), tăng cường \"phản hồi của giáo viên\" (teacher feedback), cho phép xác định sớm các khoảng cách học tập, \"giảm căng thẳng\" (reduces stress) và cung cấp \"đánh giá chính xác\" hơn (accurate assessment).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-07/transition-9971162023-Montserrat-Medium-283593.jpg",
+      "audioFilePath": "/app/storage/audio/file-6377276350.mp3"
+    },
+    {
+      "id": "21844891244",
+      "heading": "STUDENT PROGRESS",
+      "text": "Để triển khai \"kiểm tra liên tục\" (continuous testing) trong lớp học, giáo viên có thể sử dụng nền tảng học tập kỹ thuật số để theo dõi \"tiến độ của học sinh\" (student progress), \"tạo tiêu chí đánh giá\" (create a rubric), đưa ra \"đánh giá\" (assessments) với mức độ quan trọng thấp, cung cấp \"phản hồi có thể thực hiện được\" (actionable feedback) và trao đổi với phụ huynh.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-07/transition-21844891244-Montserrat-Bold-512DA8.jpg",
+      "audioFilePath": "/app/storage/audio/file-19466354857.mp3"
+    },
+    {
+      "id": "-25769951839",
+      "heading": "STUDENT LEARNING",
+      "text": "Tóm lại, \"kiểm tra liên tục\" (continuous testing) là một cách tiếp cận đánh giá mạnh mẽ có thể có tác động đáng kể đến việc học và sự tham gia của học sinh. Nó cung cấp cho giáo viên cơ hội \"xem xét tiến trình của học sinh\" (review student progress) và đưa ra \"phản hồi có mục tiêu\" (targeted feedback), giúp học sinh giải quyết \"các lĩnh vực yếu kém\" (areas of weakness).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-07/transition--25769951839-Montserrat-SemiBold-303F9F.jpg",
+      "audioFilePath": "/app/storage/audio/file-12212929733.mp3"
+    },
+    {
+      "id": "36263054448",
+      "heading": "INFORMATIVE",
+      "text": "Cảm ơn bạn đã xem video này về \"kiểm thử liên tục\" (continuous testing). Tôi hy vọng bạn thấy nó \"có ích\" (informative) và hiểu sâu hơn về \"khái niệm\" (concept). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận \"thông báo\" (notifications) về \"video mới\" của chúng tôi (new videos). Hẹn gặp lại các bạn vào lần sau, chúc các bạn giảng dạy vui vẻ!",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-07/transition-36263054448-Montserrat-Bold-303F9F.jpg",
+      "audioFilePath": "/app/storage/audio/file-135195342.mp3"
+    }
+  ],
+  "categories": [
+    "DevOps",
+    "Continuous Integration"
+  ],
+  "tags": [
+    "#Education",
+    "#StudentLearning",
+    "#Assessment",
+    "#TeacherFeedback",
+    "#LearningGaps",
+    "#DigitalLearning",
+    "#StudentEngagement",
+    "#Rubrics",
+    "#ClassroomAssessment",
+    "#ActionableFeedback",
+    "#ParentCommunication",
+    "#TargetedFeedback",
+    "#StudentProgress",
+    "#EducationalTechnology",
+    "#FormativeAssessment",
+    "#DataDrivenInstruction",
+    "#ImprovingStudentOutcomes",
+    "#RegularAssessment",
+    "#StressFreeAssessment",
+    "#ComprehensiveAssessment",
+    "#EffectiveTeaching"
+  ],
+  "comments": []
+}

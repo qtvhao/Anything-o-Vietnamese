@@ -1,0 +1,71 @@
+
+---
+
+# Hiểu về bệnh gan ở trẻ em: Nguyên nhân, triệu chứng và phương pháp điều trị Bệnh gan ở trẻ em được phát hiện: Nguyên nhân, triệu chứng và phương pháp điều trị được tiết lộ
+
+- Published: August 6, 2024
+- Author: Vietnamese Online Voice
+- Categories: Gastroenterology / **Pediatric gastroenterology**
+- #LiverHealth #ChildHealth #HealthcareProfessionals #VitalOrgans #LiverDetoxification #BileProduction #BloodSugarRegulation #BloodClotting #Inflammation #ChildhoodLiverConditions #GeneticLiverDiseases #InfectiousLiverDiseases #AcquiredLiverDiseases #BiliaryAtresia #NeonatalCholestasis #Alpha1AntitrypsinDeficiency #WilsonsDisease #AutoimmuneHepatitis #Jaundice #AbdominalSwelling #Fatigue #LossOfAppetite #Vomiting #DarkUrine #LiverTreatment #Medications #SurgicalInterventions #DietaryChanges #LiverTransplantation #InheritedLiverDiseases #Vaccination #GoodHygiene #ToxinAvoidance #HealthyLifestyle #EarlyDiagnosis #EffectiveManagement #FutureHealthcareProfessionals #LiverAwareness #PediatricHealth #OrganRegulation #ChildMedicalConditions
+
+"Trong video này, diễn giả giới thiệu các bệnh về gan ở trẻ em, ảnh hưởng đến gan của trẻ em và có thể là do di truyền, nhiễm trùng hoặc mắc phải. Các bệnh về gan thường gặp ở trẻ em bao gồm teo đường mật, ứ mật ở trẻ sơ sinh, thiếu hụt alpha-1 antitrypsin, bệnh Wilson và viêm gan tự miễn. Các triệu chứng có thể bao gồm vàng da, sưng bụng, mệt mỏi, chán ăn, nôn mửa và nước tiểu sẫm màu. Gan, một cơ quan quan trọng, nằm ở phía trên bên phải của bụng và lọc độc tố, sản xuất mật, điều chỉnh lượng đường trong máu và tạo ra protein đông máu. Các nhà nghiên cứu có thể xem hướng dẫn chi tiết trong video."
+
+
+## VITAL ORGAN
+
+"Gan" (liver) là một "cơ quan quan trọng" (vital organ) nằm ở phía trên bên phải của "bụng" (abdomen), ngay bên dưới "cơ hoành" (diaphragm). Gan đóng vai trò quan trọng trong việc "giải độc" (detoxifying) "cơ thể" (body), sản xuất "mật" (bile), điều chỉnh "lượng đường trong máu" (blood sugar levels) và sản xuất "protein" (proteins) giúp "đông máu" (blood clotting) và "viêm" (inflammation).
+![VITAL ORGAN](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition--21544717128-Montserrat-Medium-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-6752032680.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PEDIATRIC LIVER DISEASES
+
+Bệnh gan ở trẻ em đề cập đến một loạt các tình trạng ảnh hưởng đến gan ở trẻ em. Những tình trạng này có thể là "di truyền" (genetic), "lây nhiễm" (infectious) hoặc "mắc phải" (acquired) do các "tình trạng bệnh lý" khác (medical conditions) hoặc "yếu tố môi trường" (environmental factors).
+![PEDIATRIC LIVER DISEASES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition-1174847302-Montserrat-Regular-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-9393740120.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## LIVER
+
+Một số bệnh gan phổ biến ở trẻ em bao gồm "tắc mật" (biliary atresia), "ứ mật ở trẻ sơ sinh" (neonatal cholestasis), thiếu hụt alpha-1 antitrypsin, bệnh Wilson và "viêm gan tự miễn" (autoimmune hepatitis). Các triệu chứng có thể khác nhau tùy thuộc vào tình trạng bệnh nhưng có thể bao gồm "vàng da" (jaundice), "sưng bụng" (abdominal swelling), "mệt mỏi" (fatigue), "chán ăn" (loss of appetite), "nôn mửa" (vomiting) và nước tiểu sẫm màu.
+![LIVER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition--3448128251-Montserrat-Thin-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-57158326729.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## SURGICAL INTERVENTIONS
+
+Việc điều trị và quản lý phụ thuộc vào tình trạng cụ thể nhưng có thể bao gồm thuốc men, "can thiệp phẫu thuật" (surgical interventions), thay đổi chế độ ăn uống và "ghép gan" (liver transplantation) trong trường hợp nghiêm trọng. Trong khi một số bệnh gan ở trẻ em là "di truyền" (inherited), những bệnh khác có thể được phòng ngừa thông qua "tiêm chủng" (vaccination), thực hành "vệ sinh" tốt (hygiene), tránh tiếp xúc với "chất độc" (toxins) và "hóa chất" (chemicals) và duy trì lối sống lành mạnh.
+![SURGICAL INTERVENTIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition--16937096453-Montserrat-Thin-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-775669550.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## TREATMENT OPTIONS
+
+Hiểu được những tình trạng này, "triệu chứng" (symptoms) và "lựa chọn điều trị" (treatment options) của chúng là rất quan trọng để "chẩn đoán sớm" (early diagnosis) và "quản lý hiệu quả" (effective management). Là những chuyên gia chăm sóc sức khỏe tương lai, điều cần thiết là phải nhận thức được những tình trạng này và thực hiện các bước để "ngăn ngừa" (prevent) chúng bất cứ khi nào có thể.
+![TREATMENT OPTIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition-14206599320-Montserrat-Thin-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-1189368568.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PEDIATRIC GASTROENTEROLOGY
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video hữu ích và hiểu sâu hơn về bệnh gan ở trẻ em. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![PEDIATRIC GASTROENTEROLOGY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition-22551393805-Montserrat-Black-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-24121491437.mp3" type="audio/mpeg">
+</audio>
+

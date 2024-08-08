@@ -1,62 +1,42 @@
 
 ---
 
-# Bảo vệ cơ sở hạ tầng quan trọng: Hướng dẫn về an ninh mạng và vật lý
+# Bảo vệ các hệ thống quan trọng: Tầm quan trọng của bảo mật cơ sở hạ tầng Bảo mật cơ sở hạ tầng: Bảo vệ mạng, dữ liệu và tài sản khỏi các mối đe dọa mạng
 
-- Published: August 5, 2024
+- Published: August 6, 2024
 - Author: Vietnamese Online Voice
 - Categories: DevOps / **Security in DevOps**
-- #Cybersecurity #PhysicalSecurity #PublicSafety #EconomicConsequences #NationalSecurity #CriticalInfrastructure #TransportationSecurity #EnergySecurity #WaterSupply #CommunicationNetworks #PowerPlants #Dams #CyberThreats #PhysicalThreats #NaturalDisasters #HumanError #SecurityMeasures #EmployeeTraining #Collaboration #Stakeholders #Cyberattacks #TerroristOrganizations #NationStateAdversaries #SecurityPlan #FacilityProtection #CyberProtocols #PhysicalSecurityMeasures
+- #CyberSecurity #PhysicalSecurity #RiskAssessment #AccessControls #CriticalInfrastructure #TransportationSecurity #EnergySecurity #CommunicationNetworks #PublicBuildings #HospitalSecurity #EmergencyServices #NaturalDisasters #Terrorism #InsiderThreats #DisruptionOfEssentialServices #EconomicLosses #PublicSafety #EnvironmentalDamage #ProactiveMeasures #InfrastructureProtection #EmergencyResponsePlans #TrainingAndAwareness
 
-"Trong video này, diễn giả giới thiệu về an ninh cơ sở hạ tầng, tầm quan trọng của nó, các mối đe dọa tiềm ẩn và các phương pháp bảo vệ. An ninh cơ sở hạ tầng liên quan đến việc bảo vệ các hệ thống vật lý và kỹ thuật số cung cấp các dịch vụ thiết yếu, chẳng hạn như giao thông, năng lượng, cung cấp nước, mạng lưới truyền thông và các cơ sở quan trọng. Tầm quan trọng của nó nằm ở sự an toàn công cộng, hậu quả kinh tế và an ninh quốc gia. Các mối đe dọa bao gồm các cuộc tấn công mạng, tấn công vật lý, thiên tai và lỗi của con người. Khi các hệ thống kết nối nhiều hơn, các mối đe dọa mạng tăng lên. Các cuộc tấn công vật lý, thiên tai và lỗi của con người cũng gây ra rủi ro. Các nhà nghiên cứu có thể xem hướng dẫn chi tiết trong video."
-
-
-## INFRASTRUCTURE SECURITY
-
-Chào mừng đến với video của tôi về "An ninh cơ sở hạ tầng". Trong video này, tôi sẽ khám phá "an ninh cơ sở hạ tầng" (infrastructure security) là gì, tại sao nó quan trọng, các mối đe dọa tiềm ẩn đối với nó và cách chúng ta có thể bảo vệ nó.. An ninh cơ sở hạ tầng là bảo vệ các hệ thống vật lý và kỹ thuật số cung cấp "các dịch vụ thiết yếu" (essential services) cho "cộng đồng" của chúng ta (communities). Điều này bao gồm "giao thông" (transportation), "năng lượng" (energy), "cung cấp nước" (water supply), "mạng lưới truyền thông" (communication networks) và "các cơ sở quan trọng" (critical facilities) như "nhà máy điện" (power plants) và đập.
-![INFRASTRUCTURE SECURITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition--33840209417-Montserrat-ExtraBold-283593.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-7266932442.mp3" type="audio/mpeg">
-</audio>
-
+"Trong video này, chúng tôi thảo luận về tầm quan trọng của an ninh cơ sở hạ tầng, bao gồm bảo vệ các hệ thống vật lý và kỹ thuật số như giao thông, năng lượng và mạng lưới truyền thông. Các mối đe dọa bao gồm tấn công mạng, vi phạm vật lý, thiên tai, khủng bố và các mối đe dọa nội bộ, với những hậu quả tiềm ẩn như gián đoạn các dịch vụ thiết yếu và tổn thất kinh tế. Các biện pháp chủ động bao gồm đánh giá rủi ro, kiểm soát truy cập, đầu tư an ninh mạng, lập kế hoạch ứng phó khẩn cấp và đào tạo."
 
 
 ## INFRASTRUCTURE SECURITY
 
-An ninh cơ sở hạ tầng là rất quan trọng vì một số lý do, bao gồm "an toàn công cộng" (public safety), "hậu quả kinh tế" (economic consequences) và "an ninh quốc gia" (national security). Một "vi phạm" (breach) trong "an ninh cơ sở hạ tầng" (infrastructure security) có thể gây nguy hiểm đến tính mạng của mọi người, gây ra những tác động kinh tế đáng kể và là vấn đề an ninh quốc gia do có sự tham gia của "các tổ chức khủng bố" (terrorist organizations) và các đối thủ là quốc gia dân tộc.
-![INFRASTRUCTURE SECURITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition--21491977012-Montserrat-Medium-512DA8.jpg)
+Trong video này, tôi sẽ khám phá "an ninh cơ sở hạ tầng" (infrastructure security), đề cập đến các biện pháp được thực hiện để bảo vệ các hệ thống vật lý và kỹ thuật số hỗ trợ cuộc sống hàng ngày của chúng ta. Điều này bao gồm "giao thông" (transportation), năng lượng, mạng lưới truyền thông, "tòa nhà công cộng" (public buildings) và các cơ sở quan trọng như bệnh viện và dịch vụ khẩn cấp.
+![INFRASTRUCTURE SECURITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition--42687706588-Montserrat-Regular-673AB7.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-1529846763.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5691524502.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## INFRASTRUCTURE SYSTEMS
+## INFRASTRUCTURE
 
-Có một số loại mối đe dọa đối với "bảo mật cơ sở hạ tầng" (infrastructure security), bao gồm "tấn công mạng" (cyberattacks), "tấn công vật lý" (physical attacks), "thảm họa thiên nhiên" (natural disasters) và "lỗi của con người" (human error). Khi "hệ thống cơ sở hạ tầng" (infrastructure systems) ngày càng "kết nối" (connected), chúng trở nên dễ bị "mối đe dọa mạng" (cyber threats). Ngoài ra, chúng có thể dễ bị tấn công vật lý, thảm họa thiên nhiên và lỗi của con người.
-![INFRASTRUCTURE SYSTEMS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition-22888312476-Montserrat-Thin-512DA8.jpg)
+Thật không may, "cơ sở hạ tầng" của chúng tôi (infrastructure) phải đối mặt với nhiều mối đe dọa, bao gồm "tấn công mạng" (cyber attacks), "vi phạm vật lý" (physical breaches), "thảm họa thiên nhiên" (natural disasters), "khủng bố" (terrorism) và "mối đe dọa từ nội bộ" (insider threats). Việc gián đoạn các dịch vụ thiết yếu, "thiệt hại kinh tế" (economic losses), "rủi ro an toàn công cộng" (public safety risks) và thiệt hại về môi trường chỉ là một số hậu quả tiềm ẩn của vi phạm an ninh cơ sở hạ tầng.
+![INFRASTRUCTURE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition--35375823640-Montserrat-ExtraBold-7B1FA2.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-11997115150.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-35855426866.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## CYBERSECURITY MEASURES
+## RISK ASSESSMENTS
 
-Để bảo vệ "cơ sở hạ tầng" của chúng ta (infrastructure), chúng ta cần một cách tiếp cận đa diện bao gồm các biện pháp an ninh vật lý, "biện pháp an ninh mạng" (cybersecurity measures), "bảo trì thường xuyên" (regular maintenance), "đào tạo nhân viên" (employee training) và sự hợp tác giữa các bên liên quan.
-![CYBERSECURITY MEASURES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition--29410929527-Montserrat-ExtraBold-9C27B0.jpg)
+Tuy nhiên, chính phủ, tổ chức và cá nhân có thể thực hiện các biện pháp chủ động để bảo vệ cơ sở hạ tầng của chúng ta. Tiến hành "đánh giá rủi ro" (risk assessments), triển khai "kiểm soát truy cập" (access controls), đầu tư vào "an ninh mạng" (cybersecurity), xây dựng kế hoạch ứng phó khẩn cấp và cung cấp "đào tạo và nâng cao nhận thức" (training and awareness) chỉ là một số bước chúng ta có thể thực hiện để tăng cường an ninh cơ sở hạ tầng.
+![RISK ASSESSMENTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition--2576437265-Montserrat-Medium-1A237E.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-13777926240.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## CRITICAL INFRASTRUCTURE
-
-Hãy tưởng tượng bạn là người quản lý an ninh cho một cơ sở "cơ sở hạ tầng quan trọng" (critical infrastructure). Lên kế hoạch bảo vệ cơ sở của bạn khỏi các mối đe dọa mạng và vật lý. Đảm bảo bao gồm các biện pháp như "đào tạo nhân viên" (employee training), các biện pháp an ninh vật lý và "giao thức an ninh mạng" (cybersecurity protocols).
-![CRITICAL INFRASTRUCTURE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition-19130852926-Montserrat-Thin-673AB7.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-20082619078.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-16199025993.mp3" type="audio/mpeg">
 </audio>
 
 
@@ -64,7 +44,7 @@ Hãy tưởng tượng bạn là người quản lý an ninh cho một cơ sở 
 ## CYBERSECURITY
 
 Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video hữu ích và hiểu sâu hơn về "bảo mật cơ sở hạ tầng" (infrastructure security). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
-![CYBERSECURITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-05/transition--9902561794-Montserrat-Black-4A148C.jpg)
+![CYBERSECURITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition--9902561794-Montserrat-Medium-1A237E.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-31819986555.mp3" type="audio/mpeg">
 </audio>

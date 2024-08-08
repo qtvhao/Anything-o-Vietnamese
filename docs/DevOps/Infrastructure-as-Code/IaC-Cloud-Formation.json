@@ -1,0 +1,87 @@
+{
+  "id": "-171278136036",
+  "titles": [
+    "Bắt đầu với Cơ sở hạ tầng dưới dạng Mã (IaC) bằng AWS CloudFormation: Hướng dẫn từng bước Nắm vững IaC trong 60 phút: Khóa học cấp tốc về AWS CloudFormation"
+  ],
+  "topic": "IaC Cloud Formation",
+  "title": "Bắt đầu với Cơ sở hạ tầng dưới dạng Mã (IaC) bằng AWS CloudFormation: Hướng dẫn từng bước Nắm vững IaC trong 60 phút: Khóa học cấp tốc về AWS CloudFormation",
+  "description": "\"Video này giới thiệu về CloudFormation của Amazon Web Services (AWS), một dịch vụ để xác định và quản lý cơ sở hạ tầng đám mây bằng cách sử dụng Cơ sở hạ tầng dưới dạng Mã (IaC). IaC cho phép xử lý các tài nguyên cơ sở hạ tầng như phần mềm, áp dụng các nguyên tắc kiểm soát phiên bản, thử nghiệm và tự động hóa. Với CloudFormation, các tài nguyên cơ sở hạ tầng như phiên bản EC2, cơ sở dữ liệu RDS và thùng S3 được xác định bằng cách sử dụng các mẫu JSON hoặc YAML. Các lợi ích chính bao gồm kiểm soát phiên bản, các mẫu có thể tái sử dụng, tự động hóa và tính nhất quán. Video trình bày cách tạo mẫu CloudFormation, xác thực mẫu, tạo ngăn xếp và quản lý các bản cập nhật ngăn xếp.\"",
+  "author": "Vietnamese Online Voice",
+  "date": "August 8, 2024",
+  "content": [
+    {
+      "id": "-25915349375",
+      "heading": "INFRASTRUCTURE AS CODE",
+      "text": "Cơ sở hạ tầng dưới dạng Mã (IaC) là một hoạt động liên quan đến việc xác định và quản lý tài nguyên cơ sở hạ tầng bằng \"mã\" (code), thay vì thông qua giao diện người dùng đồ họa hoặc giao diện dòng lệnh. Cách tiếp cận này cho phép bạn coi cơ sở hạ tầng của mình như phần mềm, áp dụng các nguyên tắc tương tự về \"kiểm soát phiên bản\" (version control), \"kiểm thử\" (testing) và \"tự động hóa\" (automation) cho cơ sở hạ tầng của bạn như bạn làm với mã ứng dụng của mình.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-08/transition--25915349375-Montserrat-Thin-512DA8.jpg",
+      "audioFilePath": "/app/storage/audio/file-32360349299.mp3"
+    },
+    {
+      "id": "-38229471262",
+      "heading": "INFRASTRUCTURE AS CODE",
+      "text": "AWS CloudFormation là dịch vụ do Amazon Web Services (AWS) cung cấp cho phép bạn tạo, quản lý và tạo phiên bản cơ sở hạ tầng đám mây của mình bằng Cơ sở hạ tầng dưới dạng Mã (IaC). Với CloudFormation, bạn có thể xác định tài nguyên cơ sở hạ tầng của mình, chẳng hạn như các phiên bản EC2, cơ sở dữ liệu RDS và thùng S3, bằng cách sử dụng \"mẫu\" (template) được viết bằng JSON hoặc YAML.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-08/transition--38229471262-Montserrat-Regular-303F9F.jpg",
+      "audioFilePath": "/app/storage/audio/file-21806163088.mp3"
+    },
+    {
+      "id": "14681569838",
+      "heading": "CLOUDFORMATION",
+      "text": "Có nhiều lợi ích khi sử dụng CloudFormation, bao gồm \"kiểm soát phiên bản\" (version control), \"mẫu có thể tái sử dụng\" (reusable templates), \"tự động hóa\" (automation) và \"tính nhất quán\" (consistency). Trong video này, tôi sẽ chỉ cho bạn cách bắt đầu với CloudFormation, bao gồm cách tạo mẫu CloudFormation, \"xác thực\" (validate) mẫu của bạn, tạo ngăn xếp CloudFormation và \"cập nhật\" (update) và quản lý ngăn xếp của bạn.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-08/transition-14681569838-Montserrat-Regular-303F9F.jpg",
+      "audioFilePath": "/app/storage/audio/file-29699055721.mp3"
+    },
+    {
+      "id": "3423735277",
+      "heading": "VERSION CONTROL",
+      "text": "Để đảm bảo rằng bạn đang sử dụng CloudFormation hiệu quả, tôi cũng sẽ chia sẻ một số phương pháp hay nhất cần ghi nhớ khi sử dụng công cụ mạnh mẽ này. Bao gồm sử dụng \"kiểm soát phiên bản\" (version control), thử nghiệm các mẫu của bạn trong môi trường không phải sản xuất, sử dụng \"thực hành an toàn\" (secure practices) và \"giám sát\" (monitoring) và \"khắc phục sự cố\" (troubleshooting) các ngăn xếp CloudFormation của bạn.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-08/transition-3423735277-Montserrat-ExtraBold-7B1FA2.jpg",
+      "audioFilePath": "/app/storage/audio/file-26436729856.mp3"
+    },
+    {
+      "id": "9079291996",
+      "heading": "CLOUD INFRASTRUCTURE",
+      "text": "Vào cuối video này, tôi hy vọng bạn sẽ hiểu sâu hơn về cách sử dụng Infrastructure as Code với AWS CloudFormation để quản lý \"cơ sở hạ tầng đám mây\" của mình (cloud infrastructure). Cho dù bạn là \"chuyên gia đám mây\" dày dạn kinh nghiệm (cloud professional) hay mới bắt đầu, tôi tin rằng kiến ​​thức này sẽ có giá trị với bạn.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-08/transition-9079291996-Montserrat-ExtraBold-283593.jpg",
+      "audioFilePath": "/app/storage/audio/file-7515364157.mp3"
+    },
+    {
+      "id": "5831095159",
+      "heading": "INFRASTRUCTURE AS CODE",
+      "text": "Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video hữu ích và hiểu sâu hơn về cách sử dụng AWS CloudFormation để quản lý cơ sở hạ tầng đám mây của bạn bằng cách sử dụng Infrastructure as Code. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, vui lòng để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-08/transition-5831095159-Montserrat-Bold-004895.jpg",
+      "audioFilePath": "/app/storage/audio/file-14582574372.mp3"
+    }
+  ],
+  "categories": [
+    "DevOps",
+    "Infrastructure as Code"
+  ],
+  "tags": [
+    "#CloudFormation",
+    "#AWSCloudFormation",
+    "#IaC",
+    "#CloudInfrastructure",
+    "#VersionControl",
+    "#ReusableTemplates",
+    "#Automation",
+    "#Consistency",
+    "#CloudFormationTemplate",
+    "#CloudFormationStack",
+    "#BestPractices",
+    "#VersionControl",
+    "#Testing",
+    "#SecurePractices",
+    "#Monitoring",
+    "#Troubleshooting",
+    "#CloudProfessional",
+    "#AWS",
+    "#CloudManagement",
+    "#DevOps",
+    "#S3",
+    "#EC2",
+    "#RDS",
+    "#JSON",
+    "#YAML"
+  ],
+  "comments": []
+}

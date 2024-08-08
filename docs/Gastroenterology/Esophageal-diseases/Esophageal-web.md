@@ -1,0 +1,81 @@
+
+---
+
+# Màng thực quản là gì? Triệu chứng, chẩn đoán và phương pháp điều trị
+
+- Published: August 7, 2024
+- Author: Vietnamese Online Voice
+- Categories: Gastroenterology / **Esophageal diseases**
+- #EsophagealDisease #MedicalLesson #Dysphagia #MembranousTissue #Esophagus #MedicalField #EarlyDiagnosis #TimelyTreatment #IronDeficiencyAnemia #GERD #RadiationTherapy #HeadAndNeck #InflammatoryConditions #CeliacDisease #UpperEndoscopy #BariumSwallow #EndoscopicDilation #Bougienage #SurgicalRemoval #NutritionalDeficiencies #MedicalAttention #ProperDiagnosis #Treatment
+
+"Trong video này, chúng tôi giới thiệu về Esophageal Web, một căn bệnh tương đối hiếm gặp nhưng ảnh hưởng đáng kể đến thực quản. Bài học này đặc biệt có lợi cho các nhà nghiên cứu và bác sĩ để nâng cao khả năng chẩn đoán và điều trị sớm. Esophageal Web là mô màng mỏng, cản trở một phần hoặc toàn bộ lỗ mở của thực quản, thường ở vùng cổ họng trên. Những màng này có thể là bẩm sinh hoặc mắc phải. Khó nuốt là triệu chứng chính, có thể bao gồm nghẹn, nôn khan, thức ăn bị kẹt, trào ngược và sụt cân. Để biết hướng dẫn chi tiết, hãy xem video bên dưới."
+
+
+## ESOPHAGEAL DISEASE
+
+Chào buổi sáng và chào mừng đến với bài học video ngày hôm nay. Hôm nay, chúng ta sẽ đi sâu vào một "bệnh thực quản" tương đối hiếm gặp nhưng quan trọng (esophageal disease) được gọi là Esophageal Web. Hiểu được tình trạng này là điều cần thiết, đặc biệt là đối với những người đang học hoặc hành nghề trong lĩnh vực y tế, vì nó có thể giúp chẩn đoán sớm và cung cấp phương pháp điều trị kịp thời.
+![ESOPHAGEAL DISEASE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-07/transition-953722953-Montserrat-Black-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-21654197363.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## ESOPHAGEAL WEB
+
+"Màng thực quản" (esophageal web) là một "mô màng" mỏng (membranous tissue) "chặn một phần hoặc hoàn toàn lỗ mở" (blocks the opening) của "thực quản" (esophagus), thường ở xung quanh phần trên của cổ họng. Những màng này có thể là "bẩm sinh" (congenital) hoặc "mắc phải" (acquired) sau này trong cuộc sống.
+![ESOPHAGEAL WEB](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-07/transition--19737740975-Montserrat-Regular-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-6637596810.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## DYSPHAGIA
+
+Khó nuốt, được gọi là "khó nuốt" (dysphagia), là triệu chứng chính của "tình trạng" này (condition). Cá nhân có thể bị "nghẹt thở" (choking) hoặc "nôn khan" (gagging) khi ăn hoặc uống, cảm thấy thức ăn bị mắc kẹt trong cổ họng, "chảy nước dãi" (drooling) hoặc "nôn trớ" (regurgitation of food), và thậm chí bị "giảm cân" (weight loss) do "dinh dưỡng không đầy đủ" (inadequate nutrition).
+![DYSPHAGIA](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-07/transition-27535110915-Montserrat-ExtraBold-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-8480318706.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## RISK FACTORS
+
+Mặc dù nguyên nhân chính xác của "màng thực quản" (esophageal web) thường không được biết, một số yếu tố có thể làm tăng nguy cơ phát triển tình trạng này. Bao gồm "thiếu máu do thiếu sắt" (iron deficiency anemia), GERD, xạ trị vùng đầu và cổ, và "tình trạng viêm" (inflammatory conditions) như bệnh celiac.
+![RISK FACTORS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-07/transition-30377148081-Montserrat-Bold-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-11759128082.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## ENDOSCOPIC DILATION
+
+Chẩn đoán "viêm thực quản" (esophageal web) thường bao gồm sự kết hợp của các xét nghiệm, chẳng hạn như "nội soi trên" (upper endoscopy) và "nuốt bari" (barium swallow), cũng như "nới rộng nội soi" (endoscopic dilation) cho cả mục đích chẩn đoán và "điều trị" (treatment purposes). Các phương pháp điều trị khác có thể bao gồm "bougienage" (bougienage) hoặc "phẫu thuật cắt bỏ" (surgical removal) của màng thực quản trong các trường hợp nghiêm trọng.
+![ENDOSCOPIC DILATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-07/transition--7889049047-Montserrat-Medium-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-6928239438.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## ESOPHAGEAL DISEASES
+
+Màng thực quản là một tình trạng hiếm gặp có thể gây ra sự khó chịu đáng kể và thiếu hụt dinh dưỡng nếu không được điều trị. Bằng cách nhận biết các yếu tố nguy cơ và tìm kiếm sự chăm sóc y tế cho các triệu chứng dai dẳng, có thể đảm bảo chẩn đoán và điều trị thích hợp.
+![ESOPHAGEAL DISEASES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-07/transition--4367090926-Montserrat-Thin-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-15953548431.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## ESOPHAGEAL DISEASES
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về chủ đề này. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![ESOPHAGEAL DISEASES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-07/transition-17571134972-Montserrat-Bold-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-27019975576.mp3" type="audio/mpeg">
+</audio>
+

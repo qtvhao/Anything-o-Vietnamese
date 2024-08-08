@@ -1,0 +1,81 @@
+
+---
+
+# Bernie Sanders giành chiến thắng trong cuộc bầu cử sơ bộ, khả năng đắc cử và cuộc đua giành chức Tổng thống Hoa Kỳ năm 2020 được giải thích
+
+- Published: August 8, 2024
+- Author: Vietnamese Online Voice
+- Categories: Gastroenterology / **Colorectal diseases**
+- #BowelIncontinence #BowelMovements #StoolLeakage #OlderAdults #Women #UnderlyingMedicalConditions #NeurologicalDisorders #MuscleWeakness #DietAndLifestyle #BowelTraining #Medications #PhysicalTherapy #Surgery #MultipleSclerosis #PhysicalInactivity #InflammatoryBowelDisease #Childbirth #RectalSurgeries #InvoluntaryStoolLeakage #LiquidStool #IncompleteBowelMovements #StoolSoiling #HealthcareProfessional #MedicalIssue #BreakingTheStigma #SupportiveEnvironment #PersonalHygiene #ToiletHabits #ComplexMedicalIssue
+
+"Trong video này, chủ đề về chứng són phân, hay chứng són phân, được giới thiệu. Tình trạng này, đặc trưng bởi việc không thể kiểm soát việc đi tiêu, có thể ảnh hưởng đến những người ở mọi lứa tuổi, nhưng phổ biến nhất ở người lớn tuổi, phụ nữ và những người mắc các bệnh lý tiềm ẩn. Nguyên nhân bao gồm các rối loạn thần kinh, suy nhược cơ, chế độ ăn uống và lối sống, các bệnh lý và phẫu thuật. Các nguyên nhân phổ biến là bệnh đa xơ cứng, ít vận động, bệnh viêm ruột và sinh nở hoặc phẫu thuật trực tràng. Triệu chứng chính là rò rỉ phân không tự chủ, có thể có nhiều dạng khác nhau. Những người gặp phải các triệu chứng này nên tham khảo ý kiến ​​của chuyên gia chăm sóc sức khỏe để được hướng dẫn thêm."
+
+
+## FECAL INCONTINENCE
+
+Tiểu không tự chủ, còn được gọi là "tiểu không tự chủ" (bowel incontinence), là tình trạng đặc trưng bởi tình trạng không kiểm soát được nhu động ruột, dẫn đến rò rỉ phân không tự nguyện. Tình trạng này có thể ảnh hưởng đến mọi người ở mọi lứa tuổi, nhưng phổ biến nhất ở "người lớn tuổi" (older adults), "phụ nữ" (women) và những người có tình trạng bệnh lý tiềm ẩn.
+![FECAL INCONTINENCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-08/transition-33467868757-Montserrat-Black-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-244931361.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## NEUROLOGICAL DISORDERS
+
+Có nhiều nguyên nhân gây ra chứng són phân, bao gồm "rối loạn thần kinh" (neurological disorders), "yếu cơ" (muscle weakness), "chế độ ăn uống và lối sống" (diet and lifestyle), "tình trạng bệnh lý" (medical conditions) và "phẫu thuật" (surgery). Một số nguyên nhân phổ biến là "xơ cứng rải rác" (multiple sclerosis), ít vận động, bệnh viêm ruột và "sinh nở" (childbirth) hoặc phẫu thuật trực tràng.
+![NEUROLOGICAL DISORDERS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-08/transition--24739754480-Montserrat-ExtraBold-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-3072307076.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## STOOL SOILING
+
+Triệu chứng chính của "tiêu chảy" (fecal incontinence) là rò rỉ phân không tự chủ, có thể biểu hiện theo nhiều cách khác nhau, bao gồm rò rỉ "phân lỏng" (liquid stool), đi ngoài phân bất ngờ, đi ngoài không hết phân và "phân bẩn" (stool soiling). Nếu bạn gặp bất kỳ triệu chứng nào trong số này, hãy tham khảo ý kiến ​​"chuyên gia chăm sóc sức khỏe" (healthcare professional) để thảo luận về phương án hành động tốt nhất.
+![STOOL SOILING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-08/transition--38532306358-Montserrat-Medium-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-10115085555.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## TREATMENT OPTIONS
+
+Có nhiều "lựa chọn điều trị" (treatment options) khác nhau để kiểm soát "bệnh đại tiện không tự chủ" (fecal incontinence), bao gồm "thay đổi lối sống" (lifestyle modifications), chẳng hạn như "thay đổi chế độ ăn" (dietary changes), "tập thể dục" (exercise), và "luyện đại tiện" (bowel training), "thuốc" (medications), "vật lý trị liệu" (physical therapy) và "phẫu thuật" (surgery) trong một số trường hợp. "Chuyên gia chăm sóc sức khỏe" (healthcare professional) sẽ làm việc chặt chẽ với bạn để "xác định" (determine) "kế hoạch điều trị tốt nhất" (best treatment plan) cho "tình huống" của bạn (situation).
+![TREATMENT OPTIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-08/transition--8628366067-Montserrat-Thin-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-49093299125.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## COMPLEX MEDICAL ISSUE
+
+Tiểu không tự chủ là tình trạng phổ biến ảnh hưởng đến mọi người từ mọi tầng lớp xã hội. Điều cần thiết là phải nhận ra rằng đó không phải là vấn đề "vệ sinh cá nhân" (personal hygiene) hay "thói quen đi vệ sinh" kém (toilet habits), mà là "vấn đề y tế phức tạp" (complex medical issue) cần được quan tâm và chăm sóc. Bằng cách nói chuyện cởi mở về "tiểu không tự chủ" (fecal incontinence), chúng ta có thể phá vỡ "sự kỳ thị" (stigma) xung quanh tình trạng này và khuyến khích mọi người tìm kiếm "sự giúp đỡ" (help).
+![COMPLEX MEDICAL ISSUE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-08/transition--67795162136-Montserrat-Medium-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-9722345899.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## SUPPORTIVE ENVIRONMENT
+
+Việc tạo ra một "môi trường hỗ trợ" (supportive environment) cho những người bị "thiếu kiểm soát phân" (fecal incontinence) là rất quan trọng. Bằng cách hiểu được tình trạng này, chúng ta có thể hành động để phá vỡ "sự kỳ thị" (stigma) và hỗ trợ những người cần giúp đỡ. Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về thiếu kiểm soát phân.
+![SUPPORTIVE ENVIRONMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-08/transition--17630692265-Montserrat-ExtraBold-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-45884350437.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## NOTIFICATIONS
+
+Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận "thông báo" (notifications) về các video mới của chúng tôi.
+![NOTIFICATIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-08/transition--29891184192-Montserrat-Thin-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-1709643688.mp3" type="audio/mpeg">
+</audio>
+

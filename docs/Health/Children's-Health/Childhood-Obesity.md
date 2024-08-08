@@ -1,0 +1,61 @@
+
+---
+
+# Phá vỡ chu kỳ: Hiểu và phòng ngừa béo phì ở trẻ em
+
+- Published: August 6, 2024
+- Author: Vietnamese Online Voice
+- Categories: Health / **Children's Health**
+- #Obesity #HealthyEating #PhysicalActivity #SocioEconomicFactors #GeneticFactors #HormonalFactors #ChronicDiseases #Type2Diabetes #HeartDisease #MentalHealth #LowSelfEsteem #Depression #Anxiety #Prevention #Treatment #HealthyLiving #HealthEducation #NutritionEducation #HealthyHabits #FamilyInvolvement #CommunityInvolvement #Resources #Support #Educators #Parents #Caregivers #Responsibility #Awareness #ChildHealth #AdolescentHealth
+
+"Trong video này, chúng tôi giới thiệu về tình trạng béo phì ở trẻ em, nguyên nhân và tác động của nó. Béo phì ở trẻ em ảnh hưởng đến hàng triệu người trên toàn thế giới và gây ra những rủi ro đáng kể cho sức khỏe. Được định nghĩa là lượng mỡ cơ thể quá mức do chế độ ăn uống kém, ít vận động, các yếu tố kinh tế xã hội và các vấn đề di truyền, tình trạng này có thể dẫn đến các bệnh mãn tính và các vấn đề về sức khỏe tâm thần. Phòng ngừa và điều trị bao gồm thúc đẩy chế độ ăn uống lành mạnh, tăng cường hoạt động thể chất, giáo dục và tham gia cộng đồng. Các nhà giáo dục, phụ huynh và người chăm sóc đóng vai trò quan trọng trong việc giải quyết vấn đề này. Để biết hướng dẫn chi tiết, hãy xem video bên dưới."
+
+
+## CHILDHOOD OBESITY
+
+Béo phì ở trẻ em ảnh hưởng đến hàng triệu trẻ em và thanh thiếu niên trên toàn thế giới. Là nhà giáo dục, cha mẹ và người chăm sóc, chúng ta có trách nhiệm hiểu và giải quyết vấn đề này. "Béo phì ở trẻ em" là gì (childhood obesity) và nguyên nhân gây ra tình trạng này là gì? Béo phì ở trẻ em là tình trạng trẻ có lượng mỡ cơ thể quá mức, thường là do "chế độ ăn uống kém" (poor diet), thiếu hoạt động thể chất, các yếu tố kinh tế xã hội và các yếu tố di truyền hoặc nội tiết tố.
+![CHILDHOOD OBESITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition-19497607406-Montserrat-Thin-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-13845808945.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CHILDHOOD OBESITY
+
+Tác động của "béo phì ở trẻ em" (childhood obesity) vượt ra ngoài sức khỏe thể chất và có thể gây ra hậu quả đáng kể về mặt xã hội, tâm lý và "cảm xúc" (emotional consequences). Béo phì ở trẻ em làm tăng nguy cơ mắc "bệnh mãn tính" (chronic diseases), chẳng hạn như "bệnh tiểu đường loại 2" (type 2 diabetes) và "bệnh tim" (heart disease), và có thể dẫn đến "các vấn đề về sức khỏe tâm thần" (mental health issues) như lòng tự trọng thấp, "trầm cảm" (depression) và lo lắng.
+![CHILDHOOD OBESITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition-1615432453-Montserrat-Medium-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-7675142743.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CHILDHOOD OBESITY
+
+Béo phì ở trẻ em có thể được "phòng ngừa và điều trị" (prevented and treated). Những cách hiệu quả để chống lại vấn đề này bao gồm thúc đẩy thói quen ăn uống lành mạnh, tăng cường hoạt động thể chất, giáo dục và nâng cao nhận thức, và thu hút sự tham gia của gia đình và cộng đồng.
+![CHILDHOOD OBESITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition-6167640683-Montserrat-Bold-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-17970339551.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## OBESITY
+
+Với tư cách là nhà giáo dục, chúng ta có thể thúc đẩy lối sống lành mạnh bằng cách đưa giáo dục sức khỏe và dinh dưỡng vào kế hoạch bài học, tổ chức các buổi hoạt động thể chất, hợp tác với phụ huynh và cộng đồng, đồng thời cung cấp các nguồn lực và hỗ trợ cho học sinh đang phải vật lộn với "béo phì" (obesity).
+![OBESITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition-39261088735-Montserrat-SemiBold-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-16006543379.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CHILDHOOD OBESITY
+
+Cùng nhau, chúng ta có thể tạo ra sự khác biệt và đảm bảo một "tương lai khỏe mạnh hơn" (healthier future) cho con em chúng ta. Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về vấn đề "béo phì ở trẻ em" (childhood obesity). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![CHILDHOOD OBESITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-06/transition--32941130462-Montserrat-Black-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-49979009413.mp3" type="audio/mpeg">
+</audio>
+

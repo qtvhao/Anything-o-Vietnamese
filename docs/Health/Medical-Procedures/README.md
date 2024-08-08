@@ -3,6 +3,7 @@
 
 - Medical-Procedures
   - [Diagnostic-Procedures.md](./Diagnostic-Procedures.md)
+  - [Imaging-Procedures.md](./Imaging-Procedures.md)
   - [Interventional-Procedures.md](./Interventional-Procedures.md)
   - [Minimally-Invasive-Procedures.md](./Minimally-Invasive-Procedures.md)
   - [Preventive-Procedures.md](./Preventive-Procedures.md)

@@ -1,0 +1,71 @@
+
+---
+
+# Hiểu về bệnh viêm gan D: Nguyên nhân, triệu chứng và cách điều trị
+
+- Published: August 7, 2024
+- Author: Vietnamese Online Voice
+- Categories: Gastroenterology / **Liver diseases**
+- #DeltaHepatitis #HDV #HBV #LiverInfection #LiverHealth #ViralInfection #IVDrugUse #STIs #HBVPrevalence #Fatigue #LossOfAppetite #Nausea #Vomiting #DarkUrine #PaleStools #Jaundice #AbdominalPain #LiverFunctionTests #LiverBiopsy #AntiviralMedications #LiverTransplantation #HBVVaccination #SafeSex #CleanNeedles #BloodScreening #LiverDamagePrevention #HealthcareProviders #SymptomManagement
+
+"Video này trình bày tổng quan về Viêm gan D, một bệnh nhiễm trùng gan do virus. Viêm gan D, hay viêm gan delta, do virus Viêm gan D (HDV) gây ra, cần có virus Viêm gan B (HBV) để nhân lên. Lây truyền HDV xảy ra thông qua tiếp xúc trực tiếp với máu bị nhiễm bệnh, truyền máu và từ mẹ sang con. Những người có nguy cơ là những người tiêm chích ma túy, có tiền sử mắc các bệnh lây truyền qua đường tình dục và sống ở những khu vực có tỷ lệ mắc HBV cao. Các triệu chứng bao gồm mệt mỏi, chán ăn, buồn nôn, nôn, nước tiểu sẫm màu, phân nhạt màu, vàng da và đau bụng. Hãy tìm kiếm lời khuyên y tế nếu gặp phải các triệu chứng này."
+
+
+## HEPATITIS D
+
+Chào mừng đến với video của tôi về Viêm gan D. Trong video này, tôi sẽ khám phá nguyên nhân, triệu chứng, chẩn đoán và điều trị "nhiễm trùng gan do virus" này (viral liver infection). Viêm gan D, còn được gọi là "viêm gan delta" (delta hepatitis), là một bệnh nhiễm trùng do virus ảnh hưởng đến gan. Bệnh này do virus Viêm gan D, hay HDV, gây ra, đòi hỏi sự hiện diện của virus Viêm gan B, hay HBV, để "sao chép" (replicate). Điều này có nghĩa là để mắc HDV, cá nhân phải đã bị nhiễm HBV.
+![HEPATITIS D](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-07/transition--12878338799-Montserrat-SemiBold-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-37144886222.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## HEPATITIS B VIRUS
+
+"Lây truyền" HDV (transmission) xảy ra thông qua một số phương pháp, bao gồm tiếp xúc trực tiếp với "máu bị nhiễm" (infected blood), nhận "truyền máu" bị nhiễm (blood transfusions) và lây truyền từ mẹ sang con. Những người có nguy cơ mắc bệnh gan nghiêm trọng này cao nhất bao gồm những người tham gia "sử dụng ma túy qua đường tĩnh mạch" (intravenous drug use), những người có tiền sử mắc STI và những người sống ở những khu vực có tỷ lệ mắc HBV cao.
+![HEPATITIS B VIRUS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-07/transition-14378888930-Montserrat-Medium-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-17121427706.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## HEPATITIS D
+
+Các triệu chứng của Viêm gan D có thể mất vài tuần mới xuất hiện và có thể bao gồm "mệt mỏi" (fatigue), "chán ăn" (loss of appetite), "buồn nôn" (nausea) và "nôn" (vomiting). Các "triệu chứng" khác (symptoms) bao gồm "nước tiểu sẫm màu" (dark urine), "phân nhạt màu" (pale stools), "vàng da" (jaundice) và "đau bụng" (abdominal pain). Nếu bạn gặp bất kỳ triệu chứng nào trong số này, hãy tham khảo ý kiến ​​"nhà cung cấp dịch vụ chăm sóc sức khỏe" (healthcare provider) ngay lập tức.
+![HEPATITIS D](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-07/transition-7771632456-Montserrat-Thin-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-40907588410.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## HEPATITIS B VIRUS
+
+Viêm gan D được chẩn đoán bằng xét nghiệm máu để phát hiện kháng thể HDV và HBV, "xét nghiệm chức năng gan" (liver function tests) và trong trường hợp nghiêm trọng, "sinh thiết gan" (liver biopsy). Vì không có phương pháp điều trị cụ thể nào cho HDV, nên các nhà cung cấp dịch vụ chăm sóc sức khỏe tập trung vào việc kiểm soát các triệu chứng và ngăn ngừa tổn thương gan. Bệnh nhân HBV mãn tính có thể được dùng "thuốc kháng vi-rút" (antiviral medications) để giảm sự sao chép của HBV hoặc thậm chí là "ghép gan" (liver transplantation) trong trường hợp tổn thương nghiêm trọng.
+![HEPATITIS B VIRUS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-07/transition--841786998-Montserrat-Black-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-14327312164.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## VACCINATED
+
+Cách tốt nhất để phòng ngừa viêm gan D là ngăn ngừa nhiễm HBV. Đảm bảo bạn được "tiêm vắc-xin" (vaccinated) chống lại HBV, thực hành "quan hệ tình dục an toàn" (safe sex) với "bạn tình được bảo vệ" (protected partners), sử dụng "kim tiêm sạch" (clean needles) và nếu bạn là "người hiến máu" (blood donor), hãy đảm bảo rằng máu của bạn được sàng lọc HDV và HBV.
+![VACCINATED](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-07/transition--18226114491-Montserrat-SemiBold-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-11708895352.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## TRANSMISSION
+
+Hãy nhớ rằng, việc biết về Viêm gan D giúp ngăn ngừa "lây truyền" (transmission) và thúc đẩy "sức khỏe gan" tốt (liver health). Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video hữu ích và hiểu sâu hơn về "bệnh" này (disease). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![TRANSMISSION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-07/transition--8343031774-Montserrat-Regular-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-7545522225.mp3" type="audio/mpeg">
+</audio>
+

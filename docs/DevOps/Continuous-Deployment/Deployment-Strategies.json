@@ -1,41 +1,62 @@
 {
-  "id": "21806938787",
+  "id": "38856279897",
   "titles": [
-    "\"\\[Độc quyền\\]: Nắm vững các chiến lược triển khai như một chuyên gia - Xanh lam-Xanh lục, Canary, Lăn và nhiều hơn nữa! \\\""
+    "Giải thích về Chiến lược triển khai: Từ Big Bang đến Canary"
   ],
   "topic": "Deployment Strategies",
-  "title": "\"\\[Độc quyền\\]: Nắm vững các chiến lược triển khai như một chuyên gia - Xanh lam-Xanh lục, Canary, Lăn và nhiều hơn nữa! \\\"",
-  "description": "\"Video này trình bày năm chiến lược triển khai: blue-green, canary, rolling, shadow và thử nghiệm A/B. Triển khai blue-green liên quan đến việc chuyển lưu lượng sang môi trường mới sau khi thử nghiệm kỹ lưỡng. Triển khai Canary triển khai dần dần các tính năng mới cho một nhóm người dùng. Triển khai rolling cập nhật từng máy chủ một, cho phép không có thời gian chết. Triển khai shadow chạy phần mềm mới song song với hệ thống trực tiếp. Thử nghiệm A/B so sánh hai phiên bản để xác định sở thích của người dùng. Các chiến lược này cho phép các tổ chức đảm bảo triển khai phần mềm suôn sẻ và giảm thiểu các sự cố tiềm ẩn.\"",
+  "title": "Giải thích về Chiến lược triển khai: Từ Big Bang đến Canary",
+  "description": "\"Trong video này, diễn giả giới thiệu các chiến lược triển khai cho các ứng dụng phần mềm. Chiến lược đầu tiên được thảo luận là Big Bang Deployment, trong đó toàn bộ ứng dụng được triển khai đồng thời, đơn giản nhưng có rủi ro như thời gian chết và lỗi. Chiến lược thứ hai là Rollout Deployment, bao gồm triển khai gia tăng các phần khác nhau của ứng dụng, giảm rủi ro lỗi. Chiến lược thứ ba là Rolling Update Deployment, trong đó ứng dụng được cập nhật theo trình tự các lần triển khai nhỏ, giảm thiểu thời gian chết và cho phép khôi phục dễ dàng. Các nhà nghiên cứu có thể xem hướng dẫn video chi tiết bên dưới.\"",
   "author": "Vietnamese Online Voice",
-  "date": "July 29, 2024",
+  "date": "August 8, 2024",
   "content": [
     {
-      "id": "17522877131",
+      "id": "34943270592",
+      "heading": "MINIMAL DEPENDENCIES",
+      "text": "Loại chiến lược triển khai đầu tiên là Big Bang Deployment, trong đó toàn bộ ứng dụng được triển khai cùng một lúc. Mặc dù cách tiếp cận này đơn giản và dễ hiểu, nhưng nó có những rủi ro đáng kể như \"thời gian chết\" (downtime) và \"lỗi\" (bugs). Nó thường được sử dụng cho \"các ứng dụng nhỏ\" (small applications) với \"sự phụ thuộc tối thiểu\" (minimal dependencies).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-08/transition-34943270592-Montserrat-Thin-880E4F.jpg",
+      "audioFilePath": "/app/storage/audio/file-15806508838.mp3"
+    },
+    {
+      "id": "-15564210333",
+      "heading": "INCREMENTALLY DEPLOYING",
+      "text": "Chiến lược thứ hai là Triển khai Rollout, bao gồm \"triển khai gia tăng\" (incrementally deploying) các phần khác nhau của ứng dụng, chẳng hạn như \"tính năng\" (features) hoặc \"dịch vụ\" (services). Cách tiếp cận này cho phép \"phơi bày dần dần\" (gradual exposure) với \"mã mới\" (new code), giảm \"rủi ro lỗi\" (risk of errors).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-08/transition--15564210333-Montserrat-Thin-9C27B0.jpg",
+      "audioFilePath": "/app/storage/audio/file-1625177365.mp3"
+    },
+    {
+      "id": "20713000166",
+      "heading": "SMALL DEPLOYMENTS",
+      "text": "Chiến lược thứ ba là Triển khai Cập nhật Lăn, trong đó ứng dụng được cập nhật theo trình tự \"các đợt triển khai nhỏ\" (small deployments), thay thế \"các phiên bản cũ\" (old instances) bằng các phiên bản mới. Cách tiếp cận này giảm thiểu \"thời gian chết\" (downtime) và cho phép \"hoàn nguyên\" dễ dàng (rollback).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-08/transition-20713000166-Montserrat-ExtraBold-880E4F.jpg",
+      "audioFilePath": "/app/storage/audio/file-22924384012.mp3"
+    },
+    {
+      "id": "5263095286",
+      "heading": "IDENTICAL ENVIRONMENTS",
+      "text": "Chiến lược thứ tư là Triển khai Xanh-Xanh, trong đó hai \"môi trường giống hệt nhau\" (identical environments) được sử dụng, một hoạt động và một không hoạt động. \"Phiên bản mới\" (new version) được \"triển khai\" (deployed) đến \"môi trường không hoạt động\" (inactive environment) và sau đó \"chuyển nhanh\" (quickly switched) sang hoạt động.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-08/transition-5263095286-Montserrat-Black-7B1FA2.jpg",
+      "audioFilePath": "/app/storage/audio/file-12570951261.mp3"
+    },
+    {
+      "id": "-47325659491",
       "heading": "DEPLOYMENT STRATEGIES",
-      "text": "Chiến lược triển khai rất quan trọng đối với bất kỳ tổ chức nào muốn đảm bảo triển khai phần mềm hoặc bản cập nhật mới một cách suôn sẻ và thành công. Trong video này, chúng tôi sẽ đề cập đến năm \"chiến lược triển khai\" phổ biến (deployment strategies): triển khai xanh lam-xanh lục, \"triển khai canary\" (canary deployment), \"triển khai liên tục\" (rolling deployment), \"triển khai ẩn\" (shadow deployment) và thử nghiệm A/B.",
-      "transitionImageFile": "/app/storage/images/transitions/2024-07-29/transition-17522877131-Montserrat-Medium-004895.jpg",
-      "audioFilePath": "/app/storage/audio/file-23348468792.mp3"
+      "text": "Chiến lược thứ năm là Canary Deployment, trong đó phiên bản mới của ứng dụng được triển khai cho \"một nhóm nhỏ người dùng\" (small subset of users) và \"được giám sát\" (monitored) trước khi triển khai cho \"toàn bộ cơ sở người dùng\" (entire user base). Mỗi chiến lược triển khai đều có bộ \"lợi thế\" (advantages) và \"cân nhắc\" (considerations) riêng. Ví dụ, triển khai Big Bang \"đơn giản\" (simple) nhưng \"rủi ro cao\" (high risk), trong khi \"triển khai phức tạp\" hơn (complex deployments) như Canary \"có rủi ro thấp hơn\" (carry lower risks) nhưng phức tạp hơn.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-08/transition--47325659491-Montserrat-SemiBold-880E4F.jpg",
+      "audioFilePath": "/app/storage/audio/file-948744176.mp3"
     },
     {
-      "id": "2840911967",
-      "heading": "NEW ENVIRONMENT",
-      "text": "Để \"triển khai\" (deploy) phiên bản mới của ứng dụng, trước tiên bạn sẽ triển khai nó đến \"môi trường nhàn rỗi\" (idle environment), \"kiểm tra\" (test) nó \"hoàn toàn\" (thoroughly), và sau đó \"chuyển lưu lượng\" (switch traffic over) đến \"môi trường mới\" (new environment). Điều này cho phép triển khai không có thời gian chết, vì luôn có một \"môi trường trực tiếp\" (live environment) có sẵn để phục vụ lưu lượng.",
-      "transitionImageFile": "/app/storage/images/transitions/2024-07-29/transition-2840911967-Montserrat-Thin-004895.jpg",
-      "audioFilePath": "/app/storage/audio/file-23515916274.mp3"
+      "id": "-899380503",
+      "heading": "DEPLOYMENT STRATEGY",
+      "text": "Khi chọn \"chiến lược triển khai\" (deployment strategy), hãy cân nhắc các \"thực hành tốt nhất\" sau (best practices):. Chiến lược triển khai là một phần thiết yếu của vòng đời phát triển phần mềm. Việc chọn đúng chiến lược đòi hỏi phải cân nhắc cẩn thận các yêu cầu của ứng dụng, \"cơ sở hạ tầng\" (infrastructure) và \"rủi ro tiềm ẩn\" (potential risks). Bằng cách hiểu các loại chiến lược triển khai khác nhau và \"lợi thế\" của chúng (advantages), chúng ta có thể đưa ra \"quyết định sáng suốt\" (informed decisions) và đảm bảo sự thành công của các ứng dụng của mình.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-08/transition--899380503-Montserrat-Black-880E4F.jpg",
+      "audioFilePath": "/app/storage/audio/file-5539564614.mp3"
     },
     {
-      "id": "-26420595717",
-      "heading": "CANARY DEPLOYMENT",
-      "text": "Điều này cho phép bạn phát hiện sớm mọi sự cố và \"quay lại\" (roll back) việc triển khai nếu cần, mà không \"ảnh hưởng\" (affecting) toàn bộ \"cơ sở người dùng\" (user base). Triển khai Canary có thể đặc biệt hữu ích cho các tổ chức có cơ sở người dùng lớn và đa dạng, vì chúng cho phép bạn \"triển khai dần dần\" (gradually roll out) các tính năng mới và \"thu thập phản hồi\" (gather feedback) từ \"mẫu đại diện\" (representative sample) người dùng.",
-      "transitionImageFile": "/app/storage/images/transitions/2024-07-29/transition--26420595717-Montserrat-ExtraBold-1A237E.jpg",
-      "audioFilePath": "/app/storage/audio/file-14178716140.mp3"
-    },
-    {
-      "id": "4358938660",
-      "heading": "ROLLING DEPLOYMENTS",
-      "text": "Điều này cho phép bạn \"triển khai các phiên bản mới\" (deploy new versions) của ứng dụng với \"thời gian ngừng hoạt động\" tối thiểu (downtime), vì luôn có một phần của \"đội máy chủ\" (server fleet) có sẵn để phục vụ lưu lượng truy cập. Triển khai liên tục có thể đặc biệt hữu ích cho \"các tổ chức\" (organizations) có cơ sở hạ tầng máy chủ lớn và phức tạp, vì chúng cho phép bạn triển khai các phiên bản mới của ứng dụng theo cách \"có kiểm soát\" (controlled) và \"dần dần\" (gradual manner).",
-      "transitionImageFile": "/app/storage/images/transitions/2024-07-29/transition-4358938660-Montserrat-Thin-7B1FA2.jpg",
-      "audioFilePath": "/app/storage/audio/file-52140292267.mp3"
+      "id": "-20844001729",
+      "heading": "NEW CODE",
+      "text": "Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về \"chiến lược triển khai\" (deployment strategies). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi. Hẹn gặp lại các bạn vào lần sau, đây chính là Kỷ nguyên số. Hãy tiếp tục sáng tạo, tiếp tục đổi mới và tiếp tục triển khai!",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-08/transition--20844001729-Montserrat-Black-7B1FA2.jpg",
+      "audioFilePath": "/app/storage/audio/file-14057470165.mp3"
     }
   ],
   "categories": [
@@ -43,23 +64,24 @@
     "Continuous Deployment"
   ],
   "tags": [
-    "#SoftwareDeployment",
-    "#ZeroDowntimeDeployments",
+    "#BigBangDeployment",
+    "#RolloutDeployment",
+    "#RollingUpdateDeployment",
     "#BlueGreenDeployment",
     "#CanaryDeployment",
-    "#RollingDeployment",
-    "#ShadowDeployment",
-    "#ABTesting",
-    "#IdleEnvironment",
-    "#NewSoftware",
-    "#Updates",
-    "#TestThoroughly",
-    "#CatchIssues",
-    "#RollBackDeployment",
-    "#AffectUserBase",
-    "#GradualRollout",
-    "#GatherFeedback",
-    "#DiverseUserBase"
+    "#SoftwareDevelopment",
+    "#SDevOps",
+    "#ITOperations",
+    "#MinimizingDowntime",
+    "#GradualDeployment",
+    "#IncrementalDeployment",
+    "#HighRiskDeployment",
+    "#LowerRiskDeployment",
+    "#DeploymentBestPractices",
+    "#DeploymentStrategyConsiderations",
+    "#ApplicationRequirements",
+    "#Infrastructure",
+    "#DeploymentSuccess"
   ],
   "comments": []
 }

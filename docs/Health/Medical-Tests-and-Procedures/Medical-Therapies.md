@@ -1,0 +1,91 @@
+
+---
+
+# Hướng dẫn luyện tập Marathon SUMMIT: Cách tăng sức bền và giảm chấn thương Tiêu đề của bạn ở đây
+
+- Published: August 8, 2024
+- Author: Vietnamese Online Voice
+- Categories: Health / **Medical Tests and Procedures**
+- #HealthcareTreatment #PhysicalTherapy #OccupationalTherapy #SpeechLanguageTherapy #RecreationalTherapy #PsychologicalTherapy #DietaryTherapy #PharmacologicalTherapy #Mobility #Strength #Function #DailyLivingSkills #CommunicationDisorders #LanguageSkills #ArtTherapy #SportsTherapy #MentalHealth #CognitiveBehavioralTherapy #HealthyEatingHabits #NutritionManagement #MedicationManagement #HealthcareEducation #SpinalCordInjury #Autism #StrokeSurvivors #HealthcarePromotion #PatientWellbeing #HealthcareProviders #FutureHealthcareProviders
+
+"Trong video này, chủ đề về liệu pháp y khoa được giới thiệu, bao gồm các phương pháp điều trị được sử dụng trong chăm sóc sức khỏe để chẩn đoán, ngăn ngừa hoặc kiểm soát bệnh tật, chấn thương hoặc rối loạn. Liệu pháp y khoa rất cần thiết để cải thiện cuộc sống của bệnh nhân và các nhà cung cấp dịch vụ chăm sóc sức khỏe sử dụng chúng riêng lẻ hoặc kết hợp với các phương pháp điều trị khác. Các loại liệu pháp y khoa bao gồm vật lý trị liệu, nghề nghiệp, ngôn ngữ và lời nói, giải trí, tâm lý, chế độ ăn uống và dược lý. Mỗi liệu pháp phục vụ một mục đích riêng biệt trong việc thúc đẩy sức khỏe thể chất và tinh thần của bệnh nhân. Vật lý trị liệu hỗ trợ bệnh nhân lấy lại khả năng vận động, sức mạnh và chức năng sau phẫu thuật, chấn thương hoặc các tình trạng bệnh mãn tính, trong khi liệu pháp nghề nghiệp cải thiện các kỹ năng sống và làm việc hàng ngày cho những người khuyết tật về nhận thức, thể chất hoặc tinh thần. Liệu pháp ngôn ngữ và lời nói hỗ trợ bệnh nhân mắc chứng rối loạn giao tiếp phát triển các kỹ năng ngôn ngữ và cách phát âm." Các sếp có thể xem video hướng dẫn chi tiết ở phía dưới nhé.
+
+
+## MEDICAL THERAPIES
+
+Liệu pháp y khoa đề cập đến "phương pháp điều trị" (treatments) được sử dụng trong "chăm sóc sức khỏe" (healthcare) để "chẩn đoán" (diagnose), "phòng ngừa" (prevent) hoặc "quản lý" (manage) "bệnh tật" (illnesses), "thương tích" (injuries) hoặc "rối loạn" (disorders). Chúng "rất quan trọng" (crucial) trong việc "cải thiện" (improving) cuộc sống của bệnh nhân và "nhà cung cấp dịch vụ chăm sóc sức khỏe" (healthcare providers) sử dụng chúng riêng lẻ hoặc "kết hợp" (combination) với các phương pháp điều trị khác.
+![MEDICAL THERAPIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-08/transition-4078378531-Montserrat-Regular-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-7279815055.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PHYSICAL THERAPY
+
+Có một số loại liệu pháp y khoa: "vật lý trị liệu" (physical therapy), "liệu pháp nghề nghiệp" (occupational therapy), liệu pháp ngôn ngữ và lời nói, "liệu pháp giải trí" (recreational therapy), "liệu pháp tâm lý" (psychological therapy), "liệu pháp ăn kiêng" (dietary therapy) và liệu pháp dược lý. Mỗi loại phục vụ một mục đích riêng biệt trong việc đảm bảo sức khỏe thể chất và tinh thần của bệnh nhân.
+![PHYSICAL THERAPY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-08/transition--23022716110-Montserrat-Thin-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-6950122678.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## OCCUPATIONAL THERAPY
+
+Vật lý trị liệu giúp bệnh nhân phục hồi khả năng vận động, sức mạnh và chức năng sau phẫu thuật, chấn thương hoặc các tình trạng bệnh mãn tính. Liệu pháp nghề nghiệp hỗ trợ bệnh nhân khuyết tật về nhận thức, thể chất hoặc tinh thần cải thiện kỹ năng sống và làm việc hàng ngày. Liệu pháp ngôn ngữ và lời nói hỗ trợ bệnh nhân mắc "rối loạn giao tiếp" (communication disorders) phát triển kỹ năng ngôn ngữ và cách phát âm của họ.
+![OCCUPATIONAL THERAPY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-08/transition-4681582233-Montserrat-Regular-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-13711422667.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## RECREATIONAL THERAPY
+
+Liệu pháp giải trí cung cấp "các hoạt động giải trí" (leisure activities), như "thể thao" (sports) hoặc "liệu pháp nghệ thuật" (art therapy), thúc đẩy "thể chất" (physical) và sức khỏe cảm xúc. Liệu pháp tâm lý giúp "bệnh nhân quản lý" (patients manage) "các vấn đề sức khỏe tâm thần" (mental health issues), như "lo lắng" (anxiety) hoặc "trầm cảm" (depression), bằng cách sử dụng các kỹ thuật như liệu pháp nhận thức - hành vi. Liệu pháp ăn kiêng tập trung vào việc phát triển thói quen ăn uống lành mạnh và kiểm soát các rối loạn liên quan đến dinh dưỡng. Liệu pháp dược lý cung cấp "quản lý thuốc" (medication management) và "giáo dục" (education) để đảm bảo các kế hoạch điều trị an toàn và hiệu quả.
+![RECREATIONAL THERAPY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-08/transition--63908522213-Montserrat-Bold-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-41652873963.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## IMPROVED SYMPTOMS
+
+Lợi ích của "liệu pháp y tế" (medical therapies) rất nhiều, bao gồm "cải thiện các triệu chứng" (improved symptoms), chẳng hạn như "đau" (pain) hoặc "mệt mỏi" (fatigue), "tăng khả năng vận động" (increased mobility) và "giảm nguy cơ té ngã" (reduced risk of falls), tăng cường chức năng nhận thức và "sức khỏe tinh thần tốt hơn" (better mental health).
+![IMPROVED SYMPTOMS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-08/transition-10403617533-Montserrat-Regular-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-13797267387.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## SPINAL CORD INJURY
+
+Sau đây là một số ví dụ thực tế: một bệnh nhân bị "chấn thương tủy sống" (spinal cord injury) được "vật lý trị liệu" (physical therapy) để lấy lại "khả năng vận động" (mobility) và "sức mạnh" (strength). Một trẻ bị "tự kỷ" (autism) được "liệu pháp nghề nghiệp" (occupational therapy) để phát triển "kỹ năng xã hội" (social skills) và "tính độc lập" (independence). Một "người sống sót sau đột quỵ" (stroke survivor) được trị liệu ngôn ngữ và lời nói để lấy lại "kỹ năng ngôn ngữ" (language skills) và "giao tiếp hiệu quả" (communicate effectively). Người mắc "trầm cảm" (depression) sẽ được "liệu pháp tâm lý" (psychological therapy) để kiểm soát "các triệu chứng" (symptoms) và xây dựng các chiến lược đối phó.
+![SPINAL CORD INJURY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-08/transition-22729351500-Montserrat-Thin-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-11755857574.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## HEALTHCARE PROVIDERS
+
+Liệu pháp y khoa đóng vai trò quan trọng trong "hệ thống chăm sóc sức khỏe" (healthcare system), thúc đẩy sức khỏe thể chất và tinh thần. Hiểu được "các loại khác nhau" (different types) và "lợi ích" của chúng (benefits) là điều cần thiết đối với các nhà cung cấp dịch vụ chăm sóc sức khỏe trong tương lai.
+![HEALTHCARE PROVIDERS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-08/transition--9472191988-Montserrat-Medium-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-18506437337.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## HEALTHCARE
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về vai trò của "liệu pháp y tế" (medical therapies) trong "chăm sóc sức khỏe" (healthcare). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi. Hẹn gặp lại các bạn vào lần sau, hãy cẩn thận!
+![HEALTHCARE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-08/transition-37653704656-Montserrat-Black-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-13416943922.mp3" type="audio/mpeg">
+</audio>
+

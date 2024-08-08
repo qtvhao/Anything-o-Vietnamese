@@ -9,6 +9,7 @@
   - [Continuous-inspection](./Continuous-inspection/)
     - [Code-review.md](./Code-review.md)
   - [Continuous-inspection.md](./Continuous-inspection.md)
+  - [Continuous-testing.md](./Continuous-testing.md)
   - [Deployment-Automation.md](./Deployment-Automation.md)
   - [Deployment-automation.md](./Deployment-automation.md)
   - [Monitoring-and-feedback](./Monitoring-and-feedback/)

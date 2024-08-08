@@ -7,6 +7,7 @@
   - [Cardiovascular-diseases.md](./Cardiovascular-diseases.md)
   - [Chronic-diseases.md](./Chronic-diseases.md)
   - [Congenital-disorders.md](./Congenital-disorders.md)
+  - [Digestive-diseases.md](./Digestive-diseases.md)
   - [Genetic-disorders.md](./Genetic-disorders.md)
   - [Infectious-diseases](./Infectious-diseases/)
     - [Bacterial-infections.md](./Bacterial-infections.md)
