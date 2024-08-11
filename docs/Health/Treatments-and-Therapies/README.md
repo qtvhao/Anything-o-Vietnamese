@@ -3,6 +3,9 @@
 
 - Treatments-and-Therapies
   - [Acupuncture.md](./Acupuncture.md)
+  - [Alternative-Medicine](./Alternative-Medicine/)
+    - [Acupuncture](./Acupuncture/)
+      - [Acupuncture-Techniques.md](./Acupuncture-Techniques.md)
   - [Behavioral-Therapy](./Behavioral-Therapy/)
     - [Cognitive-Behavioral-Therapy.md](./Cognitive-Behavioral-Therapy.md)
   - [Diet-and-Nutrition.md](./Diet-and-Nutrition.md)

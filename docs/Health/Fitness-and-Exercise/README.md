@@ -17,5 +17,8 @@
     - [Pilates-Reformer-Exercises.md](./Pilates-Reformer-Exercises.md)
   - [Pilates-and-Yoga.md](./Pilates-and-Yoga.md)
   - [Running-and-Jogging.md](./Running-and-Jogging.md)
+  - [Strength-Training](./Strength-Training/)
+    - [Weightlifting](./Weightlifting/)
+      - [Olympic-weightlifting.md](./Olympic-weightlifting.md)
   - [Swimming-and-Water-Aerobics.md](./Swimming-and-Water-Aerobics.md)
   - [Weight-Lifting.md](./Weight-Lifting.md)

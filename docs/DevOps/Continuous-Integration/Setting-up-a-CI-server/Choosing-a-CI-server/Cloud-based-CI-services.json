@@ -1,0 +1,70 @@
+{
+  "id": "-112049380445",
+  "titles": [
+    "Tăng tốc phát triển phần mềm của bạn với CI/CD dựa trên đám mây"
+  ],
+  "topic": "Cloud-based CI services",
+  "title": "Tăng tốc phát triển phần mềm của bạn với CI/CD dựa trên đám mây",
+  "description": "\"Video này giới thiệu về dịch vụ Tích hợp liên tục (CI) và CI dựa trên đám mây trong phát triển phần mềm. CI là một hoạt động mà các nhà phát triển thường tích hợp các thay đổi mã vào kho lưu trữ trung tâm, thường thông qua các quy trình tự động. Các dịch vụ CI dựa trên đám mây cải thiện mô hình này bằng cách lưu trữ quy trình tích hợp trên đám mây, cho phép các nhà phát triển truy cập vào cơ sở hạ tầng có thể mở rộng theo yêu cầu để kiểm tra, xây dựng và triển khai tự động, loại bỏ nhu cầu về phần cứng hoặc bảo trì đắt tiền. Việc hiểu CI và các dịch vụ dựa trên đám mây của nó là rất quan trọng đối với các nhà nghiên cứu trong lĩnh vực này.\"",
+  "author": "Vietnamese Online Voice",
+  "date": "August 9, 2024",
+  "content": [
+    {
+      "id": "-14401256400",
+      "heading": "GAME CHANGER",
+      "text": "Khi chúng ta tiến tới một thế giới số hóa hơn, nhu cầu về \"phát triển phần mềm\" \"nhanh hơn\" (faster) và \"hiệu quả hơn\" (more efficient) (software development) chưa bao giờ lớn hơn thế. Để đáp ứng nhu cầu này, các dịch vụ CI dựa trên đám mây đã nổi lên như một công cụ thay đổi cuộc chơi trong \"ngành công nghiệp\" (industry).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-09/transition--14401256400-Montserrat-Thin-880E4F.jpg",
+      "audioFilePath": "/app/storage/audio/file-10500013330.mp3"
+    },
+    {
+      "id": "-1769983729",
+      "heading": "SOFTWARE DEVELOPMENT",
+      "text": "Nhưng Tích hợp liên tục hay CI là gì và nó phù hợp với quy trình phát triển phần mềm như thế nào? Tích hợp liên tục là một hoạt động phát triển phần mềm trong đó \"các nhà phát triển\" (developers) \"tích hợp\" (integrate) \"các thay đổi mã\" (code changes) của họ vào một \"kho lưu trữ trung tâm\" (central repository) thường xuyên, thông qua \"các quy trình tự động\" (automated processes).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-09/transition--1769983729-Montserrat-Black-1A237E.jpg",
+      "audioFilePath": "/app/storage/audio/file-35663588472.mp3"
+    },
+    {
+      "id": "-15200974975",
+      "heading": "CLOUD-BASED CI SERVICES",
+      "text": "Các dịch vụ CI dựa trên đám mây đưa mô hình CI truyền thống này lên một tầm cao mới bằng cách lưu trữ toàn bộ quy trình tích hợp trên đám mây. Điều này có nghĩa là các nhà phát triển có thể truy cập vào \"cơ sở hạ tầng\" có thể mở rộng theo yêu cầu (infrastructure) để chạy \"các bài kiểm tra tự động\" (automated tests), \"bản dựng\" (builds) và \"triển khai\" (deployments) của họ mà không cần \"phần cứng đắt tiền\" (expensive hardware) hoặc bảo trì.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-09/transition--15200974975-Montserrat-Thin-1A237E.jpg",
+      "audioFilePath": "/app/storage/audio/file-19851990783.mp3"
+    },
+    {
+      "id": "27632140171",
+      "heading": "SCALABILITY",
+      "text": "Vậy một số lợi ích của việc sử dụng dịch vụ CI dựa trên đám mây là gì? Khả năng mở rộng, hiệu quả về chi phí, \"phản hồi nhanh hơn\" (faster feedback), \"hợp tác\" (collaboration) và \"bảo mật\" (security).. Hãy cùng xem xét một số dịch vụ CI dựa trên đám mây phổ biến: CircleCI, Travis CI, Azure DevOps và Google Cloud Build.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-09/transition-27632140171-Montserrat-Bold-4A148C.jpg",
+      "audioFilePath": "/app/storage/audio/file-22671018133.mp3"
+    },
+    {
+      "id": "42814821131",
+      "heading": "REVOLUTIONIZING",
+      "text": "Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy hữu ích và hiểu sâu hơn về các dịch vụ Cloud-based CI và cách chúng \"cách mạng hóa\" (revolutionizing) cách chúng ta phát triển phần mềm. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-09/transition-42814821131-Montserrat-Bold-673AB7.jpg",
+      "audioFilePath": "/app/storage/audio/file-17686234914.mp3"
+    }
+  ],
+  "categories": [
+    "DevOps",
+    "Continuous Integration",
+    "Setting up a CI server",
+    "Choosing a CI server"
+  ],
+  "tags": [
+    "#ContinuousIntegration",
+    "#SoftwareDevelopment",
+    "#DevOps",
+    "#CloudServices",
+    "#Scalability",
+    "#CostEffective",
+    "#FasterFeedback",
+    "#Collaboration",
+    "#Security",
+    "#CircleCI",
+    "#TravisCI",
+    "#AzureDevOps",
+    "#GoogleCloudBuild"
+  ],
+  "comments": []
+}

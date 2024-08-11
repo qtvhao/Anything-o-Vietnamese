@@ -1,0 +1,71 @@
+
+---
+
+# Bệnh sởi 101: Nguyên nhân, triệu chứng và cách phòng ngừa
+
+- Published: August 9, 2024
+- Author: Vietnamese Online Voice
+- Categories: Health / Diseases and Conditions / Infectious diseases / **Viral infections**
+- #Rubeola #VaccinesWork #Vaccination #PublicHealth #HealthAwareness #Paramyxovirus #ChildrensHealth #PreventionIsKey #Symptoms #Complications #EarInfections #Pneumonia #Bronchitis #Encephalitis #MMRVaccine #SaferCommunity #HealthierCommunity #VaccineHesitancy #VaccineMisinformation #VaccineEducation #Immunization #GlobalHealth #ChildHealth #Parenting #HealthTips #HealthFacts #MedicalFacts #SocialMediaHealthCampaign
+
+"Trong video này, chủ đề về bệnh sởi, còn được gọi là Rubeola, được giới thiệu. Một nguyên nhân đáng kể gây ra bệnh tật và tử vong ở trẻ em trên toàn thế giới, bệnh sởi do vi-rút sởi, một phần của họ paramyxovirus gây ra. Lây truyền xảy ra thông qua tiếp xúc trực tiếp, các hạt trong không khí và bề mặt bị ô nhiễm. Các triệu chứng bao gồm sốt, ho, sổ mũi, mắt đỏ và phát ban, với các đốm Koplik là dấu hiệu của bệnh. Bệnh sởi có thể dẫn đến các biến chứng nghiêm trọng, đặc biệt là ở trẻ nhỏ, phụ nữ mang thai và những người có hệ miễn dịch suy yếu. Những biến chứng này có thể bao gồm nhiễm trùng tai, viêm phổi, viêm phế quản và viêm não." "Các sếp có thể xem video hướng dẫn chi tiết ở phía dưới nhé."
+
+
+## MEASLES VIRUS
+
+Bệnh sởi, còn được gọi là Rubeola, là nguyên nhân hàng đầu gây ra "bệnh tật" (illness) và "tử vong" (death) ở "trẻ em" (children) trên toàn thế giới, đặc biệt là ở những khu vực có "tỷ lệ tiêm chủng thấp" (low vaccination rates). Bệnh này do "virus sởi" (measles virus) gây ra, đây là một thành viên của "họ paramyxovirus" (paramyxovirus family). Bệnh sởi "lây truyền" (transmitted) thông qua "tiếp xúc trực tiếp" (direct contact) với "dịch tiết đường hô hấp" (respiratory secretions) của người bị nhiễm bệnh, "lây truyền qua không khí" (airborne transmission) và bề mặt bị ô nhiễm.
+![MEASLES VIRUS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition--4690264223-Montserrat-Thin-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-3733671990.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## MEASLES
+
+Các "triệu chứng" phổ biến (symptoms) của bệnh sởi bao gồm "sốt" (fever), "ho" (cough), "chảy nước mũi" (runny nose), mắt đỏ, chảy nước và "phát ban" (rash), bắt đầu ở mặt và lan ra phần còn lại của cơ thể. Ngoài ra, hãy chú ý đến các đốm trắng ở bên trong má, được gọi là đốm Koplik.
+![MEASLES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition-10365037113-Montserrat-Thin-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-9847226736.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## YOUNG CHILDREN
+
+Bệnh sởi có thể dẫn đến "biến chứng" nghiêm trọng (complications), đặc biệt ở "trẻ nhỏ" (young children), "phụ nữ mang thai" (pregnant women) và những người có "hệ thống miễn dịch suy yếu" (weakened immune systems). Một số biến chứng này bao gồm "nhiễm trùng tai" (ear infections), "viêm phổi" (pneumonia), "viêm phế quản" (bronchitis) và "viêm não" (encephalitis), là "viêm" (inflammation) của "não" (brain).
+![YOUNG CHILDREN](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition-2726483048-Montserrat-Thin-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-17352951554.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## VACCINATION
+
+Phòng ngừa là chìa khóa khi nói đến bệnh sởi. Cách tốt nhất để phòng ngừa bệnh sởi là thông qua "tiêm chủng" (vaccination). Vắc-xin sởi, quai bị và rubella (MMR) là một cách an toàn và hiệu quả để bảo vệ chống lại bệnh sởi. Mặc dù không có phương pháp điều trị cụ thể nào cho bệnh sởi, "thuốc kháng vi-rút" (antiviral medications) có thể được kê đơn để giảm mức độ nghiêm trọng của "triệu chứng" (symptoms). Nghỉ ngơi, "bù nước" (hydration) và thuốc không kê đơn cũng có thể giúp làm giảm các triệu chứng.
+![VACCINATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition--34021137880-Montserrat-Thin-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-332605926.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PREVENTION
+
+Bằng cách hiểu "nguyên nhân" (causes), "triệu chứng" (symptoms), "lây truyền" (transmission) và "phòng ngừa" (prevention) của bệnh sởi, chúng ta có thể hướng tới việc tạo ra một cộng đồng an toàn và khỏe mạnh hơn. Tiêm vắc-xin là chìa khóa để phòng ngừa bệnh sởi, vì vậy hãy đảm bảo tiêm vắc-xin và khuyến khích những người khác làm như vậy.
+![PREVENTION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition--24044485667-Montserrat-Regular-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-13189347373.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## VIRAL INFECTIONS
+
+Tôi hy vọng video này đã cung cấp cho bạn hiểu biết sâu sắc hơn về bệnh Sởi. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi. Cảm ơn bạn đã xem!
+![VIRAL INFECTIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition-8461326303-Montserrat-SemiBold-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-15341044734.mp3" type="audio/mpeg">
+</audio>
+

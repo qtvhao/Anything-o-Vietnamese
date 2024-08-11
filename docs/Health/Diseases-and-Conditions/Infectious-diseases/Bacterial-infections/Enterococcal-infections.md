@@ -1,0 +1,71 @@
+
+---
+
+# Chống lại nhiễm trùng Enterococcal: Hướng dẫn phòng ngừa, chẩn đoán và điều trị
+
+- Published: August 9, 2024
+- Author: Vietnamese Online Voice
+- Categories: Health / Diseases and Conditions / Infectious diseases / **Bacterial infections**
+- #Enterococcus #BacterialInfections #HealthEducation #Microbiology #InfectionPrevention #Antibiotics #Hygiene #SurgicalSiteInfections #WoundInfections #UrinaryTractInfections #Sepsis #Endocarditis #Diagnosis #LaboratoryTests #Treatment #Vaccination #HealthyLifestyle #MedicalManagement #PublicHealth
+
+"Trong video này, chúng tôi thảo luận về nhiễm trùng Enterococcal, nguyên nhân, cách phòng ngừa và điều trị. Nhiễm trùng Enterococcal bắt nguồn từ vi khuẩn Enterococcus, thường vô hại nhưng có khả năng gây bệnh trong những trường hợp cụ thể. Những vi khuẩn này, vốn có trong ruột và môi trường của con người, có thể gây nhiễm trùng qua vết thương hở, vị trí phẫu thuật hoặc thiết bị y tế và lây lan qua tiếp xúc với bề mặt, thực phẩm hoặc nước bị ô nhiễm. Các triệu chứng có thể bao gồm sốt, ớn lạnh, đau bụng và tiêu chảy. Chẩn đoán dựa trên xét nghiệm trong phòng thí nghiệm, chẳng hạn như nuôi cấy máu hoặc nuôi cấy nước tiểu. Các nhà nghiên cứu có thể xem hướng dẫn chi tiết bên dưới."
+
+
+## ENTEROCOCCAL INFECTIONS
+
+Trong video giáo dục này, chúng ta sẽ đi sâu vào thế giới của các bệnh nhiễm trùng do Enterococcal, khám phá chúng là gì, chúng được gây ra như thế nào và chúng ta có thể làm gì để ngăn ngừa và điều trị chúng. Nhiễm trùng do Enterococcal gây ra bởi vi khuẩn Enterococcus, thường được tìm thấy trong "ruột người" (human gut) và "môi trường" (environment). Thông thường chúng vô hại, chúng có thể trở thành "bệnh lý" (pathogenic) trong "một số trường hợp nhất định" (certain circumstances), dẫn đến nhiễm trùng.
+![ENTEROCOCCAL INFECTIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition--47770268769-Montserrat-Medium-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-10126885340.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## BACTERIAL INFECTIONS
+
+Những bệnh nhiễm trùng này có thể xảy ra khi vi khuẩn xâm nhập vào cơ thể qua vết thương hở, vị trí phẫu thuật hoặc thiết bị y tế. Chúng cũng có thể lây lan từ người sang người thông qua tiếp xúc với bề mặt, thực phẩm hoặc nước bị ô nhiễm.
+![BACTERIAL INFECTIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition--12894991894-Montserrat-Bold-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-15019704272.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## WOUND INFECTIONS
+
+Nhiễm trùng đường ruột có thể "biểu hiện" (manifest) theo nhiều cách khác nhau, bao gồm nhiễm trùng đường tiết niệu, "nhiễm trùng huyết" (sepsis), "nhiễm trùng vết thương" (wound infections) và "viêm nội tâm mạc" (endocarditis). Các "triệu chứng" phổ biến (symptoms) bao gồm "sốt" (fever), "ớn lạnh" (chills), "mệt mỏi" (fatigue), "đau bụng" (abdominal pain), "tiêu chảy" (diarrhea) và "nôn mửa" (vomiting). Chẩn đoán thường được thực hiện thông qua "xét nghiệm trong phòng thí nghiệm" (laboratory tests), chẳng hạn như "nuôi cấy máu" (blood cultures), "nuôi cấy nước tiểu" (urine cultures) hoặc tăm bông lấy mẫu vết thương.
+![WOUND INFECTIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition-10590431443-Montserrat-SemiBold-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-22336606836.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## ANTIBIOTICS
+
+Điều trị nhiễm trùng Enterococcal thường bao gồm "kháng sinh" (antibiotics), có thể dùng "đường uống" (orally) hoặc "tiêm tĩnh mạch" (intravenously). Trong những trường hợp nghiêm trọng, có thể cần phải "nhập viện" (hospitalization) để kiểm soát "triệu chứng" (symptoms) và ngăn ngừa "biến chứng" (complications).
+![ANTIBIOTICS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition-7238212483-Montserrat-Bold-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-9169708407.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PREVENTION
+
+Để phòng ngừa nhiễm trùng Enterococcal, hãy thực hành "vệ sinh" tốt (hygiene), sử dụng "kháng sinh một cách khôn ngoan" (antibiotics wisely), "tiêm vắc-xin" (vaccinated) và duy trì "lối sống lành mạnh" (healthy lifestyle). Hãy nhớ rằng, "phòng ngừa" (prevention) là chìa khóa!. Bằng cách hiểu "nguyên nhân" (causes), "triệu chứng" (symptoms) và các chiến lược phòng ngừa nhiễm trùng Enterococcal, chúng ta có thể giảm nguy cơ và giữ gìn sức khỏe. Cảm ơn bạn đã xem.
+![PREVENTION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition-10085988056-Montserrat-Medium-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-10962701653.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## DIAGNOSIS
+
+Cảm ơn bạn đã xem video này về nhiễm trùng Enterococcal. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi. Cảm ơn bạn đã xem!
+![DIAGNOSIS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition-11519264513-Montserrat-Bold-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-56645820874.mp3" type="audio/mpeg">
+</audio>
+

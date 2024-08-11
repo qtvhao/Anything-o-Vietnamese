@@ -3,6 +3,8 @@
 
 - Medical-Tests-and-Procedures
   - [Diagnostic-Tests](./Diagnostic-Tests/)
+    - [Blood-Tests](./Blood-Tests/)
+      - [Coagulation-Panel.md](./Coagulation-Panel.md)
     - [Blood-Tests.md](./Blood-Tests.md)
   - [Genetic-Testing.md](./Genetic-Testing.md)
   - [Genetic-Tests.md](./Genetic-Tests.md)

@@ -1,0 +1,71 @@
+
+---
+
+# Giải thích về Kiểm thử phần mềm: Thủ công, Tự động và hơn thế nữa
+
+- Published: August 9, 2024
+- Author: Vietnamese Online Voice
+- Categories: DevOps / Continuous Delivery / Automated Testing / **Unit Testing**
+- #SoftwareTesting #ManualTesting #AutomatedTesting #ExploratoryTesting #ScriptedTesting #DataDrivenTesting #TestPlanning #TestCases #TestScenarios #SoftwareApplication #QualityAssurance #TestingTools #TestExecutionTypes #EffectiveTesting #RegressionTesting #TestPlanningAndExecution #SoftwareDevelopment #QA #Testers #LaborIntensive #UpfrontInvestment #TestValidation #ComplexDataFlows #TraditionalTestingMethods #RealWorldTesting #TestCombination #StrengthsAndWeaknesses #SoftwareTestingStrategies #TestManagement #SoftwareQuality #TestEfficiency #TestEffectiveness
+
+"Video này giới thiệu về việc thực hiện thử nghiệm trong thử nghiệm phần mềm, bao gồm thử nghiệm thủ công, tự động và khám phá. Thử nghiệm thủ công, do người thử nghiệm thực hiện, tốn thời gian nhưng cho phép tư duy phản biện và khám phá linh hoạt. Thử nghiệm tự động, sử dụng các công cụ phần mềm, nhanh hơn và hiệu quả hơn nhưng đòi hỏi đầu tư và bảo trì trước. Thử nghiệm khám phá, không có trường hợp thử nghiệm được xác định trước, rất hiệu quả trong việc tìm ra các lỗi bị bỏ qua bởi các phương pháp truyền thống. Các nhà nghiên cứu có thể xem hướng dẫn chi tiết bên dưới."
+
+
+## MANUAL TESTING
+
+Thực hiện kiểm thử là quá trình "chạy một trường hợp kiểm thử" (running a test case) hoặc "một tập hợp các trường hợp kiểm thử" (set of test cases) để xác thực chức năng của "ứng dụng phần mềm" (software application). "Loại đầu tiên" (first type) của "thực hiện kiểm thử" (test execution) là "kiểm thử thủ công" (manual testing). Kiểm thử thủ công bao gồm việc thực hiện các trường hợp kiểm thử thủ công bởi "người kiểm thử" (human tester). Cách tiếp cận này tốn nhiều thời gian và công sức, nhưng nó cho phép người kiểm thử suy nghĩ "một cách phê phán" (critically) và khám phá ứng dụng theo cách linh hoạt hơn.
+![MANUAL TESTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition-11083701465-Montserrat-SemiBold-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-177070602.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## AUTOMATED TESTING
+
+Loại thực hiện kiểm thử thứ hai là "kiểm thử tự động" (automated testing). Kiểm thử tự động sử dụng "công cụ phần mềm" (software tools) để thực hiện "các trường hợp kiểm thử" (test cases). Cách tiếp cận này nhanh hơn và hiệu quả hơn so với kiểm thử thủ công, nhưng đòi hỏi "đầu tư ban đầu" đáng kể (upfront investment) vào công cụ và "bảo trì" (maintenance).
+![AUTOMATED TESTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition--26640731664-Montserrat-ExtraBold-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-32045482856.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## EXPLORATORY TESTING
+
+Kiểm thử thăm dò là một phương pháp tiếp cận mà "người kiểm thử" (testers) "khám phá" (explore) "ứng dụng" (application) mà không có các trường hợp kiểm thử được xác định trước. Phương pháp tiếp cận này là "lý tưởng" (ideal) để tìm "lỗi" (defects) có thể không phát hiện được thông qua các phương pháp kiểm thử truyền thống.
+![EXPLORATORY TESTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition-1645195135-Montserrat-Thin-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-42637462384.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## SCRIPTED TESTING
+
+Kiểm thử theo kịch bản bao gồm thực hiện các trường hợp kiểm thử được xác định trước theo "định dạng theo kịch bản" (scripted format). Phương pháp này lý tưởng cho "kiểm thử hồi quy" (regression testing) và đảm bảo rằng "chức năng hiện có" (existing functionality) không bị hỏng. Kiểm thử theo hướng dữ liệu bao gồm thực hiện các trường hợp kiểm thử với "nhiều đầu vào dữ liệu" (multiple data inputs). Phương pháp này lý tưởng cho việc kiểm thử các ứng dụng có luồng dữ liệu phức tạp.
+![SCRIPTED TESTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition-20411276091-Montserrat-Thin-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-16117881419.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## TEST EXECUTION TYPES
+
+Tóm lại, "các loại thực hiện kiểm thử" (test execution types) không "loại trừ lẫn nhau" (mutually exclusive) và "sự kết hợp" (combination) của "các phương pháp tiếp cận" (approaches) thường được sử dụng trong các tình huống kiểm thử thực tế. Việc hiểu được "điểm mạnh" (strengths) và "điểm yếu" (weaknesses) của từng loại là rất quan trọng để "lập kế hoạch kiểm thử" (test planning) và thực hiện hiệu quả.
+![TEST EXECUTION TYPES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition--2217163818-Montserrat-Thin-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-8537700561.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## SOFTWARE TESTING
+
+Cảm ơn bạn đã xem video này về "các loại thực hiện kiểm thử" (test execution types). Tôi hy vọng bạn thấy hữu ích và hiểu sâu hơn về các cách tiếp cận khác nhau đối với "kiểm thử phần mềm" (software testing). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![SOFTWARE TESTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition--81739659-Montserrat-Regular-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-2938434298.mp3" type="audio/mpeg">
+</audio>
+

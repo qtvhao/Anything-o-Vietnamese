@@ -1,0 +1,61 @@
+
+---
+
+# Phân tích độ phủ mã: Chìa khóa để viết phần mềm đáng tin cậy hơn
+
+- Published: August 10, 2024
+- Author: Vietnamese Online Voice
+- Categories: DevOps / Continuous Delivery / Automated Testing / **Unit Testing**
+- #SoftwareDevelopment #SoftwareTesting #QA #CodeQuality #CodeInstrumentation #TestCoverage #LineCoverage #StatementCoverage #BranchCoverage #ConditionCoverage #BugDetection #ErrorReduction #CodeMaintenance #Collaboration #CodeCoverageTool #TestingStrategies #BetterStructuredCode #UntestedCode #DeveloperTools #SoftwareTestingTechniques #SoftwareEngineering #DevOps #AgileDevelopment #CodeAnalysis #SoftwareDevelopmentProcess #ContinuousIntegration #ContinuousTesting #SoftwareAudit #ComprehensiveTesting #SoftwareTestingBestPractices
+
+"Trong video này, phần giới thiệu về phân tích độ phủ mã được cung cấp. Đây là phương pháp đo lường việc thực thi mã của ứng dụng phần mềm trong quá trình thử nghiệm. Các nhà phát triển sẽ thiết lập mã bằng các hướng dẫn đặc biệt để theo dõi những phần nào được thực thi, tạo báo cáo nêu bật phần trăm và các dòng cụ thể của mã chưa được thực thi. Phân tích độ phủ mã đảm bảo các bài kiểm tra toàn diện, giảm lỗi và sai sót, khuyến khích cấu trúc mã tốt hơn và thúc đẩy sự hợp tác của nhóm. Các loại bao gồm độ phủ dòng, câu lệnh, nhánh và điều kiện. Quy trình này bao gồm việc thiết lập mã, chạy thử nghiệm và tạo báo cáo bằng công cụ độ phủ mã."
+
+
+## CODE COVERAGE ANALYSIS
+
+Vậy, "phân tích độ bao phủ mã" (code coverage analysis) là gì? Đó là một phương pháp được sử dụng để "đo lường" (measure) mức độ mà mã của "ứng dụng phần mềm" (software application) được thực thi trong quá trình thử nghiệm. Các nhà phát triển sẽ thiết lập mã bằng "các hướng dẫn đặc biệt" (special instructions) để "theo dõi" (track) những phần nào của mã được thực thi khi ứng dụng được chạy. Sau đó, một "báo cáo" (report) được tạo ra để làm nổi bật "phần trăm" (percentage) mã đã được thực thi cũng như "các dòng mã cụ thể" (specific lines of code) không được thực thi.
+![CODE COVERAGE ANALYSIS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-10/transition-34193975786-Montserrat-Bold-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-23371342378.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## COMPREHENSIVE ENOUGH
+
+Tại sao "phân tích độ phủ mã" (code coverage analysis) lại quan trọng? Đầu tiên, nó giúp "các nhà phát triển" (developers) đảm bảo rằng "các bài kiểm tra" (tests) của họ "đủ toàn diện" (comprehensive enough) để bao quát tất cả "các khía cạnh của mã" (aspects of the code). Bằng cách "xác định các khu vực" (identifying areas) của mã không được thực thi trong quá trình kiểm tra, các nhà phát triển có thể tạo các bài kiểm tra bổ sung để đảm bảo rằng mã được xác thực kỹ lưỡng. Thứ hai, phân tích độ phủ mã có thể giúp giảm khả năng xảy ra lỗi và sai sót trong mã bằng cách xác định "mã chưa được kiểm tra" (untested code). Thứ ba, nó khuyến khích các nhà phát triển viết mã có cấu trúc tốt hơn, giúp kiểm tra và bảo trì dễ dàng hơn. Cuối cùng, phân tích phạm vi kiểm thử mã thúc đẩy "sự hợp tác" (collaboration) giữa các "thành viên nhóm" (team members) bằng cách cung cấp sự hiểu biết chung về phạm vi kiểm thử của mã.
+![COMPREHENSIVE ENOUGH](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-10/transition--31289548009-Montserrat-Thin-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-26240573268.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## INSTRUMENT THE CODE
+
+Có một số "kiểu bao phủ mã" (types of code coverage), chẳng hạn như "bao phủ dòng" (line coverage), "bao phủ câu lệnh" (statement coverage), "bao phủ nhánh" (branch coverage) và "bao phủ điều kiện" (condition coverage).. Vậy, bạn thực hiện "phân tích bao phủ mã" (code coverage analysis) như thế nào? Đầu tiên, các nhà phát triển sử dụng "công cụ bao phủ mã" (code coverage tool) để "đo lường mã" (instrument the code) với "hướng dẫn đặc biệt" (special instructions) theo dõi quá trình thực thi. Tiếp theo, họ chạy "các bài kiểm tra của ứng dụng" (application's tests), sẽ thực thi mã đã đo lường. Cuối cùng, họ sử dụng công cụ bao phủ mã để "tạo báo cáo" (generate a report) làm nổi bật "phần trăm mã" (percentage of code) đã được "thực thi" (executed).
+![INSTRUMENT THE CODE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-10/transition--28094650279-Montserrat-Thin-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-135206335.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## TESTING STRATEGIES
+
+Phân tích độ phủ mã là một kỹ thuật mạnh mẽ để đảm bảo chất lượng của các ứng dụng phần mềm. Bằng cách kết hợp "phân tích độ phủ mã" (code coverage analysis) vào "chiến lược thử nghiệm" (testing strategies) của bạn, bạn có thể viết "mã có cấu trúc" (structured code), "giảm lỗi" (reduce bugs) và "cải thiện sự cộng tác" (improve collaboration) tốt hơn giữa các thành viên trong nhóm.
+![TESTING STRATEGIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-10/transition--16549967143-Montserrat-Medium-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-17227283399.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## UNIT TESTING
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy hữu ích và hiểu sâu hơn về "phân tích độ phủ mã" (code coverage analysis). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![UNIT TESTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-10/transition-6358481808-Montserrat-Regular-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-12198519424.mp3" type="audio/mpeg">
+</audio>
+

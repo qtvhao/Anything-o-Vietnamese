@@ -1,0 +1,71 @@
+
+---
+
+# Tầm soát ung thư phổi 101: Những điều bạn cần biết
+
+- Published: August 10, 2024
+- Author: Vietnamese Online Voice
+- Categories: Health / Preventive Care / Screenings / **Cancer Screenings**
+- #LungCancerAwareness #EarlyDetection #LowDoseCTScan #LungHealth #LungCancerSurvival #CancerPrevention #HighRiskLungCancer #LungCancerTreatment #LungCancerDiagnosis #COPD #LungAbnormalities #LungImaging #LungCancerStatistics #LungCancerPrevention #LungCancerWarrior #LungCancerScreeningSavesLives #LungCancerAdvocacy #HealthyLungs #LungCancerResearch #LungHealthAwareness #StopLungCancer #LungCancerFacts #LungCancerSupport #LungCancerAction #LungCancerCommunity
+
+"Trong video này, chúng tôi giới thiệu về sàng lọc ung thư phổi, một phương pháp giúp phát hiện sớm. Sàng lọc ung thư phổi sử dụng chụp CT liều thấp, tạo ra hình ảnh phổi chi tiết, phát hiện các khối u nhỏ và bất thường trước khi các triệu chứng xuất hiện. Cân nhắc sàng lọc nếu ở độ tuổi 55-74, có tiền sử hút thuốc, tiền sử gia đình mắc ung thư phổi, tiếp xúc với hóa chất hoặc các bệnh về phổi như COPD. Thảo luận về các yếu tố rủi ro với bác sĩ của bạn, chụp CT liều thấp và được phân tích hình ảnh và chăm sóc theo dõi nếu cần. Các sếp có thể xem video hướng dẫn chi tiết ở phía dưới nhé."
+
+
+## LUNG CANCER SCREENING
+
+Ung thư phổi có thể là một chẩn đoán khó khăn, nhưng với "sàng lọc ung thư phổi" (lung cancer screening), việc phát hiện sớm giờ đây đã trở thành hiện thực. Sàng lọc ung thư phổi bao gồm chụp CT liều thấp tạo ra "hình ảnh chi tiết" (detailed images) phổi của bạn, giúp xác định "khối u" nhỏ (tumors) và "bất thường" (abnormalities) ngay cả trước khi "triệu chứng" (symptoms) xuất hiện.
+![LUNG CANCER SCREENING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-10/transition--463645817-Montserrat-Black-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-14153168882.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## LUNG CANCER
+
+Ai nên được sàng lọc? Nếu bạn ở độ tuổi từ "55 đến 74" (55 and 74), có "tiền sử hút thuốc" (history of smoking), có tiền sử gia đình mắc ung thư phổi, tiếp xúc với một số hóa chất hoặc có tiền sử mắc bệnh phổi tắc nghẽn mãn tính (COPD) hoặc "các bệnh phổi khác" (other lung diseases), bạn có thể đủ điều kiện để "sàng lọc ung thư phổi" (lung cancer screening).
+![LUNG CANCER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-10/transition--2365579359-Montserrat-Black-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-24085038876.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## SCREENING
+
+Quy trình này rất đơn giản. Đầu tiên, bạn sẽ gặp bác sĩ để thảo luận về "các yếu tố rủi ro" (risk factors) của bạn và xác định xem bạn có đủ điều kiện để sàng lọc hay không. Sau đó, bạn sẽ được chụp CT liều thấp, chỉ mất vài phút để hoàn thành. Một "bác sĩ X quang" (radiologist) sẽ phân tích hình ảnh và nếu có bất kỳ "bất thường" nào (abnormalities), bạn sẽ được chăm sóc theo dõi hoặc xét nghiệm thêm.
+![SCREENING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-10/transition-20991390329-Montserrat-SemiBold-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-15602696521.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## EARLY DETECTION
+
+Nhưng tại sao bạn nên cân nhắc "tầm soát ung thư phổi" (lung cancer screening)? Các nghiên cứu đã chỉ ra rằng nó có thể cải thiện "tỷ lệ sống sót" (survival rates) lên đến 20% và giảm nguy cơ tử vong do ung thư phổi lên đến 15%. Thêm vào đó, "phát hiện sớm" (early detection) có nghĩa là nhiều "lựa chọn điều trị" hơn (treatment options) và "kết quả tốt hơn" (better outcomes).
+![EARLY DETECTION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-10/transition--666513248-Montserrat-Thin-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-21096354130.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## HIGH RISK
+
+Tầm soát ung thư phổi là một công cụ mạnh mẽ trong cuộc chiến chống lại "ung thư phổi" (lung cancer) và có thể giúp cứu sống. Nếu bạn có "nguy cơ cao" (high risk) mắc ung thư phổi, hãy trao đổi với bác sĩ về việc tầm soát ngay hôm nay. Cùng nhau, chúng ta hãy lên tiếng chống lại ung thư phổi và biến "phát hiện sớm" (early detection) thành hiện thực cho mọi người.
+![HIGH RISK](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-10/transition--13965433575-Montserrat-Regular-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-4919410337.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## INFORMATIVE
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy nó "có ích" (informative) và có được "hiểu biết sâu sắc hơn" (deeper understanding) về "sàng lọc ung thư phổi" (lung cancer screening). Nếu bạn có bất kỳ "câu hỏi" nào (questions) hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận "thông báo" (notifications) về "video mới" của chúng tôi (new videos).
+![INFORMATIVE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-10/transition-38450567525-Montserrat-Regular-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-12577101115.mp3" type="audio/mpeg">
+</audio>
+

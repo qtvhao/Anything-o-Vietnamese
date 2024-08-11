@@ -1,0 +1,91 @@
+{
+  "id": "-6637572234",
+  "titles": [
+    "Làm chủ Kiểm soát Phiên bản: Các loại, Tính năng và Lợi ích"
+  ],
+  "topic": "Version Control Systems",
+  "title": "Làm chủ Kiểm soát Phiên bản: Các loại, Tính năng và Lợi ích",
+  "description": "\"Trong video này, phần giới thiệu về Hệ thống kiểm soát phiên bản (VCS) được trình bày. VCS là một công cụ phần mềm quan trọng theo dõi và quản lý các thay đổi đối với mã, tài liệu hoặc nội dung kỹ thuật số khác, cho phép nhiều nhà phát triển cộng tác mà không bị mất dữ liệu hoặc xung đột. Các tính năng bao gồm quản lý phiên bản, phân nhánh, hợp nhất và sao lưu. Các thay đổi được ghi lại một cách tỉ mỉ, cho phép khôi phục về các phiên bản trước đó. VCS tập trung, chẳng hạn như Subversion (SVN) và Perforce, lưu trữ tất cả các phiên bản trên một máy chủ duy nhất, trong khi VCS phân tán, như Git và Mercurial, cho phép làm việc đồng thời với các bản sao cục bộ của toàn bộ lịch sử.\"",
+  "author": "Vietnamese Online Voice",
+  "date": "August 10, 2024",
+  "content": [
+    {
+      "id": "27549735277",
+      "heading": "VERSION CONTROL SYSTEMS",
+      "text": "Bạn có hỏi Hệ thống kiểm soát phiên bản là gì không? VCS là một công cụ phần mềm thiết yếu giúp theo dõi và quản lý các thay đổi đối với mã, tài liệu hoặc bất kỳ \"nội dung kỹ thuật số\" nào khác (digital content). Nó cho phép \"nhiều nhà phát triển\" (multiple developers) \"hợp tác\" (collaborate) trong một \"dự án\" (project) mà không sợ \"mất dữ liệu\" (data loss) hoặc \"xung đột\" (conflicts).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-10/transition-27549735277-Montserrat-Bold-512DA8.jpg",
+      "audioFilePath": "/app/storage/audio/file-9941770685.mp3"
+    },
+    {
+      "id": "12967307143",
+      "heading": "VERSIONING",
+      "text": "VCS cung cấp vô số tính năng, bao gồm \"phiên bản\" (versioning), \"phân nhánh\" (branching), \"hợp nhất\" (merging) và \"sao lưu\" (backup). Mỗi thay đổi được thực hiện đối với \"mã\" (code) đều được ghi lại một cách tỉ mỉ, cho phép bạn \"hoàn nguyên\" (revert) về \"phiên bản trước\" (previous versions) nếu có sự cố xảy ra.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-10/transition-12967307143-Montserrat-Thin-673AB7.jpg",
+      "audioFilePath": "/app/storage/audio/file-27201596879.mp3"
+    },
+    {
+      "id": "-4199247746",
+      "heading": "VERSION CONTROL SYSTEM",
+      "text": "Có hai loại VCS chính: Tập trung và Phân tán. VCS tập trung, chẳng hạn như Subversion (SVN) và Perforce, dựa vào \"máy chủ duy nhất\" (single server) để lưu trữ tất cả các phiên bản của mã. Mặt khác, VCS phân tán, như Git và Mercurial, cho phép nhiều nhà phát triển làm việc đồng thời với \"bản sao cục bộ\" (local copies) của toàn bộ lịch sử.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-10/transition--4199247746-Montserrat-SemiBold-4A148C.jpg",
+      "audioFilePath": "/app/storage/audio/file-15380389174.mp3"
+    },
+    {
+      "id": "5379617417",
+      "heading": "COLLABORATION",
+      "text": "Việc sử dụng VCS mang lại nhiều lợi ích, bao gồm \"cộng tác\" được cải thiện (collaboration), \"lịch sử phiên bản\" toàn diện (version history), \"khôi phục lỗi\" (error recovery) và \"sao lưu và khôi phục\" (backup and recovery). Không có gì ngạc nhiên khi VCS là một thành phần quan trọng trong các ngành như \"phát triển phần mềm\" (software development), \"phát triển web\" (web development) và khoa học dữ liệu.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-10/transition-5379617417-Montserrat-ExtraBold-303F9F.jpg",
+      "audioFilePath": "/app/storage/audio/file-8123384769.mp3"
+    },
+    {
+      "id": "14102072609",
+      "heading": "TYPES",
+      "text": "Trong video này, tôi đã đề cập đến khái niệm Hệ thống kiểm soát phiên bản, \"các loại\" (types), \"tính năng\" (features) và \"lợi thế\" (advantages) của chúng. Bây giờ là lúc bạn đưa kiến ​​thức của mình vào thử nghiệm! Trả lời các \"câu hỏi đánh giá\" này (assessment questions) và chia sẻ suy nghĩ của bạn với cộng đồng.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-10/transition-14102072609-Montserrat-Black-9C27B0.jpg",
+      "audioFilePath": "/app/storage/audio/file-32061690795.mp3"
+    },
+    {
+      "id": "931108164",
+      "heading": "COLLABORATE",
+      "text": "Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video hữu ích và hiểu sâu hơn về Hệ thống kiểm soát phiên bản. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-10/transition-931108164-Montserrat-SemiBold-9C27B0.jpg",
+      "audioFilePath": "/app/storage/audio/file-7413798494.mp3"
+    }
+  ],
+  "categories": [
+    "DevOps",
+    "Infrastructure as Code",
+    "IaC Tools",
+    "IaC Provisioning Tools"
+  ],
+  "tags": [
+    "#VCS",
+    "#softwaretool",
+    "#trackchanges",
+    "#code",
+    "#documents",
+    "#digitalcontent",
+    "#collaboration",
+    "#conflicts",
+    "#versioning",
+    "#branching",
+    "#merging",
+    "#backup",
+    "#Subversion",
+    "#SVN",
+    "#Perforce",
+    "#DistributedVCS",
+    "#Git",
+    "#Mercurial",
+    "#improvedcollaboration",
+    "#versionhistory",
+    "#errorrecovery",
+    "#backupandrecovery",
+    "#softwaredevelopment",
+    "#webdevelopment",
+    "#datascience",
+    "#assessment",
+    "#community"
+  ],
+  "comments": []
+}

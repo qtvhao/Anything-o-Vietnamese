@@ -1,0 +1,61 @@
+
+---
+
+# Những nguy cơ tiềm ẩn của nhiễm trùng nấm toàn thân: Những điều bạn cần biết
+
+- Published: August 9, 2024
+- Author: Vietnamese Online Voice
+- Categories: Health / Diseases and Conditions / Infectious diseases / **Fungal infections**
+- #FungalInfections #InternalFungalInfections #HealthAwareness #WeakenedImmuneSystem #AntibioticsOveruse #ContaminatedEnvironments #Candidemia #Aspergillosis #Cryptococcosis #Histoplasmosis #Fever #Chills #Cough #ChestPain #PhysicalExams #LaboratoryTests #MolecularDiagnostics #AntifungalMedications #Surgery #FungalInfectionPrevention #GoodHygiene #HealthyLifestyle #TimelyMedicalAttention
+
+"Trong video này, chủ đề về nhiễm trùng nấm toàn thân được giới thiệu. Những bệnh nhiễm trùng này xảy ra khi nấm xâm nhập và lây lan đến các cơ quan nội tạng, và có thể gây tử vong nếu không được điều trị. Các yếu tố nguy cơ bao gồm hệ thống miễn dịch suy yếu, sử dụng quá nhiều kháng sinh và môi trường bị ô nhiễm. Các bệnh nhiễm trùng nấm toàn thân phổ biến bao gồm Candida máu, Aspergillosis, Cryptococcosis và Histoplasmosis. Các triệu chứng có thể bao gồm sốt, ớn lạnh, ho và đau ngực. Chẩn đoán bao gồm khám sức khỏe, xét nghiệm trong phòng thí nghiệm và chẩn đoán phân tử, với phương pháp điều trị thường bao gồm thuốc chống nấm hoặc phẫu thuật." Các sếp có thể xem video hướng dẫn chi tiết ở phía dưới nhé.
+
+
+## SYSTEMIC FUNGAL INFECTIONS
+
+"Nhiễm trùng nấm" toàn thân (fungal infections) xảy ra khi "nấm" (fungi) xâm nhập vào cơ thể và lan đến "các cơ quan nội tạng" (internal organs), chẳng hạn như "phổi" (lungs), "não" (brain) hoặc "máu" (bloodstream). Không giống như nhiễm trùng nấm nông, những nhiễm trùng này có thể "gây tử vong" (deadly) nếu không được điều trị.
+![SYSTEMIC FUNGAL INFECTIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition-29801696287-Montserrat-SemiBold-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-19866546801.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## WEAKENED IMMUNE SYSTEMS
+
+Một số yếu tố góp phần vào sự phát triển của nhiễm trùng nấm toàn thân. Những người có "hệ thống miễn dịch suy yếu" (weakened immune systems), những người "lạm dụng kháng sinh" (overuse antibiotics) và những người tiếp xúc với môi trường bị ô nhiễm có nguy cơ cao hơn.
+![WEAKENED IMMUNE SYSTEMS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition-22446464704-Montserrat-Bold-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-8515848999.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## FUNGAL INFECTIONS
+
+Nhiễm nấm toàn thân phổ biến nhất bao gồm Candidemia, Aspergillosis, Cryptococcosis và Histoplasma. Các triệu chứng có thể khác nhau nhưng thường bao gồm sốt, ớn lạnh, ho và đau ngực. Để chẩn đoán các bệnh nhiễm trùng này, bác sĩ sử dụng "khám sức khỏe" (physical exams), "xét nghiệm trong phòng thí nghiệm" (laboratory tests) và "chẩn đoán phân tử" (molecular diagnostics). Điều trị thường bao gồm "thuốc chống nấm" (antifungal medications) hoặc phẫu thuật.
+![FUNGAL INFECTIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition-754129486-Montserrat-Bold-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-4330117546.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## FUNGI
+
+Để ngăn ngừa "nhiễm trùng nấm" toàn thân (fungal infections), hãy thực hành vệ sinh tốt, tránh các hoạt động có nguy cơ cao, duy trì hệ thống miễn dịch khỏe mạnh và tìm kiếm sự chăm sóc y tế kịp thời nếu cần thiết. Bằng cách hiểu được các rủi ro và hậu quả của nhiễm trùng nấm toàn thân, chúng ta có thể thực hiện các biện pháp phòng ngừa cần thiết để bảo vệ bản thân và những người xung quanh. Hãy nhớ rằng, một lối sống lành mạnh và sự chăm sóc y tế kịp thời có thể tạo nên sự khác biệt.
+![FUNGI](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition-28157826697-Montserrat-Thin-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-4577859527.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## SYSTEMIC FUNGAL INFECTIONS
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về nhiễm trùng nấm toàn thân. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận "thông báo" (notifications) về các video mới của chúng tôi.
+![SYSTEMIC FUNGAL INFECTIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition-28711632325-Montserrat-Black-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-8221616429.mp3" type="audio/mpeg">
+</audio>
+

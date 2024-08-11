@@ -1,0 +1,81 @@
+
+---
+
+# Phân loại và xếp loại: Hiểu về quy trình đánh giá
+
+- Published: August 9, 2024
+- Author: Vietnamese Online Voice
+- Categories: Gastroenterology / Esophageal diseases / Esophageal cancer / **Squamous cell carcinoma**
+- #Grading #Education #SecondarySchool #AcademicAbility #Performance #YearGroup #AcademicAchievement #Assessments #Tests #Exams #Projects #LearningObjectives #Mark #StudentProgress #Teachers #Learners #Support #Challenge #GoalSetting #Help #Organization #Review #Reflection #EducationalProcess #AcademicProgress #Success
+
+"Trong video này, chúng tôi giới thiệu về quá trình dàn dựng và chấm điểm trong giáo dục trung học. Dàn dựng bao gồm việc chia học sinh thành các cấp độ khác nhau dựa trên khả năng và thành tích học tập, trong khi chấm điểm chỉ định điểm hoặc điểm số để phản ánh thành tích của học sinh. Điểm số, thường dựa trên các đánh giá như bài kiểm tra và kỳ thi, đo lường tiến độ hướng tới các mục tiêu học tập. Cùng nhau, dàn dựng và chấm điểm cung cấp cái nhìn toàn diện về tiến độ học tập của học sinh, với điểm số cho biết học sinh có đáp ứng được kỳ vọng đối với cấp độ dàn dựng của mình hay không."
+
+
+## STAGING
+
+Phân loại là quá trình phân chia học sinh thành các cấp độ học tập khác nhau dựa trên "khả năng học tập" (academic ability) và "thành tích" (performance) của họ. Ở trường trung học, học sinh thường được phân loại theo nhóm năm và thành tích học tập của mình.
+![STAGING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition-20377873875-Montserrat-ExtraBold-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5131990609.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## GRADING
+
+Chấm điểm là quá trình chỉ định điểm hoặc xếp loại cho bài làm của học sinh để phản ánh thành tích của học sinh. Điểm thường dựa trên "thành tích của học sinh" (student's performance) trong các đánh giá, chẳng hạn như bài kiểm tra, kỳ thi và dự án. Ở "trường trung học" (secondary school), điểm thường được sử dụng để đo lường tiến độ của học sinh trong việc đạt được "mục tiêu học tập" (learning objectives) của một môn học hoặc khóa học cụ thể.
+![GRADING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition--62567074915-Montserrat-SemiBold-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-35834965944.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## ACADEMIC PROGRESS
+
+Việc dàn dựng và chấm điểm kết hợp với nhau để cung cấp một bức tranh toàn diện về "tiến trình học tập" của học sinh (academic progress). Khi học sinh được dàn dựng, các em được xếp vào một "trình độ học tập" cụ thể (level of study) dựa trên "khả năng học tập" của các em (academic ability). Khi các em hoàn thành các bài đánh giá và bài tập, bài làm của các em sẽ được "chấm điểm" (graded) để phản ánh "thành tích" của các em (achievement). Sau đó, các em nhận được điểm số để xác định xem các em có đạt được "kỳ vọng" (expectations) về "trình độ dàn dựng" của mình (staged level) hay không.
+![ACADEMIC PROGRESS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition--29214229576-Montserrat-Regular-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-14300574206.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## STAGING AND GRADING
+
+Phân loại và "xếp loại" (grading) rất quan trọng vì chúng giúp giáo viên xác định các lĩnh vực mà học sinh cần hỗ trợ thêm hoặc thử thách. Bằng cách "xếp loại" (staging) học sinh theo "khả năng học tập" (academic ability) của họ, giáo viên có thể điều chỉnh bài học của mình để đáp ứng nhu cầu của "những người học khác nhau" (different learners). Phân loại cung cấp một cách để đo lường sự tiến bộ của học sinh và xác định các lĩnh vực mà học sinh có thể cần thêm trợ giúp hoặc xem lại.
+![STAGING AND GRADING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition--4519250048-Montserrat-SemiBold-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5227496107.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## ACHIEVE GOALS
+
+Để thành công trong hệ thống "phân loại và chấm điểm" (staging and grading), điều quan trọng là phải đặt ra mục tiêu cho bản thân, tìm kiếm sự trợ giúp khi cần, duy trì sự ngăn nắp, xem xét và suy ngẫm về công việc của mình, đồng thời hiểu "mức độ phân loại" (staged level) của mình và những gì được mong đợi ở bạn.
+![ACHIEVE GOALS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition-30168415122-Montserrat-Thin-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-7485090633.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## ACADEMIC ABILITY
+
+Tóm lại, "sắp xếp" (staging) và "xếp loại" (grading) là "các thành phần thiết yếu" (essential components) của quá trình đánh giá ở "trường trung học" (secondary school). Bằng cách hiểu cách các "quy trình" này (processes) hoạt động cùng nhau, bạn có thể kiểm soát "tiến trình học tập" (academic progress) của mình và đạt được mục tiêu. Hãy nhớ tập trung, làm việc chăm chỉ và "tìm kiếm sự giúp đỡ" (seek help) khi bạn cần - và bạn sẽ tiến gần đến "thành công" (success)!
+![ACADEMIC ABILITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition-5039793568-Montserrat-SemiBold-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-20914365551.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## ASSESSMENT PROCESS
+
+Cảm ơn bạn đã xem video này về "Phân loại và chấm điểm: Hiểu về quy trình đánh giá". Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về "quy trình đánh giá" (assessment process) ở trường trung học. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![ASSESSMENT PROCESS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition--7118248987-Montserrat-Bold-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-9851154593.mp3" type="audio/mpeg">
+</audio>
+

@@ -1,0 +1,108 @@
+{
+  "id": "23814052619",
+  "titles": [
+    "Git 101: Hiểu về kho lưu trữ, cam kết và nhánh"
+  ],
+  "topic": "Git Fundamentals",
+  "title": "Git 101: Hiểu về kho lưu trữ, cam kết và nhánh",
+  "description": "\"Trong video này, người thuyết trình giới thiệu các khái niệm cơ bản của Git. Kho lưu trữ, khái niệm đầu tiên, là một vị trí tập trung để lưu trữ tất cả mã và tệp của dự án. Khái niệm thứ hai, commit, tạo ảnh chụp nhanh mã tại một thời điểm nhất định. Khái niệm thứ ba, nhánh, là một dòng phát triển riêng biệt trong kho lưu trữ. Cuối cùng, merge, khái niệm thứ tư, kết hợp các thay đổi từ nhánh này sang nhánh khác. Để bắt đầu sử dụng Git, người dùng nên cài đặt từ trang web chính thức của Git.\"",
+  "author": "Vietnamese Online Voice",
+  "date": "August 10, 2024",
+  "content": [
+    {
+      "id": "12712165718",
+      "heading": "REPOSITORY",
+      "text": "Bây giờ, chúng ta hãy đi sâu vào các khái niệm cơ bản của Git. Khái niệm đầu tiên là \"kho lưu trữ\" (repository). Kho lưu trữ là \"vị trí trung tâm\" (central location) nơi lưu trữ tất cả \"mã\" (code) và \"tệp\" (files) của một \"dự án\" (project). Về cơ bản, đây là \"tủ hồ sơ kỹ thuật số\" (digital filing cabinet) cho dự án của bạn.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-10/transition-12712165718-Montserrat-Black-1A237E.jpg",
+      "audioFilePath": "/app/storage/audio/file-2926051362.mp3"
+    },
+    {
+      "id": "1726829681",
+      "heading": "COMMIT",
+      "text": "Khái niệm thứ hai là \"commit\" (commit). Khi bạn commit các thay đổi trong Git, nó sẽ tạo một ảnh chụp nhanh về mã của bạn tại thời điểm đó, ghi lại tất cả các thay đổi và bổ sung mà bạn đã thực hiện kể từ lần commit cuối cùng.. Khái niệm thứ ba là \"branch\" (branch). Branch là một dòng phát triển riêng biệt trong \"cùng một kho lưu trữ\" (same repository). Điều này cho phép bạn làm việc trên các tính năng hoặc bản sửa lỗi khác nhau mà không ảnh hưởng đến \"cơ sở mã chính\" (main codebase).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-10/transition-1726829681-Montserrat-Thin-673AB7.jpg",
+      "audioFilePath": "/app/storage/audio/file-16746547853.mp3"
+    },
+    {
+      "id": "3264177448",
+      "heading": "GIT",
+      "text": "Khái niệm thứ tư là \"gộp\" (merge). Gộp là quá trình \"kết hợp\" (combining) \"thay đổi\" (changes) từ một \"nhánh\" (branch) thành một nhánh khác. Điều này cho phép bạn gộp các thay đổi của mình trở lại \"cơ sở mã\" chính (codebase) khi bạn đã sẵn sàng. Bây giờ bạn đã hiểu cơ bản về Git, chúng ta hãy nói về việc bắt đầu với Git. Điều đầu tiên bạn cần làm là \"cài đặt\" (install) Git trên \"máy tính\" của bạn (computer). Bạn có thể tải xuống từ trang web chính thức của Git.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-10/transition-3264177448-Montserrat-Black-512DA8.jpg",
+      "audioFilePath": "/app/storage/audio/file-8097037766.mp3"
+    },
+    {
+      "id": "35063189707",
+      "heading": "GIT",
+      "text": "Sau khi Git được \"cài đặt\" (installed), bạn có thể tạo một \"kho lưu trữ\" mới (repository) bằng cách \"điều hướng\" (navigating) đến \"thư mục dự án\" (project folder) của bạn và chạy \"lệnh git init\" (command git init). Thao tác này sẽ tạo một kho lưu trữ mới và \"theo dõi các thay đổi\" (track changes) trong \"mã\" (code) của bạn. Sau khi bạn đã thực hiện các thay đổi đối với mã của mình, bạn có thể thêm các thay đổi đó vào kho lưu trữ bằng cách sử dụng \"lệnh git add\" (command git add). Điều này cho Git biết \"tệp\" nào (files) bạn muốn \"bao gồm\" (include) trong \"lần xác nhận tiếp theo\" (next commit).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-10/transition-35063189707-Montserrat-Regular-9C27B0.jpg",
+      "audioFilePath": "/app/storage/audio/file-12523096893.mp3"
+    },
+    {
+      "id": "-63723262781",
+      "heading": "GIT COMMIT",
+      "text": "Sau khi thêm tệp, bạn cần cam kết các thay đổi bằng lệnh \"git commit\" (git commit) -m \"Message\". Đảm bảo bao gồm \"thông báo mô tả\" (descriptive message) về những thay đổi bạn đã thực hiện. Sau khi bạn đã đẩy mã của mình lên \"kho lưu trữ\" (repository), bạn có thể sử dụng các lệnh Git khác để quản lý mã của mình. Một số lệnh hữu ích nhất bao gồm \"git status\" (git status), \"git log\" (git log), \"git branch\" (git branch), \"git checkout\" (git checkout) và \"git merge\" (git merge). Các lệnh này cho phép bạn xem trạng thái kho lưu trữ, \"xem lịch sử\" (view a history) về các \"cam kết\" (commits), chuyển đổi giữa các \"nhánh\" (branches) và \"hợp nhất các thay đổi\" (merge changes) vào các nhánh khác.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-10/transition--63723262781-Montserrat-Bold-004895.jpg",
+      "audioFilePath": "/app/storage/audio/file-53691134358.mp3"
+    },
+    {
+      "id": "15322429901",
+      "heading": "COLLABORATE",
+      "text": "Một trong những tính năng mạnh mẽ nhất của Git là khả năng \"hợp tác\" (collaborate) với các nhà phát triển khác. Git cho phép bạn tạo \"kho lưu trữ từ xa\" (remote repository) trên các nền tảng như GitHub hoặc GitLab. Sau khi tạo kho lưu trữ từ xa, bạn có thể sao chép kho lưu trữ vào máy cục bộ của mình bằng lệnh \"git clone\" (git clone). Từ đó, bạn có thể thực hiện các thay đổi, \"cam kết\" (commit) chúng và \"đẩy\" (push) chúng trở lại kho lưu trữ từ xa.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-10/transition-15322429901-Montserrat-Thin-4A148C.jpg",
+      "audioFilePath": "/app/storage/audio/file-9681366971.mp3"
+    },
+    {
+      "id": "26427090022",
+      "heading": "USING GIT",
+      "text": "Khi bạn bắt đầu sử dụng Git, hãy nhớ rằng thực hành là điều cần thiết. Bạn càng sử dụng Git nhiều, bạn sẽ càng thoải mái hơn. Vì vậy, hãy bắt đầu sử dụng Git trong các dự án của bạn và thử nghiệm với các \"lệnh\" khác nhau (commands) để trở nên \"thành thạo\" hơn (proficient).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-10/transition-26427090022-Montserrat-Medium-004895.jpg",
+      "audioFilePath": "/app/storage/audio/file-13585438004.mp3"
+    },
+    {
+      "id": "-5695933269",
+      "heading": "GIT FUNDAMENTALS",
+      "text": "Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về Git cơ bản. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận \"thông báo\" (notifications) về \"video mới\" của chúng tôi (new videos).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-10/transition--5695933269-Montserrat-Bold-880E4F.jpg",
+      "audioFilePath": "/app/storage/audio/file-16511790039.mp3"
+    }
+  ],
+  "categories": [
+    "DevOps",
+    "Release Management",
+    "Version Control",
+    "Git"
+  ],
+  "tags": [
+    "#GitConcepts",
+    "#Repository",
+    "#Commit",
+    "#Branch",
+    "#Merge",
+    "#GitInstallation",
+    "#GitInit",
+    "#GitAdd",
+    "#GitCommit",
+    "#GitPush",
+    "#GitStatus",
+    "#GitLog",
+    "#GitBranch",
+    "#GitCheckout",
+    "#GitMerge",
+    "#GitCollaboration",
+    "#GitHub",
+    "#GitLab",
+    "#GitClone",
+    "#VersionControl",
+    "#Coding",
+    "#Programming",
+    "#TechTips",
+    "#DevTools",
+    "#OpenSource",
+    "#CodingTutorial",
+    "#GitTips",
+    "#LearnGit",
+    "#ProductivityTools",
+    "#SoftwareDevelopment"
+  ],
+  "comments": []
+}

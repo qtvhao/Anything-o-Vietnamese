@@ -1,0 +1,51 @@
+
+---
+
+# Giải thích về bệnh cúm: Loại A, B và C
+
+- Published: August 9, 2024
+- Author: Vietnamese Online Voice
+- Categories: Health / Diseases and Conditions / Infectious diseases / **Influenza and pneumonia**
+- #Flu #TypeAInfluenza #TypeBInfluenza #TypeCInfluenza #H1N1 #H3N2 #FluPrevention #FluShot #Vaccination #HandWashing #FluSeason #SicknessPrevention #StayHome #Rest #HealthyDiet #Hydration #AntiviralMedication #FluTreatment #FluSymptoms #FluComplications #FluAwareness #PublicHealth #HealthTips
+
+"Video này giải thích sự khác biệt giữa cúm loại A, B và C. Loại A là loại phổ biến nhất và nghiêm trọng nhất, ảnh hưởng đến mọi nhóm tuổi và được chia thành các phân nhóm như H1N1 và H3N2. Loại B chủ yếu ảnh hưởng đến trẻ em và thanh thiếu niên, gây ra các triệu chứng ít nghiêm trọng hơn. Loại C là loại nhẹ nhất, thường ảnh hưởng đến trẻ nhỏ. Các biện pháp phòng ngừa bao gồm tiêm vắc-xin, vệ sinh tốt, tránh xa những người bị bệnh, ở nhà khi bị bệnh và duy trì lối sống lành mạnh. Thuốc kháng vi-rút có thể làm giảm các triệu chứng và giảm biến chứng nếu bị cúm."
+
+
+## TYPES OF INFLUENZA
+
+Cúm loại A là dạng cúm phổ biến nhất và "nghiêm trọng" (severe), ảnh hưởng đến mọi người ở mọi lứa tuổi. Nó được chia thành "các phân nhóm" (subtypes), chẳng hạn như H1N1 và H3N2, và có thể gây ra một loạt các triệu chứng, từ nhẹ đến nghiêm trọng. Ngược lại, cúm loại B ít nghiêm trọng hơn loại A và chủ yếu ảnh hưởng đến trẻ em và thanh thiếu niên. Nó ít có khả năng dẫn đến biến chứng, nhưng vẫn có thể gây khó chịu đáng kể. Cúm loại C là "dạng nhẹ nhất" (mildest form) của bệnh cúm, thường ảnh hưởng đến trẻ em dưới 10 tuổi và thường không nghiêm trọng và không dẫn đến biến chứng.
+![TYPES OF INFLUENZA](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition--22225727463-Montserrat-Bold-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-21469716072.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## FLU VACCINE
+
+Phòng ngừa cúm luôn tốt hơn điều trị. Sau đây là một số cách để bảo vệ bản thân và những người thân yêu của bạn:. Tiêm "vắc-xin" (vaccinate): "Vắc-xin cúm" (flu vaccine) là cách hiệu quả nhất để phòng ngừa cúm. Thực hành "vệ sinh tốt" (good hygiene): Rửa tay thường xuyên, đặc biệt là trong "mùa cúm" (flu season).
+![FLU VACCINE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition-12804940751-Montserrat-Regular-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-20614111776.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## FEELING UNWELL
+
+Tránh "tiếp xúc gần" (close contact) với những người bị bệnh. Ở nhà nếu bạn "cảm thấy không khỏe" (feeling unwell). Nghỉ ngơi nhiều, ăn uống lành mạnh và giữ đủ nước. Nếu bạn bị cúm, "thuốc kháng vi-rút" (antiviral medications) có thể giúp làm giảm các triệu chứng và "giảm nguy cơ" (reduce the risk) "biến chứng" (complications).
+![FEELING UNWELL](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition-12760608618-Montserrat-Thin-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-26537964111.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## INFLUENZA
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video hữu ích và hiểu sâu hơn về các "loại cúm" khác nhau (types of influenza). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![INFLUENZA](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition-10346836819-Montserrat-SemiBold-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-32013979011.mp3" type="audio/mpeg">
+</audio>
+

@@ -1,0 +1,71 @@
+
+---
+
+# Bệnh Leishmaniasis 101: Hướng dẫn về bệnh nhiễm ký sinh trùng này
+
+- Published: August 9, 2024
+- Author: Vietnamese Online Voice
+- Categories: Health / Diseases and Conditions / Infectious diseases / **Parasitic infections**
+- #PublicHealth #ParasiticInfection #LeishmaniaParasite #SandFly #CutaneousLeishmaniasis #VisceralLeishmaniasis #MucocutaneousLeishmaniasis #TropicalDisease #SubtropicalDisease #PoorSanitation #LackOfHealthcare #InsecticideTreatedBedNets #ProtectiveClothing #InsectRepellents #VectorControl #DiseasePrevention #DiseaseControl #ClinicalEvaluation #LaboratoryTests #MicroscopicExamination #TissueSamples #TreatmentOptions #AntimonialCompounds #Miltefosine #LiposomalAmphotericinB #GlobalHealth #HealthAwareness #MedicalEducation
+
+"Video này trình bày một phân tích chuyên sâu về bệnh Leishmaniasis, một mối quan tâm đáng kể về sức khỏe cộng đồng. Ký sinh trùng Leishmania gây ra căn bệnh truyền nhiễm này, lây truyền qua vết cắn của ruồi cát. Nội dung thảo luận bao gồm ba loại chính của bệnh Leishmaniasis: Da, Nội tạng và Niêm mạc, mỗi loại ảnh hưởng đến các bộ phận khác nhau của cơ thể, dẫn đến các triệu chứng khác nhau. Các chiến lược phòng ngừa bao gồm sử dụng màn tẩm thuốc trừ sâu, quần áo bảo hộ và thuốc xua đuổi côn trùng. Các chương trình kiểm soát véc tơ dựa vào cộng đồng cũng hỗ trợ kiểm soát sự lây lan của bệnh. Các nhà nghiên cứu có thể xem hướng dẫn video chi tiết bên dưới để biết thêm thông tin."
+
+
+## LEISHMANIASIS
+
+Xin chào! Trong video này, chúng ta sẽ thảo luận về bệnh Leishmaniasis, một khía cạnh quan trọng của "sức khỏe cộng đồng" (public health). "Nhiễm trùng ký sinh trùng" này (parasitic infection) là do ký sinh trùng Leishmania gây ra, lây truyền qua vết cắn của "ruồi cát" bị nhiễm bệnh (sand fly). Chúng ta hãy cùng tìm hiểu các loại, nguyên nhân và chiến lược phòng ngừa khác nhau của căn bệnh suy nhược này.
+![LEISHMANIASIS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition-17716966900-Montserrat-SemiBold-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-26884685294.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## LEISHMANIASIS
+
+Bệnh Leishmaniasis có ba loại chính: Da, Nội tạng và Muco"cutaneous" (cutaneous). Mỗi dạng ảnh hưởng đến các bộ phận khác nhau của cơ thể, dẫn đến nhiều "triệu chứng" khác nhau (symptoms). Bệnh Leishmaniasis da gây ra "tổn thương da" (skin lesions) hoặc "loét" (ulcers), trong khi bệnh Leishmaniasis nội tạng gây ra tổn thương cho "các cơ quan nội tạng" (internal organs) như "gan" (liver), "lá lách" (spleen) và "tủy xương" (bone marrow). Ngược lại, bệnh Leishmaniasis niêm mạc da ảnh hưởng đến "màng nhầy" (mucous membranes) và có thể dẫn đến "phá hủy mô" (tissue destruction) ở "mũi" (nose), "miệng" (mouth) và cổ họng.
+![LEISHMANIASIS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition--24157263151-Montserrat-Regular-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-48539212196.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## LEISHMANIASIS
+
+Sự lây truyền xảy ra khi một "con ruồi cát bị nhiễm bệnh" (infected sand fly) cắn người, thường ở các vùng nhiệt đới và cận nhiệt đới. Những khu vực có "điều kiện vệ sinh kém" (poor sanitation) và không được tiếp cận dịch vụ chăm sóc sức khỏe có nguy cơ nhiễm trùng cao hơn. Vậy, làm thế nào chúng ta có thể ngăn ngừa và kiểm soát bệnh Leishmaniasis? Một số "biện pháp hiệu quả" (effective measures) bao gồm sử dụng màn tẩm thuốc trừ sâu, mặc "quần áo bảo hộ" (protective clothing) và sử dụng "thuốc xua đuổi côn trùng" (insect repellents). Các nỗ lực dựa vào cộng đồng, chẳng hạn như các chương trình kiểm soát véc tơ, cũng có thể giúp giảm sự lây lan của bệnh.
+![LEISHMANIASIS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition--7211415519-Montserrat-Thin-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-6618268056.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## LEISHMANIASIS
+
+Chẩn đoán bệnh Leishmaniasis có thể khó khăn do các triệu chứng không đặc hiệu. Chẩn đoán thường được xác nhận thông qua sự kết hợp của "đánh giá lâm sàng" (clinical evaluation), "xét nghiệm trong phòng thí nghiệm" (laboratory tests) và "kiểm tra bằng kính hiển vi" (microscopic examination) của "mẫu mô" (tissue samples). Các lựa chọn điều trị có thể khác nhau và có thể bao gồm "hợp chất antimonial" (antimonial compounds), "miltefosine" (miltefosine) và liposome amphotericin B.
+![LEISHMANIASIS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition-10173312766-Montserrat-Bold-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-39444651968.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PUBLIC HEALTH CONCERN
+
+Bệnh Leishmaniasis là "mối quan ngại đáng kể về sức khỏe cộng đồng" (public health concern) ở nhiều nơi trên thế giới. Bằng cách hiểu nguyên nhân, triệu chứng và hậu quả của bệnh, chúng ta có thể thực hiện các bước để "ngăn ngừa và kiểm soát" (prevent and control) "sự lây lan" của bệnh (spread). Luôn nhớ rằng: phòng bệnh hơn chữa bệnh!
+![PUBLIC HEALTH CONCERN](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition-30644772201-Montserrat-Bold-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-12430748057.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## PARASITIC INFECTIONS
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về bệnh Leishmaniasis và tác động của nó. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi về "nhiễm ký sinh trùng" (parasitic infections)!
+![PARASITIC INFECTIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-09/transition-51167234098-Montserrat-Medium-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-23579452124.mp3" type="audio/mpeg">
+</audio>
+

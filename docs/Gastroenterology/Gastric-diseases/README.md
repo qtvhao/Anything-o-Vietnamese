@@ -11,6 +11,8 @@
   - [Gastric-polyps](./Gastric-polyps/)
     - [Pediatric-gastric-polyps.md](./Pediatric-gastric-polyps.md)
   - [Gastritis](./Gastritis/)
+    - [Acute-gastritis](./Acute-gastritis/)
+      - [Autoimmune-acute-gastritis.md](./Autoimmune-acute-gastritis.md)
     - [Acute-gastritis.md](./Acute-gastritis.md)
   - [Gastritis.md](./Gastritis.md)
   - [Gastroparesis](./Gastroparesis/)

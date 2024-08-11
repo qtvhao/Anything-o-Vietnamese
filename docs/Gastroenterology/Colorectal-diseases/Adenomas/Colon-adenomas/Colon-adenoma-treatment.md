@@ -1,0 +1,71 @@
+
+---
+
+# Loại bỏ u tuyến đại tràng: Hướng dẫn điều trị và phòng ngừa
+
+- Published: August 10, 2024
+- Author: Vietnamese Online Voice
+- Categories: Gastroenterology / Colorectal diseases / Adenomas / **Colon adenomas**
+- #ColonAdenomaTreatment #ColorectalCancer #Colonoscopy #Polypectomy #SurgicalResection #EndoscopicMucosalResection #ArgonPlasmaCoagulation #ColonHealth #ColonCancerPrevention #HealthyDiet #Exercise #ColonoscopyScreening #EarlyDetection #StayHealthy
+
+"Trong video này, diễn giả giới thiệu về phương pháp điều trị u tuyến đại tràng. U tuyến đại tràng, hay polyp, là khối u ở lớp niêm mạc bên trong đại tràng, và mặc dù không phải là ung thư, nhưng nó có thể làm tăng nguy cơ ung thư đại tràng nếu không được điều trị. Thường được phát hiện trong quá trình nội soi đại tràng, các phương án điều trị bao gồm cắt polyp, cắt niêm mạc nội soi và đông tụ plasma argon. Có thể cần phải cắt bỏ bằng phẫu thuật đối với các khối u tuyến lớn hơn. Các nhà nghiên cứu có thể xem hướng dẫn chi tiết trong video."
+
+
+## COLON ADENOMA
+
+Xin chào mọi người và chào mừng đến với lớp sức khỏe. Hôm nay chúng ta sẽ thảo luận về một chủ đề quan trọng: "điều trị u tuyến đại tràng" (colon adenoma treatment).. U tuyến đại tràng, còn được gọi là "polyp" (polyp), là khối u phát triển trên "lớp lót bên trong" (inner lining) của đại tràng. Mặc dù không phải là ung thư, nhưng nó có thể làm tăng nguy cơ phát triển "ung thư trực tràng" (colorectal cancer) nếu không được điều trị.
+![COLON ADENOMA](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-10/transition-25458207068-Montserrat-Medium-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-7761968485.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## COLON ADENOMAS
+
+U tuyến đại tràng thường được phát hiện trong quá trình "nội soi đại tràng" (colonoscopy) hoặc "xét nghiệm chẩn đoán" khác (diagnostic test). Nếu phát hiện u tuyến đại tràng, bác sĩ sẽ thảo luận về phương pháp điều trị tốt nhất với bạn. Phương pháp điều trị phổ biến nhất cho "u tuyến đại tràng" (colon adenomas) là "cắt polyp" (polypectomy), bao gồm việc cắt bỏ u tuyến trong quá trình nội soi đại tràng. Phương pháp này thường được thực hiện "ngoại trú" (outpatient basis) và không cần "phẫu thuật" (surgery).
+![COLON ADENOMAS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-10/transition--69973306103-Montserrat-Thin-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-6846250600.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## COLON ADENOMA TREATMENT
+
+Nếu u tuyến quá lớn không thể cắt bỏ trong quá trình "nội soi đại tràng" (colonoscopy), có thể cần phải "cắt bỏ bằng phẫu thuật" (surgical resection). Phương pháp này bao gồm cắt bỏ phần đại tràng bị ảnh hưởng. Các lựa chọn điều trị khác bao gồm cắt bỏ niêm mạc nội soi, sử dụng "dụng cụ đặc biệt" (special tool) để cắt bỏ u tuyến và "mô xung quanh" (surrounding tissue), và đông tụ plasma argon, sử dụng khí argon để phá hủy u tuyến.
+![COLON ADENOMA TREATMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-10/transition--5228895893-Montserrat-Regular-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-13086592833.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## COLONOSCOPIES
+
+Mặc dù "u tuyến đại tràng" (colon adenomas) không thể phòng ngừa hoàn toàn, nhưng có những bước bạn có thể thực hiện để giảm nguy cơ. Bao gồm "nội soi đại tràng" thường xuyên (colonoscopies) bắt đầu từ tuổi 50, ăn "chế độ ăn lành mạnh" (healthy diet), "tập thể dục" (exercising) "thường xuyên" (regularly), "duy trì" (maintaining) "cân nặng khỏe mạnh" (healthy weight) và "không hút thuốc" (not smoking).
+![COLONOSCOPIES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-10/transition--11290124805-Montserrat-Black-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-6346212516.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## COLON
+
+Hãy nhớ rằng, "phát hiện sớm" (early detection) và "điều trị" (treatment) là chìa khóa khi nói đến "u tuyến đại tràng" (colon adenomas). Hãy trao đổi với bác sĩ về "các yếu tố nguy cơ cá nhân" (individual risk factors) của bạn và lên lịch "nội soi đại tràng" thường xuyên (colonoscopies) để luôn theo dõi "sức khỏe đại tràng" của bạn (colon health).
+![COLON](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-10/transition--25839025426-Montserrat-Thin-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-26563439202.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## TREATMENT
+
+Tôi hy vọng video này hữu ích trong việc cung cấp hiểu biết sâu hơn về "điều trị u tuyến đại tràng" (colon adenoma treatment). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận "thông báo" (notifications) về "video mới" của chúng tôi (new videos). Cảm ơn bạn đã xem.
+![TREATMENT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-10/transition-1677185880-Montserrat-Bold-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-11824240476.mp3" type="audio/mpeg">
+</audio>
+

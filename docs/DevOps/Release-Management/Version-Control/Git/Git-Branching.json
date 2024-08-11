@@ -1,0 +1,87 @@
+{
+  "id": "-8102994084",
+  "titles": [
+    "Làm chủ Git Branching: Mẹo và Thực hành Tốt nhất"
+  ],
+  "topic": "Git Branching",
+  "title": "Làm chủ Git Branching: Mẹo và Thực hành Tốt nhất",
+  "description": "\"Trong video này, người thuyết trình giới thiệu các nhánh Git, mô tả chúng như các dòng phát triển riêng biệt trong một kho lưu trữ. Phân nhánh hữu ích để thử nghiệm các ý tưởng mới, cộng tác với các thành viên trong nhóm và kiểm tra và gỡ lỗi mã mới. Video này đề cập đến hai loại nhánh: cục bộ và từ xa. Để tạo một nhánh mới, hãy sử dụng 'git branch [tên]'; để chuyển đổi giữa các nhánh, hãy sử dụng 'git checkout [tên]'; và để hợp nhất các thay đổi, hãy sử dụng 'git merge [nguồn] [mục tiêu]'. Các nhà nghiên cứu trong lĩnh vực này có thể thấy tổng quan ngắn gọn và nhiều thông tin về các nhánh Git trong video này hữu ích.\"",
+  "author": "Vietnamese Online Voice",
+  "date": "August 10, 2024",
+  "content": [
+    {
+      "id": "49585086563",
+      "heading": "GIT BRANCHING",
+      "text": "Trong Git, nhánh là một dòng phát triển riêng biệt trong \"kho lưu trữ\" của bạn (repository). Hãy nghĩ về nó như một \"ngã ba đường\" (fork in the road): bạn có thể chọn đi theo một con đường này hay con đường khác, và sau đó vẫn có thể quay lại \"con đường chính\" (main road). Có một số lý do tại sao \"phân nhánh\" (branching) lại \"hữu ích\" (useful). Ví dụ, phân nhánh cho phép bạn thử nghiệm những ý tưởng mới mà không \"làm hỏng\" (messing up) \"cơ sở mã chính\" (main codebase). Bạn cũng có thể sử dụng nhánh để \"hợp tác với người khác\" (collaborate with others), vì mỗi \"thành viên nhóm\" (team member) có thể làm việc trên các tính năng hoặc nhiệm vụ riêng biệt mà không có \"xung đột\" (conflicts). Ngoài ra, nhánh giúp dễ dàng kiểm tra và gỡ lỗi \"mã mới\" (new code) mà không \"ảnh hưởng\" (affecting) đến cơ sở mã chính.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-10/transition-49585086563-Montserrat-Bold-4A148C.jpg",
+      "audioFilePath": "/app/storage/audio/file-9206026953.mp3"
+    },
+    {
+      "id": "13430401256",
+      "heading": "CREATE A NEW BRANCH",
+      "text": "Có hai loại \"nhánh\" chính (branches): \"nhánh cục bộ\" (local branches), chỉ tồn tại trên máy cục bộ của bạn và \"nhánh từ xa\" (remote branches), tồn tại trên \"kho lưu trữ từ xa\" (remote repository) như GitHub hoặc GitLab.. Để \"tạo nhánh mới\" (create a new branch), hãy sử dụng lệnh sau: \"git branch\" (git branch). Đối với \"ví dụ\" (example): git branch feature/new-login-system.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-10/transition-13430401256-Montserrat-Bold-512DA8.jpg",
+      "audioFilePath": "/app/storage/audio/file-8580754073.mp3"
+    },
+    {
+      "id": "-13686478202",
+      "heading": "GIT CHECKOUT",
+      "text": "Để chuyển đổi giữa các \"branch\" (branch), hãy sử dụng lệnh sau: \"git checkout\" (git checkout). Ví dụ: git checkout feature/new-login-system.. Khi bạn đã sẵn sàng để hợp nhất các thay đổi từ một nhánh này sang nhánh khác, hãy sử dụng lệnh sau: \"git merge\" (git merge). Ví dụ: git checkout \"master\" (master); git merge feature/new-login-system.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-10/transition--13686478202-Montserrat-Thin-283593.jpg",
+      "audioFilePath": "/app/storage/audio/file-6026656520.mp3"
+    },
+    {
+      "id": "-14282541469",
+      "heading": "BRANCHING",
+      "text": "Sau đây là một số biện pháp thực hành tốt nhất cần ghi nhớ khi sử dụng nhánh. Đầu tiên, hãy sử dụng \"descriptive\" (descriptive) \"branch names\" (branch names) để chỉ rõ mục đích của nhánh. Thứ hai, hãy cập nhật các nhánh bằng cách thường xuyên \"hợp nhất\" (merging) các thay đổi từ \"cơ sở mã chính\" (main codebase). Cuối cùng, hãy xóa \"unused branches\" (unused branches) khi bạn đã hoàn tất.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-10/transition--14282541469-Montserrat-Regular-7B1FA2.jpg",
+      "audioFilePath": "/app/storage/audio/file-19346563141.mp3"
+    },
+    {
+      "id": "12642726805",
+      "heading": "GIT",
+      "text": "Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video hữu ích và hiểu sâu hơn về \"branching\" của Git (branching). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-10/transition-12642726805-Montserrat-Bold-1A237E.jpg",
+      "audioFilePath": "/app/storage/audio/file-3950762875.mp3"
+    }
+  ],
+  "categories": [
+    "DevOps",
+    "Release Management",
+    "Version Control",
+    "Git"
+  ],
+  "tags": [
+    "#Git",
+    "#Programming",
+    "#Coding",
+    "#Development",
+    "#VersionControl",
+    "#Branch",
+    "#LocalBranch",
+    "#RemoteBranch",
+    "#GitHub",
+    "#GitLab",
+    "#Collaboration",
+    "#Experimentation",
+    "#Codebase",
+    "#Testing",
+    "#Debugging",
+    "#BestPractices",
+    "#DescriptiveBranchNames",
+    "#KeepingBranchesUpToDate",
+    "#DeletingUnusedBranches",
+    "#GitCheckout",
+    "#GitMerge",
+    "#GitBranchingTutorial",
+    "#LearnGit",
+    "#GitForBeginners",
+    "#TechTutorial",
+    "#ProgrammingTips",
+    "#CodingTutorial",
+    "#DevTips",
+    "#TechHashtags",
+    "#CodeHashtags"
+  ],
+  "comments": []
+}

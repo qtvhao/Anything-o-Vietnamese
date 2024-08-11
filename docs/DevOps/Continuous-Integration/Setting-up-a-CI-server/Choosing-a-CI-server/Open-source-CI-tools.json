@@ -1,0 +1,70 @@
+{
+  "id": "-29265841589",
+  "titles": [
+    "Các công cụ CI nguồn mở hàng đầu để phát triển phần mềm nhanh hơn và tốt hơn"
+  ],
+  "topic": "Open-source CI tools",
+  "title": "Các công cụ CI nguồn mở hàng đầu để phát triển phần mềm nhanh hơn và tốt hơn",
+  "description": "\"Trong video này, chúng tôi cung cấp phần giới thiệu toàn diện về Công cụ tích hợp liên tục (CI) nguồn mở. Tích hợp liên tục bao gồm việc tích hợp các thay đổi mã thường xuyên vào kho lưu trữ trung tâm để phát hiện sớm lỗi hoặc sự cố, do đó tiết kiệm thời gian và công sức. Công cụ CI nguồn mở mang lại những lợi ích như hiệu quả về chi phí, phát triển do cộng đồng thúc đẩy, khả năng tùy chỉnh và bảo mật cao. Các công cụ CI nguồn mở phổ biến bao gồm Jenkins, Travis CI, CircleCI và GitLab CI/CD, mỗi công cụ có các tính năng và lợi thế riêng. Khi chọn Công cụ CI nguồn mở, hãy cân nhắc đánh giá tính dễ sử dụng, khả năng mở rộng, hỗ trợ nhiều ngôn ngữ và tích hợp với các công cụ khác. Việc kết hợp Công cụ CI nguồn mở có thể hợp lý hóa quy trình phát triển, tiết kiệm thời gian và công sức đồng thời cung cấp các ứng dụng phần mềm chất lượng cao.\"",
+  "author": "Vietnamese Online Voice",
+  "date": "August 9, 2024",
+  "content": [
+    {
+      "id": "16726326023",
+      "heading": "CODE CHANGES",
+      "text": "Chào mừng mọi người đến với video của chúng tôi về Công cụ CI nguồn mở.. Hãy cùng tìm hiểu Tích hợp liên tục (CI) là gì. CI liên quan đến việc tích hợp \"các thay đổi mã\" (code changes) thường xuyên vào \"kho lưu trữ trung tâm\" (central repository), cho phép xác định sớm các lỗi hoặc sự cố, tiết kiệm \"thời gian và công sức\" (time and effort).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-09/transition-16726326023-Montserrat-ExtraBold-9C27B0.jpg",
+      "audioFilePath": "/app/storage/audio/file-8728782003.mp3"
+    },
+    {
+      "id": "33256772745",
+      "heading": "OPEN-SOURCE CI TOOLS",
+      "text": "Vậy tại sao lại chọn các công cụ CI nguồn mở? Chúng cung cấp một số lợi ích như hiệu quả về chi phí, phát triển do cộng đồng thúc đẩy, \"khả năng tùy chỉnh\" (customizability) và \"bảo mật cao\" (high security). Sau đây là một số công cụ CI nguồn mở phổ biến: Jenkins, Travis CI, CircleCI và GitLab CI/CD. Mỗi công cụ đều có \"các tính năng độc đáo\" (unique features) và \"lợi thế\" (advantages).",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-09/transition-33256772745-Montserrat-Thin-004895.jpg",
+      "audioFilePath": "/app/storage/audio/file-2625837771.mp3"
+    },
+    {
+      "id": "-11030923123",
+      "heading": "OPEN-SOURCE CI TOOLS",
+      "text": "Hãy cân nhắc đánh giá các \"tính năng\" chính (features) khi chọn một công cụ CI nguồn mở, chẳng hạn như \"dễ sử dụng\" (ease of use), \"khả năng mở rộng\" (scalability), hỗ trợ nhiều ngôn ngữ và tích hợp với các công cụ khác. Bằng cách hiểu \"lợi ích\" (benefits) và các tính năng của các công cụ CI nguồn mở phổ biến, bạn sẽ có thể đưa ra \"quyết định sáng suốt\" (informed decisions) về công cụ nào để \"kết hợp\" (incorporate) vào các dự án của mình. Các công cụ CI nguồn mở có thể hợp lý hóa \"quy trình phát triển\" (development process) của bạn, tiết kiệm \"thời gian\" (time) và \"nỗ lực\" (effort) trong khi vẫn cung cấp các ứng dụng phần mềm chất lượng cao.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-09/transition--11030923123-Montserrat-SemiBold-1A237E.jpg",
+      "audioFilePath": "/app/storage/audio/file-11411092289.mp3"
+    },
+    {
+      "id": "21803669504",
+      "heading": "OPEN-SOURCE CI TOOLS",
+      "text": "Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video hữu ích và hiểu sâu hơn về các công cụ CI nguồn mở. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.",
+      "transitionImageFile": "/app/storage/images/transitions/2024-08-09/transition-21803669504-Montserrat-SemiBold-1A237E.jpg",
+      "audioFilePath": "/app/storage/audio/file-42101768324.mp3"
+    }
+  ],
+  "categories": [
+    "DevOps",
+    "Continuous Integration",
+    "Setting up a CI server",
+    "Choosing a CI server"
+  ],
+  "tags": [
+    "#CITools",
+    "#ContinuousIntegration",
+    "#OpenSourceCI",
+    "#Jenkins",
+    "#TravisCI",
+    "#CircleCI",
+    "#CostEffective",
+    "#CommunityDriven",
+    "#Customizable",
+    "#HighSecurity",
+    "#EaseOfUse",
+    "#Scalability",
+    "#MultipleLanguages",
+    "#Integration",
+    "#DevelopmentProcess",
+    "#TimeSaving",
+    "#HighQuality",
+    "#SoftwareApplications",
+    "#OpenSourceSoftware",
+    "#DevOpsTools"
+  ],
+  "comments": []
+}

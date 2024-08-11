@@ -2,6 +2,10 @@
 # Gastroenterology
 
 - Colorectal-diseases
+  - [Adenomas](./Adenomas/)
+    - [Colon-adenomas](./Colon-adenomas/)
+      - [Colon-adenoma-diagnosis.md](./Colon-adenoma-diagnosis.md)
+      - [Colon-adenoma-treatment.md](./Colon-adenoma-treatment.md)
   - [Adenomas.md](./Adenomas.md)
   - [Colon-cancer](./Colon-cancer/)
     - [Colon-cancer-screening.md](./Colon-cancer-screening.md)

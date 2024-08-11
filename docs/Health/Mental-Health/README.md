@@ -3,6 +3,10 @@
 
 - Mental-Health
   - [Anxiety-Disorders](./Anxiety-Disorders/)
+    - [Generalized-Anxiety-Disorder](./Generalized-Anxiety-Disorder/)
+      - [GAD-in-Children.md](./GAD-in-Children.md)
+      - [Living-with-GAD.md](./Living-with-GAD.md)
+      - [Symptoms-of-GAD.md](./Symptoms-of-GAD.md)
     - [Generalized-Anxiety-Disorder.md](./Generalized-Anxiety-Disorder.md)
   - [Anxiety-Disorders.md](./Anxiety-Disorders.md)
   - [Bipolar-and-Related-Disorders.md](./Bipolar-and-Related-Disorders.md)
