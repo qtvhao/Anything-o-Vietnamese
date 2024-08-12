@@ -28,6 +28,7 @@
     - [Leishmaniasis.md](./Leishmaniasis.md)
     - [Protozoan-infections.md](./Protozoan-infections.md)
     - [Tick-borne-infections.md](./Tick-borne-infections.md)
+  - [Parasitic-infections.md](./Parasitic-infections.md)
   - [Viral-infections](./Viral-infections/)
     - [Chickenpox.md](./Chickenpox.md)
     - [Common-Cold.md](./Common-Cold.md)
@@ -35,3 +36,4 @@
     - [Influenza.md](./Influenza.md)
     - [Measles.md](./Measles.md)
     - [Mumps.md](./Mumps.md)
+  - [Viral-infections.md](./Viral-infections.md)

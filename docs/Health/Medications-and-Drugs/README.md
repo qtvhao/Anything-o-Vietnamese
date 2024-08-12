@@ -24,6 +24,8 @@
     - [Pharmacodynamics.md](./Pharmacodynamics.md)
   - [Pharmacology.md](./Pharmacology.md)
   - [Prescription-Medications](./Prescription-Medications/)
+    - [By-administration-schedule.md](./By-administration-schedule.md)
+    - [By-prescription-statu.md](./By-prescription-statu.md)
     - [By-therapeutic-class.md](./By-therapeutic-class.md)
   - [Prescription-Medications.md](./Prescription-Medications.md)
   - [Psychiatric-Medications.md](./Psychiatric-Medications.md)
