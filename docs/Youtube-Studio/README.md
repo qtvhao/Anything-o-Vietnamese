@@ -9,4 +9,5 @@
       - [Real-time-views.md](./Real-time-views.md)
   - [Monetization](./Monetization/)
     - [AdSense-Revenue](./AdSense-Revenue/)
+      - [Ad-performance.md](./Ad-performance.md)
       - [Estimated-earnings.md](./Estimated-earnings.md)

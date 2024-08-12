@@ -6,4 +6,5 @@
     - [Biopsy.md](./Biopsy.md)
     - [Genetic-testing.md](./Genetic-testing.md)
   - [Crohn's-disease-diagnosis.md](./Crohn's-disease-diagnosis.md)
+  - [Crohn's-disease-symptoms.md](./Crohn's-disease-symptoms.md)
   - [Crohn's-disease-treatment.md](./Crohn's-disease-treatment.md)

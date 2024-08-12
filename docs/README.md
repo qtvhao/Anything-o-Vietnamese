@@ -621,6 +621,7 @@
           - [Biopsy.md](./Gastroenterology/Inflammatory-bowel-disease/Crohn's-disease/Crohn's-disease-diagnosis/Biopsy.md)
           - [Genetic-testing.md](./Gastroenterology/Inflammatory-bowel-disease/Crohn's-disease/Crohn's-disease-diagnosis/Genetic-testing.md)
         - [Crohn's-disease-diagnosis.md](./Gastroenterology/Inflammatory-bowel-disease/Crohn's-disease/Crohn's-disease-diagnosis.md)
+        - [Crohn's-disease-symptoms.md](./Gastroenterology/Inflammatory-bowel-disease/Crohn's-disease/Crohn's-disease-symptoms.md)
         - [Crohn's-disease-treatment.md](./Gastroenterology/Inflammatory-bowel-disease/Crohn's-disease/Crohn's-disease-treatment.md)
       - [Diversion-colitis.md](./Gastroenterology/Inflammatory-bowel-disease/Diversion-colitis.md)
       - [IBD-unclassified.md](./Gastroenterology/Inflammatory-bowel-disease/IBD-unclassified.md)
@@ -1118,6 +1119,7 @@
         - [Real-time-views.md](./Youtube-Studio/Analytics/Real-time-analytics/Real-time-views.md)
     - [Monetization](./Youtube-Studio/Monetization)
       - [AdSense-Revenue](./Youtube-Studio/Monetization/AdSense-Revenue)
+        - [Ad-performance.md](./Youtube-Studio/Monetization/AdSense-Revenue/Ad-performance.md)
         - [Estimated-earnings.md](./Youtube-Studio/Monetization/AdSense-Revenue/Estimated-earnings.md)
   - [_config.yml](./_config.yml)
 
