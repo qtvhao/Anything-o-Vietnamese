@@ -2,6 +2,8 @@
 # Health
 
 - Pediatric-Health
+  - [Newborn-and-Infant-Health](./Newborn-and-Infant-Health/)
+    - [Infant-Nutrition.md](./Infant-Nutrition.md)
   - [Pediatric-Allergies](./Pediatric-Allergies/)
     - [Food-Allergies-in-Children.md](./Food-Allergies-in-Children.md)
   - [Pediatric-Dental-Health](./Pediatric-Dental-Health/)

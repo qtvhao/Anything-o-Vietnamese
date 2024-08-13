@@ -1,62 +1,62 @@
 
 ---
 
-# Nhận biết các dấu hiệu: Giải thích các triệu chứng của bệnh Crohn
+# Dấu hiệu cảnh báo bệnh Crohn: Đừng bỏ qua những triệu chứng này
 
 - Published: August 12, 2024
 - Author: Vietnamese Online Voice
 - Categories: Gastroenterology / Inflammatory bowel disease / **Crohn's disease**
-- #IBD #ChronicIllness #Gastrointestinal #InflammatoryBowelDisease #Diarrhea #AbdominalPain #WeightLoss #LossOfAppetite #Nausea #Vomiting #Fatigue #BloodInStool #MouthSores #Malnutrition #Osteoporosis #ColonCancer #IntestinalNarrowing #Fistulas #Medications #LifestyleChanges #SurgicalOptions #HealthcareProfessional #CrohnsCommunity #CrohnsAwareness #IBDAwareness #ChronicCondition #SupportSystem #StayInformed
+- #CrohnsDiseaseSymptoms #InflammatoryBowelDisease #IBD #ChronicIllness #AbdominalPain #Diarrhea #Fatigue #WeightLoss #BloodyStools #ReducedAppetite #Malnutrition #JointPain #SkinRashes #EyeProblems #LiverDisease #Osteoporosis #MedicalHistory #PhysicalExamination #LaboratoryTests #ImagingTests #Biopsy #MedicalAttention #HealthcareProfessional #QualityOfLife #HealthEducation #Awareness
 
-"Trong video này, chúng tôi sẽ xem xét bệnh Crohn, một tình trạng mãn tính ảnh hưởng đến hàng triệu người trên toàn cầu. Là nhà nghiên cứu, việc hiểu các triệu chứng và tác động của bệnh có thể giúp hỗ trợ những người bị ảnh hưởng. Bệnh Crohn là một bệnh viêm ruột gây viêm và kích ứng đường tiêu hóa, dẫn đến nhiều triệu chứng khác nhau. Những triệu chứng này có thể bao gồm tiêu chảy, đau bụng, sụt cân, chán ăn, buồn nôn, nôn, mệt mỏi, có máu trong phân và lở miệng. Bệnh Crohn không được điều trị hoặc quản lý kém có thể dẫn đến các biến chứng như suy dinh dưỡng, loãng xương và tăng nguy cơ ung thư ruột kết. Hẹp ruột và rò giữa ruột và các cơ quan khác cũng có thể xảy ra. Để biết hướng dẫn chi tiết, hãy xem video bên dưới."
+"Trong video này, chuyên gia giáo dục sức khỏe giới thiệu các triệu chứng của bệnh Crohn, một bệnh viêm ruột mãn tính ảnh hưởng đến đường tiêu hóa. Nguyên nhân gây bệnh Crohn bao gồm phản ứng miễn dịch bất thường, yếu tố di truyền và môi trường. Các triệu chứng phổ biến được thảo luận, chẳng hạn như tiêu chảy, đau bụng, mệt mỏi, chán ăn và sụt cân ngoài ý muốn. Việc nhận biết và hiểu sớm các triệu chứng của bệnh Crohn giúp có thể được chăm sóc y tế kịp thời. Các nhà nghiên cứu có thể xem hướng dẫn chi tiết trong liên kết bên dưới để biết thêm thông tin chi tiết."
 
 
-## CROHN
+## SYMPTOMS
 
-Xin chào mọi người. Hôm nay, chúng ta sẽ xem xét kỹ hơn một "bệnh mãn tính" (chronic condition) ảnh hưởng đến "hàng triệu người" (millions of people) trên toàn thế giới – bệnh Crohn. Bằng cách hiểu "triệu chứng" (symptoms) và "tác động" (effects) của bệnh, chúng ta có thể hỗ trợ tốt hơn cho "những người đồng cấp" (peers) và những người thân yêu có thể đang phải vật lộn với tình trạng này.
-![CROHN](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-12/transition--6594234121-Montserrat-Medium-9C27B0.jpg)
+Xin chào và chào mừng bạn đến với video giáo dục của chúng tôi về các triệu chứng của bệnh Crohn. Là một nhà giáo dục sức khỏe, điều quan trọng là phải nâng cao nhận thức về các tình trạng bệnh lý khác nhau, bao gồm bệnh Crohn, một bệnh viêm ruột mãn tính có thể ảnh hưởng đáng kể đến "chất lượng cuộc sống" của một người (quality of life).
+![SYMPTOMS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-12/transition-26839820-Montserrat-Medium-673AB7.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-34969551.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-6393237028.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## DIGESTIVE TRACT
+## ENVIRONMENTAL FACTORS
 
-Bệnh Crohn là một loại bệnh viêm ruột, hay IBD, ảnh hưởng đến "đường tiêu hóa" (digestive tract). Bệnh gây ra "viêm" (inflammation) và "kích ứng" (irritation) trên toàn bộ "đường tiêu hóa" (gastrointestinal tract), dẫn đến một loạt "triệu chứng khó chịu" (uncomfortable symptoms) khác nhau tùy từng người.
-![DIGESTIVE TRACT](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-12/transition--38318496479-Montserrat-SemiBold-1A237E.jpg)
+Trước tiên, chúng ta hãy nói về bệnh Crohn là gì. Đây là một bệnh viêm ruột gây ra "viêm" (inflammation) và "kích ứng" (irritation) trong "đường tiêu hóa" (digestive tract), dẫn đến một loạt "triệu chứng" (symptoms). Nguyên nhân chính xác vẫn chưa được biết, nhưng có thể liên quan đến phản ứng miễn dịch bất thường, "di truyền" (genetics) và "các yếu tố môi trường" (environmental factors).
+![ENVIRONMENTAL FACTORS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-12/transition-2260482864-Montserrat-ExtraBold-673AB7.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-38653587711.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-3970680345.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## CROHN
+## COMMON WARNING SIGNS
 
-Một số dấu hiệu phổ biến của bệnh Crohn bao gồm "tiêu chảy" (diarrhea), "đau bụng" (abdominal pain), "sụt cân" (weight loss) và "chán ăn" (loss of appetite). Các triệu chứng khác có thể bao gồm "buồn nôn" (nausea), "nôn" (vomiting), "mệt mỏi" (fatigue), "máu trong phân" (blood in stool) và "loét miệng" (mouth sores). Nếu không được điều trị hoặc kiểm soát, bệnh Crohn có thể dẫn đến các biến chứng như "suy dinh dưỡng" (malnutrition), "loãng xương" (osteoporosis) và "tăng nguy cơ" (increased risk) mắc "ung thư ruột kết" (colon cancer). Nó cũng có thể gây ra tình trạng "hẹp ruột" (narrowing of intestines) và "rò" (fistulas), hoặc "kết nối bất thường" (abnormal connections) giữa ruột và các cơ quan khác.
-![CROHN](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-12/transition-24269262929-Montserrat-Thin-9C27B0.jpg)
+Hãy cùng tìm hiểu sâu hơn về các "triệu chứng" phổ biến (symptoms) của bệnh Crohn để bạn có thể "xác định" (identify) các "dấu hiệu cảnh báo" (warning signs) và "hiểu" (understand) những việc cần làm nếu bạn hoặc người quen của bạn "bị ảnh hưởng" (affected). Các triệu chứng có thể "khác nhau" (vary) tùy theo "người" (person to person), nhưng sau đây là một số "dấu hiệu cảnh báo phổ biến" (common warning signs) cần chú ý:
+![COMMON WARNING SIGNS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-12/transition--35580265898-Montserrat-Thin-512DA8.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-2625200992.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5830812553.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## LIFESTYLE CHANGES
+## ASSOCIATED CONDITIONS
 
-Mặc dù không có cách chữa khỏi bệnh Crohn, nhưng nhiều loại "thuốc" (medications), "thay đổi lối sống" (lifestyle changes) và "phương pháp phẫu thuật" (surgical options) có thể giúp kiểm soát "triệu chứng" (symptoms) và ngăn ngừa biến chứng. Nếu bạn hoặc người thân của bạn đang gặp phải các triệu chứng của bệnh Crohn, điều quan trọng là phải tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe để được "chẩn đoán đúng" (proper diagnosis) và "điều trị" (treatment).
-![LIFESTYLE CHANGES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-12/transition--22787072864-Montserrat-Bold-4A148C.jpg)
+Ngoài ra, một số người mắc bệnh Crohn có thể gặp phải "triệu chứng" (symptoms) như "đau khớp" (joint pain), "phát ban trên da" (skin rashes), "vấn đề về mắt" (eye problems), "bệnh gan" (liver disease) và "loãng xương" (osteoporosis).. Nếu bạn gặp phải bất kỳ triệu chứng nào được đề cập ở trên, điều cần thiết là phải tham khảo ý kiến ​​của "chuyên gia chăm sóc sức khỏe" (healthcare professional) để được "chẩn đoán" (diagnosis) và điều trị thích hợp. Chẩn đoán bệnh Crohn thường được thực hiện thông qua sự kết hợp giữa bệnh sử, khám sức khỏe, "xét nghiệm trong phòng thí nghiệm" (laboratory tests), "xét nghiệm hình ảnh" (imaging tests) và sinh thiết.
+![ASSOCIATED CONDITIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-12/transition-33980505497-Montserrat-Thin-283593.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-19917860402.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-29935334881.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## CROHN
+## CHRONIC CONDITION
 
-Hãy ưu tiên cập nhật thông tin và hỗ trợ các thành viên cộng đồng bị ảnh hưởng bởi bệnh Crohn. Hãy nhớ rằng, hiểu được tình trạng bệnh và ở bên nhau có thể tạo nên sự khác biệt to lớn.
-![CROHN](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-12/transition--278941680-Montserrat-Thin-303F9F.jpg)
+Bệnh Crohn là một "bệnh mãn tính" (chronic condition) cần được quản lý và điều trị đúng cách. Bằng cách hiểu các "triệu chứng" (symptoms) và "dấu hiệu cảnh báo" (warning signs), bạn có thể tìm kiếm "chăm sóc y tế" (medical attention) ngay từ đầu, giảm nguy cơ "biến chứng" (complications) và cải thiện "chất lượng cuộc sống" tổng thể của bạn (quality of life). Hãy nhớ rằng, nếu bạn đang bị đau bụng dai dẳng, "tiêu chảy" (diarrhea) hoặc "giảm cân" (weight loss), đừng ngần ngại tham khảo ý kiến ​​"chuyên gia chăm sóc sức khỏe" (healthcare professional) để được hướng dẫn và hỗ trợ.
+![CHRONIC CONDITION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-12/transition--23287150058-Montserrat-Black-004895.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-17307746382.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-211191931.mp3" type="audio/mpeg">
 </audio>
 
 
@@ -64,7 +64,7 @@ Hãy ưu tiên cập nhật thông tin và hỗ trợ các thành viên cộng �
 ## CROHN
 
 Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video hữu ích và hiểu sâu hơn về các triệu chứng của bệnh Crohn. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
-![CROHN](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-12/transition-17167951523-Montserrat-Medium-512DA8.jpg)
+![CROHN](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-12/transition-17167951523-Montserrat-ExtraBold-9C27B0.jpg)
 <audio controls>
     <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-10317239099.mp3" type="audio/mpeg">
 </audio>

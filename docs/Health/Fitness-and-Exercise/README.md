@@ -18,6 +18,8 @@
   - [Pilates-and-Yoga.md](./Pilates-and-Yoga.md)
   - [Running-and-Jogging.md](./Running-and-Jogging.md)
   - [Strength-Training](./Strength-Training/)
+    - [CrossFit.md](./CrossFit.md)
+    - [Powerlifting.md](./Powerlifting.md)
     - [Weightlifting](./Weightlifting/)
       - [Olympic-weightlifting.md](./Olympic-weightlifting.md)
   - [Swimming-and-Water-Aerobics.md](./Swimming-and-Water-Aerobics.md)

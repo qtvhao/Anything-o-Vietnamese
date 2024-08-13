@@ -2,6 +2,9 @@
 # Health
 
 - Geriatric-Health
+  - [Chronic-Diseases-in-Old-Age](./Chronic-Diseases-in-Old-Age/)
+    - [Cancer-in-Old-Age.md](./Cancer-in-Old-Age.md)
+    - [Diabetes-in-Old-Age.md](./Diabetes-in-Old-Age.md)
   - [Elder-Abuse-and-Neglect](./Elder-Abuse-and-Neglect/)
     - [Physical-Abuse.md](./Physical-Abuse.md)
   - [Geriatric-Oncology](./Geriatric-Oncology/)

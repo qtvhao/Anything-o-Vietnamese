@@ -1,61 +1,61 @@
 
 ---
 
-# Xét nghiệm hình ảnh: Hướng dẫn về X-quang, CT, MRI và nhiều hơn nữa
+# Giải thích về hình ảnh y khoa: Các xét nghiệm hoạt động như thế nào và chúng tiết lộ điều gì
 
-- Published: August 11, 2024
+- Published: August 13, 2024
 - Author: Vietnamese Online Voice
 - Categories: Health / Medical Tests and Procedures / **Diagnostic Tests**
-- #Xray #CTScan #MRI #Ultrasound #PETScan #DiagnoseHealthConditions #TreatmentMonitoring #NonInvasive #RadiationExposure #AllergicReactions #Claustrophobia #ClassDiscussion #Homework #HealthTechnology #MedicalImaging #Anatomy #InternalStructures #BodyImaging #MedicalTests #HealthEducation #HealthScience #HealthCare #MedicalProfessionals #PatientCare #HealthAwareness #HealthyLiving #SonicWaves #MagneticFields #RadioactiveMaterial #MedicalResearch #HealthInnovation
+- #MedicalImaging #ImagingTests #Diagnosis #Treatment #MedicalDiscoveries #HealthcareInnovation #Xrays #Ultrasound #MRI #CTScans #HealthTech #MedEd #LabCoats #HealthcareMysteries #NonInvasiveTests #SensitiveTests #SpecificTests #MedicalDetective #RevolutionizedMedicine #PatientCare #MedicalExpertise #RadiationExposure #MedicalCosts #SpecializedInterpretation #MedicalCommunity #HealthAwareness #SocialMediaHealth #EducationalContent #ScienceEducation #LearningTogether #HealthSciences #GlobalHealth #OnlineLearning #MedicalProfessionals #HealthcareProviders #StudentLife #EducationMatters
 
-"Trong video này, chúng tôi cung cấp phần giới thiệu toàn diện về nhiều xét nghiệm hình ảnh khác nhau. Các xét nghiệm hình ảnh tạo ra hình ảnh của các cấu trúc bên trong cơ thể, chẳng hạn như các cơ quan, xương và mô, với một số loại có sẵn, bao gồm chụp X-quang, chụp CT, chụp MRI, siêu âm và chụp PET. Chụp X-quang sử dụng bức xạ năng lượng thấp, chụp CT sử dụng tia X và công nghệ máy tính, chụp MRI sử dụng từ trường và sóng vô tuyến, siêu âm sử dụng sóng âm tần số cao và chụp PET sử dụng vật liệu phóng xạ để hình dung hoạt động trao đổi chất. Các xét nghiệm hình ảnh mang lại những lợi ích như chẩn đoán, theo dõi điều trị và không xâm lấn, nhưng cần cân nhắc đến các rủi ro như tiếp xúc với bức xạ, phản ứng dị ứng và chứng sợ không gian hẹp."
+"Trong video này,
 
 
-## IMAGING TESTS
+## MEDICAL IMAGING
 
-Các xét nghiệm hình ảnh tạo ra hình ảnh bên trong cơ thể để trực quan hóa "cấu trúc bên trong" (internal structures), chẳng hạn như "cơ quan" (organs), "xương" (bones) và "mô" (tissues). Có một số loại "xét nghiệm hình ảnh" (imaging tests), mỗi loại có các đặc điểm và công dụng riêng. Một số xét nghiệm hình ảnh phổ biến nhất bao gồm chụp X-quang, chụp CT, chụp MRI, "siêu âm" (ultrasounds) và chụp PET.
-![IMAGING TESTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-11/transition-17385992856-Montserrat-Regular-303F9F.jpg)
+Chào mừng các bạn sinh viên! Hôm nay chúng ta sẽ khám phá thế giới "chụp ảnh y khoa" (medical imaging). Hãy cùng chúng tôi khám phá thế giới hấp dẫn của "xét nghiệm hình ảnh" (imaging tests) và tìm hiểu cách chúng đã cách mạng hóa cách chúng ta "chẩn đoán" (diagnose) và "điều trị bệnh" (treat diseases). Vậy thì hãy mặc "áo khoác phòng thí nghiệm" (lab coats) và bắt đầu thôi!
+![MEDICAL IMAGING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-13/transition-15347098666-Montserrat-SemiBold-880E4F.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-42587731317.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## X RAYS
-
-Tia X sử dụng bức xạ năng lượng thấp để tạo ra hình ảnh các cấu trúc bên trong cơ thể, trong khi chụp CT sử dụng tia X và công nghệ máy tính để tạo ra hình ảnh cắt ngang chi tiết của cơ thể. MRI sử dụng "từ trường mạnh" (strong magnetic fields) và "sóng vô tuyến" (radio waves) để tạo ra hình ảnh chi tiết về các cấu trúc bên trong cơ thể, trong khi "siêu âm" (ultrasounds) sử dụng sóng âm tần số cao để tạo ra hình ảnh các cấu trúc bên trong cơ thể. Chụp PET sử dụng một lượng nhỏ vật liệu phóng xạ để tạo ra hình ảnh về "hoạt động trao đổi chất" của cơ thể (metabolic activity), chẳng hạn như tế bào ung thư.
-![X RAYS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-11/transition--8452978294-Montserrat-Thin-7B1FA2.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-2700737937.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-67826307171.mp3" type="audio/mpeg">
 </audio>
 
 
 
 ## IMAGING TESTS
 
-Lợi ích của "xét nghiệm hình ảnh" (imaging tests) bao gồm chẩn đoán tình trạng sức khỏe, theo dõi hiệu quả điều trị và thường không xâm lấn, nghĩa là không cần phẫu thuật hoặc đưa dụng cụ vào cơ thể. Tuy nhiên, cũng có một số rủi ro và hạn chế cần cân nhắc, chẳng hạn như "phơi nhiễm bức xạ" (radiation exposure), "phản ứng dị ứng" (allergic reactions) và chứng sợ không gian hẹp.
-![IMAGING TESTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-11/transition--28065770285-Montserrat-Bold-512DA8.jpg)
+Hãy tưởng tượng bạn là một thám tử, đang cố gắng giải quyết một bí ẩn đang diễn ra bên trong cơ thể con người. Bạn không thể nhìn thấy những gì đang xảy ra, nhưng bạn có thể sử dụng nhiều "công cụ" (tools) để khám phá ra manh mối. Trong "y học" (medicine), những công cụ đó được gọi là "xét nghiệm hình ảnh" (imaging tests). Chúng sử dụng các loại năng lượng khác nhau, như tia X, "sóng âm" (sound waves) hoặc "trường từ" (magnetic fields), để "tạo ra hình ảnh" (create images) về những gì đang xảy ra bên trong chúng ta.
+![IMAGING TESTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-13/transition-864646236-Montserrat-SemiBold-004895.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-28494448491.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5770307215.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## METABOLIC ACTIVITY
+
+Từ xương đến "mô mềm" (soft tissues), và thậm chí là "hoạt động trao đổi chất" (metabolic activity), có một loạt các "xét nghiệm hình ảnh" (imaging tests) có sẵn cho các mục đích khác nhau. Sau đây là một số xét nghiệm phổ biến nhất:. Hãy cùng tìm hiểu sâu hơn về "cách thức hoạt động của các xét nghiệm này" (how these tests work). Thông thường, có 4 bước chính liên quan:
+![METABOLIC ACTIVITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-13/transition--16678363553-Montserrat-Bold-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-4406413671.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## NON-INVASIVE
+
+Xét nghiệm hình ảnh có nhiều lợi ích, chẳng hạn như không xâm lấn hoặc "xâm lấn tối thiểu" (minimally invasive), có "độ nhạy" cao (sensitivity) và "độ đặc hiệu" (specificity), và hướng dẫn "quyết định điều trị" (treatment decisions). Tuy nhiên, chúng cũng có một số hạn chế, chẳng hạn như "phơi nhiễm bức xạ" (radiation exposure), "chi phí" (cost) và yêu cầu "chuyên môn đặc biệt" (specialized expertise) để giải thích.
+![NON-INVASIVE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-13/transition-6152807-Montserrat-Black-303F9F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-21119509279.mp3" type="audio/mpeg">
 </audio>
 
 
 
 ## DIAGNOSTIC TESTS
 
-Trong video này, chúng ta sẽ có một số câu hỏi thảo luận trên lớp để khám phá sâu hơn về chủ đề này và đối với "bài tập về nhà" (homework), chúng ta sẽ "nghiên cứu" (research) và viết một "bài luận ngắn" (short essay) về một loại "bài kiểm tra hình ảnh" (imaging test), bao gồm "công dụng" (uses), "lợi ích" (benefits) và những hạn chế của nó.
-![DIAGNOSTIC TESTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-11/transition-43808229947-Montserrat-Bold-283593.jpg)
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về "xét nghiệm hình ảnh" (imaging tests) và vai trò của chúng trong chăm sóc sức khỏe. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![DIAGNOSTIC TESTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-13/transition--10114349251-Montserrat-Medium-7B1FA2.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-1399197422.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## INTERNAL STRUCTURES
-
-Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
-![INTERNAL STRUCTURES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-11/transition-11563940368-Montserrat-SemiBold-283593.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-11815029014.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-3936904150.mp3" type="audio/mpeg">
 </audio>
 

@@ -1,61 +1,51 @@
 
 ---
 
-# Theo Quy định của Luật: Phong tục định hình Luật và Quản trị như thế nào
+# Quyền hạn của Quy chế theo toa: Làm thế nào để có được quyền mà không cần sự cấp phép chính thức
 
-- Published: August 12, 2024
+- Published: August 13, 2024
 - Author: Vietnamese Online Voice
 - Categories: Health / Medications and Drugs / **Prescription Medications**
-- #CommonLaw #TraditionalRights #CulturalPractices #JudicialDecisions #LegalSystem #CustomAndUsage #CommunityInvolvement #FlexibilityInLaws #PreserveTradition #CommunityHeritage #LawAndGovernance #CustomsAndTraditions #LegalConcept #SocialImportance #RecognizingRights #EvolutionOfLaws #JudgeMadeLaws #AccessToLand #FishingRights #FestivalCelebration #TraditionalDress #LegalPrecedents #CenturiesOfPractice
+- #PrescriptionStatu #LegalConcept #PropertyRights #UnchallengedUse #LongStandingUse #GoodFaith #Trademark #Logo #PublicPark #FamilyClaim #RightToUse #TitleByPrescription #LawExplained #LegalTips #SocialMediaManager #ContentCreator #VideoPromotion #Hashtags #ReachWiderAudience
 
-"Video này giải thích khái niệm 'By Prescription Statu', dùng để chỉ những tình huống mà quyền, đặc quyền hoặc luật được thiết lập thông qua phong tục hoặc truyền thống lâu đời, thay vì luật pháp rõ ràng. Ví dụ bao gồm luật chung, quyền truyền thống và các tập quán văn hóa. By Prescription Statu cho phép linh hoạt trong việc áp dụng luật, công nhận sự tham gia của cộng đồng và bảo tồn các tập quán truyền thống. Các sếp có thể xem video hướng dẫn chi tiết ở phía dưới nhé."
+"Trong video này, khái niệm 'Theo Quy định' được giới thiệu, trong đó một gia đình có thể yêu cầu một công viên hoặc một công ty là nhãn hiệu của riêng họ thông qua việc sử dụng lâu dài. Nguyên tắc pháp lý này yêu cầu các điều kiện như sử dụng không bị phản đối trong thời gian dài, với thiện chí. Ví dụ bao gồm sử dụng công viên công cộng hoặc nhãn hiệu trong nhiều năm mà không cần đăng ký chính thức. Nếu đáp ứng các điều kiện này, tòa án có thể công nhận quyền hoặc quyền sở hữu là hợp lệ. Hiểu theo Quy định có thể cung cấp những hiểu biết có giá trị cho các nhà nghiên cứu pháp lý." – Mô tả video.
 
 
-## CUSTOM TRADITION
+## UN CHALLENGED USE
 
-Nói một cách đơn giản, Theo Quy chế có hiệu lực đề cập đến tình huống mà quyền, đặc quyền hoặc luật được thiết lập thông qua phong tục hoặc "truyền thống" lâu đời (tradition), thay vì thông qua "luật pháp rõ ràng" (explicit legislation) hoặc "quy chế" (statute).
-![CUSTOM TRADITION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-12/transition-22524338476-Montserrat-ExtraBold-673AB7.jpg)
+Bạn có biết rằng một gia đình thực sự có thể tuyên bố một công viên là của riêng họ mà không cần bất kỳ sự cho phép hay thỏa thuận chính thức nào không?. Khái niệm này được gọi là 'Theo quy định của pháp luật', tạm dịch là 'theo quy định của pháp luật'.
+![UN CHALLENGED USE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-13/transition--12827390822-Montserrat-Bold-4A148C.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-22719017880.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5351650613.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## TRADITIONAL RIGHTS
+## PRESCRIPTION STATU
 
-Để hiểu rõ hơn về khái niệm này, chúng ta hãy xem xét một vài ví dụ. Luật chung, "quyền truyền thống" (traditional rights) và "thực hành văn hóa" (cultural practices) đều chịu ảnh hưởng của Quy chế theo đơn. Luật chung dựa trên Quy chế theo đơn, vì "thẩm phán và tòa án" (judges and courts) đã phát triển luật và tiền lệ qua nhiều thế kỷ phán quyết của tòa án, đã trở thành một phần không thể thiếu trong "hệ thống pháp luật" của chúng ta (legal system). Các quyền truyền thống, chẳng hạn như quyền tiếp cận đất đai chung hoặc quyền đánh cá ở một số vùng nước nhất định, đã được thiết lập thông qua phong tục và "cách sử dụng" lâu đời (usage). Và, một số thực hành văn hóa nhất định, chẳng hạn như việc sử dụng "trang phục truyền thống" (traditional dress) hoặc việc tổ chức "lễ hội cụ thể" (specific festivals), cũng có thể được coi là Quy chế theo đơn.
-![TRADITIONAL RIGHTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-12/transition-72088919340-Montserrat-SemiBold-9C27B0.jpg)
+Nếu một cá nhân hoặc tổ chức đã sử dụng hoặc yêu cầu quyền hoặc quyền sở hữu trong một thời gian dài mà không có bất kỳ khiếu nại nào, họ có thể được coi là đã "có được quyền" (acquired a right) đối với quyền hoặc quyền sở hữu đó theo "quy chế theo thời hiệu" (prescription statu). Các ví dụ về Quy chế theo thời hiệu bao gồm gia đình sử dụng "công viên công cộng" (public park) làm của riêng họ trong "nhiều năm" (many years) hoặc một công ty sử dụng "thương hiệu" (trademark) hoặc "logo" (logo) trong nhiều năm mà không đăng ký chính thức.
+![PRESCRIPTION STATU](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-13/transition--56472608257-Montserrat-Medium-004895.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-48413417987.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-9283260546.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## LAWS AND CUSTOMS
+## RIGHT OR TITLE
 
-Bây giờ, bạn có thể tự hỏi: Tại sao By Prescription Statu lại quan trọng? Đầu tiên, nó cho phép linh hoạt trong việc áp dụng luật pháp và phong tục, vì chúng có thể thay đổi theo thời gian để thích ứng với những hoàn cảnh thay đổi. Thứ hai, nó thừa nhận tầm quan trọng của sự tham gia và tham gia của cộng đồng trong việc định hình luật pháp và phong tục. Và thứ ba, By Prescription Statu giúp bảo tồn các tập quán và phong tục truyền thống, vốn là yếu tố thiết yếu đối với bản sắc và di sản của một cộng đồng.
-![LAWS AND CUSTOMS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-12/transition-16411537388-Montserrat-Regular-004895.jpg)
+Để có được "quyền hoặc quyền sở hữu" (right or title) theo "quy chế thời hiệu" (prescription statu), một số điều kiện nhất định phải được đáp ứng, bao gồm việc sử dụng lâu dài, "việc sử dụng không bị phản đối" (unchallenged use) và "thiện chí" (good faith). Nếu đáp ứng được các điều kiện này, "tòa án" (court) có thể công nhận quyền hoặc quyền sở hữu của người đó là hợp lệ, ngay cả khi không có "văn bản chính thức" (formal document) hoặc "thỏa thuận" (agreement) để hỗ trợ.
+![RIGHT OR TITLE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-13/transition--1812265403-Montserrat-Black-303F9F.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-50890336281.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-33682246012.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## TRADITION
+## PRESCRIPTION MEDICATIONS
 
-Tóm lại, By Prescription Statu là một khái niệm quan trọng làm nổi bật tầm quan trọng của phong tục, truyền thống và "sự tham gia của cộng đồng" (community involvement) trong việc định hình "luật pháp và phong tục" (laws and customs). Khi chúng ta tiếp tục điều hướng sự phức tạp của "luật pháp và quản trị" (law and governance), điều cần thiết là phải hiểu vai trò của By Prescription Statu trong xã hội của chúng ta.
-![TRADITION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-12/transition--43220886671-Montserrat-Bold-004895.jpg)
+Và đó là lời giải thích ngắn gọn của chúng tôi về By Prescription Statu. Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy nó hữu ích và hiểu sâu hơn về khái niệm này. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![PRESCRIPTION MEDICATIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-13/transition--25626943468-Montserrat-Medium-7B1FA2.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-19319679412.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## LAW AND GOVERNANCE
-
-Bây giờ, chúng ta hãy mở ra một diễn đàn để thảo luận. Bạn có thể nghĩ ra những ví dụ khác về By Prescription Statu trong thực tế không? Bạn nghĩ khái niệm này tác động như thế nào đến sự hiểu biết của chúng ta về luật pháp và quản trị?. Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về By Prescription Statu. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
-![LAW AND GOVERNANCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-12/transition-16288434589-Montserrat-SemiBold-4A148C.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-7021151364.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-44235140612.mp3" type="audio/mpeg">
 </audio>
 

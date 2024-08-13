@@ -1,0 +1,61 @@
+
+---
+
+# Hiểu về bệnh lao: Nguyên nhân, triệu chứng và cách điều trị
+
+- Published: August 13, 2024
+- Author: Vietnamese Online Voice
+- Categories: Health / Diseases and Conditions / **Infectious diseases**
+- #BacterialInfection #MycobacteriumTuberculosis #LungsInfection #SpreadToOtherParts #ThousandsOfYears #Consumption #RobertKoch #EffectiveTreatments #GlobalHealthIssue #LowAndMiddleIncomeCountries #AirBorne #WeakenedImmuneSystems #HIVAIDS #CommonSymptoms #ChestXrays #SputumTests #BloodTests #TuberculinSkintest #AntibioticsTreatment #SixMonths #AntibioticResistantStrains #PreventingTB #BCGVaccine #ContactTracing #Ventilation #AirFiltration #EarlyDetection #Treatment #HealthcareProfessionals #Scientists #GlobalCitizens #CombattingTB #ImprovingLives #PublicHealth #Responsibility
+
+"Trong video này, chúng tôi sẽ giới thiệu về bệnh lao. Bệnh lao là một bệnh nhiễm trùng do vi khuẩn Mycobacterium tuberculosis gây ra, chủ yếu ảnh hưởng đến phổi nhưng có khả năng lây lan sang các bộ phận khác của cơ thể. Có nguồn gốc từ các xác ướp cổ đại, bệnh lao đã trở nên khét tiếng ở Châu Âu và Bắc Mỹ vào thế kỷ 19 với tên gọi là 'bệnh tiêu thụ'. Nguyên nhân gây bệnh được Robert Koch xác định vào năm 1882, dẫn đến các phương pháp điều trị hiệu quả. Tuy nhiên, bệnh lao vẫn là một vấn đề sức khỏe toàn cầu đáng kể, đặc biệt là ở các nước có thu nhập thấp và trung bình. Lây truyền qua không khí, các triệu chứng của bệnh lao bao gồm ho, đau ngực, mệt mỏi, sụt cân, đổ mồ hôi đêm, ớn lạnh và sốt. Chẩn đoán bao gồm chụp X-quang ngực, xét nghiệm đờm, xét nghiệm máu và xét nghiệm da tuberculin. Điều trị cần dùng kháng sinh trong ít nhất sáu tháng để ngăn ngừa các chủng vi khuẩn kháng thuốc kháng sinh." Các sếp có thể xem video hướng dẫn chi tiết ở phía dưới nhé.
+
+
+## TUBERCULOSIS
+
+Bệnh lao là một "bệnh nhiễm trùng do vi khuẩn" (bacterial infection) do Mycobacterium "tuberculosis" (tuberculosis) gây ra. Mặc dù bệnh lao chủ yếu ảnh hưởng đến phổi, nhưng nó cũng có thể lây lan sang các bộ phận khác của cơ thể, như thận, cột sống và não. Bằng chứng về bệnh lao đã được tìm thấy trong các xác ướp cổ đại, cho thấy căn bệnh này đã tồn tại trong hàng ngàn năm. Vào thế kỷ 19, bệnh lao được gọi là "bệnh tiêu thụ" do mối quan tâm đáng kể về sức khỏe cộng đồng ở Châu Âu và Bắc Mỹ. Nguyên nhân gây bệnh lao được Robert Koch phát hiện vào năm 1882, dẫn đến "các phương pháp điều trị hiệu quả" (effective treatments). Tuy nhiên, bệnh lao vẫn là một vấn đề sức khỏe toàn cầu đáng kể, đặc biệt là ở các quốc gia có thu nhập thấp và trung bình.
+![TUBERCULOSIS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-13/transition--7201055740-Montserrat-Thin-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-20314257164.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## TB
+
+Bệnh lao lây lan qua không khí, khi một "người bị nhiễm" (infected person) ho, hắt hơi hoặc nói chuyện, "thải ra các giọt bắn" (releasing droplets) có chứa vi khuẩn. Những người có "hệ thống miễn dịch suy yếu" (weakened immune systems), chẳng hạn như những người mắc HIV/AIDS, dễ mắc bệnh lao hơn.
+![TB](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-13/transition--26404936015-Montserrat-Regular-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-18007445140.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## EFFECTIVE TREATMENTS
+
+Các triệu chứng phổ biến của bệnh lao bao gồm ho, đau ngực, mệt mỏi, sụt cân, đổ mồ hôi đêm, ớn lạnh và sốt. Chẩn đoán bệnh lao bao gồm chụp X-quang ngực, xét nghiệm đờm, xét nghiệm máu và xét nghiệm da tuberculin. Điều trị bệnh lao bao gồm kết hợp thuốc kháng sinh trong ít nhất sáu tháng. Điều quan trọng là phải hoàn thành toàn bộ liệu trình điều trị để ngăn ngừa sự phát triển của các chủng kháng thuốc kháng sinh.
+![EFFECTIVE TREATMENTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-13/transition--38084228877-Montserrat-SemiBold-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-13302385507.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## CONTACT TRACING
+
+Phòng ngừa bệnh lao đòi hỏi phải tiêm vắc-xin BCG, "truy vết tiếp xúc" (contact tracing), thông gió và lọc không khí thích hợp, phát hiện và điều trị sớm. Là những chuyên gia chăm sóc sức khỏe tương lai, "nhà khoa học" (scientists) và "công dân toàn cầu" (global citizens), chúng ta có trách nhiệm cùng nhau chống lại bệnh lao và cải thiện cuộc sống của mọi người trên toàn thế giới.
+![CONTACT TRACING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-13/transition-25566132272-Montserrat-SemiBold-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-22080798377.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## INFECTIOUS DISEASES
+
+Cảm ơn bạn đã xem video này về "bệnh lao" (tuberculosis). Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về "bệnh truyền nhiễm" này (infectious disease). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![INFECTIOUS DISEASES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-13/transition-15134799797-Montserrat-SemiBold-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-12596653313.mp3" type="audio/mpeg">
+</audio>
+
