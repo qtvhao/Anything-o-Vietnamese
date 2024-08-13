@@ -11,4 +11,5 @@
     - [Activity-Trackers.md](./Activity-Trackers.md)
   - [Medical-Devices](./Medical-Devices/)
     - [Diagnostic-Equipment.md](./Diagnostic-Equipment.md)
+    - [Therapeutic-Equipment.md](./Therapeutic-Equipment.md)
   - [Medical-Devices.md](./Medical-Devices.md)
