@@ -1,61 +1,61 @@
 
 ---
 
-# Mở khóa tiềm năng kiếm tiền của bạn: Hướng dẫn ước tính thu nhập
+# Mở khóa tiềm năng kiếm tiền của bạn: Hiểu về thu nhập ước tính
 
-- Published: August 12, 2024
+- Published: August 13, 2024
 - Author: Vietnamese Online Voice
 - Categories: Youtube Studio / Monetization / **AdSense Revenue**
-- #CareerPlanning #FinancialPlanning #GoalSetting #NationalAverages #IndustryStandards #DataAnalysis #BureauOfLaborStatistics #Glassdoor #PayScale #CareerCounselors #Networking #Budgeting #Saving #Investing #Location #Industry #Experience #Education #JobTitle #Profession #FutureCareer #EducationChoices #SmartFinancialDecisions #RealisticGoals
+- #SalaryPrediction #CareerPlanning #Education #Training #JobSearch #FinancialPlanning #NationalAverageSalary #IndustryTrends #EducationLevel #Experience #Skills #Qualifications #BureauOfLaborStatistics #OnlineJobPostings #IndustryReports #CareerGoals #FinancialGoals #InformedDecisions #FuturePlanning #Profession #Industry #Money #Wealth #Income #Prosperity #CareerGrowth #SalaryIncrease #Promotion #Advancement #CareerSuccess #NetWorth #Investment #RetirementPlanning #Savings #Budgeting #PersonalFinance #DebtManagement #FinancialLiteracy #EconomicTrends #WorkforceDevelopment #HumanResources #EmploymentOutlook #LaborMarket #WageData #IncomeInequality #LivingWage #MinimumWage #WageGap #EqualPay #Productivity #LaborForce #JobMarket #CareerPath #ProfessionalDevelopment #CareerCoaching #CareerCounseling #CareerServices #CareerTransition #JobSatisfaction #WorkLifeBalance #QualityOfLife #StandardOfLiving #SocialMobility #EconomicMobility #PovertyReduction #EducationEquality #EmploymentEquality #IncomeEquality #SocialJustice #Equity #Diversity #Inclusion #Belonging #Accessibility #Opportunity #Empowerment #Motivation #SuccessMindset #GrowthMindset #SelfImprovement #PersonalDevelopment #LifeSkills #GoalSetting #TimeManagement #ProductivityHacks #Learning #Knowledge
 
-"Trong video này, chủ đề thảo luận là thu nhập ước tính. Thu nhập ước tính đề cập đến thu nhập dự kiến ​​cho một công việc hoặc nghề nghiệp cụ thể, được xác định theo mức trung bình quốc gia, tiêu chuẩn ngành và dữ liệu lịch sử. Hiểu được thu nhập ước tính rất quan trọng đối với kế hoạch nghề nghiệp và tài chính, hỗ trợ đưa ra quyết định sáng suốt và đặt ra các mục tiêu thực tế. Tìm hiểu sâu hơn về tầm quan trọng của thu nhập ước tính trong việc lựa chọn nghề nghiệp, lập kế hoạch giáo dục và quản lý tài chính. 'Các sếp có thể xem video hướng dẫn chi tiết ở phía dưới nhé'."
+"Trong video này, chủ đề được đề cập là thu nhập ước tính, tức là thu nhập dự kiến ​​trong một ngành nghề hoặc lĩnh vực cụ thể trong một khoảng thời gian nhất định. Các ước tính này xem xét các yếu tố như mức lương trung bình quốc gia, xu hướng ngành và trình độ cá nhân. Các nguồn đáng tin cậy như BLS cung cấp dữ liệu cho các phép tính này. Hiểu được thu nhập ước tính giúp ích cho việc lập kế hoạch nghề nghiệp, giáo dục, tìm kiếm việc làm và lập kế hoạch tài chính. Các ví dụ minh họa thu nhập ước tính được thảo luận."
 
 
 ## ESTIMATED EARNINGS
 
-Thu nhập ước tính đề cập đến số tiền dự kiến ​​mà một người có thể mong đợi kiếm được trong một công việc hoặc nghề nghiệp cụ thể. Ước tính này thường dựa trên "mức trung bình quốc gia" (national averages), "tiêu chuẩn ngành" (industry standards) và dữ liệu từ những năm trước.
-![ESTIMATED EARNINGS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-12/transition-23282907331-Montserrat-Regular-9C27B0.jpg)
+Thu nhập ước tính đề cập đến số tiền dự kiến ​​mà một cá nhân có thể mong đợi kiếm được trong một nghề hoặc ngành cụ thể trong một "khoảng thời gian nhất định" (certain period). Ước tính này tính đến nhiều yếu tố khác nhau, bao gồm "mức lương trung bình toàn quốc" (national average salary), "xu hướng ngành" (industry trends) và trình độ học vấn, "kinh nghiệm" (experience) và "kỹ năng" (skills) của cá nhân.
+![ESTIMATED EARNINGS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-13/transition-7430978660-Montserrat-SemiBold-1A237E.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-26299629636.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-27589415761.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## ESTIMATED EARNINGS
+## NATIONAL AVERAGE SALARY
 
-Hiểu được "thu nhập ước tính" (estimated earnings) là rất quan trọng đối với "lập kế hoạch nghề nghiệp" (career planning), "lập kế hoạch tài chính" (financial planning) và "đặt mục tiêu" (goal setting). Biết được thu nhập ước tính của một "nghề nghiệp" (profession) có thể giúp bạn đưa ra "quyết định sáng suốt" (informed decisions) về nghề nghiệp tương lai của mình và định hướng cho "lựa chọn giáo dục" (education choices) của bạn.
-![ESTIMATED EARNINGS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-12/transition-12487821604-Montserrat-ExtraBold-9C27B0.jpg)
+Thu nhập ước tính thường được tính toán bằng cách sử dụng dữ liệu từ các nguồn đáng tin cậy, chẳng hạn như Cục Thống kê Lao động, các bài đăng việc làm trực tuyến và các báo cáo của ngành. Việc tính toán bao gồm việc xem xét một số yếu tố, bao gồm "mức lương trung bình toàn quốc" (national average salary), "xu hướng ngành" (industry trends), "trình độ học vấn" (education), "kinh nghiệm" (experience), kỹ năng và trình độ, và vị trí.
+![NATIONAL AVERAGE SALARY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-13/transition-36607088836-Montserrat-Black-7B1FA2.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-15568197649.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-18238393757.mp3" type="audio/mpeg">
 </audio>
 
 
 
 ## FINANCIAL PLANNING
 
-Thu nhập ước tính cũng có thể giúp bạn lập kế hoạch tài chính, bao gồm "lập ngân sách" (budgeting), "tiết kiệm" (saving) và "đầu tư" (investing). Điều cần thiết là phải có ý tưởng sơ bộ về số tiền bạn sẽ kiếm được để đưa ra "quyết định tài chính" thông minh (financial decisions) và đặt ra "mục tiêu thực tế" (realistic goals).
-![FINANCIAL PLANNING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-12/transition--7949809088-Montserrat-Regular-673AB7.jpg)
+Hiểu được "thu nhập ước tính" (estimated earnings) là rất quan trọng để đưa ra "quyết định sáng suốt" (informed decisions) về "tương lai" của bạn (future). Sau đây là một số lý do tại sao: "lập kế hoạch nghề nghiệp" (career planning), "giáo dục và đào tạo" (education and training), "tìm kiếm việc làm" (job search) và "lập kế hoạch tài chính" (financial planning). Hãy cùng xem xét một số ví dụ để minh họa cho khái niệm thu nhập ước tính.
+![FINANCIAL PLANNING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-13/transition--31948617260-Montserrat-Medium-512DA8.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5721267401.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-13045931590.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## PROFESSION
+## EDUCATION
 
-Một số yếu tố có thể tác động đến "thu nhập ước tính" (estimated earnings), bao gồm "vị trí" (location), "ngành" (industry), "kinh nghiệm" (experience), "giáo dục" (education) và "chức danh công việc" (job title). Có một số cách để tìm thu nhập ước tính cho một nghề cụ thể: các nguồn trực tuyến như Cục Thống kê Lao động, Glassdoor và PayScale; "cố vấn nghề nghiệp" (career counselors); và "mạng lưới" (networking) với "chuyên gia" (professionals) trong lĩnh vực mong muốn của bạn.
-![PROFESSION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-12/transition-3011534393-Montserrat-ExtraBold-1A237E.jpg)
+Thu nhập ước tính là một công cụ có giá trị cho bất kỳ ai muốn lập kế hoạch cho sự nghiệp và tương lai tài chính của mình. Bằng cách hiểu cách "thu nhập ước tính" (estimated earnings) được "tính toán" (calculated) và lý do tại sao chúng quan trọng, bạn có thể đưa ra "quyết định sáng suốt" (informed decisions) về "giáo dục" (education), sự nghiệp và mục tiêu tài chính của mình.
+![EDUCATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-13/transition--18698845093-Montserrat-Bold-4A148C.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-28677282303.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5104020679.mp3" type="audio/mpeg">
 </audio>
 
 
 
-## CAREER PLANNING
+## FINANCIAL FUTURE
 
-Với kiến ​​thức này, bạn sẽ được trang bị tốt hơn để điều hướng thế giới công việc và đạt được thành công về mặt tài chính. Thu nhập ước tính là một khía cạnh quan trọng của "lập kế hoạch nghề nghiệp" (career planning) và ra quyết định tài chính. Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy nó hữu ích và hiểu sâu hơn về "thu nhập ước tính" (estimated earnings). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
-![CAREER PLANNING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-12/transition--15965496128-Montserrat-SemiBold-004895.jpg)
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy hữu ích và hiểu sâu hơn về "thu nhập ước tính" (estimated earnings) và cách chúng có thể tác động đến "tương lai tài chính" của bạn (financial future). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![FINANCIAL FUTURE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-13/transition--15985904554-Montserrat-Black-673AB7.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5545574768.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-20716582624.mp3" type="audio/mpeg">
 </audio>
 

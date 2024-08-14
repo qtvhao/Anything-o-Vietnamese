@@ -1,0 +1,61 @@
+
+---
+
+# Bệnh tiểu đường 101: Hướng dẫn cho người mới bắt đầu về bệnh tiểu đường loại 1 và loại 2
+
+- Published: August 14, 2024
+- Author: Vietnamese Online Voice
+- Categories: Health / Public Health / **Chronic Diseases**
+- #ChronicMetabolicDisorder #Glucose #BloodSugar #Type1Diabetes #Type2Diabetes #Insulin #DiabetesSymptoms #IncreasedThirst #Urination #Fatigue #BlurredVision #SlowWoundHealing #Tingling #Numbness #DiabetesRiskFactors #Genetics #Obesity #PhysicalInactivity #Age #Ethnicity #HealthyWeight #BalancedDiet #DiabetesManagement #HealthyEating #RegularExercise #MonitoringBloodSugarLevels #PreventingDiabetes
+
+"Trong video này, diễn giả giới thiệu về bệnh tiểu đường, các loại bệnh, triệu chứng và yếu tố nguy cơ, cùng với các chiến lược kiểm soát và phòng ngừa. Bệnh tiểu đường là một rối loạn chuyển hóa mãn tính ảnh hưởng đến quá trình xử lý glucose trong máu. Hai loại phổ biến là Loại 1 và Loại 2, đặc trưng bởi tình trạng sản xuất insulin không đủ và tình trạng kháng insulin. Các triệu chứng bao gồm khát nước nhiều hơn, mệt mỏi, mờ mắt và vết thương chậm lành. Các yếu tố nguy cơ bao gồm di truyền, béo phì, ít vận động, tuổi tác và dân tộc. Để giảm nguy cơ hoặc kiểm soát bệnh tiểu đường Loại 2, hãy duy trì cân nặng khỏe mạnh, tham gia hoạt động thể chất thường xuyên và ăn chế độ ăn cân bằng."
+
+
+## DIABETES
+
+Trong video này, tôi sẽ khám phá "bệnh tiểu đường" (diabetes) là gì, "các loại bệnh tiểu đường" khác nhau (types of diabetes), "triệu chứng" (symptoms) và "các yếu tố nguy cơ" (risk factors), cũng như các chiến lược để "quản lý" (managing) và "phòng ngừa" (preventing) tình trạng này. Bệnh tiểu đường là một rối loạn chuyển hóa mãn tính ảnh hưởng đến cách cơ thể bạn xử lý "glucose" (glucose) hoặc "đường" (sugar) trong "máu" (blood).
+![DIABETES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition--34514076025-Montserrat-Black-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-40109242137.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## TYPES OF DIABETES
+
+Các loại tiểu đường phổ biến là Loại 1 và Loại 2. Ở Loại 1, cơ thể không sản xuất đủ "insulin" (insulin), trong khi ở Loại 2, cơ thể trở nên "kháng insulin" (insulin resistant). Các triệu chứng của bệnh tiểu đường bao gồm khát nước và đi tiểu nhiều, "mệt mỏi" (fatigue), "nhìn mờ" (blurred vision), "vết thương chậm lành" (slow wound healing) và ngứa ran hoặc tê ở tay và chân. Các triệu chứng này có thể "nhẹ hoặc nghiêm trọng" (mild or severe) và có thể phát triển "dần dần" (gradually).
+![TYPES OF DIABETES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition--861614967-Montserrat-SemiBold-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-43377992525.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## RISK FACTORS
+
+Trong khi "di truyền" (genetics) có thể đóng vai trò trong sự phát triển của "bệnh tiểu đường" (diabetes), các yếu tố khác như "béo phì" (obesity), "lười vận động" (physical inactivity), "tuổi tác" (age) và "dân tộc" (ethnicity) cũng góp phần vào "nguy cơ" (risk). Bằng cách duy trì "cân nặng khỏe mạnh" (healthy weight), tham gia hoạt động thể chất thường xuyên và ăn chế độ ăn uống cân bằng, nguy cơ mắc bệnh tiểu đường loại 2 có thể giảm xuống và bệnh tiểu đường loại 2 hiện có có thể được "kiểm soát" (managed).
+![RISK FACTORS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition-26398535085-Montserrat-ExtraBold-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-14132331084.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## MANAGING DIABETES
+
+Quản lý "bệnh tiểu đường" (diabetes) thường bao gồm sự kết hợp của "ăn uống lành mạnh" (healthy eating), "tập thể dục thường xuyên" (regular exercise), "thuốc" (medications) và theo dõi lượng đường trong máu. Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video hữu ích và hiểu sâu hơn về bệnh tiểu đường.
+![MANAGING DIABETES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition--1816176152-Montserrat-ExtraBold-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-29320245239.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## TYPES OF DIABETES
+
+Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![TYPES OF DIABETES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition--29891184192-Montserrat-Bold-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-8285300044.mp3" type="audio/mpeg">
+</audio>
+

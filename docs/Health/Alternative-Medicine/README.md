@@ -4,6 +4,7 @@
 - Alternative-Medicine
   - [Acupuncture](./Acupuncture/)
     - [Acupuncture-Points.md](./Acupuncture-Points.md)
+    - [Celebrity-Acupuncture.md](./Celebrity-Acupuncture.md)
   - [Ayurveda](./Ayurveda/)
     - [Herbal-Remedies.md](./Herbal-Remedies.md)
   - [Ayurveda.md](./Ayurveda.md)

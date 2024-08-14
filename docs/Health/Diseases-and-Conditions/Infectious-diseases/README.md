@@ -17,6 +17,8 @@
     - [Superficial-fungal-infections.md](./Superficial-fungal-infections.md)
     - [Systemic-fungal-infections.md](./Systemic-fungal-infections.md)
   - [Fungal-infections.md](./Fungal-infections.md)
+  - [Gastrointestinal-infections.md](./Gastrointestinal-infections.md)
+  - [Hepatitis.md](./Hepatitis.md)
   - [Influenza-and-pneumonia](./Influenza-and-pneumonia/)
     - [Mycoplasma-pneumonia.md](./Mycoplasma-pneumonia.md)
     - [Pneumococcal-pneumonia.md](./Pneumococcal-pneumonia.md)

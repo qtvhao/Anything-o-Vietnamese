@@ -2,6 +2,7 @@
 # Mental-Health
 
 - Anxiety-Disorders
+  - [Agoraphobia.md](./Agoraphobia.md)
   - [Generalized-Anxiety-Disorder](./Generalized-Anxiety-Disorder/)
     - [GAD-in-Children.md](./GAD-in-Children.md)
     - [Living-with-GAD.md](./Living-with-GAD.md)
@@ -12,3 +13,4 @@
   - [Selective-Mutism.md](./Selective-Mutism.md)
   - [Separation-Anxiety-Disorder.md](./Separation-Anxiety-Disorder.md)
   - [Social-Anxiety-Disorder.md](./Social-Anxiety-Disorder.md)
+  - [Unspecified-Anxiety-Disorder.md](./Unspecified-Anxiety-Disorder.md)

@@ -1,0 +1,71 @@
+
+---
+
+# Sức mạnh của giao dịch thời gian thực: Giải thích về lợi ích và rủi ro
+
+- Published: August 14, 2024
+- Author: Vietnamese Online Voice
+- Categories: Youtube Studio / Analytics / **Real-time analytics**
+- #StockMarket #ShareTrading #ElectronicTrading #Investing #StockExchange #MarketEfficiency #PriceDiscovery #MarketVolatility #Finance #Investment #Trading #FinancialMarkets #StockMarketNews #FinancialTechnology #OnlineTrading #InvestmentStrategy #FinancialManagement #StockMarketEducation #FinancialLiteracy #Business #FinanceEducation #StockMarketInvesting #FinancialInnovation #StockMarketTrends #FinancialAnalysis #InvestmentResearch #FinancialMarketData #StockMarketAnalysis #InvestmentRisk #FinancialNews
+
+"Trong video này, chủ đề thảo luận là cổ phiếu theo thời gian thực. Cổ phiếu theo thời gian thực đề cập đến khả năng mua, bán hoặc giao dịch cổ phiếu của một công ty theo giá thị trường hiện tại, với giao dịch được thực hiện ngay lập tức. Đã qua rồi thời giao dịch chứng khoán thủ công, thay vào đó là công nghệ và nền tảng giao dịch điện tử. Cổ phiếu theo thời gian thực mang lại nhiều lợi thế, bao gồm hiệu quả được cải thiện và phát hiện giá tốt hơn. Khi một lệnh mua hoặc bán cổ phiếu được đặt, nó sẽ được gửi đến sàn giao dịch để thực hiện ngay lập tức, cho phép các nhà đầu tư phản ứng nhanh chóng với các sự kiện và tin tức trên thị trường. Để biết hướng dẫn chi tiết, hãy xem video bên dưới."
+
+
+## REAL-TIME SHARES
+
+Cổ phiếu thời gian thực đề cập đến khả năng mua, bán hoặc giao dịch cổ phiếu của một công ty theo "giá thị trường hiện tại" (current market price), với giao dịch được thực hiện ngay lập tức. Đã qua rồi cái thời giao dịch cổ phiếu là một quy trình thủ công. Nhờ công nghệ và nền tảng giao dịch điện tử, "cổ phiếu thời gian thực" (real-time shares) đã trở thành chuẩn mực.
+![REAL-TIME SHARES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition--5126290008-Montserrat-Medium-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-15345953541.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## STOCK EXCHANGE
+
+Khi bạn đặt lệnh "mua hoặc bán cổ phiếu" (buy or sell shares), "nhà môi giới" (broker) hoặc "nền tảng giao dịch trực tuyến" (online trading platform) của bạn sẽ gửi lệnh đến "sàn giao dịch chứng khoán" (stock exchange), tại đó lệnh được khớp với lệnh mua hoặc bán tương ứng từ một nhà đầu tư khác – tất cả đều "theo thời gian thực" (real-time). Ví dụ, giả sử bạn muốn mua 100 cổ phiếu của Công ty X với giá 50 đô la một cổ phiếu. Sau khi lệnh của bạn được đặt, lệnh sẽ được gửi đến sàn giao dịch để thực hiện ngay lập tức. Nếu có lệnh bán khớp lệnh, giao dịch sẽ diễn ra ngay lập tức, giúp bạn trở thành chủ sở hữu đáng tự hào của 100 cổ phiếu đó.
+![STOCK EXCHANGE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition--17551088986-Montserrat-Regular-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-9663600070.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## REAL-TIME
+
+Cổ phiếu thời gian thực cung cấp nhiều lợi thế, chẳng hạn như cải thiện hiệu quả bằng cách giảm thời gian và công sức cần thiết để mua và bán cổ phiếu. Chúng cũng góp phần "khám phá giá" tốt hơn (price discovery), vì "nhà đầu tư" (investors) có thể phản ứng nhanh chóng với "sự kiện thị trường" (market events) và "tin tức" (news).
+![REAL-TIME](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition-9032023805-Montserrat-Medium-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-54526910066.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## MARKET VOLATILITY
+
+Cổ phiếu thời gian thực đã có tác động đáng kể đến thị trường chứng khoán. Chúng dẫn đến hoạt động giao dịch tăng lên và hiệu quả thị trường nhưng cũng góp phần làm tăng tính biến động của thị trường. Sự biến động này là kết quả của việc các nhà đầu tư phản ứng nhanh với tin tức và sự kiện, gây ra biến động giá nhanh chóng.
+![MARKET VOLATILITY](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition--18378974172-Montserrat-Black-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-21183169085.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## REAL-TIME SHARES
+
+Câu hỏi thảo luận: Lợi ích của cổ phiếu thời gian thực là gì? Cổ phiếu thời gian thực đã tác động như thế nào đến "thị trường chứng khoán" (stock market)? "Rủi ro" (risks) liên quan đến cổ phiếu thời gian thực là gì? Bài tập về nhà: Viết một bài luận ngắn về tác động của cổ phiếu thời gian thực đến "biến động thị trường" (market volatility). Đảm bảo đưa vào các ví dụ và "bằng chứng hỗ trợ" (supporting evidence).
+![REAL-TIME SHARES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition--11268347928-Montserrat-Black-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-21545769340.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## REAL-TIME SHARES
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về chia sẻ thời gian thực. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![REAL-TIME SHARES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition-39781741771-Montserrat-ExtraBold-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-27967189889.mp3" type="audio/mpeg">
+</audio>
+

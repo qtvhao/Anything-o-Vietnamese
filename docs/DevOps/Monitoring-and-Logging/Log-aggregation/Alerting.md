@@ -1,0 +1,81 @@
+
+---
+
+# Sức mạnh của cảnh báo: Cách đi trước các vấn đề trong tổng hợp nhật ký
+
+- Published: August 14, 2024
+- Author: Vietnamese Online Voice
+- Categories: DevOps / Monitoring and Logging / **Log aggregation**
+- #LogAggregation #Notification #Thresholds #Conditions #LogData #ErrorRates #SystemPerformance #SecurityBreaches #ThresholdBasedAlerts #AnomalyBasedAlerts #Anomalies #Ecommerce #DevelopmentTeam #Downtime #CustomerExperience #FasterDetection #IncidentResponse #EnhancedSecurity #ClearThresholds #MultipleAlertChannels #RegularTesting #RefiningAlertingSystem #EffectiveIncidentManagement #LogAnalysis #ITOperations #DevOps #SysAdmin #Monitoring #AlertMechanism #EventManagement #LogManagement #SystemMonitoring #RealTimeMonitoring #ProactiveMonitoring
+
+"Trong video này, chúng tôi giới thiệu khái niệm cảnh báo trong tổng hợp nhật ký. Sau khi thảo luận về tổng hợp nhật ký như là quá trình thu thập, lưu trữ và phân tích dữ liệu nhật ký, chúng tôi nhấn mạnh tầm quan trọng và lợi ích của việc cảnh báo. Cảnh báo bao gồm việc gửi thông báo cho người dùng hoặc nhóm khi các điều kiện hoặc ngưỡng cụ thể được đáp ứng trong dữ liệu nhật ký. Các điều kiện như vậy có thể bao gồm tỷ lệ lỗi, hiệu suất hệ thống hoặc vi phạm bảo mật. Cảnh báo có thể dựa trên ngưỡng hoặc dựa trên bất thường, kích hoạt khi đạt đến ngưỡng hoặc khi các mẫu bất thường xuất hiện. Các nhà nghiên cứu có thể xem hướng dẫn chi tiết trong video."
+
+
+## ALERTING
+
+Xin chào các bạn sinh viên! Hôm nay, chúng ta sẽ đi sâu vào một khía cạnh thiết yếu của "tổng hợp nhật ký" (log aggregation): Cảnh báo. Như chúng ta đã thảo luận, tổng hợp nhật ký là quá trình thu thập, lưu trữ và "phân tích dữ liệu nhật ký" (analyzing log data). Tuy nhiên, nếu không có "cảnh báo" (alerting), chúng ta có nguy cơ bỏ lỡ "sự kiện quan trọng" (critical events). Hãy cùng khám phá tầm quan trọng và lợi ích của cảnh báo trong tổng hợp nhật ký.
+![ALERTING](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition-4887851767-Montserrat-SemiBold-004895.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-37332340053.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## NOTIFICATIONS
+
+Cảnh báo là quá trình gửi "thông báo" (notifications) đến người dùng hoặc nhóm khi "điều kiện cụ thể" (specific conditions) hoặc "ngưỡng" (thresholds) được đáp ứng trong "dữ liệu nhật ký" (log data). Các điều kiện này có thể dựa trên nhiều yếu tố khác nhau, chẳng hạn như "tỷ lệ lỗi" (error rates), "hiệu suất hệ thống" (system performance) hoặc "vi phạm bảo mật" (security breaches).
+![NOTIFICATIONS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition-31925037411-Montserrat-Bold-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-9927924045.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## THRESHOLD-BASED
+
+Cảnh báo có thể dựa trên ngưỡng hoặc dựa trên bất thường. Cảnh báo dựa trên ngưỡng "kích hoạt" (trigger) khi đạt đến "ngưỡng cụ thể" (specific threshold), như "tỷ lệ lỗi cao" (high error rate). Mặt khác, cảnh báo dựa trên bất thường được kích hoạt khi phát hiện "các mẫu bất thường" (unusual patterns) hoặc "bất thường" (anomalies) trong dữ liệu nhật ký.
+![THRESHOLD-BASED](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition--8534148309-Montserrat-Thin-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-30258189791.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## ERROR RATE
+
+Ví dụ, hãy xem xét một "trang web thương mại điện tử" (e-commerce website) đang được theo dõi lỗi. Nếu "tỷ lệ lỗi" (error rate) vượt quá "ngưỡng đã đặt" (set threshold), một "cảnh báo" (alert) có thể thông báo cho "nhóm phát triển" (development team) để giải quyết vấn đề nhanh chóng. Điều này làm giảm "thời gian chết" (downtime) và cải thiện "trải nghiệm của khách hàng" (customer experience).
+![ERROR RATE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition-14962501100-Montserrat-Regular-1A237E.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-25295501354.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## FASTER ISSUE DETECTION
+
+"Lợi ích" cảnh báo (benefits) bao gồm "phát hiện sự cố nhanh hơn" (faster issue detection), "phản hồi sự cố" được cải thiện (incident response) và "bảo mật nâng cao" (enhanced security). Bằng cách thiết lập "ngưỡng" rõ ràng (thresholds), sử dụng nhiều "kênh cảnh báo" (alert channels) và thường xuyên "kiểm tra" (testing) và "tinh chỉnh" (refining) "hệ thống cảnh báo" (alerting system), bạn có thể đảm bảo hệ thống hoạt động hiệu quả.
+![FASTER ISSUE DETECTION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition--4240652319-Montserrat-Black-4A148C.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-20325025551.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## INCIDENT RESPONSE
+
+Tuy nhiên, hãy nhớ rằng mục tiêu của "cảnh báo" (alerting) không chỉ là gửi "thông báo" (notifications) mà còn trao quyền cho các nhóm để "phản hồi nhanh chóng" (respond quickly) và hiệu quả đối với "sự cố" (incidents). Bây giờ bạn đã hiểu được tầm quan trọng của cảnh báo trong "tổng hợp nhật ký" (log aggregation), đã đến lúc đưa kiến ​​thức này vào thực tế. Hãy xem xét cách bạn có thể "triển khai cảnh báo" (implement alerting) trong các dự án của mình và thảo luận về "các tình huống tiềm ẩn" (potential scenarios) trong đó cảnh báo có thể có lợi.
+![INCIDENT RESPONSE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition-12757821839-Montserrat-Regular-9C27B0.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-5991083390.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## LOG AGGREGATION
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về tầm quan trọng của "cảnh báo" (alerting) trong "tổng hợp nhật ký" (log aggregation). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận "thông báo" (notifications) về các video mới của chúng tôi.
+![LOG AGGREGATION](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition-40300085828-Montserrat-Black-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-754746393.mp3" type="audio/mpeg">
+</audio>
+

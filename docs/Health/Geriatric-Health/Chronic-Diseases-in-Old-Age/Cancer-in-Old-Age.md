@@ -1,61 +1,61 @@
 
 ---
 
-# Ung thư ở người lớn tuổi: Hiểu về những rủi ro và thách thức
+# Ung thư ở người cao tuổi: Hiểu về những rủi ro và thách thức
 
-- Published: August 13, 2024
+- Published: August 14, 2024
 - Author: Vietnamese Online Voice
 - Categories: Health / Geriatric Health / **Chronic Diseases in Old Age**
-- #AgingAndCancer #SeniorCancer #CancerRiskFactors #CellularSenesence #GeneticMutations #Carcinogens #ColorectalCancer #ProstateCancer #BreastCancer #LungCancer #SkinCancer #CancerDiagnosis #CancerTreatment #HealthyAging #HealthyLifestyle #CancerPrevention #CancerAwareness #SeniorHealth #HealthyWeight #HealthyDiet #Exercise #NoSmoking #LimitedSunExposure #RegularCheckups #CancerSymptoms #OlderAdultsHealth
+- #OldAge #Disease #AbnormalCells #CellGrowth #DNADamage #CellularAging #HormonalChanges #BreastCancer #ColorectalCancer #ProstateCancer #LungCancer #Symptoms #Risks #HealthConditions #AgeRelatedFrailty #CognitiveDecline #CancerTreatment #ScreeningTests #HealthyLifestyle #RiskReduction #ImprovingOutcomes #OlderAdultsHealth #CancerAwareness #EarlyDetection #CancerPrevention #SeniorHealth #AgingPopulation #GeriatricOncology
 
-"Trong video này, người thuyết trình giới thiệu mối quan hệ giữa lão hóa và nguy cơ ung thư gia tăng. Khi cơ thể già đi, quá trình lão hóa tế bào xảy ra, dẫn đến khả năng phân chia và phát triển của tế bào giảm, đồng thời nguy cơ đột biến gen tăng, có thể góp phần gây ung thư. Người lớn tuổi cũng có thể đã tích lũy nhiều chất gây ung thư hơn trong suốt cuộc đời của họ. Một số loại ung thư phổ biến hơn ở người lớn tuổi, chẳng hạn như ung thư đại tràng, tuyến tiền liệt, vú, phổi và da. Chẩn đoán và điều trị ung thư ở người lớn tuổi có thể là một thách thức, nhưng có thể thực hiện các bước để giảm nguy cơ, bao gồm duy trì cân nặng khỏe mạnh, ăn uống lành mạnh, tập thể dục thường xuyên, không hút thuốc và hạn chế tiếp xúc với ánh nắng mặt trời."
+"Trong video này, diễn giả giới thiệu về ung thư và mối quan hệ của nó với quá trình lão hóa. Khi chúng ta già đi, những thay đổi tự nhiên trong tế bào của chúng ta, chẳng hạn như tổn thương DNA, lão hóa tế bào và thay đổi nội tiết tố, có thể làm tăng nguy cơ ung thư. Video nêu bật các loại ung thư phổ biến ở người lớn tuổi, bao gồm ung thư vú, ung thư đại trực tràng, ung thư tuyến tiền liệt và ung thư phổi, cũng như các triệu chứng của chúng. Video cũng thảo luận về những thách thức đặc biệt của ung thư ở người lớn tuổi, chẳng hạn như các tình trạng sức khỏe đồng thời, tình trạng suy yếu liên quan đến tuổi tác và suy giảm nhận thức. Các nhà nghiên cứu có thể thấy video này hữu ích trong việc hiểu được sự phức tạp của ung thư ở người lớn tuổi." Các sếp có thể xem video hướng dẫn chi tiết ở phía dưới nhé.
+
+
+## CANCER
+
+Ung thư là một "bệnh" (disease) xảy ra khi "các tế bào bất thường" (abnormal cells) trong cơ thể chúng ta "phát triển và nhân lên" (grow and multiply) không kiểm soát được. Khi chúng ta "già đi" (age), các tế bào của chúng ta trải qua "những thay đổi tự nhiên" (natural changes) có thể làm tăng nguy cơ "ung thư" (cancer). Ví dụ, tổn thương DNA, "lão hóa tế bào" (cellular aging) và "thay đổi nội tiết tố" (hormonal changes) đều có thể góp phần vào sự phát triển của ung thư.
+![CANCER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition--10838041845-Montserrat-SemiBold-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-12333500339.mp3" type="audio/mpeg">
+</audio>
+
 
 
 ## CANCER IN OLD AGE
 
-Khi chúng ta già đi, cơ thể chúng ta trải qua nhiều thay đổi có thể làm tăng nguy cơ mắc các tình trạng sức khỏe, bao gồm cả ung thư. Ung thư là một căn bệnh xảy ra khi các tế bào bất thường trong cơ thể phát triển và nhân lên không kiểm soát được. Khi chúng ta già đi, các tế bào của chúng ta trải qua một quá trình tự nhiên được gọi là "lão hóa tế bào" (cellular senescence), khi chúng trở nên kém khả năng phân chia và phát triển. Tuy nhiên, quá trình này cũng có thể dẫn đến nguy cơ "đột biến gen" (genetic mutations) tăng lên, có thể góp phần vào sự phát triển của ung thư. Ngoài ra, người lớn tuổi có thể đã tích lũy nhiều hơn sự tiếp xúc với "chất gây ung thư" (carcinogens), chẳng hạn như "khói thuốc lá" (tobacco smoke), "bức xạ" (radiation) và một số hóa chất nhất định, trong suốt cuộc đời của họ. Sự tiếp xúc gia tăng này có thể làm tăng nguy cơ phát triển ung thư.
-![CANCER IN OLD AGE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-13/transition-30137832178-Montserrat-Medium-7B1FA2.jpg)
+Một số loại "ung thư" (cancer) phổ biến hơn ở "người lớn tuổi" (older adults), bao gồm "ung thư vú" (breast cancer), "ung thư trực tràng" (colorectal cancer), "ung thư tuyến tiền liệt" (prostate cancer) và "ung thư phổi" (lung cancer). Điều quan trọng là phải nhận thức được "triệu chứng" (symptoms) và "rủi ro" (risks) của những loại ung thư này và tìm kiếm sự chăm sóc y tế nếu có bất kỳ triệu chứng bất thường nào phát sinh.
+![CANCER IN OLD AGE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition--481504270-Montserrat-Regular-512DA8.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-33696204430.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-9225249440.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## OLDER ADULTS
+
+Ung thư ở người lớn tuổi có thể gây ra những thách thức đặc biệt, bao gồm các tình trạng sức khỏe đồng thời, tình trạng suy yếu liên quan đến tuổi tác và "suy giảm nhận thức" (cognitive decline). Những thách thức này có thể khiến "điều trị ung thư" (cancer treatment) trở nên phức tạp hơn và cần "cân nhắc đặc biệt" (special consideration).
+![OLDER ADULTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition-12577360948-Montserrat-Black-7B1FA2.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-49734430939.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## SCREENING TESTS
+
+Trong khi "ung thư ở tuổi già" (cancer in old age) là một mối quan tâm đáng kể, có những bước có thể được thực hiện để giảm nguy cơ và cải thiện kết quả. "Xét nghiệm sàng lọc" thường xuyên (screening tests), duy trì "lối sống lành mạnh" (healthy lifestyle) và nhận thức được "rủi ro và triệu chứng" (risks and symptoms) của ung thư đều có thể đóng vai trò quan trọng trong việc giảm nguy cơ ung thư và "cải thiện kết quả" (improving outcomes) cho người lớn tuổi.
+![SCREENING TESTS](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition-19263003796-Montserrat-Medium-512DA8.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-20939119035.mp3" type="audio/mpeg">
 </audio>
 
 
 
 ## CHRONIC DISEASES IN OLD AGE
 
-Một số loại ung thư phổ biến hơn ở người lớn tuổi so với người trẻ tuổi. Bao gồm ung thư đại tràng, ung thư tuyến tiền liệt, ung thư vú, ung thư phổi và ung thư da. Chẩn đoán ung thư ở người lớn tuổi có thể khó khăn do nhiều yếu tố, bao gồm "bệnh đi kèm" (co-morbidities), "khả năng vận động hạn chế" (limited mobility) và "suy giảm nhận thức" (cognitive impairment). Các lựa chọn điều trị ung thư ở người lớn tuổi cũng có thể bị hạn chế do các yếu tố như "khả năng dung nạp điều trị" (tolerance to treatment) và khả năng tiếp cận dịch vụ chăm sóc.
-![CHRONIC DISEASES IN OLD AGE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-13/transition--26920951301-Montserrat-Regular-1A237E.jpg)
+Tôi hy vọng bạn thấy video này hữu ích và hiểu sâu hơn về "ung thư ở tuổi già" (cancer in old age). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi. Cảm ơn bạn đã xem!
+![CHRONIC DISEASES IN OLD AGE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition--34725540950-Montserrat-Medium-673AB7.jpg)
 <audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-13968132320.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## REDUCE THE RISK
-
-Có những bước có thể thực hiện để giảm nguy cơ "ung thư ở người cao tuổi" (cancer in older age). Bao gồm duy trì cân nặng khỏe mạnh, ăn "chế độ ăn lành mạnh" (healthy diet), "tập thể dục thường xuyên" (exercising regularly), "không hút thuốc" (not smoking) và "hạn chế tiếp xúc với ánh nắng mặt trời" (limiting sun exposure).
-![REDUCE THE RISK](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-13/transition-8225876673-Montserrat-Thin-4A148C.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-1579583862.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## CANCER IN OLDER AGE
-
-Ung thư là một "mối quan tâm sức khỏe" đáng kể (health concern) đối với "người lớn tuổi" (older adults), với nhiều "loại ung thư" (types of cancer) phổ biến hơn ở nhóm tuổi này. Trong khi "chẩn đoán và điều trị" (diagnosis and treatment) có thể là "thách thức" (challenging), có những bước có thể được thực hiện để "giảm nguy cơ" (reduce the risk) mắc ung thư ở người cao tuổi. Bằng cách duy trì "lối sống lành mạnh" (healthy lifestyle), kiểm tra sức khỏe thường xuyên và nhận thức được "rủi ro" (risks) và "triệu chứng ung thư" (symptoms of cancer), người lớn tuổi có thể giảm nguy cơ mắc căn bệnh này.
-![CANCER IN OLDER AGE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-13/transition-5443877780-Montserrat-SemiBold-9C27B0.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-253316633.mp3" type="audio/mpeg">
-</audio>
-
-
-
-## CANCER
-
-Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video hữu ích và hiểu sâu hơn về "ung thư ở người cao tuổi" (cancer in older age). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
-![CANCER](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-13/transition-1773196875-Montserrat-Medium-512DA8.jpg)
-<audio controls>
-    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-28145943388.mp3" type="audio/mpeg">
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-32571147570.mp3" type="audio/mpeg">
 </audio>
 

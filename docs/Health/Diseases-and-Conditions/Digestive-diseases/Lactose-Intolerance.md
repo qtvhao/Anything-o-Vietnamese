@@ -1,0 +1,61 @@
+
+---
+
+# Không dung nạp Lactose? Đừng lo lắng! Đây là cách quản lý chế độ ăn uống của bạn
+
+- Published: August 14, 2024
+- Author: Vietnamese Online Voice
+- Categories: Health / Diseases and Conditions / **Digestive diseases**
+- #MilkAndDairy #Enzyme #Lactase #DigestiveIssues #Bloating #Gas #Diarrhea #StomachCramps #Nausea #Vomiting #DietChanges #LactoseFree #Supplements #Nutrition #BalancedDiet #Dietitian #Doctor #Gastrointestinal #Genetics #Aging #FoodIntolerance
+
+"Video này giải thích về chứng không dung nạp lactose, một tình trạng phổ biến mà cơ thể không thể tiêu hóa lactose, đường trong sữa và các sản phẩm từ sữa. Không dung nạp lactose là kết quả của tình trạng thiếu lactase, một loại enzyme phân hủy lactose, trong ruột non. Nguyên nhân bao gồm di truyền, lão hóa, các vấn đề về đường tiêu hóa và chế độ ăn uống. Các triệu chứng như đầy hơi, đầy hơi, tiêu chảy, đau bụng, buồn nôn và nôn có thể khác nhau về mức độ nghiêm trọng. Kiểm soát chứng không dung nạp lactose bao gồm thay đổi chế độ ăn uống, bổ sung enzyme lactase, các sản phẩm không chứa lactose và dần dần đưa các sản phẩm có chứa lactose vào chế độ ăn uống."
+
+
+## LACTOSE INTOLERANCE
+
+Sữa và các sản phẩm từ sữa là một phần thiết yếu của chế độ ăn uống cân bằng, cung cấp cho chúng ta "các chất dinh dưỡng thiết yếu" (essential nutrients). Nhưng điều gì xảy ra khi bạn không thể "tiêu hóa" (digest) lactose, loại đường có trong sữa và các sản phẩm từ sữa? Hãy cùng tìm hiểu về "tình trạng không dung nạp lactose" (lactose intolerance).
+![LACTOSE INTOLERANCE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition-21968788784-Montserrat-Black-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-15697772503.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## LACTASE
+
+Không dung nạp lactose là tình trạng phổ biến khi cơ thể không thể "tiêu hóa" (digest) "lactose" (lactose). Điều này xảy ra khi "ruột non" (small intestine) không sản xuất đủ "lactase" (lactase), một "enzyme" (enzyme) "phân hủy" (breaks down) lactose.. Có một số lý do khiến một người có thể phát triển "không dung nạp lactose" (lactose intolerance), bao gồm "di truyền" (genetics), "lão hóa" (aging), "vấn đề về đường tiêu hóa" (gastrointestinal issues) và "chế độ ăn uống" (diet).
+![LACTASE](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition-51061712591-Montserrat-Black-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-36956217559.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## DIETARY CHANGES
+
+Các triệu chứng của "không dung nạp lactose" (lactose intolerance) có thể khác nhau, nhưng các triệu chứng phổ biến bao gồm đầy hơi, khí, tiêu chảy, đau bụng, buồn nôn và nôn. Mặc dù không dung nạp lactose có thể gây khó chịu, nhưng bạn có thể dễ dàng kiểm soát tình trạng này bằng một vài thay đổi đơn giản trong chế độ ăn uống của mình. Bao gồm tránh các sản phẩm có chứa lactose, dùng thực phẩm bổ sung enzyme lactase, chọn các sản phẩm không chứa lactose và dần dần đưa một lượng nhỏ các sản phẩm có chứa lactose vào chế độ ăn uống của bạn.
+![DIETARY CHANGES](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition-50053872162-Montserrat-Bold-880E4F.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-50556616106.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## BALANCED DIET
+
+Không dung nạp lactose có thể được "kiểm soát" (managed) bằng một vài thay đổi đơn giản trong chế độ ăn uống của bạn. Hãy nhớ rằng, một "chế độ ăn uống cân bằng" (balanced diet) bao gồm nhiều loại thực phẩm có thể giúp đảm bảo bạn nhận được tất cả các "chất dinh dưỡng" (nutrients) cần thiết, ngay cả khi "không dung nạp lactose" (lactose intolerance). Hãy trao đổi với bác sĩ hoặc "chuyên gia dinh dưỡng đã đăng ký" (registered dietitian) để được tư vấn cá nhân.
+![BALANCED DIET](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition--1357447340-Montserrat-Regular-283593.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-58028295199.mp3" type="audio/mpeg">
+</audio>
+
+
+
+## DIGEST
+
+Cảm ơn bạn đã xem video này. Tôi hy vọng bạn thấy video hữu ích và hiểu sâu hơn về "không dung nạp lactose" (lactose intolerance). Nếu bạn có bất kỳ câu hỏi nào hoặc muốn chia sẻ suy nghĩ của mình, hãy thoải mái để lại bình luận bên dưới. Đừng quên đăng ký kênh của chúng tôi để nhận thông báo về các video mới của chúng tôi.
+![DIGEST](https://http-archiver-apis-production-80.schnworks.com/storage/images/transitions/2024-08-14/transition-5103876484-Montserrat-ExtraBold-673AB7.jpg)
+<audio controls>
+    <source src="https://http-archiver-apis-production-80.schnworks.com/storage/storage/audio/file-7304961666.mp3" type="audio/mpeg">
+</audio>
+

@@ -21,4 +21,5 @@
       - [Test-Case-Development.md](./Test-Case-Development.md)
       - [Test-Case-Optimization.md](./Test-Case-Optimization.md)
       - [Test-Case-Prioritization.md](./Test-Case-Prioritization.md)
+    - [Test-Execution-and-Reporting.md](./Test-Execution-and-Reporting.md)
   - [Unit-Testing.md](./Unit-Testing.md)
